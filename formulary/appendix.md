@@ -23,7 +23,17 @@
 
 ## 檔案下載
 
-{% file src="../.gitbook/assets/appx\_15.pdf" caption="附錄十五 早產兒靜脈營養中維生素與微量元素建議劑量表" %}
+{% file src="../.gitbook/assets/appx01.docx" caption="附錄一 顯影劑藥品清單" %}
 
-{% file src="../.gitbook/assets/appx\_16.xlsx" caption="附錄十六 ICU常用藥物Y-site藥物相容性對照表"%}
+
+
+{% file src="../.gitbook/assets/appx12.docx" caption="附錄十二 臺安輸注藥物給藥指引" %}
+
+{% file src="../.gitbook/assets/appx13.docx" caption="附錄十三 預防跌倒藥品清單" %}
+
+{% file src="../.gitbook/assets/appx14.docx" caption="附錄十四 新生兒抗生素劑量表" %}
+
+{% file src="../.gitbook/assets/appx15.pdf" caption="附錄十五 早產兒靜脈營養中維生素與微量元素建議劑量表" %}
+
+{% file src="../.gitbook/assets/appx16.xlsx" caption="附錄十六 ICU常用藥物Y-site藥物相容性對照表"%}
 
