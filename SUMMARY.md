@@ -9,15 +9,27 @@
   * [Antidotes](formulary/toc/ad-00-00/README.md)
     * [General Antidotes](formulary/toc/ad-00-00/ad-01-00.md)
     * [Specific Antidotes](formulary/toc/ad-00-00/ad-02-00.md)
-  * [Anti-Infective Agents](formulary/toc/anti-infective-agents/README.md)
-    * [Antibacterials](formulary/toc/anti-infective-agents/antibacterials.md)
-    * [Antifungals](formulary/toc/anti-infective-agents/antifungals.md)
-    * [Antivirals](formulary/toc/anti-infective-agents/antivirals.md)
-    * [Antiparasitics](formulary/toc/anti-infective-agents/antiparasitics.md)
+  * [Anti-Infective Agents](formulary/toc/ai-00-00/README.md)
+    * [Antibacterials](formulary/toc/ai-00-00/ai-01-00.md)
+        * [Penicillins](formulary/toc/ai-00-00/ai-01-00/ai-01-01.md)
+        * [Cephalosporins](formulary/toc/ai-00-00/ai-01-00/ai-01-02.md)
+        * [Aminoglycosides](formulary/toc/ai-00-00/ai-01-00/ai-01-03.md)
+        * [Tetracyclines](formulary/toc/ai-00-00/ai-01-00/ai-01-04.md)
+        * [Amphenicols](formulary/toc/ai-00-00/ai-01-00/ai-01-05.md)
+        * [Macrolides](formulary/toc/ai-00-00/ai-01-00/ai-01-06.md)
+        * [Lincosamides](formulary/toc/ai-00-00/ai-01-00/ai-01-07.md)
+        * [Quinolones](formulary/toc/ai-00-00/ai-01-00/ai-01-08.md)
+        * [Sulfonamides](formulary/toc/ai-00-00/ai-01-00/ai-01-09.md)
+        * [Carbapenems](formulary/toc/ai-00-00/ai-01-00/ai-01-10.md)
+        * [Glycopeptides](formulary/toc/ai-00-00/ai-01-00/ai-01-11.md)
+        * [Antituberculous](formulary/toc/ai-00-00/ai-01-00/ai-01-12.md)
+        * [Miscellaneous Agents](formulary/toc/ai-00-00/ai-01-00/ai-01-13.md)
+    * [Antifungals](formulary/toc/ai-00-00/ai-02-00.md)
+    * [Antivirals](formulary/toc/ai-00-00/ai-03-00.md)
+    * [Antiparasitics](formulary/toc/ai-00-00/ai-04-00.md)
   * [Some other child page](formulary/toc/some-other-child-page.md)
 * [附錄](formulary/appendix/README.md)
-  * [Some child page](formulary/appendix/some-child-page.md)
-  * [Some other child page](formulary/appendix/some-other-child-page.md)
+
 
 ## 常用連結 <a id="links"></a>
 
@@ -28,5 +40,4 @@
 
 ---
 
-* [Yet another page](yet-another-page.md)
-
+* [常用連結](links/README.md)
