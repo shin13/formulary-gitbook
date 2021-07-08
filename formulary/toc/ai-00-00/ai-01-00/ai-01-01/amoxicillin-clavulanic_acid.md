@@ -25,8 +25,6 @@ PMA 37-44 weeks Age<= 6 days : 30mg/kg Q12H,
 PMA 37-44 weeks Age >=7days: 30mg/kg Q8H
 
 
-# Amoxicillin + Clavulanic Acid
-
 ## Augmentin syrup 457mg/5mL, 35mL
 
 *藥物代碼*：LAUG3
@@ -45,7 +43,6 @@ Sinusitis: (second-line, high-dose) 90 mg/kg/day (amoxicillin component) ORALLY 
 Sinusitis: 3 months and older and under 40 kg, 25 to 45 mg/kg/day (amoxicillin component) ORALLY divided every 12 hours, depending on severity of infection
 Urinary tract infectious disease: 3 months and older and under 40 kg, 25 to 45 mg/kg/day (amoxicillin component) ORALLY divided every 12 hr, depending on severity of infection
 
-# Amoxicillin + Clavulanic Acid
 
 ## Curam 1000mg
 
