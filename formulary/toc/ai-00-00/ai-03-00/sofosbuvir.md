@@ -1,12 +1,12 @@
 # Sofosbuvir
 
-## Sovaldi FC 400mg, 28#-box
+## Sovaldi FC 400mg, 28\#-box
 
-*藥物代碼*：OSOV
+_藥物代碼_：OSOV
 
-*給藥途徑*：O
+_給藥途徑_：O
 
-*用法用量*：
+_用法用量_：
 
 The recommended dose of Sovaldi is one 400mg tablet, taken orally, once daily with or without food.
 
@@ -14,11 +14,11 @@ Sovaldi should be used in combination with ribavirin or in combination with pegy
 
 ## Sovaldi FC 400mg
 
-*藥物代碼*：OSOV
+_藥物代碼_：OSOV
 
-*給藥途徑*：O
+_給藥途徑_：O
 
-*用法用量*：
+_用法用量_：
 
 The recommended dose of Sovaldi is one 400mg tablet, taken orally, once daily with or without food.
 

@@ -2,11 +2,11 @@
 
 ## Tetracycline 250mg
 
-*藥物代碼*：OTET2
+_藥物代碼_：OTET2
 
-*給藥途徑*：O
+_給藥途徑_：O
 
-*用法用量*：
+_用法用量_：
 
 Usual dosage range: Oral: 250 to 500 mg every 6 hours
 

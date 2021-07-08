@@ -2,13 +2,11 @@
 
 ## Mycamine inj 50mg
 
-*藥物代碼*：IMYC
+_藥物代碼_：IMYC
 
-*給藥途徑*：I
+_給藥途徑_：I
 
-*用法用量*：
+_用法用量_：
 
-Treatment of patients w/ candidemia, acute disseminated candidiasis, candida peritonitis & abscesses 100 mg/day. 
-Treatment of esophageal candidiasis 150 mg/day. 
-Prophylaxis of Candida infections in hematopoeitic stem cell transplantation (HSCT) recipients 50 mg/day.
+Treatment of patients w/ candidemia, acute disseminated candidiasis, candida peritonitis & abscesses 100 mg/day. Treatment of esophageal candidiasis 150 mg/day. Prophylaxis of Candida infections in hematopoeitic stem cell transplantation \(HSCT\) recipients 50 mg/day.
 

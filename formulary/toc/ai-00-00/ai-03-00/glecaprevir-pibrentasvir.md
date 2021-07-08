@@ -2,11 +2,11 @@
 
 ## Maviret 100-40mg
 
-*藥物代碼*：OMAV
+_藥物代碼_：OMAV
 
-*給藥途徑*：O
+_給藥途徑_：O
 
-*用法用量*：
+_用法用量_：
 
-Genotype 1, 2, 3, 4, 5, or 6: Three tablets once daily for 8 weeks (without cirrhosis) or 12 weeks (with compensated cirrhosis [Child-Pugh class A]).
+Genotype 1, 2, 3, 4, 5, or 6: Three tablets once daily for 8 weeks \(without cirrhosis\) or 12 weeks \(with compensated cirrhosis \[Child-Pugh class A\]\).
 

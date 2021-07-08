@@ -1,12 +1,12 @@
 # Ethambutol
 
-## Epbutol (EMB) 400mg
+## Epbutol \(EMB\) 400mg
 
-*藥物代碼*：OEPB
+_藥物代碼_：OEPB
 
-*給藥途徑*：O
+_給藥途徑_：O
 
-*用法用量*：
+_用法用量_：
 
 Initially 15 mg/kg once daily, then 25 mg/kg once daily.
 

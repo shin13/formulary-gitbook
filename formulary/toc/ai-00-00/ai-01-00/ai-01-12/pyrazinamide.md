@@ -2,12 +2,11 @@
 
 ## Pyrazinamide 500mg
 
-*藥物代碼*：OPYRZ
+_藥物代碼_：OPYRZ
 
-*給藥途徑*：O
+_給藥途徑_：O
 
-*用法用量*：
+_用法用量_：
 
-Always administer in combination with other antitubercular drugs.
-20-35 mg/kg daily in 3-4 divided doses. (max. 3 gm/day).
+Always administer in combination with other antitubercular drugs. 20-35 mg/kg daily in 3-4 divided doses. \(max. 3 gm/day\).
 

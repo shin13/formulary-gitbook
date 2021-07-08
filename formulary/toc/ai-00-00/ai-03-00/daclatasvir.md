@@ -2,12 +2,11 @@
 
 ## Daklinza 60mg
 
-*藥物代碼*：ODAK
+_藥物代碼_：ODAK
 
-*給藥途徑*：O
+_給藥途徑_：O
 
-*用法用量*：
+_用法用量_：
 
-Chronic hepatitis C (genotype 1 or 3): Oral: Note: Discontinue daclatasvir if sofosbuvir is permanently discontinued.
-Genotype 1:Without cirrhosis or with compensated (Child-Pugh class A) cirrhosis: 60 mg once daily with concomitant sofosbuvir for 24 weeks.
+Chronic hepatitis C \(genotype 1 or 3\): Oral: Note: Discontinue daclatasvir if sofosbuvir is permanently discontinued. Genotype 1:Without cirrhosis or with compensated \(Child-Pugh class A\) cirrhosis: 60 mg once daily with concomitant sofosbuvir for 24 weeks.
 

@@ -2,21 +2,21 @@
 
 ## Harvoni 90-400mg
 
-*藥物代碼*：OHARV
+_藥物代碼_：OHARV
 
-*給藥途徑*：O
+_給藥途徑_：O
 
-*用法用量*：
+_用法用量_：
 
 One tablet once daily with concomitant ribavirin for 12 weeks.
 
-## Harvoni 90-400mg, 28#-box
+## Harvoni 90-400mg, 28\#-box
 
-*藥物代碼*：OHARV
+_藥物代碼_：OHARV
 
-*給藥途徑*：O
+_給藥途徑_：O
 
-*用法用量*：
+_用法用量_：
 
 One tablet once daily with concomitant ribavirin for 12 weeks.
 

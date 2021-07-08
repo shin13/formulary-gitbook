@@ -2,11 +2,11 @@
 
 ## Ribarin 200mg
 
-*藥物代碼*：ORIBA
+_藥物代碼_：ORIBA
 
-*給藥途徑*：O
+_給藥途徑_：O
 
-*用法用量*：
+_用法用量_：
 
-Adult >= 18 years 1000-1200 mg daily in 2 divided doses, in combination with interferon α soln for inj administered SC at a dose of 3MIU 3 times/wk.
+Adult &gt;= 18 years 1000-1200 mg daily in 2 divided doses, in combination with interferon α soln for inj administered SC at a dose of 3MIU 3 times/wk.
 

@@ -2,12 +2,11 @@
 
 ## Dolcol 250mg
 
-*藥物代碼*：ODOLC
+_藥物代碼_：ODOLC
 
-*給藥途徑*：O
+_給藥途徑_：O
 
-*用法用量*：
+_用法用量_：
 
-UTI: 500 mg-2 g/day. 
-Bacillary dysentery, enteritis, otitis  media & sinusitis: 1.5-2 gm/day.
+UTI: 500 mg-2 g/day. Bacillary dysentery, enteritis, otitis media & sinusitis: 1.5-2 gm/day.
 

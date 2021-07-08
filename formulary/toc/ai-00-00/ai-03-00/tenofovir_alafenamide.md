@@ -2,12 +2,11 @@
 
 ## Vemlidy 25mg
 
-*藥物代碼*：OVEM
+_藥物代碼_：OVEM
 
-*給藥途徑*：O
+_給藥途徑_：O
 
-*用法用量*：
+_用法用量_：
 
-Adult: Take with food. 1 tab once daily.
-CrCl <15 mL/minute: Use is not recommended.
+Adult: Take with food. 1 tab once daily. CrCl &lt;15 mL/minute: Use is not recommended.
 

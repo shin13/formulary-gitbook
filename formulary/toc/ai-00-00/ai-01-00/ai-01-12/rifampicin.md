@@ -1,13 +1,12 @@
 # Rifampicin
 
-## Rifampicin 300mg (立汎黴素)
+## Rifampicin 300mg \(立汎黴素\)
 
-*藥物代碼*：ORIF5
+_藥物代碼_：ORIF5
 
-*給藥途徑*：O
+_給藥途徑_：O
 
-*用法用量*：
+_用法用量_：
 
-Adult: 600mg once daily. The maximum dose is 600mg/day. May use 1.8g/day in some types of infections.
-Children 5 years old and above: 10-20 mg/kg to a max daily dose of 600 mg.
+Adult: 600mg once daily. The maximum dose is 600mg/day. May use 1.8g/day in some types of infections. Children 5 years old and above: 10-20 mg/kg to a max daily dose of 600 mg.
 

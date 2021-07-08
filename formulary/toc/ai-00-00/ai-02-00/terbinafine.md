@@ -2,11 +2,11 @@
 
 ## Lamisil 250mg
 
-*藥物代碼*：OLAMS
+_藥物代碼_：OLAMS
 
-*給藥途徑*：O
+_給藥途徑_：O
 
-*用法用量*：
+_用法用量_：
 
 250mg once daily
 

@@ -2,11 +2,11 @@
 
 ## CEXime 100mg
 
-*藥物代碼*：OCEX
+_藥物代碼_：OCEX
 
-*給藥途徑*：O
+_給藥途徑_：O
 
-*用法用量*：
+_用法用量_：
 
 Usual dosage range: Oral: 400 mg daily divided every 12 to 24 hours.
 
