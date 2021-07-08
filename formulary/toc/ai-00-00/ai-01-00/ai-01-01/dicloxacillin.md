@@ -2,12 +2,11 @@
 
 ## Ziefmycin 250mg
 
-*藥物代碼*：OZIE
+_藥物代碼_：OZIE
 
-*給藥途徑*：O
+_給藥途徑_：O
 
-*用法用量*：
+_用法用量_：
 
-Mild to moderate infection Adult & children >40 kg 125-500 mg 6 hrly, <40 kg 12.5 mg/kg/day in 4 divided doses 6 hrly.
-Max: 2 g / day.
+Mild to moderate infection Adult & children &gt;40 kg 125-500 mg 6 hrly, &lt;40 kg 12.5 mg/kg/day in 4 divided doses 6 hrly. Max: 2 g / day.
 
