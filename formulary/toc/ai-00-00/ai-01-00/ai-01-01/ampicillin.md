@@ -1,3 +1,5 @@
+# Ampicillin
+
 ## Ampolin inj 0.5gm
 
 *藥物代碼*：IAMP
@@ -34,4 +36,3 @@ GBS meningitis:
 total dose  0-7 days: 200 to 300 mg/kg/day divided Q8H 
                 8 days and older: 300 mg/kg/day divided Q6H
 
-## -
