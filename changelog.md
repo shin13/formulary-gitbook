@@ -1,20 +1,33 @@
 # 更新歷程
 
-## 15.0.0 - 2042-12-03
-
-### Fixed
-
-* Removed humans, they weren't doing fine with animals.
-
-### Changed
-
-* Animals are now super cute, all of them.
-
-## 14.0.0 - 2042-10-06
+## 0.0.2 - 2021-07-08
 
 ### Added
 
-* Introduced animals into the world, we believe they're going to be a neat addition.
+* 上傳 `AI-00-00` 藥物頁面。
+
+## 0.0.1 - 2021-07-07
+
+### ~~Fixed~~
+
+* ~~Removed humans, they weren't doing fine with animals.~~
+
+### Changed
+
+* 處方集目錄名稱改為字首大寫
+
+### Removed
+
+* 移除處方集群組
+
+## 0.0.0 - 2021-07-05
+
+### Added
+
+* `引言`頁面
+* 處方集`目錄`架構
+* `附錄`檔案下載連結
+* `常用連結`頁面
 
 
 
