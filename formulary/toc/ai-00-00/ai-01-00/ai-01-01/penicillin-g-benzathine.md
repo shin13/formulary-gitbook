@@ -1,2 +1,0 @@
-# Penicillin G Benzathine
-
