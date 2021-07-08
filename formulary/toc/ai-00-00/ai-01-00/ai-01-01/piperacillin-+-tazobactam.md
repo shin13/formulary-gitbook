@@ -1,2 +1,0 @@
-# Piperacillin + Tazobactam
-
