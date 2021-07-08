@@ -1,2 +1,0 @@
-# Amoxicillin + Clavulanic Acid
-
