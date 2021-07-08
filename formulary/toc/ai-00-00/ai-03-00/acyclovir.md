@@ -1,0 +1,29 @@
+# Acyclovir
+
+## Zovirax inj 250mg
+
+*藥物代碼*：IZOV
+
+*給藥途徑*：I
+
+*用法用量*：
+
+Genital herpes simplex, Severe initial clinical episodes, immunocompetent patients
+5 mg/kg IV over 1 hour every 8 hours for 5 days; MAX dose, 20 mg/kg every 8 hours (FDA dosage)
+5 to 10 mg/kg IV every 8 hours for 2 to 7 days or until clinical improvement occurs, then switch to oral therapy to complete at least 10 days of total therapy (guideline dosage) 
+HIV infection - Varicella: Severe or complicated cases: 10 to 15 mg/kg IV every 8 hours for 7 to 10 days (guideline dose)
+
+*****NEONATE ANTIBIOTICS DOSE*****
+Acyclovir:  this dosage for herpes simplex virus infection
+ Treat localized infections for 14 days; disseminated or CNS infections for 21 days. Dilute to a final concentration<=7 mg /mL; IV infusion over 60 minutes
+Body weight <1kg Age<=7day     20mg/kg Q12H
+  Age 8-14 day             20mg/kg Q12H
+  Age 15-28 day      20 mg/kg Q8H
+Body weight 1-2kg Age<=7day     20mg/kg Q12H
+  Age 8-14 day            20 mg/kg Q8H
+  Age 15-28 day          20 mg/kg Q8H
+Body weight >2kg  Age<=7day        20 mg/kg Q8H
+  Age 8-14 day     20mg/kg Q8H
+  Age 15-28 d ay  20mg/kg Q8H
+PMA (postmenstrual age ) = gestational age plus postnatal age
+
