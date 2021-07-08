@@ -11,8 +11,6 @@
 Powd for oral susp Adult 250 mg tid-qid. Children 20-40 mg/kg body weight daily in 3-4 divided doses.
 
 
-# Amoxicillin
-
 ## Amoxicillin 250mg
 
 *藥物代碼*：OAMO2
@@ -27,8 +25,6 @@ Acute uncomplicated gonorrhea:
      Adult: 3 g once.
      Child over 2 yrs: 50mg/kg with 25 mg/kg probenecid once.
 
-
-# Amoxicillin
 
 ## AMOXICILLIN 500mg
 
