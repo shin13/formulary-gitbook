@@ -1,9 +1,5 @@
 # 首頁
 
-**Welcome!**
-
-This page is an overview of the Taiwan Adventist Hospital Formulary and related resources.
-
 ## 引言
 
 本院處方集收錄之藥品係經藥事委員會核准之常備藥品或臨採藥品。
