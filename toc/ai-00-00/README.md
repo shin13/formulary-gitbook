@@ -1,6 +1,6 @@
 ---
-description: 抗感染製劑
+description: 抗微生物製劑
 ---
 
-# Anti-Infective Agents
+# Antimicrobial Agents
 

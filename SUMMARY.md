@@ -6,7 +6,7 @@
   * [Antidotes](toc/ad-00-00/README.md)
     * [General Antidotes](toc/ad-00-00/ad-01-00.md)
     * [Specific Antidotes](toc/ad-00-00/ad-02-00.md)
-  * [Anti-Infective Agents](toc/ai-00-00/README.md)
+  * [Antimicrobial Agents](toc/ai-00-00/README.md)
     * [Antibacterials](toc/ai-00-00/ai-01-00/README.md)
       * [Penicillins](toc/ai-00-00/ai-01-00/ai-01-01/README.md)
         * [Amoxicillin](toc/ai-00-00/ai-01-00/ai-01-01/amoxicillin.md)
