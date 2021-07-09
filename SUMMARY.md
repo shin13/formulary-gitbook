@@ -1,6 +1,6 @@
 # Table of contents
 
-* [首頁](README.md)
+* [Getting started](README.md)
 * [更新歷程](changelog.md)
 * [目錄](toc/README.md)
   * [Antidotes](toc/ad-00-00/README.md)
