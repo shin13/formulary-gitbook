@@ -1,6 +1,6 @@
 # Getting started
 
-**Welcome**:wave:
+**Welcome** :relaxed: :wave:
 
 This page is an overview of the Taiwan Adventist Hospital Formulary and related resources.
 
