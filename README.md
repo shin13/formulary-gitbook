@@ -1,7 +1,8 @@
 # 臺安醫院處方集
 
-> ### Getting Started
-> This page is an overview of the Taiwan Adventist Hospital Formulary and related resources.
+**Getting Started**
+
+This page is an overview of the Taiwan Adventist Hospital Formulary and related resources.
 
 ## 引言
 
