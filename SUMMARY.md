@@ -1,8 +1,7 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [臺安醫院處方集](README.md)
 * [更新歷程](changelog.md)
-* [引言](introduction.md)
 * [目錄](toc/README.md)
   * [Antidotes](toc/ad-00-00/README.md)
     * [General Antidotes](toc/ad-00-00/ad-01-00.md)
