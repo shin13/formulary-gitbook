@@ -8,11 +8,11 @@ This page is an overview of the Taiwan Adventist Hospital Formulary and related 
 
 本院處方集收錄之藥品係經藥事委員會核准之常備藥品或臨採藥品。
 
-#### 臨採藥品
+### 臨採藥品
 
 處方集中藥品名稱後面標示有「臨採」之藥品，非本院常備藥品。 醫師臨床上若需處方臨採藥品時，可使用院內醫療資訊系統\(Health Information System, HIS\)提出臨採使用申請。 如申請單審核通過，七個工作天後得開立處方。
 
-#### 藥品異動
+### 藥品異動
 
 本院藥品如有異動，藥劑科將以下述方式提供相關資訊：
 
@@ -21,14 +21,14 @@ This page is an overview of the Taiwan Adventist Hospital Formulary and related 
 * 公告於`moss`首頁右方「藥品資訊公告\(含藥品異動\)」
 * 刊載於本院每季發行之`臺安藥訊`
 
-#### 處方集取得路徑
+### 處方集取得路徑
 
 * [KM藥品資訊公告\(含藥品異動\)](http://km.domain.tahsda.org.tw/KM/listfolders.aspx?uid=2429)
 * [臺安資訊入口網\(EIP\)](http://portal.tahsda.org.tw/TaianPortal/)
   * 右側 臨床常用公告 --&gt; [藥品資訊公告\(含藥品異動\)](http://km.domain.tahsda.org.tw/KM/listfolders.aspx?uid=2429)
 * [臺安醫院處方集網頁](https://shin13.gitbook.io/tah-formulary/)
 
-## 主要參考資料
+### 主要參考資料
 
 * [藥品仿單](https://info.fda.gov.tw/MLMS/H0001.aspx)
 * [Micromedex](https://www.micromedexsolutions.com/micromedex2/librarian/ssl/true)
