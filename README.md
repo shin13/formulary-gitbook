@@ -1,5 +1,4 @@
-Getting started
-===
+# Getting started
 
 **Welcome!**
 
@@ -22,7 +21,7 @@ This page is an overview of the Taiwan Adventist Hospital Formulary and related 
 * 公告於`moss`首頁右方「藥品資訊公告\(含藥品異動\)」
 * 刊載於本院每季發行之`臺安藥訊`
 
-### 處方集取得路徑
+#### 處方集取得路徑
 
 * [KM藥品資訊公告\(含藥品異動\)](http://km.domain.tahsda.org.tw/KM/listfolders.aspx?uid=2429)
 * [臺安資訊入口網\(EIP\)](http://portal.tahsda.org.tw/TaianPortal/)
