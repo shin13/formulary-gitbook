@@ -1,2 +1,0 @@
-# Preparations for Vaginal Condition
-
