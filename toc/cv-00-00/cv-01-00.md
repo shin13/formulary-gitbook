@@ -1,2 +1,0 @@
-# Cardiac Drugs
-

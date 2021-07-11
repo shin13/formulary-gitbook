@@ -1,2 +1,0 @@
-# Nootropics and Neurotonics
-

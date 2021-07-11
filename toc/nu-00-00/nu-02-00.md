@@ -1,2 +1,0 @@
-# Vitamins and Minerals
-

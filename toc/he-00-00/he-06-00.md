@@ -1,2 +1,0 @@
-# Blood Components and Substituents
-

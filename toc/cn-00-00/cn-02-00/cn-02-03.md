@@ -1,2 +1,0 @@
-# Tricyclic Antidepressants
-

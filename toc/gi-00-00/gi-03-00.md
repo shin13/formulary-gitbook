@@ -1,2 +1,0 @@
-# Laxatives and Cathartics
-

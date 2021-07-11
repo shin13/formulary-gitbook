@@ -1,2 +1,0 @@
-# Caries Prophylactic Agents
-

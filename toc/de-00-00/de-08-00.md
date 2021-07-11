@@ -1,2 +1,0 @@
-# Topical Antihistamines and Antipruritics
-
