@@ -3,7 +3,7 @@
 ## 附錄列表
 
 | 附錄編號 | 名稱 |
-| :--- | :--- |
+| :---: | :--- |
 | 01 | [顯影劑藥品清單](https://github.com/shin13/formulary-gitbook/raw/master/.gitbook/assets/appx01.docx) |
 | 02 | 孕婦用藥安全評估 |
 | 03 | 鉀離子補充的輸注液品項 |
