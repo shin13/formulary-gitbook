@@ -4,7 +4,7 @@
 
 | 附錄編號 | 名稱 |
 | :--- | :--- |
-| 01 | 顯影劑藥品清單 |
+| 01 | [顯影劑藥品清單](.gitbook/assets/appx01.docx) |
 | 02 | 孕婦用藥安全評估 |
 | 03 | 鉀離子補充的輸注液品項 |
 | 04 | 新進藥品之申請規定 |
@@ -24,6 +24,26 @@
 ## 檔案下載
 
 {% file src=".gitbook/assets/appx01.docx" caption="附錄一 顯影劑藥品清單" %}
+
+{% file src=".gitbook/assets/appx02.docx" caption="附錄二 孕婦用藥安全評估" %}
+
+{% file src=".gitbook/assets/appx03.docx" caption="附錄三 鉀離子補充的輸注液品項" %}
+
+{% file src=".gitbook/assets/appx04.docx" caption="附錄四 新進藥品之申請規定" %}
+
+{% file src=".gitbook/assets/appx05.docx" caption="附錄五 藥物血中濃度監測" %}
+
+{% file src=".gitbook/assets/appx06.docx" caption="附錄六 臺安醫院管制藥品品項表" %}
+
+{% file src=".gitbook/assets/appx07.docx" caption="附錄七 小兒科藥水體重劑量換算表" %}
+
+{% file src=".gitbook/assets/appx08.docx" caption="附錄八 疫苗製劑" %}
+
+{% file src=".gitbook/assets/appx09.docx" caption="附錄九 本院註記”不可磨粉”口服用藥表" %}
+
+{% file src=".gitbook/assets/appx10.docx" caption="附錄十 藥品開瓶後有效期限" %}
+
+{% file src=".gitbook/assets/appx11.docx" caption="附錄十一 臺安醫院抗生素注射劑使用方法" %}
 
 {% file src=".gitbook/assets/appx12.docx" caption="附錄十二 臺安輸注藥物給藥指引" %}
 
