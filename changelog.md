@@ -1,5 +1,9 @@
 # 更新歷程
 
+## 0.0.3 - 2021-07-20
+
+* Added `De-00-00` drugs as table formats
+
 ## 0.0.2 - 2021-07-08
 
 ### Added
