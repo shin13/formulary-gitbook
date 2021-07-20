@@ -1,0 +1,25 @@
+# Tacrolimus
+
+## Protopic ointment 0.1%10gm
+
+| 藥物代碼 | EPROT1 |
+| :--- | :--- |
+| 適應症 | Atopic dermatitis \(Moderate to Severe\), Second-line Short-term & intermittent long-term therapy in the treatment of patients with moderate to severe atopic dermatitis for 16 years old and above. |
+| 副作用 | Infections and parasites: Local skin infections, whether or not they have a clear cause, include but are not limited to herpetic eczema, folliculitis, herpes simplex, herpes virus infection, Kaposi's varicella-like rash, Eye herpes infection.Metabolic and nutritional diseases: Alcohol intolerance \(face flushing or skin irritation after ingesting alcoholic beverages\)Nervous system disease: Sensation abnormalities and dullness \(hyperesthesia, burning sensation\)Skin and subcutaneous tissue diseases: Itching, acne, vinasse, sunburnSystemic diseases and symptoms of the administration site: Administration site burning, administration site itching, administration site warmth, administration site erythema, administration site pain, administration site irritation, administration site paresthesia, administration site rash, administration site edema |
+| 禁忌 | Allergic to Tacrolimus, any macrolides, or any other component of Protopic. |
+| 藥物保存方式 | 15-30℃ |
+| 用法用量 | 16 years old and above Apply thinly & rub in bid, continue for 1 week after signs & symptoms clear. |
+| 肝功能異常 | 無需調整劑量 |
+| 腎功能異常 | 無需調整劑量 |
+| 懷孕用藥危分級 | 尚未確立 |
+| 孕期用藥建議 | No \(Limited\) Human Data - animal data suggest low risk |
+| 附帶說明 | \[仿單\]目前缺乏懷孕女性使用 tacrolimus 軟膏的適當數據。 動物試驗證實全身性投藥會造成生殖毒性。 對人類的潛在風險仍未知。 懷孕期間不得使用 Protopic 軟膏，除非具有明確必要性。 |
+| 哺乳期用藥建議 | No \(Limited\) Human Data - Probably Compatible 無\(很少\)資料 - 可使用 |
+| 附帶說明 | \[仿單\]人類數據證實全身性投藥後，tacrolimus 會分泌至乳汁內。 儘管臨床數據顯示使用 tacrolimus 軟膏的全身性暴露量低， 但仍不建議於接受 Protopic 軟膏治療期間進行哺乳。 |
+| 注射劑給藥建議途徑 | EXT |
+| 乾粉稀釋液 | N/A |
+| 輸注點滴液 | N/A |
+| IVP 用法建議 | N/A |
+| IVD 用法建議 | N/A |
+| 注意事項 | N/A |
+

@@ -6,14 +6,11 @@ _藥物代碼_：ISOO
 
 _給藥途徑_：I
 
-_適應症_：
-Treatment of infections due to Staph, Strep, pneumococcus, meningococcus & other susceptible organisms such as infections of the upper & lower respiratory tract, GUT, skin & soft tissue, bone & joint. Dental infections, septic abortion, puerperal sepsis, intra-abdominal sepsis. Vial Also indicated for prophylaxis against infection which may be associated with major surgical procedures such as GI, pelvic, head & neck, cardiac, renal, joint replacement & biliary tract.
+_適應症_： Treatment of infections due to Staph, Strep, pneumococcus, meningococcus & other susceptible organisms such as infections of the upper & lower respiratory tract, GUT, skin & soft tissue, bone & joint. Dental infections, septic abortion, puerperal sepsis, intra-abdominal sepsis. Vial Also indicated for prophylaxis against infection which may be associated with major surgical procedures such as GI, pelvic, head & neck, cardiac, renal, joint replacement & biliary tract.
 
-_副作用_：
-Diarrhea, indigestion, nausea, vomiting, pseudomembranous colitis and candidiasis have been reported. Nausea, although uncommon, is more often associated with higher oral dosages. If gastrointestinal side effects occur with oral therapy, they may be reduced by taking Augmentin at the start of meals. 
+_副作用_： Diarrhea, indigestion, nausea, vomiting, pseudomembranous colitis and candidiasis have been reported. Nausea, although uncommon, is more often associated with higher oral dosages. If gastrointestinal side effects occur with oral therapy, they may be reduced by taking Augmentin at the start of meals.
 
-_禁忌_：
-Hypersensitivity to penicillins, possible cross sensitivity with other β-lactam antibiotics. History of penicillin-associated cholestatic jaundice/hepatic dysfunction 
+_禁忌_： Hypersensitivity to penicillins, possible cross sensitivity with other β-lactam antibiotics. History of penicillin-associated cholestatic jaundice/hepatic dysfunction
 
 _用法用量_：
 
@@ -22,14 +19,7 @@ Treatment of infections Adult & children &gt;12 years 1.2 g 8 hrly, increasing t
 **\***NEONATE ANTIBIOTICS DOSE**\*** Amoxicillin 500mg+ Clavulanic acid 100mg \( Augmentin\): the dose is based on TOTAL drug not the amoxicillin component  
 Oral: Age&gt;=7 days: 30mg/kg/dose q8h IV: PMA&lt;=37 weeks : 30mg/kg Q12H; PMA 37-44 weeks Age&lt;= 6 days : 30mg/kg Q12H, PMA 37-44 weeks Age &gt;=7days: 30mg/kg Q8H
 
-_注意事項_：
-1. 注射前檢查病患是否有 penicillin 過敏史。
-2. 稀釋後應儘快使用，安定性與稀釋濃度與保存條件有關。
-3. 每小瓶的Soonmelt inj. 600mg中，含有0.5 mmol 的鉀與 1.55 mmol 的鈉 (估計值)。
-4. 本產品不適用於肌肉注射給藥。
-5.不可以血液製劑、其他蛋白液或靜脈注射用脂肪乳劑混合使用。
-5. IV bolus: Amoxycillin 500mg + Clavulanic acid 100mg/vial 乾粉加入10 mL D/W泡製。
-6. IV infusion: 每小瓶以50 mL適當輸注液稀釋，以30 ~ 40分鐘緩慢滴注。 本藥品不可加入含有葡萄糖、聚葡萄糖或重碳酸鹽的輸注溶液。
+_注意事項_： 1. 注射前檢查病患是否有 penicillin 過敏史。 2. 稀釋後應儘快使用，安定性與稀釋濃度與保存條件有關。 3. 每小瓶的Soonmelt inj. 600mg中，含有0.5 mmol 的鉀與 1.55 mmol 的鈉 \(估計值\)。 4. 本產品不適用於肌肉注射給藥。 5.不可以血液製劑、其他蛋白液或靜脈注射用脂肪乳劑混合使用。 5. IV bolus: Amoxycillin 500mg + Clavulanic acid 100mg/vial 乾粉加入10 mL D/W泡製。 6. IV infusion: 每小瓶以50 mL適當輸注液稀釋，以30 ~ 40分鐘緩慢滴注。 本藥品不可加入含有葡萄糖、聚葡萄糖或重碳酸鹽的輸注溶液。
 
 ## Augmentin syrup 457mg/5mL, 35mL
 
@@ -37,14 +27,11 @@ _藥物代碼_：LAUG3
 
 _給藥途徑_：O
 
-_適應症_：
-Treatment of infections due to Staph, Strep, pneumococcus, meningococcus & other susceptible organisms such as infections of the upper & lower respiratory tract, GUT, skin & soft tissue, bone & joint. Dental infections, septic abortion, puerperal sepsis, intra-abdominal sepsis. Vial Also indicated for prophylaxis against infection which may be associated with major surgical procedures such as GI, pelvic, head & neck, cardiac, renal, joint replacement & biliary tract.
+_適應症_： Treatment of infections due to Staph, Strep, pneumococcus, meningococcus & other susceptible organisms such as infections of the upper & lower respiratory tract, GUT, skin & soft tissue, bone & joint. Dental infections, septic abortion, puerperal sepsis, intra-abdominal sepsis. Vial Also indicated for prophylaxis against infection which may be associated with major surgical procedures such as GI, pelvic, head & neck, cardiac, renal, joint replacement & biliary tract.
 
-_副作用_：
-Diarrhea, nausea, vomiting, skin candidiasis. Uncommonly dizziness, headache, indigestion, rash, pruritus, urticaria. Rarely, reversible leucopenia, thrombocytopenia, erythema multiforme.
+_副作用_： Diarrhea, nausea, vomiting, skin candidiasis. Uncommonly dizziness, headache, indigestion, rash, pruritus, urticaria. Rarely, reversible leucopenia, thrombocytopenia, erythema multiforme.
 
-_禁忌_：
-Hypersensitivity to penicillins, possible cross sensitivity with other β-lactam antibiotics. History of penicillin-associated cholestatic jaundice/hepatic dysfunction.
+_禁忌_： Hypersensitivity to penicillins, possible cross sensitivity with other β-lactam antibiotics. History of penicillin-associated cholestatic jaundice/hepatic dysfunction.
 
 _用法用量_：
 
@@ -58,19 +45,13 @@ _藥物代碼_：OCUR
 
 _給藥途徑_：O
 
-_適應症_：
-Treatment of infections due to Staph, Strep, pneumococcus, meningococcus & other susceptible organisms such as infections of the upper & lower respiratory tract, GUT, skin & soft tissue, bone & joint. Dental infections, septic abortion, puerperal sepsis, intra-abdominal sepsis. 
+_適應症_： Treatment of infections due to Staph, Strep, pneumococcus, meningococcus & other susceptible organisms such as infections of the upper & lower respiratory tract, GUT, skin & soft tissue, bone & joint. Dental infections, septic abortion, puerperal sepsis, intra-abdominal sepsis.
 
-_副作用_：
-Diarrhea, nausea, vomiting, mucocutaneous candidiasis.
+_副作用_： Diarrhea, nausea, vomiting, mucocutaneous candidiasis.
 
-Dermatologic: Diaper rash (3.5% ), Rash (1.1% to 3% )
-Gastrointestinal: Diarrhea (2.9% to 14.5% ), Loose stool (1.6% ), Nausea (2.1% to 3% ), Vomiting (1% to 2.2% )
-Reproductive: Mycosis (3.3% ), Vaginitis (1% )
-Other: Candidiasis (1.4% )
+Dermatologic: Diaper rash \(3.5% \), Rash \(1.1% to 3% \) Gastrointestinal: Diarrhea \(2.9% to 14.5% \), Loose stool \(1.6% \), Nausea \(2.1% to 3% \), Vomiting \(1% to 2.2% \) Reproductive: Mycosis \(3.3% \), Vaginitis \(1% \) Other: Candidiasis \(1.4% \)
 
-_禁忌_：
-History of hypersensitivity to β-lactams. History of penicillin-associated jaundice/hepatic dysfunction.
+_禁忌_： History of hypersensitivity to β-lactams. History of penicillin-associated jaundice/hepatic dysfunction.
 
 _用法用量_：
 

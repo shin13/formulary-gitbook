@@ -39,8 +39,6 @@
 
 {% file src=".gitbook/assets/appx08.docx" caption="附錄八 疫苗製劑" %}
 
-{% file src=".gitbook/assets/appx09.docx" caption="附錄九 本院註記”不可磨粉”口服用藥表" %}
-
 {% file src=".gitbook/assets/appx10.docx" caption="附錄十 藥品開瓶後有效期限" %}
 
 {% file src=".gitbook/assets/appx11.docx" caption="附錄十一 臺安醫院抗生素注射劑使用方法" %}
