@@ -1,4 +1,4 @@
-# Azelaic Acid
+# Azelaic acid
 
 ## Skinoren cream 30gm
 

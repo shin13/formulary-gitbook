@@ -1,4 +1,4 @@
-# Hydrogen\_Peroxide
+# Hydrogen Peroxide
 
 ## H2O2 solution 3%
 

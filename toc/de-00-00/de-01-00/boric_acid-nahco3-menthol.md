@@ -1,4 +1,4 @@
-# Boric\_acid + NaHCO3 + Menthol
+# Boric acid + NaHCO3 + Menthol
 
 ## Boric acid+NaHCO3+Menthol
 

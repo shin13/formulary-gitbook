@@ -1,4 +1,4 @@
-# Flumethasone + Salicylic\_acid
+# Flumethasone + Salicylic acid
 
 ## Flusalic ointment 15gm
 

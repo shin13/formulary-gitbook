@@ -1,4 +1,4 @@
-# Salicylic\_acid + Lactic\_acid
+# Salicylic acid + Lactic acid
 
 ## Decorn solution 10mL 16.7%
 

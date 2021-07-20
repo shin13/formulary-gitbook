@@ -1,4 +1,4 @@
-# Zinc\_Oxide
+# Zinc oxide
 
 ## Zin ointment 20% 1oz \(28.4gm\)
 
