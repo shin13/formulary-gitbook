@@ -1,22 +1,25 @@
 # Sildenafil
 
-## VIAGRA 100mg 4's-box
+## Viagra ODT 50mg (4 tablets/box)
 
-*藥物代碼*：OVGR1
-
-*給藥途徑*：O
-
-*用法用量*：
-
-Adult 50-100 mg once daily, taken approximately 25-60 min before sexual activity. Max: 100 mg once daily. Hepatic impairment (eg. cirrhosis, 80%), severe renal impairment (creatinine clearance < 30 mL/min, 100%), and concomitant of potent cytochrome P450 3A4 inhibitors; Starting dose of 25 mg should be considered, may increase to 50-100 mg based on efficacy & toleration. Max dosing frequency is once per day.
-
-## Viagra ODT 50mg 4's-box
-
-*藥物代碼*：OVGRO
-
-*給藥途徑*：O
-
-*用法用量*：
-
-Adult 50-100 mg once daily, taken approximately 25-60 min before sexual activity. Max: 100 mg once daily. Hepatic impairment (eg. cirrhosis, 80%), severe renal impairment (creatinine clearance < 30 mL/min, 100%), and concomitant of potent cytochrome P450 3A4 inhibitors; Starting dose of 25 mg should be considered, may increase to 50-100 mg based on efficacy & toleration. Max dosing frequency is once per day.
+| 藥物代碼           | OVGRO                                                                                                                                        |
+|:-------------------|:---------------------------------------------------------------------------------------------------------------------------------------------|
+| 適應症             | NA                                                                                                                                           |
+| 副作用             | NA                                                                                                                                           |
+| 禁忌               | NA                                                                                                                                           |
+| 藥物保存方式       | N/A                                                                                                                                          |
+| 用法用量           | N/A                                                                                                                                          |
+| 肝功能異常         | 需 調 整 劑 量  肝功能受損之患者(如肝硬化)患者的清除率會下降，因此應考慮使用25 mg的起始劑量。基於藥效及耐受的考量，劑量可提高至50 mg或100 mg |
+| 腎功能異常         | 需 調 整 劑 量                                                                                                                               |
+| 懷孕用藥危分級     | 尚未確立                                                                                                                                     |
+| 孕期用藥建議       | No (Limited) Human Data - animal data suggest low risk                                                                                       |
+| 附帶說明           | N/A                                                                                                                                          |
+| 哺乳期用藥建議     | No (Limited) Human Data - Potential Toxicity(Mother) 無(很少)資料 - 避免使用(母體)                                                           |
+| 附帶說明           | N/A                                                                                                                                          |
+| 注射劑給藥建議途徑 | N/A                                                                                                                                          |
+| 乾粉稀釋液         | N/A                                                                                                                                          |
+| 輸注點滴液         | N/A                                                                                                                                          |
+| IVP 用法建議       | N/A                                                                                                                                          |
+| IVD 用法建議       | N/A                                                                                                                                          |
+| 注意事項           | N/A                                                                                                                                          |
 

@@ -1,24 +1,25 @@
 # Codeine
 
-## Codeine 30mg
-
-*藥物代碼*：OCODI
-
-*給藥途徑*：O
-
-*用法用量*：
-
-Analgesic: Adult 15-60 mg qid. 
-                Children and Adolescents: Pain management; analgesia: 0.5-1 mg/kg/dose every 4-6 hours as                  needed; maximum single dose: 60 mg. Note: Do not use for postoperative tonsillectomy and/or                  adenoidectomy pain management.
-Antitussive: Adult Oral: 7.5 to 120 mg/day as a single dose or in divided doses; Note: The American College of Chest Physicians does not recommend the routine use of codeine as an antitussive in patients with upper respiratory infections.
-
 ## Codeine 30mg 殘餘銷燬
 
-*藥物代碼*：OCODIBAD
-
-*給藥途徑*：O
-
-*用法用量*：
-
-na
+| 藥物代碼           | OCODIBAD                 |
+|:-------------------|:-------------------------|
+| 適應症             | NA                       |
+| 副作用             | NA                       |
+| 禁忌               | NA                       |
+| 藥物保存方式       | N/A                      |
+| 用法用量           | N/A                      |
+| 肝功能異常         | 無需調整劑量  需調整劑量 |
+| 腎功能異常         | 無需調整劑量  需調整劑量 |
+| 懷孕用藥危分級     | 尚未確立                 |
+| 孕期用藥建議       | N/A                      |
+| 附帶說明           | N/A                      |
+| 哺乳期用藥建議     | N/A                      |
+| 附帶說明           | N/A                      |
+| 注射劑給藥建議途徑 | N/A                      |
+| 乾粉稀釋液         | N/A                      |
+| 輸注點滴液         | N/A                      |
+| IVP 用法建議       | N/A                      |
+| IVD 用法建議       | N/A                      |
+| 注意事項           | N/A                      |
 

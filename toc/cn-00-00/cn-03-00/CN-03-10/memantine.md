@@ -2,11 +2,20 @@
 
 ## Witgen 10mg
 
-*藥物代碼*：OWIT1
-
-*給藥途徑*：O
-
-*用法用量*：
-
-Initial, 5 mg orally once daily; titrate in 5-mg increments at intervals of at least 1 week to 10 mg/day (5 mg twice daily), 15 mg/day (5 mg and 10 mg in separate doses), and 20 mg/day (10 mg twice daily); target daily dose is 20 mg/day
+| 藥物代碼           | OWIT1                                                                                                                                                                                                                                                                                               |
+|:-------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 適應症             | Alzheimer's disease (Moderate to Severe)                                                                                                                                                                                                                                                            |
+| 副作用             | CommonGastrointestinal: Constipation (3% to 5% ), Diarrhea (5% ), Vomiting (2% to 3% )Neurologic: Confusion (6% ), Dizziness (5% to 7% ), Headache (adults, 6% ; pediatrics, 8% )SeriousNeurologic: Cerebrovascular accident, Seizure (up to 0.3% )Renal: Acute renal failureRespiratory: Pneumonia |
+| 禁忌               | Hypersensitivity to memantine hydrochloride or any other components of the product                                                                                                                                                                                                                  |
+| 懷孕用藥危分級     | 尚未確立                                                                                                                                                                                                                                                                                            |
+| 孕期用藥建議       | N/A                                                                                                                                                                                                                                                                                                 |
+| 附帶說明           | 仿單未有說明                                                                                                                                                                                                                                                                                        |
+| 哺乳期用藥建議     | Unknown 尚未建立                                                                                                                                                                                                                                                                                    |
+| 附帶說明           | 仿單未有說明                                                                                                                                                                                                                                                                                        |
+| 注射劑給藥建議途徑 | AC, PO, WM                                                                                                                                                                                                                                                                                          |
+| 乾粉稀釋液         | N/A                                                                                                                                                                                                                                                                                                 |
+| 輸注點滴液         | N/A                                                                                                                                                                                                                                                                                                 |
+| IVP 用法建議       | N/A                                                                                                                                                                                                                                                                                                 |
+| IVD 用法建議       | N/A                                                                                                                                                                                                                                                                                                 |
+| 注意事項           | N/A                                                                                                                                                                                                                                                                                                 |
 
