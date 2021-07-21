@@ -1,2 +1,0 @@
-# Cough and Cold Preparations
-

@@ -1,2 +1,0 @@
-# Angiotensin II Receptor Antagonists
-

@@ -1,2 +1,0 @@
-# Antiflatulents and GIT Regulators
-

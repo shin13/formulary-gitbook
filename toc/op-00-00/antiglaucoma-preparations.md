@@ -1,2 +1,0 @@
-# Antiglaucoma Preparations
-

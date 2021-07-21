@@ -1,2 +1,0 @@
-# Antihistamines and Antiallergics
-
