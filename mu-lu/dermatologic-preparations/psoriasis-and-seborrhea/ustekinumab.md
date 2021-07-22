@@ -1,0 +1,25 @@
+# Ustekinumab
+
+## Stelara inj 45mg/0.5mL
+
+| 藥物代碼 | ISTE |
+| :--- | :--- |
+| 適應症 | Plaque psoriasis: Treatment of moderate to severe plaque psoriasis in adults who are candidates for phototherapy or systemic therapyPsoriatic arthritis: Treatment of active psoriatic arthritis \(as monotherapy or in combination with methotrexate\) in adults. |
+| 副作用 | Infection: Infection \(27% to 70%; severe infection: ?3%\)Central nervous system: Headache \(5%\), fatigue \(3%\), dizziness \(2%\), depression \(1%\)Dermatologic: Pruritus \(2%\)Gastrointestinal: Nausea \(3%\) Immunologic: Antibody development \(3% to 6%\)Local: Erythema at injection site \(1% to 2%\)Neuromuscular & skeletal: Arthralgia \(3%\), back pain \(2%\)Respiratory: Pharyngolaryngeal pain \(2%\) |
+| 禁忌 | Hypersensitivity to ustekinumab or to any of the excipients of Stelara. Clinically important, active infection |
+| 藥物保存方式 | 2-8°C |
+| 用法用量 | Adult : Initial and maintenance: &lt;=100 kg: 45 mg SC at 0 and 4 weeks, and then every 12 weeks thereafter.  &gt;100 kg: 90 mg at 0 and 4 weeks, and then every 12 weeks thereafter. Consideration should be given to discontinuing the treatment in patients who have shown no response up to 28 weeks of treatment. |
+| 肝功能異常 | 無需調整劑量 |
+| 腎功能異常 | 無需調整劑量 |
+| 懷孕用藥危分級 | 可能安全 |
+| 孕期用藥建議 | N/A |
+| 附帶說明 | N/A |
+| 哺乳期用藥建議 | Contraindicated 哺乳期使用禁忌 |
+| 附帶說明 | 以上懷孕及哺乳分級參考自藥品仿單。 |
+| 注射劑給藥建議途徑 | SC |
+| 乾粉稀釋液 | N/A |
+| 輸注點滴液 | N/A |
+| IVP 用法建議 | N/A |
+| IVD 用法建議 | N/A |
+| 注意事項 | Administration: Stelara is for SC injection. If possible, areas of the skin that show psoriasis should be avoided as injection sites. |
+

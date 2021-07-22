@@ -1,0 +1,25 @@
+# Nalbuphine
+
+## Mutonpain inj 10mg/1mL
+
+| 藥物代碼 | IMUT |
+| :--- | :--- |
+| 適應症 | The management of pain severe enough to require an opioid analgesic and for which alternative treatments are inadequate. Nalbuphine can also be used as a supplement to balanced anesthesia, for preoperative and postoperative analgesia, and for obstetrical analgesia during labor and delivery. |
+| 副作用 | CommonDermatologic: Diaphoresis \(up to 9% \)Gastrointestinal: Nausea and vomiting \(6% \), Xerostomia \(4% \)Neurologic: Dizziness \(up to 5% \), Headache \(3% \), Sedated \(36% \), Vertigo \(up to 5% \)SeriousCardiovascular: HypotensionEndocrine metabolic: Adrenal insufficiencyImmunologic: Hypersensitivity reaction \(1% or less \)Neurologic: Loss of consciousness, SeizureRespiratory: Pulmonary edema, Respiratory depression \(1% or less \)Other: Drug dependence, Opioid withdrawal |
+| 禁忌 | Hypersensitivity to nalbuphine to any of the other ingredients in Mutonpain. |
+| 藥物保存方式 | 攝氏25度C以下 |
+| 用法用量 | The usual recommended adult dose is 10 mg for a 70 kg individual administered subcutaneously, intramuscularly, or intravenously; this dose may be repeated every 3 to 6 hours as necessary. Dosage should be adjusted according to the severity of the pain, the physical status of the patient, and other medications which the patient may be receiving. In nontolerant individuals, the recommended the single maximum dose is 20 mg, and the maximum total daily dose is 160 mg. The use of Mutonpain as a supplement to balanced anesthesia requires larger doses than those recommended for analgesia. Induction doses of nalbuphine hydrochloride range from 0.3 mg/kg to 3 mg/kg intravenously to be administered over a 10 to 15 minute period with maintenance doses of 0.25 to 0.5 mg/kg in single intravenous administrations as required. The use of Mutonpain may be followed by respiratory depression which can be reversed with the opioid antagonist naloxone hydrochloride. |
+| 肝功能異常 | 需 調 整 劑 量  本藥經由肝臟代謝,肝功能障礙患者請小心並減量使用\[仿單\] |
+| 腎功能異常 | 需 調 整 劑 量 |
+| 懷孕用藥危分級 | 可能安全 |
+| 孕期用藥建議 | Human data suggest risk in 3rd trimester |
+| 附帶說明 | \[仿單\]懷孕使用分類:B, 對大老鼠及兔子的生殖研究顯示,以高於每日最大建議劑量的十四到三十一倍的劑量投予,沒有損害生育之情形或對胎兒造成損傷. 然而因尚未有針對懷孕婦女進行之完整研究,基於動物生殖研究未能絕對適用於人體反應,所以懷孕婦女只有在確實必要時才可以給藥. 用於生產及分娩的過程: Nalbuphine 透過胎盤的轉移比率相當高且迅速，母體與胎兒的比率改變可從1：0.37 至1：1.6。曾有報告顯示， 在母體懷孕期間投予nalbuphine而影響胎兒及新生兒之副作用共包括了：胎兒心跳減緩、呼吸抑制、新生兒窒息、發紺及肌肉張力低弱。某些個案顯示，妊娠期間在母體投naloxone可矯正這些副作用。 另外，嚴重與延長胎兒心跳減緩也曾經有報告。曾發生因胎兒心跳減緩而導致胎兒永久性的神經傷害。另有報告顯示，使用nalbuphine時，胎兒出現竇狀節率（sinusoidal）之心跳，在懷孕期間或生產分娩婦女使用nalbuphine hydrochloride/須特別小心， 對新生兒更須嚴加觀察是否出現呼吸抑制、窒息、心跳減緩與心率不整。 |
+| 哺乳期用藥建議 | No \(Limited\) Human Data - Probably Compatible 無\(很少\)資料 - 可使用 |
+| 附帶說明 | \[仿單\] 有限的資料顯示本藥只有少量經由乳汁排出\(少於投予劑量的百分之一\),在臨床上無顯著意義. 本藥投予哺乳婦女需小心. |
+| 注射劑給藥建議途徑 | IM, IVD, IVPUSH, SC |
+| 乾粉稀釋液 | N/A |
+| 輸注點滴液 | 【D10W】 可選  【D5W】 可選  【L/R】 可選  【N/S】 可選 |
+| IVP 用法建議 | 靜脈注射時間需超過10-15分鐘\(降低劑量或延長注射時間可減少副作用\) |
+| IVD 用法建議 | 仿單並無稀釋濃度或注射速率建議，2021/04/13廠商回覆：因本藥可不經稀釋直接使用，故無配製濃度與輸注速率建議，請留意病患臨床反應，且降低流速或濃度可減少副作用。 |
+| 注意事項 | 仿單無建議的稀釋液,2021/04/13廠商回覆可依參考書 Handbook on Injectable Drugs，在D5W, D10W, Normal Saline, Ringer's solution四種稀釋溶液中可相容且安定48小時. |
+

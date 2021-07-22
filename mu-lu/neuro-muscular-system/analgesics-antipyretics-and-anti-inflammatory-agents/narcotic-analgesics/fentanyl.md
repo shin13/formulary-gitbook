@@ -1,0 +1,109 @@
+# Fentanyl
+
+## Durogesic D-trans Patch 12mcg/h
+
+| 藥物代碼 | EDUR1 |
+| :--- | :--- |
+| 適應症 | Management of chronic & intractable pain requiring opioid analgesia. |
+| 副作用 | Hypoventilation. Nausea, vomiting, constipation; hypotension, somnolence, confusion, hallucinations, euphoria, pruritus, urinary retention; rash, erythema, itching. |
+| 禁忌 | Hypersensitivity. |
+| 懷孕用藥危分級 | 除非治療上需要 |
+| 孕期用藥建議 | Human \(and animal\) data suggest risk |
+| 附帶說明 | N/A |
+| 哺乳期用藥建議 | Compatible 哺乳時可使用 |
+| 附帶說明 | N/A |
+| 注射劑給藥建議途徑 | EXT |
+| 乾粉稀釋液 | N/A |
+| 輸注點滴液 | N/A |
+| IVP 用法建議 | N/A |
+| IVD 用法建議 | N/A |
+| 注意事項 | N/A |
+
+## Fentanyl patch 25mcg/hr
+
+| 藥物代碼 | EFEN |
+| :--- | :--- |
+| 適應症 | Intractable cancer pain |
+| 副作用 | Nausea, vomiting; bradycardia, oedema, CNS depression, confusion, dizziness,drowsiness, headache, sedation, transient hypotension, peripheral vasodilation; increased intracranial pressure. High IV dose may cause chest wall rigidity. Transdermal: Rash, erythema and itching. |
+| 禁忌 | Hypersensitivity. |
+| 懷孕用藥危分級 | 除非治療上需要 |
+| 孕期用藥建議 | Human \(and animal\) data suggest risk |
+| 附帶說明 | N/A |
+| 哺乳期用藥建議 | Compatible 哺乳時可使用 |
+| 附帶說明 | N/A |
+| 注射劑給藥建議途徑 | EXT |
+| 乾粉稀釋液 | N/A |
+| 輸注點滴液 | N/A |
+| IVP 用法建議 | N/A |
+| IVD 用法建議 | N/A |
+| 注意事項 | N/A |
+
+## FENTANYL inj 0.5mg/10mL
+
+| 藥物代碼 | IFEN10 |
+| :--- | :--- |
+| 適應症 | Premed prior to surgery, Adjunct to general anesth induction, Adjunct to regional anesth, Post-operatively . |
+| 副作用 | Respiratory depression, apnoea, muscle rigidity & bradycardia. |
+| 禁忌 | Children &lt;2 years, bronchial asthma, respiratory depression & head injury. Patients who received MAOIs within previous 14 days. |
+| 藥物保存方式 | N/A |
+| 用法用量 | Premed 50-100 mcg IM 30-60 mins prior to surgery. Adjunct to general anesth induction 50-100 mcg IV & repeated at 2-3 mins intervals until the desired effect is achieved. Adjunct to regional anesth 50-100 mcg IM or slow IV inj. Post-operatively 50-100 mcg IM repeated in 1-2 hr as needed. Induction & maintenance of anaesth Children 2-12 years 20-30 mcg/10 kg body wt. |
+| 肝功能異常 | 無需調整劑量 |
+| 腎功能異常 | 無需調整劑量 |
+| 懷孕用藥危分級 | 儘量避免 |
+| 孕期用藥建議 | Human \(and animal\) data suggest risk |
+| 附帶說明 | N/A |
+| 哺乳期用藥建議 | Compatible 哺乳時可使用 |
+| 附帶說明 | N/A |
+| 注射劑給藥建議途徑 | IM, IVD, IVP, IVPUSH |
+| 乾粉稀釋液 | N/A |
+| 輸注點滴液 | 【D5W】 可選  【N/S】 可選 |
+| IVP 用法建議 | 推注時間成人 &gt; 1-2分鐘，兒童 &gt; 2-5分鐘 |
+| IVD 用法建議 | Usual Infusion Concentrations IV infusion: 10 mcg/mL |
+| 注意事項 | N/A |
+
+## Fentanyl inj 0.1mg/2mL
+
+| 藥物代碼 | IFEN2 |
+| :--- | :--- |
+| 適應症 | Premed prior to surgery, Adjunct to general anesth induction, Adjunct to regional anesth, Post-operatively . |
+| 副作用 | Respiratory depression, apnoea, muscle rigidity & bradycardia. |
+| 禁忌 | Children &lt;2 years, bronchial asthma, respiratory depression & head injury. Patients who received MAOIs within previous 14 days. |
+| 藥物保存方式 | N/A |
+| 用法用量 | Premed 50-100 mcg IM 30-60 mins prior to surgery. Adjunct to general anesth induction 50-100 mcg IV & repeated at 2-3 mins intervals until the desired effect is achieved. Adjunct to regional anesth 50-100 mcg IM or slow IV inj. Post-operatively 50-100 mcg IM repeated in 1-2 hr as needed. Induction & maintenance of anaesth Children 2-12 years 20-30 mcg/10 kg body wt. |
+| 肝功能異常 | 無需調整劑量 |
+| 腎功能異常 | 無需調整劑量 |
+| 懷孕用藥危分級 | 儘量避免 |
+| 孕期用藥建議 | Human \(and animal\) data suggest risk |
+| 附帶說明 | N/A |
+| 哺乳期用藥建議 | Compatible 哺乳時可使用 |
+| 附帶說明 | N/A |
+| 注射劑給藥建議途徑 | IM, IVD, IVP, IVPUSH |
+| 乾粉稀釋液 | N/A |
+| 輸注點滴液 | 【D5W】 可選  【N/S】 可選 |
+| IVP 用法建議 | 推注時間成人 &gt; 1-2分鐘，兒童 &gt; 2-5分鐘 |
+| IVD 用法建議 | N/A |
+| 注意事項 | N/A |
+
+## Fentanyl inj 0.1mg/2mL殘餘銷毀
+
+| 藥物代碼 | IFEN2BAD |
+| :--- | :--- |
+| 適應症 | NA |
+| 副作用 | NA |
+| 禁忌 | NA |
+| 藥物保存方式 | N/A |
+| 用法用量 | N/A |
+| 肝功能異常 | 無需調整劑量  需調整劑量 |
+| 腎功能異常 | 無需調整劑量  需調整劑量 |
+| 懷孕用藥危分級 | 尚未確立 |
+| 孕期用藥建議 | N/A |
+| 附帶說明 | N/A |
+| 哺乳期用藥建議 | N/A |
+| 附帶說明 | N/A |
+| 注射劑給藥建議途徑 | IM, IV, IVD |
+| 乾粉稀釋液 | N/A |
+| 輸注點滴液 | 【D5W】 可選  【N/S】 可選 |
+| IVP 用法建議 | 推注時間成人 &gt; 1-2分鐘，兒童 &gt; 2-5分鐘 |
+| IVD 用法建議 | N/A |
+| 注意事項 | N/A |
+

@@ -1,11 +1,5 @@
 # 索引
 
-## 處方集目錄分類說明
-
-| 藥理分類 | 說明 |
-| :--- | :--- |
-|  |  |
-
 ## 縮寫及中英文專有名詞對照表
 
 | 縮寫 | 英文詞彙 | 中文詞彙 |
@@ -72,7 +66,7 @@
 | IVPUSH | intravenous push | 靜脈注射的 |
 | JEV | Japanese encephalitis vaccine | 日本腦炎疫苗 |
 | KCl | Potassium chloride | 氯化鉀注射液 |
-| KIU | Kilo international unit | N/A |
+| KIU | Kilo international unit | 千國際單位 |
 | LA | Local use | 局部使用 |
 | LI | Local injection | 局部注射 |
 | mcg | Microgram | 微克\(國際單位\) |
@@ -87,29 +81,21 @@
 | OL | Left eye | 左眼 |
 | ORO | Oromucosal spray | 內舒拿水溶性鼻用噴液劑 |
 | OS | Left eye | 左眼 |
-| OU | Each eyes | 雙眼 |
-| P1 | \[Crushing\] | 磨粉分包一 |
-| P2 | \[Crushing\] | 磨粉分包二 |
-| P3 | \[Crushing\] | 磨粉分包三 |
-| P4 | \[Crushing\] | 磨粉分包四 |
-| PCNtest | Penicillin test | 盤尼西林測試 |
+| OU | Each eye | 雙眼 |
 | PFF | Puff | 下\(吸入劑、噴劑\) |
 | PGE2 | Prostaglandin e2 | N/A |
-| PI | percutaneous injection | N/A |
+| PI | percutaneous injection | 皮下注射 |
 | PK | Pack | 包 |
-| PO | Oral | N/A |
+| PO | Orally | 口服 |
 | PPI | Proton pump inhibitor | 氫離子幫浦阻斷劑 |
 | PPV23 | 23-valent pneumococcal polysaccharide vaccine | 23 價肺炎鏈球菌多醣疫苗 |
-| PRN | As needed | 需要時\(時間頻次\) |
+| PRN | As needed | 需要時 |
 | PTU | Propylthiouracil | 僕樂彼錠 |
 | PZA | Pyrazinamide | N/A |
-| Q\(x\)H | Every\(x\)hours | N/A |
+| Q\(x\)H | Every\(x\)hours | 每\(x\)小時 |
 | QD | Once a day | 每天早上\(飯後\)1次 |
 | QID | Four times a day | 一天四次三餐飯後（前）加睡前 |
 | QOD | Every other day | 每隔一天 |
-| Qqweek | Once a week | 每周 |
-| Qqweek 1…7 | Once on every week day 1…7 | N/A |
-| Qtc | Corrected qt interval | N/A |
 | RIF | Rifampicin | N/A |
 | SC | Subcutaneous | N/A |
 | SHA | Shampoo | 洗頭用 |
@@ -119,18 +105,10 @@
 | SUP | Suppository | 栓劑 |
 | susp | Suspension | 懸浮液 |
 | syr | Syrup | 糖漿 |
-| Ta1 | Taita no.1 | N/A |
-| Ta2 | Taita no.2 | N/A |
-| Ta3 | Taita no.3 | N/A |
-| Ta4 | Tatai no.4 | N/A |
-| Ta5 | Taita no.5 | N/A |
-| TAB | Tablet | N/A |
+| TAB | Tablet | 錠 |
 | Td | Tetanus & diphtheria | 白喉、破傷風混合疫苗 |
-| TOPI | topical use | N/A |
-| tPA | Tissue plasminogen activator | N/A |
+| TOPI | topical use | 局部使用 |
 | TUB | Tube | 條 |
 | VAG | Vaginal | 陰道用 |
 | VAL | Vial | 小瓶 |
-| VTAB | Vaginal Tablet | N/A |
-| WM | With meal | N/A |
 
