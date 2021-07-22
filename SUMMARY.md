@@ -3,269 +3,93 @@
 * [首頁](README.md)
 * [更新歷程](changelog.md)
 * [目錄](toc/README.md)
-
-
   * [Antidotes](toc/ad-00-00/README.md)
-
-
     * [General Antidotes](toc/ad-00-00/ad-01-00/README.md)
-
-
       * [Activated Charcoal](toc/ad-00-00/ad-01-00/activated_charcoal.md)
-
-
       * [Epinephrine](toc/ad-00-00/ad-01-00/epinephrine.md)
-
-
       * [Hyaluronidase](toc/ad-00-00/ad-01-00/hyaluronidase.md)
-
-
       * [Test Phr Name](toc/ad-00-00/ad-01-00/test_phr_name.md)
-
-
     * [Specific Antidotes](toc/ad-00-00/ad-02-00/README.md)
-
-
       * [Acamprosate](toc/ad-00-00/ad-02-00/acamprosate.md)
-
-
       * [Deferoxamine Methansulphonate](toc/ad-00-00/ad-02-00/deferoxamine_methansulphonate.md)
-
-
       * [Flumazenil](toc/ad-00-00/ad-02-00/flumazenil.md)
-
-
       * [Folinate](toc/ad-00-00/ad-02-00/folinate.md)
-
-
       * [Naltrexone](toc/ad-00-00/ad-02-00/naltrexone.md)
-
-
       * [Nicotine](toc/ad-00-00/ad-02-00/nicotine.md)
-
-
       * [Pralidoxime](toc/ad-00-00/ad-02-00/pralidoxime.md)
-
-
       * [Sodium Polystyrene Sulfonate](toc/ad-00-00/ad-02-00/sodium_polystyrene_sulfonate.md)
-
-
       * [Sugammadex](toc/ad-00-00/ad-02-00/sugammadex.md)
-
-
   * [Anti-Infective Agents](toc/ai-00-00/README.md)
-
-
     * [Antibacterials](toc/ai-00-00/ai-01-00/README.md)
-
-
       * [Penicillins](toc/ai-00-00/ai-01-00/ai-01-01/README.md)
-
-
         * [Amoxicillin-Clavulanic Acid](toc/ai-00-00/ai-01-00/ai-01-01/amoxicillin-clavulanic_acid.md)
-
-
         * [Amoxicillin](toc/ai-00-00/ai-01-00/ai-01-01/amoxicillin.md)
-
-
         * [Ampicillin-Sulbactam](toc/ai-00-00/ai-01-00/ai-01-01/ampicillin-sulbactam.md)
-
-
         * [Ampicillin](toc/ai-00-00/ai-01-00/ai-01-01/ampicillin.md)
-
-
         * [Dicloxacillin](toc/ai-00-00/ai-01-00/ai-01-01/dicloxacillin.md)
-
-
         * [Oxacillin](toc/ai-00-00/ai-01-00/ai-01-01/oxacillin.md)
-
-
         * [Penicillin G Benzathine](toc/ai-00-00/ai-01-00/ai-01-01/penicillin_g_benzathine.md)
-
-
         * [Piperacillin-Tazobactam](toc/ai-00-00/ai-01-00/ai-01-01/piperacillin-tazobactam.md)
-
-
       * [Cephalosporins](toc/ai-00-00/ai-01-00/ai-01-02/README.md)
-
-
         * [Cefaclor](toc/ai-00-00/ai-01-00/ai-01-02/cefaclor.md)
-
-
         * [Cefadroxil](toc/ai-00-00/ai-01-00/ai-01-02/cefadroxil.md)
-
-
         * [Cefazolin](toc/ai-00-00/ai-01-00/ai-01-02/cefazolin.md)
-
-
         * [Cefepime](toc/ai-00-00/ai-01-00/ai-01-02/cefepime.md)
-
-
         * [Cefixime](toc/ai-00-00/ai-01-00/ai-01-02/cefixime.md)
-
-
         * [Cefotaxime](toc/ai-00-00/ai-01-00/ai-01-02/cefotaxime.md)
-
-
         * [Ceftazidime](toc/ai-00-00/ai-01-00/ai-01-02/ceftazidime.md)
-
-
         * [Ceftriaxone](toc/ai-00-00/ai-01-00/ai-01-02/ceftriaxone.md)
-
-
         * [Cefuroxime](toc/ai-00-00/ai-01-00/ai-01-02/cefuroxime.md)
-
-
         * [Cephalexin](toc/ai-00-00/ai-01-00/ai-01-02/cephalexin.md)
-
-
         * [Flomoxef](toc/ai-00-00/ai-01-00/ai-01-02/flomoxef.md)
-
-
       * [Aminoglycosides](toc/ai-00-00/ai-01-00/ai-01-03/README.md)
-
-
         * [Gentamicin](toc/ai-00-00/ai-01-00/ai-01-03/gentamicin.md)
-
-
         * [Neomycin](toc/ai-00-00/ai-01-00/ai-01-03/neomycin.md)
-
-
       * [Tetracyclines](toc/ai-00-00/ai-01-00/ai-01-04/README.md)
-
-
         * [Doxycycline](toc/ai-00-00/ai-01-00/ai-01-04/doxycycline.md)
-
-
         * [Tetracycline](toc/ai-00-00/ai-01-00/ai-01-04/tetracycline.md)
-
-
         * [Tigecycline](toc/ai-00-00/ai-01-00/ai-01-04/tigecycline.md)
-
-
       * [Macrolides](toc/ai-00-00/ai-01-00/ai-01-06/README.md)
-
-
         * [Azithromycin](toc/ai-00-00/ai-01-00/ai-01-06/azithromycin.md)
-
-
         * [Clarithromycin](toc/ai-00-00/ai-01-00/ai-01-06/clarithromycin.md)
-
-
       * [Lincosamides](toc/ai-00-00/ai-01-00/ai-01-07/README.md)
-
-
         * [Clindamycin](toc/ai-00-00/ai-01-00/ai-01-07/clindamycin.md)
-
-
       * [Quinolones](toc/ai-00-00/ai-01-00/ai-01-08/README.md)
-
-
         * [Ciprofloxacin](toc/ai-00-00/ai-01-00/ai-01-08/ciprofloxacin.md)
-
-
         * [Levofloxacin](toc/ai-00-00/ai-01-00/ai-01-08/levofloxacin.md)
-
-
         * [Moxifloxacin](toc/ai-00-00/ai-01-00/ai-01-08/moxifloxacin.md)
-
-
         * [Pipemidic Acid](toc/ai-00-00/ai-01-00/ai-01-08/pipemidic_acid.md)
-
-
       * [Sulfonamide](toc/ai-00-00/ai-01-00/ai-01-09/README.md)
-
-
         * [Sulfamethoxazole-Trimethoprim](toc/ai-00-00/ai-01-00/ai-01-09/sulfamethoxazole-trimethoprim.md)
-
-
       * [Carbapenems](toc/ai-00-00/ai-01-00/ai-01-10/README.md)
-
-
         * [Imipenem-Cilastatin Sodium](toc/ai-00-00/ai-01-00/ai-01-10/imipenem-cilastatin_sodium.md)
-
-
         * [Meropenem](toc/ai-00-00/ai-01-00/ai-01-10/meropenem.md)
-
-
       * [Glycopeptides](toc/ai-00-00/ai-01-00/ai-01-11/README.md)
-
-
         * [Teicoplanin](toc/ai-00-00/ai-01-00/ai-01-11/teicoplanin.md)
-
-
         * [Vancomycin](toc/ai-00-00/ai-01-00/ai-01-11/vancomycin.md)
-
-
       * [Antituberculous](toc/ai-00-00/ai-01-00/ai-01-12/README.md)
-
-
         * [Ethambutol](toc/ai-00-00/ai-01-00/ai-01-12/ethambutol.md)
-
-
         * [Isoniazid](toc/ai-00-00/ai-01-00/ai-01-12/isoniazid.md)
-
-
         * [Pyrazinamide](toc/ai-00-00/ai-01-00/ai-01-12/pyrazinamide.md)
-
-
         * [Rifampicin](toc/ai-00-00/ai-01-00/ai-01-12/rifampicin.md)
-
-
       * [Miscellaneous Agents](toc/ai-00-00/ai-01-00/ai-01-13/README.md)
-
-
         * [Colistin Methanesulfonate](toc/ai-00-00/ai-01-00/ai-01-13/colistin_methanesulfonate.md)
-
-
         * [Linezolid](toc/ai-00-00/ai-01-00/ai-01-13/linezolid.md)
-
-
         * [Metronidazole](toc/ai-00-00/ai-01-00/ai-01-13/metronidazole.md)
-
-
     * [Antifungals](toc/ai-00-00/ai-02-00/README.md)
-
-
       * [Fluconazole](toc/ai-00-00/ai-02-00/fluconazole.md)
-
-
       * [Itraconazole](toc/ai-00-00/ai-02-00/itraconazole.md)
-
-
       * [Micafungin](toc/ai-00-00/ai-02-00/micafungin.md)
-
-
       * [Nystatin](toc/ai-00-00/ai-02-00/nystatin.md)
-
-
       * [Terbinafine](toc/ai-00-00/ai-02-00/terbinafine.md)
-
-
       * [Voriconazole](toc/ai-00-00/ai-02-00/voriconazole.md)
-
-
     * [Antivirals](toc/ai-00-00/ai-03-00/README.md)
-
-
       * [Acyclovir](toc/ai-00-00/ai-03-00/acyclovir.md)
-
-
       * [Asunaprevir](toc/ai-00-00/ai-03-00/asunaprevir.md)
-
-
       * [Baloxavir Marboxil](toc/ai-00-00/ai-03-00/baloxavir_marboxil.md)
-
-
       * [Daclatasvir](toc/ai-00-00/ai-03-00/daclatasvir.md)
-
-
       * [Entecavir](toc/ai-00-00/ai-03-00/entecavir.md)
-
-
       * [Glecaprevir-Pibrentasvir](toc/ai-00-00/ai-03-00/glecaprevir-pibrentasvir.md)
-
-
       * [/[Glecaprevir-Pibrentasvir /(1~6Type-8週/)/]/(toc/ai-00-00/ai-03-00/glecaprevir-pibrentasvir/_/(1~6type-8週/).](toc/ai-00-00/ai-03-00/glecaprevirpibrentasvir-16type8-zhou-tocai0000ai0300glecaprevirpibrentasvir16type8-zhou-.md.md)
 
 
