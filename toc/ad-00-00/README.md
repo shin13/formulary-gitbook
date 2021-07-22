@@ -1,6 +1,6 @@
 ---
- description: 解毒劑
+description: 解毒劑
 ---
 
-# Antidotes
+# ad-00-00
 

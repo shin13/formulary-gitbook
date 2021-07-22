@@ -1,6 +1,6 @@
 ---
- description: 特殊解毒劑
+description: 特殊解毒劑
 ---
 
-# Specific Antidotes
+# ad-02-00
 

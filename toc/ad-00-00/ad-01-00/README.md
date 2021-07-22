@@ -1,6 +1,6 @@
 ---
- description: 一般解毒劑
+description: 一般解毒劑
 ---
 
-# General Antidotes
+# ad-01-00
 

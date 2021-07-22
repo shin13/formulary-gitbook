@@ -2,24 +2,24 @@
 
 ## GI Klean Powder
 
-| 藥物代碼           | OGIK                                                                                                                                                                                                                                                                              |
-|:-------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 適應症             | Bowel prep before colonoscopy, colonic surgery, radiological exam & other related procedures.                                                                                                                                                                                     |
-| 副作用             | Nausea, bloatedness, abdominal pain, vomiting. Rarely rectal irritation.                                                                                                                                                                                                          |
-| 禁忌               | GI obstruction or perforation, ileus, gastric retention, acute intestinal or gastric ulceration, toxic colitis or megacolon.                                                                                                                                                      |
-| 藥物保存方式       | 25度C以下,乾燥儲存                                                                                                                                                                                                                                                                |
-| 用法用量           | Adult including elderly & renal insufficiency patient 1 sachet In 1 L water. 250ml to be drunk rapidly every 10-15 mins until all soln has been consumed. Repeat procedure with 2-4 sachets or until the rectal effuent is clear. Avoid non-fluid food 2 hours before medication. |
-| 肝功能異常         | 無需調整劑量                                                                                                                                                                                                                                                                      |
-| 腎功能異常         | 無需調整劑量                                                                                                                                                                                                                                                                      |
-| 懷孕用藥危分級     | 除非治療上需要                                                                                                                                                                                                                                                                    |
-| 孕期用藥建議       | Compatible                                                                                                                                                                                                                                                                        |
-| 附帶說明           | N/A                                                                                                                                                                                                                                                                               |
-| 哺乳期用藥建議     | No (Limited) Human Data - Probably Compatible 無(很少)資料 - 可使用                                                                                                                                                                                                               |
-| 附帶說明           | N/A                                                                                                                                                                                                                                                                               |
-| 注射劑給藥建議途徑 | N/A                                                                                                                                                                                                                                                                               |
-| 乾粉稀釋液         | N/A                                                                                                                                                                                                                                                                               |
-| 輸注點滴液         | N/A                                                                                                                                                                                                                                                                               |
-| IVP 用法建議       | N/A                                                                                                                                                                                                                                                                               |
-| IVD 用法建議       | N/A                                                                                                                                                                                                                                                                               |
-| 注意事項           | N/A                                                                                                                                                                                                                                                                               |
+| 藥物代碼 | OGIK |
+| :--- | :--- |
+| 適應症 | Bowel prep before colonoscopy, colonic surgery, radiological exam & other related procedures. |
+| 副作用 | Nausea, bloatedness, abdominal pain, vomiting. Rarely rectal irritation. |
+| 禁忌 | GI obstruction or perforation, ileus, gastric retention, acute intestinal or gastric ulceration, toxic colitis or megacolon. |
+| 藥物保存方式 | 25度C以下,乾燥儲存 |
+| 用法用量 | Adult including elderly & renal insufficiency patient 1 sachet In 1 L water. 250ml to be drunk rapidly every 10-15 mins until all soln has been consumed. Repeat procedure with 2-4 sachets or until the rectal effuent is clear. Avoid non-fluid food 2 hours before medication. |
+| 肝功能異常 | 無需調整劑量 |
+| 腎功能異常 | 無需調整劑量 |
+| 懷孕用藥危分級 | 除非治療上需要 |
+| 孕期用藥建議 | Compatible |
+| 附帶說明 | N/A |
+| 哺乳期用藥建議 | No \(Limited\) Human Data - Probably Compatible 無\(很少\)資料 - 可使用 |
+| 附帶說明 | N/A |
+| 注射劑給藥建議途徑 | N/A |
+| 乾粉稀釋液 | N/A |
+| 輸注點滴液 | N/A |
+| IVP 用法建議 | N/A |
+| IVD 用法建議 | N/A |
+| 注意事項 | N/A |
 

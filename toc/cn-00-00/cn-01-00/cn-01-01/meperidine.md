@@ -2,43 +2,43 @@
 
 ## Pethidine HCl inj 50mg/1mL
 
-| 藥物代碼           | IPET                                                                                                                                                                                                                          |
-|:-------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 適應症             | Analgesia.                                                                                                                                                                                                                    |
-| 副作用             | Respiratory depression. Lightheadednes, dizziness, sedation, nausea, vomiting, perspiration. CNS disturbances, muscle spasm, visual disturbances. Dry mouth, constipation, biliary spasm. Urinary retention. Pain at inj site |
-| 禁忌               | Concurrent use with MAOIs or within 2 weeks of the therapy.                                                                                                                                                                   |
-| 懷孕用藥危分級     | 可能安全                                                                                                                                                                                                                      |
-| 孕期用藥建議       | Human (and animal) data suggest risk                                                                                                                                                                                          |
-| 附帶說明           | N/A                                                                                                                                                                                                                           |
-| 哺乳期用藥建議     | Compatible 哺乳時可使用                                                                                                                                                                                                       |
-| 附帶說明           | N/A                                                                                                                                                                                                                           |
-| 注射劑給藥建議途徑 | IM, IVD, IVP, IVPUSH                                                                                                                                                                                                          |
-| 乾粉稀釋液         | N/A                                                                                                                                                                                                                           |
-| 輸注點滴液         | 【D10W】 可選  【D5NS】 可選  【D5W】 可選 仿單建議  【H/S】 可選  【L/R】 可選  【N/S】 可選 仿單建議                                                                                                                        |
-| IVP 用法建議       | 緩慢推注                                                                                                                                                                                                                      |
-| IVD 用法建議       | 以適當輸注液稀釋成1 mg/mL，給藥速率依病人反應進行調整;不能連續超過48小時，或是累積劑量不能超過 600mg/24小時                                                                                                                   |
-| 注意事項           | 1. IM: 注射於大的肌肉。 2. 給藥時最好讓病人躺下。 3. 對於腎功能正常的病人，Pethidine 連續使用不能超過48 小時，或是累積劑量不能超過600 mg/24 小時。                                                                            |
+| 藥物代碼 | IPET |
+| :--- | :--- |
+| 適應症 | Analgesia. |
+| 副作用 | Respiratory depression. Lightheadednes, dizziness, sedation, nausea, vomiting, perspiration. CNS disturbances, muscle spasm, visual disturbances. Dry mouth, constipation, biliary spasm. Urinary retention. Pain at inj site |
+| 禁忌 | Concurrent use with MAOIs or within 2 weeks of the therapy. |
+| 懷孕用藥危分級 | 可能安全 |
+| 孕期用藥建議 | Human \(and animal\) data suggest risk |
+| 附帶說明 | N/A |
+| 哺乳期用藥建議 | Compatible 哺乳時可使用 |
+| 附帶說明 | N/A |
+| 注射劑給藥建議途徑 | IM, IVD, IVP, IVPUSH |
+| 乾粉稀釋液 | N/A |
+| 輸注點滴液 | 【D10W】 可選  【D5NS】 可選  【D5W】 可選 仿單建議  【H/S】 可選  【L/R】 可選  【N/S】 可選 仿單建議 |
+| IVP 用法建議 | 緩慢推注 |
+| IVD 用法建議 | 以適當輸注液稀釋成1 mg/mL，給藥速率依病人反應進行調整;不能連續超過48小時，或是累積劑量不能超過 600mg/24小時 |
+| 注意事項 | 1. IM: 注射於大的肌肉。 2. 給藥時最好讓病人躺下。 3. 對於腎功能正常的病人，Pethidine 連續使用不能超過48 小時，或是累積劑量不能超過600 mg/24 小時。 |
 
 ## Pethidine inj 50mg/1mL殘餘銷燬
 
-| 藥物代碼           | IPETBAD                                                                                                                                                                                                                                                                                                                                                                                                                            |
-|:-------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 適應症             | NA                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| 副作用             | NA                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| 禁忌               | NA                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| 藥物保存方式       | N/A                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| 用法用量           | Analgesic:  Adult: IM or SC 50-150 mg q3-4h.  Child: 1.1-1.76 mg/kg q3-4h. Obstetrical analgesia: IM or SC, 50-100 mg, administered when pains become regular, may be repeated at 1-3 hrs intervals. Preoperative:  Adult: IM or SC, 50-100 mg 30'-90' prior to anesthesia.  Child: 1-2.2 mg/kg. Adjunct to anesthesia:  IV: Slow injection of fractional doses of a soln diluted to 10 mg/ml.  IVF: As a soln diluted to 1 mg/ml. |
-| 肝功能異常         | 無需調整劑量  需調整劑量                                                                                                                                                                                                                                                                                                                                                                                                           |
-| 腎功能異常         | 無需調整劑量  需調整劑量                                                                                                                                                                                                                                                                                                                                                                                                           |
-| 懷孕用藥危分級     | 可能安全                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| 孕期用藥建議       | Human data suggest low risk                                                                                                                                                                                                                                                                                                                                                                                                        |
-| 附帶說明           | N/A                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| 哺乳期用藥建議     | Compatible 哺乳時可使用                                                                                                                                                                                                                                                                                                                                                                                                            |
-| 附帶說明           | N/A                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| 注射劑給藥建議途徑 | IM, IVD, IVP, IVPUSH                                                                                                                                                                                                                                                                                                                                                                                                               |
-| 乾粉稀釋液         | N/A                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| 輸注點滴液         | N/A                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| IVP 用法建議       | N/A                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| IVD 用法建議       | N/A                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| 注意事項           | N/A                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| 藥物代碼 | IPETBAD |
+| :--- | :--- |
+| 適應症 | NA |
+| 副作用 | NA |
+| 禁忌 | NA |
+| 藥物保存方式 | N/A |
+| 用法用量 | Analgesic:  Adult: IM or SC 50-150 mg q3-4h.  Child: 1.1-1.76 mg/kg q3-4h. Obstetrical analgesia: IM or SC, 50-100 mg, administered when pains become regular, may be repeated at 1-3 hrs intervals. Preoperative:  Adult: IM or SC, 50-100 mg 30'-90' prior to anesthesia.  Child: 1-2.2 mg/kg. Adjunct to anesthesia:  IV: Slow injection of fractional doses of a soln diluted to 10 mg/ml.  IVF: As a soln diluted to 1 mg/ml. |
+| 肝功能異常 | 無需調整劑量  需調整劑量 |
+| 腎功能異常 | 無需調整劑量  需調整劑量 |
+| 懷孕用藥危分級 | 可能安全 |
+| 孕期用藥建議 | Human data suggest low risk |
+| 附帶說明 | N/A |
+| 哺乳期用藥建議 | Compatible 哺乳時可使用 |
+| 附帶說明 | N/A |
+| 注射劑給藥建議途徑 | IM, IVD, IVP, IVPUSH |
+| 乾粉稀釋液 | N/A |
+| 輸注點滴液 | N/A |
+| IVP 用法建議 | N/A |
+| IVD 用法建議 | N/A |
+| 注意事項 | N/A |
 
