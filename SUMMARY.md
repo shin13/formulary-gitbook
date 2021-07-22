@@ -1,2567 +1,1 @@
-# Table of contents
-
-* [首頁](README.md)
-* [更新歷程](changelog.md)
-* [目錄](toc/README.md)
-  * [Antidotes](toc/ad-00-00/README.md)
-    * [General Antidotes](toc/ad-00-00/ad-01-00/README.md)
-      * [Activated Charcoal](toc/ad-00-00/ad-01-00/activated_charcoal.md)
-      * [Epinephrine](toc/ad-00-00/ad-01-00/epinephrine.md)
-      * [Hyaluronidase](toc/ad-00-00/ad-01-00/hyaluronidase.md)
-      * [Test Phr Name](toc/ad-00-00/ad-01-00/test_phr_name.md)
-    * [Specific Antidotes](toc/ad-00-00/ad-02-00/README.md)
-      * [Acamprosate](toc/ad-00-00/ad-02-00/acamprosate.md)
-      * [Deferoxamine Methansulphonate](toc/ad-00-00/ad-02-00/deferoxamine_methansulphonate.md)
-      * [Flumazenil](toc/ad-00-00/ad-02-00/flumazenil.md)
-      * [Folinate](toc/ad-00-00/ad-02-00/folinate.md)
-      * [Naltrexone](toc/ad-00-00/ad-02-00/naltrexone.md)
-      * [Nicotine](toc/ad-00-00/ad-02-00/nicotine.md)
-      * [Pralidoxime](toc/ad-00-00/ad-02-00/pralidoxime.md)
-      * [Sodium Polystyrene Sulfonate](toc/ad-00-00/ad-02-00/sodium_polystyrene_sulfonate.md)
-      * [Sugammadex](toc/ad-00-00/ad-02-00/sugammadex.md)
-  * [Anti-Infective Agents](toc/ai-00-00/README.md)
-    * [Antibacterials](toc/ai-00-00/ai-01-00/README.md)
-      * [Penicillins](toc/ai-00-00/ai-01-00/ai-01-01/README.md)
-        * [Amoxicillin-Clavulanic Acid](toc/ai-00-00/ai-01-00/ai-01-01/amoxicillin-clavulanic_acid.md)
-        * [Amoxicillin](toc/ai-00-00/ai-01-00/ai-01-01/amoxicillin.md)
-        * [Ampicillin-Sulbactam](toc/ai-00-00/ai-01-00/ai-01-01/ampicillin-sulbactam.md)
-        * [Ampicillin](toc/ai-00-00/ai-01-00/ai-01-01/ampicillin.md)
-        * [Dicloxacillin](toc/ai-00-00/ai-01-00/ai-01-01/dicloxacillin.md)
-        * [Oxacillin](toc/ai-00-00/ai-01-00/ai-01-01/oxacillin.md)
-        * [Penicillin G Benzathine](toc/ai-00-00/ai-01-00/ai-01-01/penicillin_g_benzathine.md)
-        * [Piperacillin-Tazobactam](toc/ai-00-00/ai-01-00/ai-01-01/piperacillin-tazobactam.md)
-      * [Cephalosporins](toc/ai-00-00/ai-01-00/ai-01-02/README.md)
-        * [Cefaclor](toc/ai-00-00/ai-01-00/ai-01-02/cefaclor.md)
-        * [Cefadroxil](toc/ai-00-00/ai-01-00/ai-01-02/cefadroxil.md)
-        * [Cefazolin](toc/ai-00-00/ai-01-00/ai-01-02/cefazolin.md)
-        * [Cefepime](toc/ai-00-00/ai-01-00/ai-01-02/cefepime.md)
-        * [Cefixime](toc/ai-00-00/ai-01-00/ai-01-02/cefixime.md)
-        * [Cefotaxime](toc/ai-00-00/ai-01-00/ai-01-02/cefotaxime.md)
-        * [Ceftazidime](toc/ai-00-00/ai-01-00/ai-01-02/ceftazidime.md)
-        * [Ceftriaxone](toc/ai-00-00/ai-01-00/ai-01-02/ceftriaxone.md)
-        * [Cefuroxime](toc/ai-00-00/ai-01-00/ai-01-02/cefuroxime.md)
-        * [Cephalexin](toc/ai-00-00/ai-01-00/ai-01-02/cephalexin.md)
-        * [Flomoxef](toc/ai-00-00/ai-01-00/ai-01-02/flomoxef.md)
-      * [Aminoglycosides](toc/ai-00-00/ai-01-00/ai-01-03/README.md)
-        * [Gentamicin](toc/ai-00-00/ai-01-00/ai-01-03/gentamicin.md)
-        * [Neomycin](toc/ai-00-00/ai-01-00/ai-01-03/neomycin.md)
-      * [Tetracyclines](toc/ai-00-00/ai-01-00/ai-01-04/README.md)
-        * [Doxycycline](toc/ai-00-00/ai-01-00/ai-01-04/doxycycline.md)
-        * [Tetracycline](toc/ai-00-00/ai-01-00/ai-01-04/tetracycline.md)
-        * [Tigecycline](toc/ai-00-00/ai-01-00/ai-01-04/tigecycline.md)
-      * [Macrolides](toc/ai-00-00/ai-01-00/ai-01-06/README.md)
-        * [Azithromycin](toc/ai-00-00/ai-01-00/ai-01-06/azithromycin.md)
-        * [Clarithromycin](toc/ai-00-00/ai-01-00/ai-01-06/clarithromycin.md)
-      * [Lincosamides](toc/ai-00-00/ai-01-00/ai-01-07/README.md)
-        * [Clindamycin](toc/ai-00-00/ai-01-00/ai-01-07/clindamycin.md)
-      * [Quinolones](toc/ai-00-00/ai-01-00/ai-01-08/README.md)
-        * [Ciprofloxacin](toc/ai-00-00/ai-01-00/ai-01-08/ciprofloxacin.md)
-        * [Levofloxacin](toc/ai-00-00/ai-01-00/ai-01-08/levofloxacin.md)
-        * [Moxifloxacin](toc/ai-00-00/ai-01-00/ai-01-08/moxifloxacin.md)
-        * [Pipemidic Acid](toc/ai-00-00/ai-01-00/ai-01-08/pipemidic_acid.md)
-      * [Sulfonamide](toc/ai-00-00/ai-01-00/ai-01-09/README.md)
-        * [Sulfamethoxazole-Trimethoprim](toc/ai-00-00/ai-01-00/ai-01-09/sulfamethoxazole-trimethoprim.md)
-      * [Carbapenems](toc/ai-00-00/ai-01-00/ai-01-10/README.md)
-        * [Imipenem-Cilastatin Sodium](toc/ai-00-00/ai-01-00/ai-01-10/imipenem-cilastatin_sodium.md)
-        * [Meropenem](toc/ai-00-00/ai-01-00/ai-01-10/meropenem.md)
-      * [Glycopeptides](toc/ai-00-00/ai-01-00/ai-01-11/README.md)
-        * [Teicoplanin](toc/ai-00-00/ai-01-00/ai-01-11/teicoplanin.md)
-        * [Vancomycin](toc/ai-00-00/ai-01-00/ai-01-11/vancomycin.md)
-      * [Antituberculous](toc/ai-00-00/ai-01-00/ai-01-12/README.md)
-        * [Ethambutol](toc/ai-00-00/ai-01-00/ai-01-12/ethambutol.md)
-        * [Isoniazid](toc/ai-00-00/ai-01-00/ai-01-12/isoniazid.md)
-        * [Pyrazinamide](toc/ai-00-00/ai-01-00/ai-01-12/pyrazinamide.md)
-        * [Rifampicin](toc/ai-00-00/ai-01-00/ai-01-12/rifampicin.md)
-      * [Miscellaneous Agents](toc/ai-00-00/ai-01-00/ai-01-13/README.md)
-        * [Colistin Methanesulfonate](toc/ai-00-00/ai-01-00/ai-01-13/colistin_methanesulfonate.md)
-        * [Linezolid](toc/ai-00-00/ai-01-00/ai-01-13/linezolid.md)
-        * [Metronidazole](toc/ai-00-00/ai-01-00/ai-01-13/metronidazole.md)
-    * [Antifungals](toc/ai-00-00/ai-02-00/README.md)
-      * [Fluconazole](toc/ai-00-00/ai-02-00/fluconazole.md)
-      * [Itraconazole](toc/ai-00-00/ai-02-00/itraconazole.md)
-      * [Micafungin](toc/ai-00-00/ai-02-00/micafungin.md)
-      * [Nystatin](toc/ai-00-00/ai-02-00/nystatin.md)
-      * [Terbinafine](toc/ai-00-00/ai-02-00/terbinafine.md)
-      * [Voriconazole](toc/ai-00-00/ai-02-00/voriconazole.md)
-    * [Antivirals](toc/ai-00-00/ai-03-00/README.md)
-      * [Acyclovir](toc/ai-00-00/ai-03-00/acyclovir.md)
-      * [Asunaprevir](toc/ai-00-00/ai-03-00/asunaprevir.md)
-      * [Baloxavir Marboxil](toc/ai-00-00/ai-03-00/baloxavir_marboxil.md)
-      * [Daclatasvir](toc/ai-00-00/ai-03-00/daclatasvir.md)
-      * [Entecavir](toc/ai-00-00/ai-03-00/entecavir.md)
-      * [Glecaprevir-Pibrentasvir](toc/ai-00-00/ai-03-00/glecaprevir-pibrentasvir.md)
-      * [/[Glecaprevir-Pibrentasvir /(1~6Type-8週/)/]/(toc/ai-00-00/ai-03-00/glecaprevir-pibrentasvir/_/(1~6type-8週/).](toc/ai-00-00/ai-03-00/glecaprevirpibrentasvir-16type8-zhou-tocai0000ai0300glecaprevirpibrentasvir16type8-zhou-.md.md)
-
-
-      * [/[Harvoni --- Ribavirin /(1、4、5、6-12週/)/]/(toc/ai-00-00/ai-03-00/harvoni---/_ribavirin/(1、4、5、6-12週/).md/)](toc/ai-00-00/ai-03-00/harvoni-ribavirin-145612-zhou-tocai0000ai0300harvoniribavirin145612-zhou-.md.md)
-
-
-      * [Ledipasvir-Sofosbuvir](toc/ai-00-00/ai-03-00/ledipasvir-sofosbuvir.md)
-
-
-      * [Methisoprinol](toc/ai-00-00/ai-03-00/methisoprinol.md)
-
-
-      * [Oseltamivir](toc/ai-00-00/ai-03-00/oseltamivir.md)
-
-
-      * [Peramivir](toc/ai-00-00/ai-03-00/peramivir.md)
-
-
-      * [Remdesivir](toc/ai-00-00/ai-03-00/remdesivir.md)
-
-
-      * [Ribavirin](toc/ai-00-00/ai-03-00/ribavirin.md)
-
-
-      * [Sofosbuvir-Velpatasvir](toc/ai-00-00/ai-03-00/sofosbuvir-velpatasvir.md)
-
-
-      * [Sofosbuvir](toc/ai-00-00/ai-03-00/sofosbuvir.md)
-
-
-      * [/[Sovaldi-Ribavirin /(2-12週/)/]/(toc/ai-00-00/ai-03-00/sovaldi-ribavirin/_/(2-12週/).md/)](toc/ai-00-00/ai-03-00/sovaldiribavirin-212-zhou-tocai0000ai0300sovaldiribavirin212-zhou-.md.md)
-
-
-      * [Tenofovir](toc/ai-00-00/ai-03-00/tenofovir.md)
-
-
-      * [Tenofovir Alafenamide](toc/ai-00-00/ai-03-00/tenofovir_alafenamide.md)
-
-
-      * [Valaciclovir](toc/ai-00-00/ai-03-00/valaciclovir.md)
-
-
-      * [Zanamivir](toc/ai-00-00/ai-03-00/zanamivir.md)
-
-
-    * [Antiparasitics](toc/ai-00-00/ai-04-00/README.md)
-
-
-      * [Hydroxychloroquine](toc/ai-00-00/ai-04-00/hydroxychloroquine.md)
-
-
-  * [Neuro-Muscular System](toc/cn-00-00/README.md)
-
-
-    * [Analgesics, Antipyretics And Anti-Inflammatory Agents](toc/cn-00-00/cn-01-00/README.md)
-
-
-      * [Narcotic Analgesics](toc/cn-00-00/cn-01-00/cn-01-01/README.md)
-
-
-        * [Alfentanil](toc/cn-00-00/cn-01-00/cn-01-01/alfentanil.md)
-
-
-        * [Buprenorphine-Naloxone](toc/cn-00-00/cn-01-00/cn-01-01/buprenorphine-naloxone.md)
-
-
-        * [Butorphanol](toc/cn-00-00/cn-01-00/cn-01-01/butorphanol.md)
-
-
-        * [Codeine](toc/cn-00-00/cn-01-00/cn-01-01/codeine.md)
-
-
-        * [Dinalbuphine](toc/cn-00-00/cn-01-00/cn-01-01/dinalbuphine.md)
-
-
-        * [Fentanyl](toc/cn-00-00/cn-01-00/cn-01-01/fentanyl.md)
-
-
-        * [Meperidine](toc/cn-00-00/cn-01-00/cn-01-01/meperidine.md)
-
-
-        * [Morphine](toc/cn-00-00/cn-01-00/cn-01-01/morphine.md)
-
-
-        * [Nalbuphine](toc/cn-00-00/cn-01-00/cn-01-01/nalbuphine.md)
-
-
-        * [/[Pca-1 Inj 100Ml /(自費/)/]/(toc/cn-00-00/cn-01-00/cn-01-01/pca-1inj/_100ml/(自費/).md/)](toc/cn-00-00/cn-01-00/cn-01-01/pca1-inj-100ml-zi-fei-toccn0000cn0100cn0101pca1inj100ml-zi-fei-.md.md)
-
-
-        * [Tramadol-Acetaminophen](toc/cn-00-00/cn-01-00/cn-01-01/tramadol-acetaminophen.md)
-
-
-        * [Tramadol](toc/cn-00-00/cn-01-00/cn-01-01/tramadol.md)
-
-
-      * [Non-Steroidal Anti-Inflammatory Drugs (Nsaid)](toc/cn-00-00/cn-01-00/cn-01-02/README.md)
-
-
-        * [Aceclofenac](toc/cn-00-00/cn-01-00/cn-01-02/aceclofenac.md)
-
-
-        * [Benzydamine](toc/cn-00-00/cn-01-00/cn-01-02/benzydamine.md)
-
-
-        * [Diclofenac](toc/cn-00-00/cn-01-00/cn-01-02/diclofenac.md)
-
-
-        * [Etodolac](toc/cn-00-00/cn-01-00/cn-01-02/etodolac.md)
-
-
-        * [Etofenamate](toc/cn-00-00/cn-01-00/cn-01-02/etofenamate.md)
-
-
-        * [Flurbiprofen](toc/cn-00-00/cn-01-00/cn-01-02/flurbiprofen.md)
-
-
-        * [Ibuprofen](toc/cn-00-00/cn-01-00/cn-01-02/ibuprofen.md)
-
-
-        * [Indomethacin](toc/cn-00-00/cn-01-00/cn-01-02/indomethacin.md)
-
-
-        * [Ketorolac](toc/cn-00-00/cn-01-00/cn-01-02/ketorolac.md)
-
-
-        * [Mefenamic Acid](toc/cn-00-00/cn-01-00/cn-01-02/mefenamic_acid.md)
-
-
-        * [Naproxen](toc/cn-00-00/cn-01-00/cn-01-02/naproxen.md)
-
-
-      * [Cox-2 Inhibitors](toc/cn-00-00/cn-01-00/cn-01-03/README.md)
-
-
-        * [Meloxicam](toc/cn-00-00/cn-01-00/cn-01-03/meloxicam.md)
-
-
-        * [Parecoxib](toc/cn-00-00/cn-01-00/cn-01-03/parecoxib.md)
-
-
-      * [Drugs Used In Gout](toc/cn-00-00/cn-01-00/cn-01-04/README.md)
-
-
-        * [Allopurinol](toc/cn-00-00/cn-01-00/cn-01-04/allopurinol.md)
-
-
-        * [Benzbromarone](toc/cn-00-00/cn-01-00/cn-01-04/benzbromarone.md)
-
-
-        * [Colchicine](toc/cn-00-00/cn-01-00/cn-01-04/colchicine.md)
-
-
-        * [Febuxostat](toc/cn-00-00/cn-01-00/cn-01-04/febuxostat.md)
-
-
-      * [Others](toc/cn-00-00/cn-01-00/cn-01-05/README.md)
-
-
-        * [Acetaminophen](toc/cn-00-00/cn-01-00/cn-01-05/acetaminophen.md)
-
-
-        * [Nefopam](toc/cn-00-00/cn-01-00/cn-01-05/nefopam.md)
-
-
-        * [Propacetamol](toc/cn-00-00/cn-01-00/cn-01-05/propacetamol.md)
-
-
-    * [Psychopharmacologic Drugs](toc/cn-00-00/cn-02-00/README.md)
-
-
-      * [Antipsychotics](toc/cn-00-00/cn-02-00/cn-02-01/README.md)
-
-
-        * [Amisulpride](toc/cn-00-00/cn-02-00/cn-02-01/amisulpride.md)
-
-
-        * [Aripiprazole](toc/cn-00-00/cn-02-00/cn-02-01/aripiprazole.md)
-
-
-        * [Brexpiprazole](toc/cn-00-00/cn-02-00/cn-02-01/brexpiprazole.md)
-
-
-        * [Clozapine](toc/cn-00-00/cn-02-00/cn-02-01/clozapine.md)
-
-
-        * [Haloperidol](toc/cn-00-00/cn-02-00/cn-02-01/haloperidol.md)
-
-
-        * [Lurasidone](toc/cn-00-00/cn-02-00/cn-02-01/lurasidone.md)
-
-
-        * [Olanzapine](toc/cn-00-00/cn-02-00/cn-02-01/olanzapine.md)
-
-
-        * [Paliperidone](toc/cn-00-00/cn-02-00/cn-02-01/paliperidone.md)
-
-
-        * [Quetiapine](toc/cn-00-00/cn-02-00/cn-02-01/quetiapine.md)
-
-
-        * [Risperidone](toc/cn-00-00/cn-02-00/cn-02-01/risperidone.md)
-
-
-        * [Sulpiride](toc/cn-00-00/cn-02-00/cn-02-01/sulpiride.md)
-
-
-        * [Zotepine](toc/cn-00-00/cn-02-00/cn-02-01/zotepine.md)
-
-
-      * [Anxiolytics](toc/cn-00-00/cn-02-00/cn-02-02/README.md)
-
-
-        * [Alprazolam](toc/cn-00-00/cn-02-00/cn-02-02/alprazolam.md)
-
-
-        * [Bromazepam](toc/cn-00-00/cn-02-00/cn-02-02/bromazepam.md)
-
-
-        * [Buspirone](toc/cn-00-00/cn-02-00/cn-02-02/buspirone.md)
-
-
-        * [Chlordiazepoxide](toc/cn-00-00/cn-02-00/cn-02-02/chlordiazepoxide.md)
-
-
-        * [Diazepam](toc/cn-00-00/cn-02-00/cn-02-02/diazepam.md)
-
-
-        * [Fludiazepam](toc/cn-00-00/cn-02-00/cn-02-02/fludiazepam.md)
-
-
-        * [Flurazepam](toc/cn-00-00/cn-02-00/cn-02-02/flurazepam.md)
-
-
-        * [Lorazepam](toc/cn-00-00/cn-02-00/cn-02-02/lorazepam.md)
-
-
-      * [Antidepressants- Tricyclic Antidepressants](toc/cn-00-00/cn-02-00/cn-02-03/README.md)
-
-
-        * [Amitriptyline](toc/cn-00-00/cn-02-00/cn-02-03/amitriptyline.md)
-
-
-        * [Imipramine](toc/cn-00-00/cn-02-00/cn-02-03/imipramine.md)
-
-
-      * [Antidepressants- Selective Serotonin Reuptake Inhibitors](toc/cn-00-00/cn-02-00/cn-02-04/README.md)
-
-
-        * [Escitalopram](toc/cn-00-00/cn-02-00/cn-02-04/escitalopram.md)
-
-
-        * [Fluvoxamine](toc/cn-00-00/cn-02-00/cn-02-04/fluvoxamine.md)
-
-
-        * [Paroxetine](toc/cn-00-00/cn-02-00/cn-02-04/paroxetine.md)
-
-
-        * [Sertraline](toc/cn-00-00/cn-02-00/cn-02-04/sertraline.md)
-
-
-      * [Antidepressants- Serotonin-Norepinephrine Reuptake Inhibitors](toc/cn-00-00/cn-02-00/cn-02-05/README.md)
-
-
-        * [Venlafaxine](toc/cn-00-00/cn-02-00/cn-02-05/venlafaxine.md)
-
-
-        * [Vortioxetine](toc/cn-00-00/cn-02-00/cn-02-05/vortioxetine.md)
-
-
-      * [Antidepressants- Others](toc/cn-00-00/cn-02-00/cn-02-06/README.md)
-
-
-        * [Agomelatine](toc/cn-00-00/cn-02-00/cn-02-06/agomelatine.md)
-
-
-        * [Bupropion](toc/cn-00-00/cn-02-00/cn-02-06/bupropion.md)
-
-
-        * [Flupentixol-Melitracen](toc/cn-00-00/cn-02-00/cn-02-06/flupentixol-melitracen.md)
-
-
-        * [Mirtazapine](toc/cn-00-00/cn-02-00/cn-02-06/mirtazapine.md)
-
-
-        * [Trazodone](toc/cn-00-00/cn-02-00/cn-02-06/trazodone.md)
-
-
-      * [Sedatives And Hypnotics](toc/cn-00-00/cn-02-00/cn-02-07/README.md)
-
-
-        * [Brotizolam](toc/cn-00-00/cn-02-00/cn-02-07/brotizolam.md)
-
-
-        * [Chloral Hydrate](toc/cn-00-00/cn-02-00/cn-02-07/chloral_hydrate.md)
-
-
-        * [Estazolam](toc/cn-00-00/cn-02-00/cn-02-07/estazolam.md)
-
-
-        * [Flunitrazepam](toc/cn-00-00/cn-02-00/cn-02-07/flunitrazepam.md)
-
-
-        * [Midazolam](toc/cn-00-00/cn-02-00/cn-02-07/midazolam.md)
-
-
-        * [Phenobarbital](toc/cn-00-00/cn-02-00/cn-02-07/phenobarbital.md)
-
-
-        * [Zolpidem](toc/cn-00-00/cn-02-00/cn-02-07/zolpidem.md)
-
-
-        * [Zopiclone](toc/cn-00-00/cn-02-00/cn-02-07/zopiclone.md)
-
-
-      * [Cns Stimulant](toc/cn-00-00/cn-02-00/cn-02-08/README.md)
-
-
-        * [Atomoxetine](toc/cn-00-00/cn-02-00/cn-02-08/atomoxetine.md)
-
-
-        * [Caffeine Citrate](toc/cn-00-00/cn-02-00/cn-02-08/caffeine_citrate.md)
-
-
-        * [Methylphenidate](toc/cn-00-00/cn-02-00/cn-02-08/methylphenidate.md)
-
-
-    * [Neurologic Drugs](toc/cn-00-00/cn-03-00/README.md)
-
-
-      * [Antiepileptics](toc/cn-00-00/cn-03-00/cn-03-01/README.md)
-
-
-        * [Carbamazepine](toc/cn-00-00/cn-03-00/cn-03-01/carbamazepine.md)
-
-
-        * [Clonazepam](toc/cn-00-00/cn-03-00/cn-03-01/clonazepam.md)
-
-
-        * [Lacosamide](toc/cn-00-00/cn-03-00/cn-03-01/lacosamide.md)
-
-
-        * [Lamotrigine](toc/cn-00-00/cn-03-00/cn-03-01/lamotrigine.md)
-
-
-        * [Levetiracetam](toc/cn-00-00/cn-03-00/cn-03-01/levetiracetam.md)
-
-
-        * [Oxcarbazepine](toc/cn-00-00/cn-03-00/cn-03-01/oxcarbazepine.md)
-
-
-        * [Perampanel](toc/cn-00-00/cn-03-00/cn-03-01/perampanel.md)
-
-
-        * [Phenytoin](toc/cn-00-00/cn-03-00/cn-03-01/phenytoin.md)
-
-
-        * [Pregabalin](toc/cn-00-00/cn-03-00/cn-03-01/pregabalin.md)
-
-
-        * [Topiramate](toc/cn-00-00/cn-03-00/cn-03-01/topiramate.md)
-
-
-        * [Valproic Acid](toc/cn-00-00/cn-03-00/cn-03-01/valproic_acid.md)
-
-
-        * [Vigabatrin](toc/cn-00-00/cn-03-00/cn-03-01/vigabatrin.md)
-
-
-        * [Zonisamide](toc/cn-00-00/cn-03-00/cn-03-01/zonisamide.md)
-
-
-      * [Skeletal Muscle Relaxants](toc/cn-00-00/cn-03-00/cn-03-02/README.md)
-
-
-        * [Botulinum Toxin Type A](toc/cn-00-00/cn-03-00/cn-03-02/botulinum_toxin_type_a.md)
-
-
-        * [Carisoprodol-Acetaminophen](toc/cn-00-00/cn-03-00/cn-03-02/carisoprodol-acetaminophen.md)
-
-
-        * [Cisatracurium](toc/cn-00-00/cn-03-00/cn-03-02/cisatracurium.md)
-
-
-        * [Dantrolene](toc/cn-00-00/cn-03-00/cn-03-02/dantrolene.md)
-
-
-        * [Mephenoxalone](toc/cn-00-00/cn-03-00/cn-03-02/mephenoxalone.md)
-
-
-        * [Rocuronium Bromide](toc/cn-00-00/cn-03-00/cn-03-02/rocuronium_bromide.md)
-
-
-        * [Succinylcholine](toc/cn-00-00/cn-03-00/cn-03-02/succinylcholine.md)
-
-
-      * [Drugs Used In Parkinsonism- Anticholinergic Activity](toc/cn-00-00/cn-03-00/cn-03-03/README.md)
-
-
-        * [Biperiden](toc/cn-00-00/cn-03-00/cn-03-03/biperiden.md)
-
-
-        * [Trihexyphenidyl](toc/cn-00-00/cn-03-00/cn-03-03/trihexyphenidyl.md)
-
-
-      * [Drugs Used In Parkinsonism- Dopamine Agonist Activity](toc/cn-00-00/cn-03-00/cn-03-04/README.md)
-
-
-        * [Bromocriptine](toc/cn-00-00/cn-03-00/cn-03-04/bromocriptine.md)
-
-
-        * [Pramipexole](toc/cn-00-00/cn-03-00/cn-03-04/pramipexole.md)
-
-
-        * [Rotigotine](toc/cn-00-00/cn-03-00/cn-03-04/rotigotine.md)
-
-
-      * [Drugs Used In Parkinsonism- Affecting Brain Dopamine](toc/cn-00-00/cn-03-00/cn-03-05/README.md)
-
-
-        * [Carbidopa-Levodopa](toc/cn-00-00/cn-03-00/cn-03-05/carbidopa-levodopa.md)
-
-
-        * [Entacapone](toc/cn-00-00/cn-03-00/cn-03-05/entacapone.md)
-
-
-        * [Levodopa-Benserazide](toc/cn-00-00/cn-03-00/cn-03-05/levodopa-benserazide.md)
-
-
-      * [Drugs Used In Parkinsonism- Others](toc/cn-00-00/cn-03-00/cn-03-06/README.md)
-
-
-        * [Amantadine](toc/cn-00-00/cn-03-00/cn-03-06/amantadine.md)
-
-
-        * [Rasagiline](toc/cn-00-00/cn-03-00/cn-03-06/rasagiline.md)
-
-
-      * [Drugs Used In Migraine](toc/cn-00-00/cn-03-00/cn-03-07/README.md)
-
-
-        * [Galcanezumab](toc/cn-00-00/cn-03-00/cn-03-07/galcanezumab.md)
-
-
-        * [Rizatriptan](toc/cn-00-00/cn-03-00/cn-03-07/rizatriptan.md)
-
-
-        * [Sumatriptan](toc/cn-00-00/cn-03-00/cn-03-07/sumatriptan.md)
-
-
-      * [Drugs Used In Vertigo And Vomiting](toc/cn-00-00/cn-03-00/cn-03-08/README.md)
-
-
-        * [Aprepitant](toc/cn-00-00/cn-03-00/cn-03-08/aprepitant.md)
-
-
-        * [Betahistine](toc/cn-00-00/cn-03-00/cn-03-08/betahistine.md)
-
-
-        * [Droperidol](toc/cn-00-00/cn-03-00/cn-03-08/droperidol.md)
-
-
-        * [Granisetron](toc/cn-00-00/cn-03-00/cn-03-08/granisetron.md)
-
-
-        * [Netupitant-Palonosetron](toc/cn-00-00/cn-03-00/cn-03-08/netupitant-palonosetron.md)
-
-
-        * [Ondansetron](toc/cn-00-00/cn-03-00/cn-03-08/ondansetron.md)
-
-
-        * [Palonosetron](toc/cn-00-00/cn-03-00/cn-03-08/palonosetron.md)
-
-
-        * [Prochlorperazine](toc/cn-00-00/cn-03-00/cn-03-08/prochlorperazine.md)
-
-
-      * [Drugs Used In Myasthenia Gravis](toc/cn-00-00/cn-03-00/cn-03-09/README.md)
-
-
-        * [Neostigmine Methylsulfate](toc/cn-00-00/cn-03-00/cn-03-09/neostigmine_methylsulfate.md)
-
-
-        * [Pyridostigmine](toc/cn-00-00/cn-03-00/cn-03-09/pyridostigmine.md)
-
-
-      * [Drugs For Neurodegenerative Disease](toc/cn-00-00/cn-03-00/cn-03-10/README.md)
-
-
-        * [Donepezil](toc/cn-00-00/cn-03-00/cn-03-10/donepezil.md)
-
-
-        * [Memantine](toc/cn-00-00/cn-03-00/cn-03-10/memantine.md)
-
-
-        * [Rivastigmine](toc/cn-00-00/cn-03-00/cn-03-10/rivastigmine.md)
-
-
-      * [Nootropics And Neurotonics](toc/cn-00-00/cn-03-00/cn-03-11/README.md)
-
-
-        * [Mecobalamin](toc/cn-00-00/cn-03-00/cn-03-11/mecobalamin.md)
-
-
-        * [Methylcobalamin](toc/cn-00-00/cn-03-00/cn-03-11/methylcobalamin.md)
-
-
-        * [Piracetam](toc/cn-00-00/cn-03-00/cn-03-11/piracetam.md)
-
-
-      * [Enzyme](toc/cn-00-00/cn-03-00/cn-03-12/README.md)
-
-
-        * [Bromelain-L-Cysteine](toc/cn-00-00/cn-03-00/cn-03-12/bromelain-l-cysteine.md)
-
-
-    * [Anesthetic Drugs](toc/cn-00-00/cn-04-00/README.md)
-
-
-      * [General Anesthetic](toc/cn-00-00/cn-04-00/cn-04-01/README.md)
-
-
-        * [Desflurane](toc/cn-00-00/cn-04-00/cn-04-01/desflurane.md)
-
-
-        * [Dexmedetomidine](toc/cn-00-00/cn-04-00/cn-04-01/dexmedetomidine.md)
-
-
-        * [Propofol](toc/cn-00-00/cn-04-00/cn-04-01/propofol.md)
-
-
-        * [Sevoflurane](toc/cn-00-00/cn-04-00/cn-04-01/sevoflurane.md)
-
-
-      * [Local Anesthetic](toc/cn-00-00/cn-04-00/cn-04-02/README.md)
-
-
-        * [Bupivacaine](toc/cn-00-00/cn-04-00/cn-04-02/bupivacaine.md)
-
-
-        * [Lidocaine-Epinephrine](toc/cn-00-00/cn-04-00/cn-04-02/lidocaine-epinephrine.md)
-
-
-        * [Lidocaine](toc/cn-00-00/cn-04-00/cn-04-02/lidocaine.md)
-
-
-    * [Others Neuromuscle Agents](toc/cn-00-00/cn-05-00/README.md)
-
-
-      * [Glucosamine Sulphate](toc/cn-00-00/cn-05-00/glucosamine_sulphate.md)
-
-
-      * [Sodium Hyaluronate](toc/cn-00-00/cn-05-00/sodium_hyaluronate.md)
-
-
-    * [Cholinergic Agents](toc/cn-00-00/cn-06-00/README.md)
-
-
-      * [Cevimeline](toc/cn-00-00/cn-06-00/cevimeline.md)
-
-
-      * [Pilocarpine](toc/cn-00-00/cn-06-00/pilocarpine.md)
-
-
-  * [Contraceptive Agents](toc/ct-00-00/README.md)
-
-
-    * [Oral Contraceptives](toc/ct-00-00/ct-01-00/README.md)
-
-
-      * [Cyproterone Acetate-Ethinylestradiol](toc/ct-00-00/ct-01-00/cyproterone_acetate-ethinylestradiol.md)
-
-
-      * [Desogestrel-Ethinylestradiol](toc/ct-00-00/ct-01-00/desogestrel-ethinylestradiol.md)
-
-
-      * [Drospirenone-Ethinylestradiol](toc/ct-00-00/ct-01-00/drospirenone-ethinylestradiol.md)
-
-
-    * [Intrauterine Devices](toc/ct-00-00/ct-02-00/README.md)
-
-
-      * [Levonorgestrel Implants](toc/ct-00-00/ct-02-00/levonorgestrel_implants.md)
-
-
-  * [Cardiovascular System](toc/cv-00-00/README.md)
-
-
-    * [Cardiac Drugs](toc/cv-00-00/cv-01-00/README.md)
-
-
-      * [Adenosine](toc/cv-00-00/cv-01-00/adenosine.md)
-
-
-      * [Amiodarone](toc/cv-00-00/cv-01-00/amiodarone.md)
-
-
-      * [Digoxin](toc/cv-00-00/cv-01-00/digoxin.md)
-
-
-      * [Dobutamine](toc/cv-00-00/cv-01-00/dobutamine.md)
-
-
-      * [Dopamine](toc/cv-00-00/cv-01-00/dopamine.md)
-
-
-      * [Dronedarone](toc/cv-00-00/cv-01-00/dronedarone.md)
-
-
-      * [Ephedrine](toc/cv-00-00/cv-01-00/ephedrine.md)
-
-
-      * [Epinephrine](toc/cv-00-00/cv-01-00/epinephrine.md)
-
-
-      * [Ivabradine](toc/cv-00-00/cv-01-00/ivabradine.md)
-
-
-      * [Mexiletine](toc/cv-00-00/cv-01-00/mexiletine.md)
-
-
-      * [Norepinephrine](toc/cv-00-00/cv-01-00/norepinephrine.md)
-
-
-      * [Propafenone](toc/cv-00-00/cv-01-00/propafenone.md)
-
-
-    * [Anti-Anginal Drugs](toc/cv-00-00/cv-02-00/README.md)
-
-
-      * [Isosorbide 5-Mononitrate](toc/cv-00-00/cv-02-00/isosorbide_5-mononitrate.md)
-
-
-      * [Nitroglycerin](toc/cv-00-00/cv-02-00/nitroglycerin.md)
-
-
-      * [Ranolazine](toc/cv-00-00/cv-02-00/ranolazine.md)
-
-
-    * [Diuretics](toc/cv-00-00/cv-03-00/README.md)
-
-
-      * [Thiazides And Related Diuretics](toc/cv-00-00/cv-03-00/cv-03-01/README.md)
-
-
-        * [Indapamide](toc/cv-00-00/cv-03-00/cv-03-01/indapamide.md)
-
-
-      * [Loop Diuretics](toc/cv-00-00/cv-03-00/cv-03-02/README.md)
-
-
-        * [Furosemide](toc/cv-00-00/cv-03-00/cv-03-02/furosemide.md)
-
-
-      * [Potassium-Sparing Diuretics](toc/cv-00-00/cv-03-00/cv-03-03/README.md)
-
-
-        * [Eplerenone](toc/cv-00-00/cv-03-00/cv-03-03/eplerenone.md)
-
-
-      * [Osmotic Diuretics](toc/cv-00-00/cv-03-00/cv-03-04/README.md)
-
-
-        * [D-Mannitol](toc/cv-00-00/cv-03-00/cv-03-04/d-mannitol.md)
-
-
-      * [Others](toc/cv-00-00/cv-03-00/cv-03-06/README.md)
-
-
-        * [Hydrochlorothiazide-Amiloride](toc/cv-00-00/cv-03-00/cv-03-06/hydrochlorothiazide-amiloride.md)
-
-
-        * [Tolvaptan](toc/cv-00-00/cv-03-00/cv-03-06/tolvaptan.md)
-
-
-    * [Adrenergic Blocking Agents](toc/cv-00-00/cv-04-00/README.md)
-
-
-      * [Alfa Blockers](toc/cv-00-00/cv-04-00/cv-04-01/README.md)
-
-
-        * [Doxazosin](toc/cv-00-00/cv-04-00/cv-04-01/doxazosin.md)
-
-
-        * [Terazosin](toc/cv-00-00/cv-04-00/cv-04-01/terazosin.md)
-
-
-      * [Beta Blockers](toc/cv-00-00/cv-04-00/cv-04-02/README.md)
-
-
-        * [Bisoprolol](toc/cv-00-00/cv-04-00/cv-04-02/bisoprolol.md)
-
-
-        * [Carvedilol](toc/cv-00-00/cv-04-00/cv-04-02/carvedilol.md)
-
-
-        * [Labetalol](toc/cv-00-00/cv-04-00/cv-04-02/labetalol.md)
-
-
-        * [Propranolol](toc/cv-00-00/cv-04-00/cv-04-02/propranolol.md)
-
-
-    * [Calcium Channel Blockers](toc/cv-00-00/cv-05-00/README.md)
-
-
-      * [Amlodipine](toc/cv-00-00/cv-05-00/amlodipine.md)
-
-
-      * [Benidipine](toc/cv-00-00/cv-05-00/benidipine.md)
-
-
-      * [Diltiazem](toc/cv-00-00/cv-05-00/diltiazem.md)
-
-
-      * [Felodipine](toc/cv-00-00/cv-05-00/felodipine.md)
-
-
-      * [Lercanidipine](toc/cv-00-00/cv-05-00/lercanidipine.md)
-
-
-      * [Nicardipine](toc/cv-00-00/cv-05-00/nicardipine.md)
-
-
-      * [Nifedipine](toc/cv-00-00/cv-05-00/nifedipine.md)
-
-
-      * [Nimodipine](toc/cv-00-00/cv-05-00/nimodipine.md)
-
-
-      * [Verapamil](toc/cv-00-00/cv-05-00/verapamil.md)
-
-
-    * [Vasodilators](toc/cv-00-00/cv-06-00/README.md)
-
-
-      * [Hydralazine](toc/cv-00-00/cv-06-00/hydralazine.md)
-
-
-      * [Sildenafil](toc/cv-00-00/cv-06-00/sildenafil.md)
-
-
-    * [Angiotensin-Converting Enzyme Inhibitors](toc/cv-00-00/cv-07-00/README.md)
-
-
-      * [Captopril](toc/cv-00-00/cv-07-00/captopril.md)
-
-
-    * [Angiotensin Ii Receptor Antagonists](toc/cv-00-00/cv-08-00/README.md)
-
-
-      * [Azilsartan Medoxomil](toc/cv-00-00/cv-08-00/azilsartan_medoxomil.md)
-
-
-      * [Candesartan](toc/cv-00-00/cv-08-00/candesartan.md)
-
-
-      * [Olmesartan Medoxomil](toc/cv-00-00/cv-08-00/olmesartan_medoxomil.md)
-
-
-    * [Other Antihypertensives](toc/cv-00-00/cv-09-00/README.md)
-
-
-      * [Amlodipine-Benazepril](toc/cv-00-00/cv-09-00/amlodipine-benazepril.md)
-
-
-      * [Amlodipine-Olmesartan](toc/cv-00-00/cv-09-00/amlodipine-olmesartan.md)
-
-
-      * [Amlodipine-Valsartan](toc/cv-00-00/cv-09-00/amlodipine-valsartan.md)
-
-
-      * [Clonidine](toc/cv-00-00/cv-09-00/clonidine.md)
-
-
-      * [Levosimendan](toc/cv-00-00/cv-09-00/levosimendan.md)
-
-
-      * [Sacubitril-Valsartan](toc/cv-00-00/cv-09-00/sacubitril-valsartan.md)
-
-
-    * [Drugs Used In Cerebral And Peripheral Vascular Disorders](toc/cv-00-00/cv-11-00/README.md)
-
-
-      * [Alprostadil](toc/cv-00-00/cv-11-00/alprostadil.md)
-
-
-      * [Flunarizine](toc/cv-00-00/cv-11-00/flunarizine.md)
-
-
-      * [Ginkgo Biloba](toc/cv-00-00/cv-11-00/ginkgo_biloba.md)
-
-
-      * [Nicergoline](toc/cv-00-00/cv-11-00/nicergoline.md)
-
-
-      * [Pentoxifylline](toc/cv-00-00/cv-11-00/pentoxifylline.md)
-
-
-    * [Drugs Used In Hyperlipidemia](toc/cv-00-00/cv-12-00/README.md)
-
-
-      * [Alirocumab](toc/cv-00-00/cv-12-00/alirocumab.md)
-
-
-      * [Atorvastatin](toc/cv-00-00/cv-12-00/atorvastatin.md)
-
-
-      * [Fenofibrate](toc/cv-00-00/cv-12-00/fenofibrate.md)
-
-
-      * [Niacin-Lovastatin](toc/cv-00-00/cv-12-00/niacin-lovastatin.md)
-
-
-      * [Omega-3- Acid Ethyl Esters 90](toc/cv-00-00/cv-12-00/omega-3-_acid_ethyl_esters_90.md)
-
-
-      * [Pitavastatin](toc/cv-00-00/cv-12-00/pitavastatin.md)
-
-
-      * [Pravastatin](toc/cv-00-00/cv-12-00/pravastatin.md)
-
-
-    * [Others](toc/cv-00-00/cv-13-00/README.md)
-
-
-      * [Amlodipine-Atorvastatin](toc/cv-00-00/cv-13-00/amlodipine-atorvastatin.md)
-
-
-  * [Dermatologic Preparations](toc/de-00-00/README.md)
-
-
-    * [Antiseptics And Disinfectants](toc/de-00-00/de-01-00/README.md)
-
-
-      * [Acrinol](toc/de-00-00/de-01-00/acrinol.md)
-
-
-      * [Alcohol](toc/de-00-00/de-01-00/alcohol.md)
-
-
-      * [Boric Acid-Nahco3-Menthol](toc/de-00-00/de-01-00/boric_acid-nahco3-menthol.md)
-
-
-      * [Hydrogen Peroxide](toc/de-00-00/de-01-00/hydrogen_peroxide.md)
-
-
-      * [Povidone-Iodine](toc/de-00-00/de-01-00/povidone-iodine.md)
-
-
-    * [Topical Antibiotics](toc/de-00-00/de-02-00/README.md)
-
-
-      * [Fusidic Acid](toc/de-00-00/de-02-00/fusidic_acid.md)
-
-
-      * [Metronidazole](toc/de-00-00/de-02-00/metronidazole.md)
-
-
-    * [Topical Antifungals & Antiparasites](toc/de-00-00/de-03-00/README.md)
-
-
-      * [Amorolfine](toc/de-00-00/de-03-00/amorolfine.md)
-
-
-      * [Benzyl Benzoate](toc/de-00-00/de-03-00/benzyl_benzoate.md)
-
-
-      * [Sertaconazole](toc/de-00-00/de-03-00/sertaconazole.md)
-
-
-    * [Topical Antivirals](toc/de-00-00/de-04-00/README.md)
-
-
-      * [Acyclovir](toc/de-00-00/de-04-00/acyclovir.md)
-
-
-      * [Imiquimod](toc/de-00-00/de-04-00/imiquimod.md)
-
-
-    * [Topical Anti-Infectives With Corticosteroids](toc/de-00-00/de-05-00/README.md)
-
-
-      * [Betamethasone-Gentamicin](toc/de-00-00/de-05-00/betamethasone-gentamicin.md)
-
-
-      * [Flumethasone-Salicylic Acid](toc/de-00-00/de-05-00/flumethasone-salicylic_acid.md)
-
-
-      * [Triamcinolone-Neomycin-Gramicidin-Nystatin](toc/de-00-00/de-05-00/triamcinolone-neomycin-gramicidin-nystatin.md)
-
-
-    * [Topical Corticosteroids](toc/de-00-00/de-06-00/README.md)
-
-
-      * [Clobetasol](toc/de-00-00/de-06-00/clobetasol.md)
-
-
-      * [Fluocinonide](toc/de-00-00/de-06-00/fluocinonide.md)
-
-
-      * [Fluticasone](toc/de-00-00/de-06-00/fluticasone.md)
-
-
-      * [Hydrocortisone](toc/de-00-00/de-06-00/hydrocortisone.md)
-
-
-      * [Mometasone](toc/de-00-00/de-06-00/mometasone.md)
-
-
-    * [Acne](toc/de-00-00/de-07-00/README.md)
-
-
-      * [Adapalene](toc/de-00-00/de-07-00/adapalene.md)
-
-
-      * [Azelaic Acid](toc/de-00-00/de-07-00/azelaic_acid.md)
-
-
-      * [Benzoyl Peroxide](toc/de-00-00/de-07-00/benzoyl_peroxide.md)
-
-
-      * [Clindamycin](toc/de-00-00/de-07-00/clindamycin.md)
-
-
-      * [Isotretinoin](toc/de-00-00/de-07-00/isotretinoin.md)
-
-
-    * [Topical Antihistamines And Antipruritics](toc/de-00-00/de-08-00/README.md)
-
-
-      * [Calamine- Zinc Oxide](toc/de-00-00/de-08-00/calamine-_zinc_oxide.md)
-
-
-      * [Crotamiton](toc/de-00-00/de-08-00/crotamiton.md)
-
-
-      * [Doxepin](toc/de-00-00/de-08-00/doxepin.md)
-
-
-      * [Zinc Oxide](toc/de-00-00/de-08-00/zinc_oxide.md)
-
-
-    * [Psoriasis And Seborrhea](toc/de-00-00/de-09-00/README.md)
-
-
-      * [Acitretin](toc/de-00-00/de-09-00/acitretin.md)
-
-
-      * [Calcipotriol-Betamethasone](toc/de-00-00/de-09-00/calcipotriol-betamethasone.md)
-
-
-      * [Clobetasol](toc/de-00-00/de-09-00/clobetasol.md)
-
-
-      * [Ustekinumab](toc/de-00-00/de-09-00/ustekinumab.md)
-
-
-    * [Keratolytics](toc/de-00-00/de-10-00/README.md)
-
-
-      * [Salicylic Acid-Lactic Acid](toc/de-00-00/de-10-00/salicylic_acid-lactic_acid.md)
-
-
-      * [Urea](toc/de-00-00/de-10-00/urea.md)
-
-
-    * [Other Dermatologicals](toc/de-00-00/de-11-00/README.md)
-
-
-      * [Brimonidine](toc/de-00-00/de-11-00/brimonidine.md)
-
-
-      * [Dupilumab](toc/de-00-00/de-11-00/dupilumab.md)
-
-
-      * [Finasteride](toc/de-00-00/de-11-00/finasteride.md)
-
-
-      * [Glycerin](toc/de-00-00/de-11-00/glycerin.md)
-
-
-      * [Heparinoid](toc/de-00-00/de-11-00/heparinoid.md)
-
-
-      * [Hydroquinone-Tretinoin-Dexamethasone](toc/de-00-00/de-11-00/hydroquinone-tretinoin-dexamethasone.md)
-
-
-      * [Ivermectin](toc/de-00-00/de-11-00/ivermectin.md)
-
-
-      * [Lidocaine-Prilocaine](toc/de-00-00/de-11-00/lidocaine-prilocaine.md)
-
-
-      * [Polysiloxane](toc/de-00-00/de-11-00/polysiloxane.md)
-
-
-      * [Silicone Gel](toc/de-00-00/de-11-00/silicone_gel.md)
-
-
-      * [Tacrolimus](toc/de-00-00/de-11-00/tacrolimus.md)
-
-
-  * [E. N. T. Preparations](toc/en-00-00/README.md)
-
-
-    * [Otic Preparations](toc/en-00-00/en-01-00/README.md)
-
-
-      * [Ofloxacin](toc/en-00-00/en-01-00/ofloxacin.md)
-
-
-      * [Sod Bicarbonate-Glycerin](toc/en-00-00/en-01-00/sod_bicarbonate-glycerin.md)
-
-
-    * [Nasal Preparations](toc/en-00-00/en-02-00/README.md)
-
-
-      * [Azelastine](toc/en-00-00/en-02-00/azelastine.md)
-
-
-      * [Fluticasone](toc/en-00-00/en-02-00/fluticasone.md)
-
-
-      * [Mometasone](toc/en-00-00/en-02-00/mometasone.md)
-
-
-    * [Preparations For Throat And Oral Cavity](toc/en-00-00/en-03-00/README.md)
-
-
-      * [Dexamethasone](toc/en-00-00/en-03-00/dexamethasone.md)
-
-
-      * [Enoxolone](toc/en-00-00/en-03-00/enoxolone.md)
-
-
-  * [Gastrointestinal & Hepatobiliary System](toc/gi-00-00/README.md)
-
-
-    * [Drugs Used In Peptic Ulcers](toc/gi-00-00/gi-01-00/README.md)
-
-
-      * [Antacids](toc/gi-00-00/gi-01-00/gi-01-01/README.md)
-
-
-        * [/[Alginic Acid-Colloidal Al/(Oh/)3-Mghco3/]/(toc/gi-00-00/gi-01-00/gi-01-01/alginic/_acid-colloidal/_al/(oh/)](toc/gi-00-00/gi-01-00/gi-01-01/alginic-acid-colloidal-al-oh-3-mghco3-toc-gi-00-00-gi-01-00-gi-01-01-alginic_acid-colloidal_al-oh-3.md)
-
-
-        * [Aluminium Hydroxide](toc/gi-00-00/gi-01-00/gi-01-01/aluminium_hydroxide.md)
-
-
-        * [Aluminum Hydroxide-Butinolin-Calcium Carbonate](toc/gi-00-00/gi-01-00/gi-01-01/aluminum_hydroxide-butinolin-calcium_carbonate.md)
-
-
-        * [Oxethazaine-Aluminum Hydroxide-Magnesium Oxide](toc/gi-00-00/gi-01-00/gi-01-01/oxethazaine-aluminum_hydroxide-magnesium_oxide.md)
-
-
-        * [Sucralfate](toc/gi-00-00/gi-01-00/gi-01-01/sucralfate.md)
-
-
-      * [Proton Pump Inhibitor](toc/gi-00-00/gi-01-00/gi-01-02/README.md)
-
-
-        * [Dexlansoprazole](toc/gi-00-00/gi-01-00/gi-01-02/dexlansoprazole.md)
-
-
-        * [Esomeprazole](toc/gi-00-00/gi-01-00/gi-01-02/esomeprazole.md)
-
-
-        * [Lansoprazole](toc/gi-00-00/gi-01-00/gi-01-02/lansoprazole.md)
-
-
-        * [Omeprazole](toc/gi-00-00/gi-01-00/gi-01-02/omeprazole.md)
-
-
-        * [Pantoprazole](toc/gi-00-00/gi-01-00/gi-01-02/pantoprazole.md)
-
-
-      * [H2-Receptor Antagonists](toc/gi-00-00/gi-01-00/gi-01-03/README.md)
-
-
-        * [Cimetidine](toc/gi-00-00/gi-01-00/gi-01-03/cimetidine.md)
-
-
-        * [Famotidine](toc/gi-00-00/gi-01-00/gi-01-03/famotidine.md)
-
-
-      * [Mucosa Protecting Agents](toc/gi-00-00/gi-01-00/gi-01-04/README.md)
-
-
-        * [Dibismuth Trioxide](toc/gi-00-00/gi-01-00/gi-01-04/dibismuth_trioxide.md)
-
-
-        * [Misoprostol](toc/gi-00-00/gi-01-00/gi-01-04/misoprostol.md)
-
-
-    * [Antidiarrheals](toc/gi-00-00/gi-02-00/README.md)
-
-
-      * [Dioctahedral Smectite](toc/gi-00-00/gi-02-00/dioctahedral_smectite.md)
-
-
-      * [Loperamide](toc/gi-00-00/gi-02-00/loperamide.md)
-
-
-    * [Laxatives And Cathartics](toc/gi-00-00/gi-03-00/README.md)
-
-
-      * [Bisacodyl](toc/gi-00-00/gi-03-00/bisacodyl.md)
-
-
-      * [Lactulose](toc/gi-00-00/gi-03-00/lactulose.md)
-
-
-      * [Magnesium Oxide](toc/gi-00-00/gi-03-00/magnesium_oxide.md)
-
-
-      * [Picosulfate-Mgo-Citric Acid](toc/gi-00-00/gi-03-00/picosulfate-mgo-citric_acid.md)
-
-
-      * [Polyethylene Glycol 3350](toc/gi-00-00/gi-03-00/polyethylene_glycol_3350.md)
-
-
-      * [Sennosides](toc/gi-00-00/gi-03-00/sennosides.md)
-
-
-      * [Sod Chloride](toc/gi-00-00/gi-03-00/sod_chloride.md)
-
-
-    * [Digestives](toc/gi-00-00/gi-04-00/README.md)
-
-
-      * [Clostridium Butyricum Miyairi 588](toc/gi-00-00/gi-04-00/clostridium_butyricum_miyairi_588.md)
-
-
-      * [Lactobacillus-Bifidobacterium](toc/gi-00-00/gi-04-00/lactobacillus-bifidobacterium.md)
-
-
-      * [Lactobacillus Casei](toc/gi-00-00/gi-04-00/lactobacillus_casei.md)
-
-
-      * [Pancrelipase](toc/gi-00-00/gi-04-00/pancrelipase.md)
-
-
-    * [Antispasmodics](toc/gi-00-00/gi-05-00/README.md)
-
-
-      * [Atropine](toc/gi-00-00/gi-05-00/atropine.md)
-
-
-      * [Hyoscin-Butylbromide](toc/gi-00-00/gi-05-00/hyoscin-butylbromide.md)
-
-
-      * [Hyoscyamine](toc/gi-00-00/gi-05-00/hyoscyamine.md)
-
-
-      * [Mebeverine](toc/gi-00-00/gi-05-00/mebeverine.md)
-
-
-      * [Otilonium](toc/gi-00-00/gi-05-00/otilonium.md)
-
-
-    * [Antiflatulents And Git Regulators](toc/gi-00-00/gi-06-00/README.md)
-
-
-      * [Dimethylpolysiloxane](toc/gi-00-00/gi-06-00/dimethylpolysiloxane.md)
-
-
-      * [Domperidone](toc/gi-00-00/gi-06-00/domperidone.md)
-
-
-      * [Metoclopramide](toc/gi-00-00/gi-06-00/metoclopramide.md)
-
-
-      * [Metoclopramide Hydrochloride](toc/gi-00-00/gi-06-00/metoclopramide_hydrochloride.md)
-
-
-      * [Simethicone](toc/gi-00-00/gi-06-00/simethicone.md)
-
-
-    * [Drugs Used In Disorders Of Liver And Bililary Tract](toc/gi-00-00/gi-07-00/README.md)
-
-
-      * [Silymarin](toc/gi-00-00/gi-07-00/silymarin.md)
-
-
-    * [Anorectal Preparations](toc/gi-00-00/gi-08-00/README.md)
-
-
-      * [Betamethasone-Lidocaine-Phenylephrine](toc/gi-00-00/gi-08-00/betamethasone-lidocaine-phenylephrine.md)
-
-
-      * [Mesalazine](toc/gi-00-00/gi-08-00/mesalazine.md)
-
-
-      * [Sodium Oleate](toc/gi-00-00/gi-08-00/sodium_oleate.md)
-
-
-    * [Others](toc/gi-00-00/gi-09-00/README.md)
-
-
-      * [Mesalazine](toc/gi-00-00/gi-09-00/mesalazine.md)
-
-
-      * [Sulfasalazine](toc/gi-00-00/gi-09-00/sulfasalazine.md)
-
-
-  * [Hematological Agents](toc/he-00-00/README.md)
-
-
-    * [Hematopoietc Agents](toc/he-00-00/he-01-00/README.md)
-
-
-      * [Darbepoetin Alfa](toc/he-00-00/he-01-00/darbepoetin_alfa.md)
-
-
-      * [Epoetin Beta](toc/he-00-00/he-01-00/epoetin_beta.md)
-
-
-      * [Methoxy Polyethylene Glycol- Epoetin Β](toc/he-00-00/he-01-00/methoxy_polyethylene_glycol-_epoetin_v.md)
-
-
-      * [Recombinant Human Erythropoiet](toc/he-00-00/he-01-00/recombinant_human_erythropoiet.md)
-
-
-    * [Anticoagulants](toc/he-00-00/he-02-00/README.md)
-
-
-      * [Apixaban](toc/he-00-00/he-02-00/apixaban.md)
-
-
-      * [Dabigatran](toc/he-00-00/he-02-00/dabigatran.md)
-
-
-      * [Dalteparin](toc/he-00-00/he-02-00/dalteparin.md)
-
-
-      * [Edoxaban](toc/he-00-00/he-02-00/edoxaban.md)
-
-
-      * [Fondaparinux](toc/he-00-00/he-02-00/fondaparinux.md)
-
-
-      * [Heparin](toc/he-00-00/he-02-00/heparin.md)
-
-
-      * [Rivaroxaban](toc/he-00-00/he-02-00/rivaroxaban.md)
-
-
-      * [Warfarin](toc/he-00-00/he-02-00/warfarin.md)
-
-
-    * [Antiplatelets](toc/he-00-00/he-03-00/README.md)
-
-
-      * [Acetylsalicylic Acid](toc/he-00-00/he-03-00/acetylsalicylic_acid.md)
-
-
-      * [Cilostazol](toc/he-00-00/he-03-00/cilostazol.md)
-
-
-      * [Clopidogrel-Acetylsalicylic Acid](toc/he-00-00/he-03-00/clopidogrel-acetylsalicylic_acid.md)
-
-
-      * [Clopidogrel](toc/he-00-00/he-03-00/clopidogrel.md)
-
-
-      * [Dipyridamole](toc/he-00-00/he-03-00/dipyridamole.md)
-
-
-      * [Prasugrel](toc/he-00-00/he-03-00/prasugrel.md)
-
-
-      * [Ticagrelor](toc/he-00-00/he-03-00/ticagrelor.md)
-
-
-      * [Ticlopidine](toc/he-00-00/he-03-00/ticlopidine.md)
-
-
-      * [Tirofiban](toc/he-00-00/he-03-00/tirofiban.md)
-
-
-    * [Thrombolytics](toc/he-00-00/he-04-00/README.md)
-
-
-      * [Human Plasminogen Activator](toc/he-00-00/he-04-00/human_plasminogen_activator.md)
-
-
-      * [Urokinase](toc/he-00-00/he-04-00/urokinase.md)
-
-
-    * [Hemostatics](toc/he-00-00/he-05-00/README.md)
-
-
-      * [Eptacog Alfa](toc/he-00-00/he-05-00/eptacog_alfa.md)
-
-
-      * [Thrombin-Calcium Chloride-Aprotinin-Protein Clotta](toc/he-00-00/he-05-00/thrombin-calcium_chloride-aprotinin-protein_clotta.md)
-
-
-      * [Tranexamic Acid](toc/he-00-00/he-05-00/tranexamic_acid.md)
-
-
-    * [Blood Components And Substituents](toc/he-00-00/he-06-00/README.md)
-
-
-      * [Albumin](toc/he-00-00/he-06-00/albumin.md)
-
-
-      * [Low Molecular Dextran Dextrose](toc/he-00-00/he-06-00/low_molecular_dextran_dextrose.md)
-
-
-  * [Hormones](toc/hr-00-00/README.md)
-
-
-    * [Corticosteroid Hormones](toc/hr-00-00/hr-01-00/README.md)
-
-
-      * [Betamethasone](toc/hr-00-00/hr-01-00/betamethasone.md)
-
-
-      * [Dexamethasone](toc/hr-00-00/hr-01-00/dexamethasone.md)
-
-
-      * [Methylprednisolone](toc/hr-00-00/hr-01-00/methylprednisolone.md)
-
-
-      * [Prednisolone](toc/hr-00-00/hr-01-00/prednisolone.md)
-
-
-      * [Triamcinolone](toc/hr-00-00/hr-01-00/triamcinolone.md)
-
-
-    * [Tropic Hormones And Related Synthetic Drugs](toc/hr-00-00/hr-02-00/README.md)
-
-
-      * [Cabergoline](toc/hr-00-00/hr-02-00/cabergoline.md)
-
-
-      * [Cetrorelix](toc/hr-00-00/hr-02-00/cetrorelix.md)
-
-
-      * [Clomiphene](toc/hr-00-00/hr-02-00/clomiphene.md)
-
-
-      * [Follitropin Alpha](toc/hr-00-00/hr-02-00/follitropin_alpha.md)
-
-
-      * [Fsh 450Iu-Lh 225Iu](toc/hr-00-00/hr-02-00/fsh_450iu-lh_225iu.md)
-
-
-      * [Fsh 600 Iu-Lh 600 Iu](toc/hr-00-00/hr-02-00/fsh_600_iu-lh_600_iu.md)
-
-
-    * [Sex Hormones](toc/hr-00-00/hr-03-00/README.md)
-
-
-      * [Androgens](toc/hr-00-00/hr-03-00/hr-03-01/README.md)
-
-
-        * [Testosterone](toc/hr-00-00/hr-03-00/hr-03-01/testosterone.md)
-
-
-      * [Estrogens](toc/hr-00-00/hr-03-00/hr-03-02/README.md)
-
-
-        * [Conjugated Estrogen](toc/hr-00-00/hr-03-00/hr-03-02/conjugated_estrogen.md)
-
-
-        * [Estradiol](toc/hr-00-00/hr-03-00/hr-03-02/estradiol.md)
-
-
-        * [Estradiol Valerate](toc/hr-00-00/hr-03-00/hr-03-02/estradiol_valerate.md)
-
-
-      * [Progestes](toc/hr-00-00/hr-03-00/hr-03-03/README.md)
-
-
-        * [Dienogest](toc/hr-00-00/hr-03-00/hr-03-03/dienogest.md)
-
-
-        * [Dydrogesterone](toc/hr-00-00/hr-03-00/hr-03-03/dydrogesterone.md)
-
-
-        * [Hydroxyprogesterone Caproate](toc/hr-00-00/hr-03-00/hr-03-03/hydroxyprogesterone_caproate.md)
-
-
-        * [Medroxyprogesterone](toc/hr-00-00/hr-03-00/hr-03-03/medroxyprogesterone.md)
-
-
-        * [Megestrol](toc/hr-00-00/hr-03-00/hr-03-03/megestrol.md)
-
-
-        * [Progesterone](toc/hr-00-00/hr-03-00/hr-03-03/progesterone.md)
-
-
-      * [Estrogens And Progesterones Combination](toc/hr-00-00/hr-03-00/hr-03-04/README.md)
-
-
-        * [Estradiol-Medroxyprogesterone](toc/hr-00-00/hr-03-00/hr-03-04/estradiol-medroxyprogesterone.md)
-
-
-    * [Other Hormones](toc/hr-00-00/hr-04-00/README.md)
-
-
-      * [Desmopressin](toc/hr-00-00/hr-04-00/desmopressin.md)
-
-
-      * [Gestrinone](toc/hr-00-00/hr-04-00/gestrinone.md)
-
-
-      * [Octreotide](toc/hr-00-00/hr-04-00/octreotide.md)
-
-
-      * [Terlipressin](toc/hr-00-00/hr-04-00/terlipressin.md)
-
-
-      * [Tibolone](toc/hr-00-00/hr-04-00/tibolone.md)
-
-
-      * [Vasopressin](toc/hr-00-00/hr-04-00/vasopressin.md)
-
-
-  * [Allergy And Immune System](toc/im-00-00/README.md)
-
-
-    * [Antihistamines And Antiallergics](toc/im-00-00/im-01-00/README.md)
-
-
-      * [Cyproheptadine](toc/im-00-00/im-01-00/cyproheptadine.md)
-
-
-      * [Diphenhydramine](toc/im-00-00/im-01-00/diphenhydramine.md)
-
-
-      * [Fexofenadine](toc/im-00-00/im-01-00/fexofenadine.md)
-
-
-      * [Ketotifen](toc/im-00-00/im-01-00/ketotifen.md)
-
-
-      * [Levocetirizine](toc/im-00-00/im-01-00/levocetirizine.md)
-
-
-      * [Loratadine-Pseudoephedrine](toc/im-00-00/im-01-00/loratadine-pseudoephedrine.md)
-
-
-      * [Triprolidine-Pseudoephedrine](toc/im-00-00/im-01-00/triprolidine-pseudoephedrine.md)
-
-
-    * [Vaccines](toc/im-00-00/im-02-00/README.md)
-
-
-      * [Diphtheria-Tetanus-Pertussis](toc/im-00-00/im-02-00/diphtheria-tetanus-pertussis.md)
-
-
-      * [Dtap-Ipv-Hib-Hbv](toc/im-00-00/im-02-00/dtap-ipv-hib-hbv.md)
-
-
-      * [Dtap-Ipv-Hib](toc/im-00-00/im-02-00/dtap-ipv-hib.md)
-
-
-      * [Dtap-Ipv](toc/im-00-00/im-02-00/dtap-ipv.md)
-
-
-      * [Hepatitis B Vaccine](toc/im-00-00/im-02-00/hepatitis_b_vaccine.md)
-
-
-      * [Hpv Type16-18 L1 Protein](toc/im-00-00/im-02-00/hpv_type16-18_l1_protein.md)
-
-
-      * [Hpv Type 6-11-16-18-31-33-45-52-58 L1 Protein](toc/im-00-00/im-02-00/hpv_type_6-11-16-18-31-33-45-52-58_l1_protein.md)
-
-
-      * [Human Rotavirus](toc/im-00-00/im-02-00/human_rotavirus.md)
-
-
-      * [Inactivated Hepatitis A Virus Vaccine](toc/im-00-00/im-02-00/inactivated_hepatitis__a_virus_vaccine.md)
-
-
-      * [Japanese Encephalitis Vaccine](toc/im-00-00/im-02-00/japanese_encephalitis_vaccine.md)
-
-
-      * [Measles-Mumps-Rubella](toc/im-00-00/im-02-00/measles-mumps-rubella.md)
-
-
-      * [Pneumococcal Vaccine Polyvalent](toc/im-00-00/im-02-00/pneumococcal_vaccine_polyvalent.md)
-
-
-      * [Purified Split Inactivated Influenz](toc/im-00-00/im-02-00/purified_split_inactivated_influenz.md)
-
-
-      * [Purified Split Inactivated Influenza Virus](toc/im-00-00/im-02-00/purified_split_inactivated_influenza_virus.md)
-
-
-      * [Sars-Cov-2 Spike Glycoprotein /[Mrna/]](toc/im-00-00/im-02-00/sars-cov-2_spike_glycoprotein_-mrna.md)
-
-
-      * [Tetanus Toxoid](toc/im-00-00/im-02-00/tetanus_toxoid.md)
-
-
-      * [Varicella Virus Vaccine](toc/im-00-00/im-02-00/varicella_virus_vaccine.md)
-
-
-      * [Zoster Virus Vaccine Live](toc/im-00-00/im-02-00/zoster_virus_vaccine_live.md)
-
-
-    * [Antisera And Immunologicals](toc/im-00-00/im-03-00/README.md)
-
-
-      * [Azathioprine](toc/im-00-00/im-03-00/azathioprine.md)
-
-
-      * [Hepatitis B Immune Globulin](toc/im-00-00/im-03-00/hepatitis_b_immune_globulin.md)
-
-
-      * [Human Immunoglobulin](toc/im-00-00/im-03-00/human_immunoglobulin.md)
-
-
-      * [Palivizumab](toc/im-00-00/im-03-00/palivizumab.md)
-
-
-      * [Tuberculin Ppd Rt](toc/im-00-00/im-03-00/tuberculin_ppd_rt.md)
-
-
-      * [Tuberculin Purified Protein Derivative](toc/im-00-00/im-03-00/tuberculin_purified_protein_derivative.md)
-
-
-    * [Immunosuppressants](toc/im-00-00/im-04-00/README.md)
-
-
-      * [Adalimumab](toc/im-00-00/im-04-00/adalimumab.md)
-
-
-      * [Belimumab](toc/im-00-00/im-04-00/belimumab.md)
-
-
-      * [Bimekizumab](toc/im-00-00/im-04-00/bimekizumab.md)
-
-
-      * [Brodalumab](toc/im-00-00/im-04-00/brodalumab.md)
-
-
-      * [Certolizumab Pegol](toc/im-00-00/im-04-00/certolizumab_pegol.md)
-
-
-      * [Cyclosporin](toc/im-00-00/im-04-00/cyclosporin.md)
-
-
-      * [Etanercept](toc/im-00-00/im-04-00/etanercept.md)
-
-
-      * [Golimumab](toc/im-00-00/im-04-00/golimumab.md)
-
-
-      * [Guselkumab](toc/im-00-00/im-04-00/guselkumab.md)
-
-
-      * [Interferon Beta-1A](toc/im-00-00/im-04-00/interferon_beta-1a.md)
-
-
-      * [Leflunomide](toc/im-00-00/im-04-00/leflunomide.md)
-
-
-      * [Mycophenolate Mofetil](toc/im-00-00/im-04-00/mycophenolate_mofetil.md)
-
-
-      * [Peginterferon Beta-1A](toc/im-00-00/im-04-00/peginterferon_beta-1a.md)
-
-
-      * [Risankizumab](toc/im-00-00/im-04-00/risankizumab.md)
-
-
-      * [Secukinumab](toc/im-00-00/im-04-00/secukinumab.md)
-
-
-      * [Tocilizumab](toc/im-00-00/im-04-00/tocilizumab.md)
-
-
-      * [Tofacitinib](toc/im-00-00/im-04-00/tofacitinib.md)
-
-
-      * [Vedolizumab](toc/im-00-00/im-04-00/vedolizumab.md)
-
-
-  * [Metabolic And Endocrine System](toc/me-00-00/README.md)
-
-
-    * [Insulin](toc/me-00-00/me-01-00/README.md)
-
-
-      * [Insulin-Short Or Rapid Acting](toc/me-00-00/me-01-00/me-01-01/README.md)
-
-
-        * [Insulin Aspart](toc/me-00-00/me-01-00/me-01-01/insulin_aspart.md)
-
-
-      * [Insulin-Intermedia Or Long Acting](toc/me-00-00/me-01-00/me-01-02/README.md)
-
-
-        * [Insulin Detemir](toc/me-00-00/me-01-00/me-01-02/insulin_detemir.md)
-
-
-        * [Insulin Glargine](toc/me-00-00/me-01-00/me-01-02/insulin_glargine.md)
-
-
-      * [Insulin-Mixed](toc/me-00-00/me-01-00/me-01-03/README.md)
-
-
-        * [Insulin Aspart 30-Nph 70](toc/me-00-00/me-01-00/me-01-03/insulin_aspart_30-nph_70.md)
-
-
-        * [Insulin Aspart 50-Nph 50](toc/me-00-00/me-01-00/me-01-03/insulin_aspart_50-nph_50.md)
-
-
-    * [Antidiabetic Agents](toc/me-00-00/me-02-00/README.md)
-
-
-      * [Sulfonylurea](toc/me-00-00/me-02-00/me-02-01/README.md)
-
-
-        * [Gliclazide](toc/me-00-00/me-02-00/me-02-01/gliclazide.md)
-
-
-        * [Glimepiride](toc/me-00-00/me-02-00/me-02-01/glimepiride.md)
-
-
-      * [Biguanides](toc/me-00-00/me-02-00/me-02-02/README.md)
-
-
-        * [Metformin](toc/me-00-00/me-02-00/me-02-02/metformin.md)
-
-
-      * [Alfa-Glucosidase Inhibitors](toc/me-00-00/me-02-00/me-02-04/README.md)
-
-
-        * [Acarbose](toc/me-00-00/me-02-00/me-02-04/acarbose.md)
-
-
-      * [Ddp-4 Inhibitors](toc/me-00-00/me-02-00/me-02-06/README.md)
-
-
-        * [Alogliptin](toc/me-00-00/me-02-00/me-02-06/alogliptin.md)
-
-
-        * [Linagliptin](toc/me-00-00/me-02-00/me-02-06/linagliptin.md)
-
-
-      * [me-02-07](toc/me-00-00/me-02-00/me-02-07/README.md)
-
-
-        * [Semaglutide](toc/me-00-00/me-02-00/me-02-07/semaglutide.md)
-
-
-      * [me-02-08](toc/me-00-00/me-02-00/me-02-08/README.md)
-
-
-        * [Canagliflozin](toc/me-00-00/me-02-00/me-02-08/canagliflozin.md)
-
-
-        * [Dapagliflozin](toc/me-00-00/me-02-00/me-02-08/dapagliflozin.md)
-
-
-        * [Empagliflozin](toc/me-00-00/me-02-00/me-02-08/empagliflozin.md)
-
-
-      * [Others-Antidiabetic Agents](toc/me-00-00/me-02-00/me-02-09/README.md)
-
-
-        * [Dapagliflozin-Metformin](toc/me-00-00/me-02-00/me-02-09/dapagliflozin-metformin.md)
-
-
-        * [Empagliflozin-Linagliptin](toc/me-00-00/me-02-00/me-02-09/empagliflozin-linagliptin.md)
-
-
-        * [Glyburide-Metformin](toc/me-00-00/me-02-00/me-02-09/glyburide-metformin.md)
-
-
-        * [Vildagliptin-Metformin](toc/me-00-00/me-02-00/me-02-09/vildagliptin-metformin.md)
-
-
-    * [Thyroid Hormones](toc/me-00-00/me-03-00/README.md)
-
-
-      * [Levothyroxine](toc/me-00-00/me-03-00/levothyroxine.md)
-
-
-      * [Thyrotropin Alfa](toc/me-00-00/me-03-00/thyrotropin_alfa.md)
-
-
-    * [Antithyroid Agents](toc/me-00-00/me-04-00/README.md)
-
-
-      * [Methimazole](toc/me-00-00/me-04-00/methimazole.md)
-
-
-      * [Propylthiouracil](toc/me-00-00/me-04-00/propylthiouracil.md)
-
-
-    * [Agents Affecting Bone Metabolism](toc/me-00-00/me-06-00/README.md)
-
-
-      * [Alendronate](toc/me-00-00/me-06-00/alendronate.md)
-
-
-      * [Clodronate](toc/me-00-00/me-06-00/clodronate.md)
-
-
-      * [Denosumab](toc/me-00-00/me-06-00/denosumab.md)
-
-
-      * [Ibandronate](toc/me-00-00/me-06-00/ibandronate.md)
-
-
-      * [Risedronic Acid](toc/me-00-00/me-06-00/risedronic_acid.md)
-
-
-      * [Salmon Calcitonin](toc/me-00-00/me-06-00/salmon_calcitonin.md)
-
-
-      * [Teriparatide](toc/me-00-00/me-06-00/teriparatide.md)
-
-
-      * [Zoledronic Acid](toc/me-00-00/me-06-00/zoledronic_acid.md)
-
-
-    * [Others-Metabolics](toc/me-00-00/me-07-00/README.md)
-
-
-      * [Glucagon](toc/me-00-00/me-07-00/glucagon.md)
-
-
-  * [Nutrition](toc/nu-00-00/README.md)
-
-
-    * [Antianemics](toc/nu-00-00/nu-01-00/README.md)
-
-
-      * [Ferric-Hydroxide-Sucrose Complex](toc/nu-00-00/nu-01-00/ferric-hydroxide-sucrose_complex.md)
-
-
-      * [Ferric Hydroxide Polymaltose Complex](toc/nu-00-00/nu-01-00/ferric_hydroxide_polymaltose_complex.md)
-
-
-      * [Ferrous Gluconate-Vit B1-Vit C](toc/nu-00-00/nu-01-00/ferrous_gluconate-vit_b1-vit_c.md)
-
-
-      * [/[Fe /(Iii/) Hydroxide Polymaltose Complex/]/(toc/nu-00-00/nu-01-00/fe/_/(iii/)/_hydroxide/_polymaltose/_comple](toc/nu-00-00/nu-01-00/fe-iii-hydroxide-polymaltose-complex-toc-nu-00-00-nu-01-00-fe_-iii-_hydroxide_polymaltose_complex.md.md)
-
-
-      * [Folic Acid](toc/nu-00-00/nu-01-00/folic_acid.md)
-
-
-    * [Vitamins And Minerals](toc/nu-00-00/nu-02-00/README.md)
-
-
-      * [Ascorbic Acid](toc/nu-00-00/nu-02-00/ascorbic_acid.md)
-
-
-      * [Cr-Cu-Fe-Zn-Mn-Se-I-F-Mo](toc/nu-00-00/nu-02-00/cr-cu-fe-zn-mn-se-i-f-mo.md)
-
-
-      * [Multivitamin](toc/nu-00-00/nu-02-00/multivitamin.md)
-
-
-      * [Pyridoxine](toc/nu-00-00/nu-02-00/pyridoxine.md)
-
-
-      * [Thiaine Tetrahydrofurfuryl Disulfide-Riboflavin](toc/nu-00-00/nu-02-00/thiaine_tetrahydrofurfuryl_disulfide-riboflavin.md)
-
-
-      * [Thiamine-Riboflavin-Nicotinamide-Pyridoxine](toc/nu-00-00/nu-02-00/thiamine-riboflavin-nicotinamide-pyridoxine.md)
-
-
-      * [Vitamin B Complex](toc/nu-00-00/nu-02-00/vitamin_b_complex.md)
-
-
-      * [Vit B1- B2-B6-C-Nicotinamide-Pantothenyl](toc/nu-00-00/nu-02-00/vit_b1-_b2-b6-c-nicotinamide-pantothenyl.md)
-
-
-    * [Calcium](toc/nu-00-00/nu-03-00/README.md)
-
-
-      * [Calcium-Cholecalciferol](toc/nu-00-00/nu-03-00/calcium-cholecalciferol.md)
-
-
-      * [Calcium Acetate](toc/nu-00-00/nu-03-00/calcium_acetate.md)
-
-
-      * [Calcium Carbonate](toc/nu-00-00/nu-03-00/calcium_carbonate.md)
-
-
-      * [Calcium Gluconate](toc/nu-00-00/nu-03-00/calcium_gluconate.md)
-
-
-    * [Nutrients](toc/nu-00-00/nu-04-00/README.md)
-
-
-      * [Amino Acid](toc/nu-00-00/nu-04-00/nu-04-01/README.md)
-
-
-        * [Amino Acid-Glucose- Vit B1](toc/nu-00-00/nu-04-00/nu-04-01/amino_acid-glucose-_vit_b1.md)
-
-
-        * [Amino Acids-Ketoanalogues](toc/nu-00-00/nu-04-00/nu-04-01/amino_acids-ketoanalogues.md)
-
-
-        * [/[Amino Acids /(Essential-Nonessential /)/]/(toc/nu-00-00/nu-04-00/nu-04-01/aminoacids/(essential-nonessen](toc/nu-00-00/nu-04-00/nu-04-01/amino-acids-essential-nonessential-toc-nu-00-00-nu-04-00-nu-04-01-aminoacids-essential-nonessential_.md)
-
-
-        * [Cerebrolysin Concentrate](toc/nu-00-00/nu-04-00/nu-04-01/cerebrolysin_concentrate.md)
-
-
-      * [Carbohydrate](toc/nu-00-00/nu-04-00/nu-04-02/README.md)
-
-
-        * [Dextrose](toc/nu-00-00/nu-04-00/nu-04-02/dextrose.md)
-
-
-        * [Glucose](toc/nu-00-00/nu-04-00/nu-04-02/glucose.md)
-
-
-      * [Lipid](toc/nu-00-00/nu-04-00/nu-04-03/README.md)
-
-
-        * [Mct-Omega-3-Triglyceride-Soya Oil](toc/nu-00-00/nu-04-00/nu-04-03/mct-omega-3-triglyceride-soya_oil.md)
-
-
-        * [Soyean Oil-Mct- Egg Yolk Phospholipids- Glycerol](toc/nu-00-00/nu-04-00/nu-04-03/soyean_oil-mct-_egg_yolk_phospholipids-_glycerol.md)
-
-
-      * [Electrolytes](toc/nu-00-00/nu-04-00/nu-04-04/README.md)
-
-
-        * [Lanthanum Carbonate](toc/nu-00-00/nu-04-00/nu-04-04/lanthanum_carbonate.md)
-
-
-        * [Potassium Chloride](toc/nu-00-00/nu-04-00/nu-04-04/potassium_chloride.md)
-
-
-        * [Potassium Gluconate](toc/nu-00-00/nu-04-00/nu-04-04/potassium_gluconate.md)
-
-
-        * [Potassium Chloride](toc/nu-00-00/nu-04-00/nu-04-04/potassium__chloride.md)
-
-
-        * [Sodium Bicarbonate](toc/nu-00-00/nu-04-00/nu-04-04/sodium_bicarbonate.md)
-
-
-        * [Sodium Chloride](toc/nu-00-00/nu-04-00/nu-04-04/sodium_chloride.md)
-
-
-      * [Others-Nutrient](toc/nu-00-00/nu-04-00/nu-04-05/README.md)
-
-
-        * [Amino Acid-Glucose-Lipid](toc/nu-00-00/nu-04-00/nu-04-05/amino_acid-glucose-lipid.md)
-
-
-        * [Amino Acid-Glucose](toc/nu-00-00/nu-04-00/nu-04-05/amino_acid-glucose.md)
-
-
-        * [Dextrose + Sodium Chloride](toc/nu-00-00/nu-04-00/nu-04-05/dextrose_-_sodium_chloride.md)
-
-
-        * [Electrolytes-Water](toc/nu-00-00/nu-04-00/nu-04-05/electrolytes-water.md)
-
-
-        * [L-Carnitine](toc/nu-00-00/nu-04-00/nu-04-05/l-carnitine.md)
-
-
-        * [Nacl-Kcl-Calcium Chloride-Lactose](toc/nu-00-00/nu-04-00/nu-04-05/nacl-kcl-calcium_chloride-lactose.md)
-
-
-        * [Tpn Solution](toc/nu-00-00/nu-04-00/nu-04-05/tpn_solution.md)
-
-
-        * [Water For Injection](toc/nu-00-00/nu-04-00/nu-04-05/water_for_injection.md)
-
-
-  * [Oncology](toc/on-00-00/README.md)
-
-
-    * [Alkylating Agents](toc/on-00-00/on-01-00/README.md)
-
-
-      * [Carboplatin](toc/on-00-00/on-01-00/carboplatin.md)
-
-
-      * [Chlorambucil](toc/on-00-00/on-01-00/chlorambucil.md)
-
-
-      * [Cisplatin](toc/on-00-00/on-01-00/cisplatin.md)
-
-
-      * [Cyclophosphamide](toc/on-00-00/on-01-00/cyclophosphamide.md)
-
-
-      * [Oxaliplatin](toc/on-00-00/on-01-00/oxaliplatin.md)
-
-
-    * [Antimetabolites](toc/on-00-00/on-02-00/README.md)
-
-
-      * [Capecitabine](toc/on-00-00/on-02-00/capecitabine.md)
-
-
-      * [Fluorouracil](toc/on-00-00/on-02-00/fluorouracil.md)
-
-
-      * [Methotrexate](toc/on-00-00/on-02-00/methotrexate.md)
-
-
-      * [Pemetrexed](toc/on-00-00/on-02-00/pemetrexed.md)
-
-
-      * [Tegafur-Gimeracil-Oteracil K](toc/on-00-00/on-02-00/tegafur-gimeracil-oteracil__k.md)
-
-
-      * [Trifluridine-Tipiracil](toc/on-00-00/on-02-00/trifluridine-tipiracil.md)
-
-
-    * [Antitumor Antibiotics](toc/on-00-00/on-03-00/README.md)
-
-
-      * [Bleomycin](toc/on-00-00/on-03-00/bleomycin.md)
-
-
-      * [Doxorubicin](toc/on-00-00/on-03-00/doxorubicin.md)
-
-
-      * [Epirubicin](toc/on-00-00/on-03-00/epirubicin.md)
-
-
-      * [Mitomycin C](toc/on-00-00/on-03-00/mitomycin_c.md)
-
-
-    * [Antimicrotubule Agents](toc/on-00-00/on-04-00/README.md)
-
-
-      * [Docetaxel](toc/on-00-00/on-04-00/docetaxel.md)
-
-
-      * [Eribulin](toc/on-00-00/on-04-00/eribulin.md)
-
-
-      * [Ixabepilone](toc/on-00-00/on-04-00/ixabepilone.md)
-
-
-      * [Paclitaxel](toc/on-00-00/on-04-00/paclitaxel.md)
-
-
-      * [Vincristine](toc/on-00-00/on-04-00/vincristine.md)
-
-
-      * [Vinorelbine](toc/on-00-00/on-04-00/vinorelbine.md)
-
-
-    * [Hormonal Chemotherapy](toc/on-00-00/on-05-00/README.md)
-
-
-      * [Abiraterone](toc/on-00-00/on-05-00/abiraterone.md)
-
-
-      * [Anastrozole](toc/on-00-00/on-05-00/anastrozole.md)
-
-
-      * [Cyproterone](toc/on-00-00/on-05-00/cyproterone.md)
-
-
-      * [Degarelix](toc/on-00-00/on-05-00/degarelix.md)
-
-
-      * [Enzalutamide](toc/on-00-00/on-05-00/enzalutamide.md)
-
-
-      * [Fulvestrant](toc/on-00-00/on-05-00/fulvestrant.md)
-
-
-      * [Goserelin](toc/on-00-00/on-05-00/goserelin.md)
-
-
-      * [Letrozole](toc/on-00-00/on-05-00/letrozole.md)
-
-
-      * [Tamoxifen](toc/on-00-00/on-05-00/tamoxifen.md)
-
-
-      * [Triptorelin](toc/on-00-00/on-05-00/triptorelin.md)
-
-
-    * [Immunotherapeutic Agents](toc/on-00-00/on-06-00/README.md)
-
-
-      * [Atezolizumab](toc/on-00-00/on-06-00/atezolizumab.md)
-
-
-      * [Bcg Immunotherapeutic](toc/on-00-00/on-06-00/bcg_immunotherapeutic.md)
-
-
-      * [Pembrolizumab](toc/on-00-00/on-06-00/pembrolizumab.md)
-
-
-      * [Polysaccharides Of Astragalus Membranaceus](toc/on-00-00/on-06-00/polysaccharides_of_astragalus_membranaceus.md)
-
-
-      * [Psk](toc/on-00-00/on-06-00/psk.md)
-
-
-      * [Streptococus Pyogenes](toc/on-00-00/on-06-00/streptococus_pyogenes.md)
-
-
-    * [Topoisomerase Inhibitors](toc/on-00-00/on-07-00/README.md)
-
-
-      * [Etoposide](toc/on-00-00/on-07-00/etoposide.md)
-
-
-      * [Topotecan](toc/on-00-00/on-07-00/topotecan.md)
-
-
-    * [Other Antineoplastic Agents](toc/on-00-00/on-08-00/README.md)
-
-
-      * [Bevacizumab](toc/on-00-00/on-08-00/bevacizumab.md)
-
-
-      * [Cetuximab](toc/on-00-00/on-08-00/cetuximab.md)
-
-
-      * [Erlotinib](toc/on-00-00/on-08-00/erlotinib.md)
-
-
-      * [Everolimus](toc/on-00-00/on-08-00/everolimus.md)
-
-
-      * [Gefitinib](toc/on-00-00/on-08-00/gefitinib.md)
-
-
-      * [Hydroxyurea](toc/on-00-00/on-08-00/hydroxyurea.md)
-
-
-      * [Imatinib](toc/on-00-00/on-08-00/imatinib.md)
-
-
-      * [Lapatinib Ditosylate](toc/on-00-00/on-08-00/lapatinib_ditosylate.md)
-
-
-      * [Nintedanib](toc/on-00-00/on-08-00/nintedanib.md)
-
-
-      * [Nivolumab](toc/on-00-00/on-08-00/nivolumab.md)
-
-
-      * [Palbociclib](toc/on-00-00/on-08-00/palbociclib.md)
-
-
-      * [Pertuzumab](toc/on-00-00/on-08-00/pertuzumab.md)
-
-
-      * [Ramucirumab](toc/on-00-00/on-08-00/ramucirumab.md)
-
-
-      * [Regorafenib](toc/on-00-00/on-08-00/regorafenib.md)
-
-
-      * [Ribociclib](toc/on-00-00/on-08-00/ribociclib.md)
-
-
-      * [Rituximab](toc/on-00-00/on-08-00/rituximab.md)
-
-
-      * [Sunitinib](toc/on-00-00/on-08-00/sunitinib.md)
-
-
-      * [Trastuzumab](toc/on-00-00/on-08-00/trastuzumab.md)
-
-
-      * [Trastuzumab Emtansine](toc/on-00-00/on-08-00/trastuzumab_emtansine.md)
-
-
-  * [Eye](toc/op-00-00/README.md)
-
-
-    * [Eye Anti-Infectives And Antiseptics](toc/op-00-00/op-01-00/README.md)
-
-
-      * [Acyclovir](toc/op-00-00/op-01-00/acyclovir.md)
-
-
-      * [Ciprofloxacin](toc/op-00-00/op-01-00/ciprofloxacin.md)
-
-
-      * [Erythromycin](toc/op-00-00/op-01-00/erythromycin.md)
-
-
-      * [Gentamicin](toc/op-00-00/op-01-00/gentamicin.md)
-
-
-      * [Sulfamethoxazole](toc/op-00-00/op-01-00/sulfamethoxazole.md)
-
-
-    * [Eye Antiseptics With Corticosteroids](toc/op-00-00/op-02-00/README.md)
-
-
-      * [Betamethasone-Neomycin](toc/op-00-00/op-02-00/betamethasone-neomycin.md)
-
-
-      * [Tobramycin-Dexamethasone](toc/op-00-00/op-02-00/tobramycin-dexamethasone.md)
-
-
-    * [Eye Corticosteroids](toc/op-00-00/op-03-00/README.md)
-
-
-      * [Betamethasone](toc/op-00-00/op-03-00/betamethasone.md)
-
-
-      * [Fluorometholone](toc/op-00-00/op-03-00/fluorometholone.md)
-
-
-      * [Prednisolone](toc/op-00-00/op-03-00/prednisolone.md)
-
-
-    * [Mydriatic Drugs](toc/op-00-00/op-04-00/README.md)
-
-
-      * [Atropine](toc/op-00-00/op-04-00/atropine.md)
-
-
-      * [Tropicamide-Phenylephrine](toc/op-00-00/op-04-00/tropicamide-phenylephrine.md)
-
-
-    * [Antiglaucoma Preparations](toc/op-00-00/op-05-00/README.md)
-
-
-      * [Brimonidine-Timolol](toc/op-00-00/op-05-00/brimonidine-timolol.md)
-
-
-      * [Brinzolamide- Brimonidine Tartrate](toc/op-00-00/op-05-00/brinzolamide-_brimonidine_tartrate.md)
-
-
-      * [Brinzolamide](toc/op-00-00/op-05-00/brinzolamide.md)
-
-
-      * [Carteolol](toc/op-00-00/op-05-00/carteolol.md)
-
-
-      * [Dorzolamide-Timolol](toc/op-00-00/op-05-00/dorzolamide-timolol.md)
-
-
-      * [Latanoprost](toc/op-00-00/op-05-00/latanoprost.md)
-
-
-      * [Pilocarpine](toc/op-00-00/op-05-00/pilocarpine.md)
-
-
-      * [Tafluprost](toc/op-00-00/op-05-00/tafluprost.md)
-
-
-      * [Timolol-Brinzolamide](toc/op-00-00/op-05-00/timolol-brinzolamide.md)
-
-
-      * [Timolol](toc/op-00-00/op-05-00/timolol.md)
-
-
-      * [Travoprost-Timolol](toc/op-00-00/op-05-00/travoprost-timolol.md)
-
-
-      * [Travoprost](toc/op-00-00/op-05-00/travoprost.md)
-
-
-    * [Eye Antiallergics](toc/op-00-00/op-06-00/README.md)
-
-
-      * [Antazoline-Tetrahydrozoline-Chlorhexidine](toc/op-00-00/op-06-00/antazoline-tetrahydrozoline-chlorhexidine.md)
-
-
-    * [Eye Lubricants](toc/op-00-00/op-07-00/README.md)
-
-
-      * [Carbomer](toc/op-00-00/op-07-00/carbomer.md)
-
-
-      * [Dextran70-Hydromellose](toc/op-00-00/op-07-00/dextran70-hydromellose.md)
-
-
-      * [Petrolatum-Lanolin-Mineral Oil](toc/op-00-00/op-07-00/petrolatum-lanolin-mineral_oil.md)
-
-
-    * [Others - Eye Preparations](toc/op-00-00/op-08-00/README.md)
-
-
-      * [Aflibercept](toc/op-00-00/op-08-00/aflibercept.md)
-
-
-      * [Balanced Salt Soln](toc/op-00-00/op-08-00/balanced_salt_soln.md)
-
-
-      * [Cyanocobalamin](toc/op-00-00/op-08-00/cyanocobalamin.md)
-
-
-      * [Cyclosporin](toc/op-00-00/op-08-00/cyclosporin.md)
-
-
-      * [Dexamethasone](toc/op-00-00/op-08-00/dexamethasone.md)
-
-
-      * [Neostigmine Methylsulfate](toc/op-00-00/op-08-00/neostigmine_methylsulfate.md)
-
-
-      * [Pirfenoxone](toc/op-00-00/op-08-00/pirfenoxone.md)
-
-
-      * [Ranibizumab](toc/op-00-00/op-08-00/ranibizumab.md)
-
-
-      * [Sodium Chloride](toc/op-00-00/op-08-00/sodium_chloride.md)
-
-
-      * [Verteporfin](toc/op-00-00/op-08-00/verteporfin.md)
-
-
-  * [Respiratory System](toc/re-00-00/README.md)
-
-
-    * [Bronchodilators](toc/re-00-00/re-01-00/README.md)
-
-
-      * [Aminophylline](toc/re-00-00/re-01-00/aminophylline.md)
-
-
-      * [Procaterol](toc/re-00-00/re-01-00/procaterol.md)
-
-
-      * [Salbutamol](toc/re-00-00/re-01-00/salbutamol.md)
-
-
-      * [Theophylline](toc/re-00-00/re-01-00/theophylline.md)
-
-
-      * [Tiotropium-Olodaterol](toc/re-00-00/re-01-00/tiotropium-olodaterol.md)
-
-
-      * [Tiotropium](toc/re-00-00/re-01-00/tiotropium.md)
-
-
-    * [Leukotriene Receptor Antagonists](toc/re-00-00/re-02-00/README.md)
-
-
-      * [Montelukast](toc/re-00-00/re-02-00/montelukast.md)
-
-
-    * [Corticosteroids Inhalants](toc/re-00-00/re-03-00/README.md)
-
-
-      * [Budesonide](toc/re-00-00/re-03-00/budesonide.md)
-
-
-      * [Fluticasone](toc/re-00-00/re-03-00/fluticasone.md)
-
-
-    * [Combined Inhalants](toc/re-00-00/re-04-00/README.md)
-
-
-      * [Beclomethasone-Formoterol](toc/re-00-00/re-04-00/beclomethasone-formoterol.md)
-
-
-      * [Budesonide-Formoterol](toc/re-00-00/re-04-00/budesonide-formoterol.md)
-
-
-      * [Fluticasone-Vilanterol](toc/re-00-00/re-04-00/fluticasone-vilanterol.md)
-
-
-      * [Fluticasone Furoate-Umeclidinium-Vilanterol](toc/re-00-00/re-04-00/fluticasone_furoate-umeclidinium-vilanterol.md)
-
-
-      * [Indacaterol-Glycopyrronium](toc/re-00-00/re-04-00/indacaterol-glycopyrronium.md)
-
-
-      * [Salmeterol-Fluticasone](toc/re-00-00/re-04-00/salmeterol-fluticasone.md)
-
-
-    * [Cough And Cold Preparations](toc/re-00-00/re-05-00/README.md)
-
-
-      * [Acetylcysteine](toc/re-00-00/re-05-00/acetylcysteine.md)
-
-
-      * [Ambroxol](toc/re-00-00/re-05-00/ambroxol.md)
-
-
-      * [Benzonatate](toc/re-00-00/re-05-00/benzonatate.md)
-
-
-      * [Butamirate](toc/re-00-00/re-05-00/butamirate.md)
-
-
-      * [Chlorpheniramine-Guaifenesin-Methylephedrine](toc/re-00-00/re-05-00/chlorpheniramine-guaifenesin-methylephedrine.md)
-
-
-      * [Dextromethorphan-Guaiacol Glycolate-Ipecac Extract](toc/re-00-00/re-05-00/dextromethorphan-guaiacol_glycolate-ipecac_extract.md)
-
-
-      * [Dextromethorphan-Lysozyme-K Cresolsulfonate](toc/re-00-00/re-05-00/dextromethorphan-lysozyme-k_cresolsulfonate.md)
-
-
-      * [Opium Tincture-Glycyrrhiza-Antimony K Tartrate](toc/re-00-00/re-05-00/opium_tincture-glycyrrhiza-antimony_k_tartrate.md)
-
-
-      * [Platycodon Fluid Extract](toc/re-00-00/re-05-00/platycodon_fluid_extract.md)
-
-
-      * [Tipepidine](toc/re-00-00/re-05-00/tipepidine.md)
-
-
-    * [Others-Respiratory System](toc/re-00-00/re-06-00/README.md)
-
-
-      * [Beractant](toc/re-00-00/re-06-00/beractant.md)
-
-
-      * [Mepolizumab](toc/re-00-00/re-06-00/mepolizumab.md)
-
-
-      * [Omalizumab](toc/re-00-00/re-06-00/omalizumab.md)
-
-
-  * [Genito-Urinary System](toc/ur-00-00/README.md)
-
-
-    * [Preparations For Vaginal Conditions](toc/ur-00-00/ur-01-00/README.md)
-
-
-      * [Conjugated Estrogen](toc/ur-00-00/ur-01-00/conjugated_estrogen.md)
-
-
-      * [Progesterone](toc/ur-00-00/ur-01-00/progesterone.md)
-
-
-    * [Drugs Acting On The Uterus](toc/ur-00-00/ur-02-00/README.md)
-
-
-      * [Carbetocin](toc/ur-00-00/ur-02-00/carbetocin.md)
-
-
-      * [Dinoprostone](toc/ur-00-00/ur-02-00/dinoprostone.md)
-
-
-      * [Ergometrine](toc/ur-00-00/ur-02-00/ergometrine.md)
-
-
-      * [Methylergometrine](toc/ur-00-00/ur-02-00/methylergometrine.md)
-
-
-      * [Oxytocin](toc/ur-00-00/ur-02-00/oxytocin.md)
-
-
-      * [Ritodrine](toc/ur-00-00/ur-02-00/ritodrine.md)
-
-
-    * [Drugs For Erectile Dysfunction](toc/ur-00-00/ur-03-00/README.md)
-
-
-      * [Sildenafil](toc/ur-00-00/ur-03-00/sildenafil.md)
-
-
-      * [Tadalafil](toc/ur-00-00/ur-03-00/tadalafil.md)
-
-
-    * [Drugs For Bladder And Prostate Disorders](toc/ur-00-00/ur-04-00/README.md)
-
-
-      * [Dutasteride-Tamsulosin](toc/ur-00-00/ur-04-00/dutasteride-tamsulosin.md)
-
-
-      * [Finasteride](toc/ur-00-00/ur-04-00/finasteride.md)
-
-
-      * [Hyaluronate](toc/ur-00-00/ur-04-00/hyaluronate.md)
-
-
-      * [Mirabegron](toc/ur-00-00/ur-04-00/mirabegron.md)
-
-
-      * [Silodosin](toc/ur-00-00/ur-04-00/silodosin.md)
-
-
-      * [Tamsulosin](toc/ur-00-00/ur-04-00/tamsulosin.md)
-
-
-      * [Tolterodine](toc/ur-00-00/ur-04-00/tolterodine.md)
-
-
-    * [Others-Genito-Urinary System](toc/ur-00-00/ur-05-00/README.md)
-
-
-      * [Dapoxetine](toc/ur-00-00/ur-05-00/dapoxetine.md)
-
-
-      * [Oxybutynin](toc/ur-00-00/ur-05-00/oxybutynin.md)
-
-
-      * [Potassium Citrate Monohydrate-Citric Acid](toc/ur-00-00/ur-05-00/potassium_citrate_monohydrate-citric_acid.md)
-
-
-      * [Trospium](toc/ur-00-00/ur-05-00/trospium.md)
-
-
-  * [Other Categories](toc/zz-00-00/README.md)
-
-
-    * [Hyaluronic Acid](toc/zz-00-00/hyaluronic_acid.md)
-
-
-    * [Methacholine](toc/zz-00-00/methacholine.md)
-
-
-    * [Patent Blue V](toc/zz-00-00/patent_blue_v.md)
-
-
-    * [Sodium Tetradecyl Sulphate](toc/zz-00-00/sodium_tetradecyl_sulphate.md)
-
-
-    * [Contrast Agents](toc/zz-00-00/vs-01-00/README.md)
-
-
-      * [Barium Sulfate](toc/zz-00-00/vs-01-00/barium_sulfate.md)
-
-
-      * [X Ray Contrast Agent](toc/zz-00-00/vs-01-00/vs-01-01/README.md)
-
-
-        * [Iodixanol](toc/zz-00-00/vs-01-00/vs-01-01/iodixanol.md)
-
-
-        * [Iohexol-Tromethamine](toc/zz-00-00/vs-01-00/vs-01-01/iohexol-tromethamine.md)
-
-
-        * [Ioversol](toc/zz-00-00/vs-01-00/vs-01-01/ioversol.md)
-
-
-      * [Magnetic Resonance Imaging Contrast Media](toc/zz-00-00/vs-01-00/vs-01-03/README.md)
-
-
-        * [Gadodiamide-Caldiamide](toc/zz-00-00/vs-01-00/vs-01-03/gadodiamide-caldiamide.md)
-
-
-        * [Gadoterate Meglumine](toc/zz-00-00/vs-01-00/vs-01-03/gadoterate_meglumine.md)
-
-
-        * [Gadoxetate](toc/zz-00-00/vs-01-00/vs-01-03/gadoxetate.md)
-
-
-      * [Other Diagnostic Agent](toc/zz-00-00/vs-01-00/vs-01-05/README.md)
-
-
-        * [Fluorescein](toc/zz-00-00/vs-01-00/vs-01-05/fluorescein.md)
-
-
-        * [Indocyanine Green](toc/zz-00-00/vs-01-00/vs-01-05/indocyanine_green.md)
-
-
-        * [Perfluorobutane Microbubbles](toc/zz-00-00/vs-01-00/vs-01-05/perfluorobutane_microbubbles.md)
-
-
-* [附錄](appendix.md)
-
-
-* [索引](index.md)
-
-
-* [常用連結](links.md)
-
-
-
-
-
+# Table of contents* [首頁](README.md)* [更新歷程](changelog.md)* [目錄](toc/README.md)  * [Antidotes](toc/ad-00-00/README.md)    * [General Antidotes](toc/ad-00-00/ad-01-00/README.md)      * [Activated Charcoal](toc/ad-00-00/ad-01-00/activated_charcoal.md)      * [Epinephrine](toc/ad-00-00/ad-01-00/epinephrine.md)      * [Hyaluronidase](toc/ad-00-00/ad-01-00/hyaluronidase.md)      * [Test Phr Name](toc/ad-00-00/ad-01-00/test_phr_name.md)    * [Specific Antidotes](toc/ad-00-00/ad-02-00/README.md)      * [Acamprosate](toc/ad-00-00/ad-02-00/acamprosate.md)      * [Deferoxamine Methansulphonate](toc/ad-00-00/ad-02-00/deferoxamine_methansulphonate.md)      * [Flumazenil](toc/ad-00-00/ad-02-00/flumazenil.md)      * [Folinate](toc/ad-00-00/ad-02-00/folinate.md)      * [Naltrexone](toc/ad-00-00/ad-02-00/naltrexone.md)      * [Nicotine](toc/ad-00-00/ad-02-00/nicotine.md)      * [Pralidoxime](toc/ad-00-00/ad-02-00/pralidoxime.md)      * [Sodium Polystyrene Sulfonate](toc/ad-00-00/ad-02-00/sodium_polystyrene_sulfonate.md)      * [Sugammadex](toc/ad-00-00/ad-02-00/sugammadex.md)  * [Anti-Infective Agents](toc/ai-00-00/README.md)    * [Antibacterials](toc/ai-00-00/ai-01-00/README.md)      * [Penicillins](toc/ai-00-00/ai-01-00/ai-01-01/README.md)        * [Amoxicillin-Clavulanic Acid](toc/ai-00-00/ai-01-00/ai-01-01/amoxicillin-clavulanic_acid.md)        * [Amoxicillin](toc/ai-00-00/ai-01-00/ai-01-01/amoxicillin.md)        * [Ampicillin-Sulbactam](toc/ai-00-00/ai-01-00/ai-01-01/ampicillin-sulbactam.md)        * [Ampicillin](toc/ai-00-00/ai-01-00/ai-01-01/ampicillin.md)        * [Dicloxacillin](toc/ai-00-00/ai-01-00/ai-01-01/dicloxacillin.md)        * [Oxacillin](toc/ai-00-00/ai-01-00/ai-01-01/oxacillin.md)        * [Penicillin G Benzathine](toc/ai-00-00/ai-01-00/ai-01-01/penicillin_g_benzathine.md)        * [Piperacillin-Tazobactam](toc/ai-00-00/ai-01-00/ai-01-01/piperacillin-tazobactam.md)      * [Cephalosporins](toc/ai-00-00/ai-01-00/ai-01-02/README.md)        * [Cefaclor](toc/ai-00-00/ai-01-00/ai-01-02/cefaclor.md)        * [Cefadroxil](toc/ai-00-00/ai-01-00/ai-01-02/cefadroxil.md)        * [Cefazolin](toc/ai-00-00/ai-01-00/ai-01-02/cefazolin.md)        * [Cefepime](toc/ai-00-00/ai-01-00/ai-01-02/cefepime.md)        * [Cefixime](toc/ai-00-00/ai-01-00/ai-01-02/cefixime.md)        * [Cefotaxime](toc/ai-00-00/ai-01-00/ai-01-02/cefotaxime.md)        * [Ceftazidime](toc/ai-00-00/ai-01-00/ai-01-02/ceftazidime.md)        * [Ceftriaxone](toc/ai-00-00/ai-01-00/ai-01-02/ceftriaxone.md)        * [Cefuroxime](toc/ai-00-00/ai-01-00/ai-01-02/cefuroxime.md)        * [Cephalexin](toc/ai-00-00/ai-01-00/ai-01-02/cephalexin.md)        * [Flomoxef](toc/ai-00-00/ai-01-00/ai-01-02/flomoxef.md)      * [Aminoglycosides](toc/ai-00-00/ai-01-00/ai-01-03/README.md)        * [Gentamicin](toc/ai-00-00/ai-01-00/ai-01-03/gentamicin.md)        * [Neomycin](toc/ai-00-00/ai-01-00/ai-01-03/neomycin.md)      * [Tetracyclines](toc/ai-00-00/ai-01-00/ai-01-04/README.md)        * [Doxycycline](toc/ai-00-00/ai-01-00/ai-01-04/doxycycline.md)        * [Tetracycline](toc/ai-00-00/ai-01-00/ai-01-04/tetracycline.md)        * [Tigecycline](toc/ai-00-00/ai-01-00/ai-01-04/tigecycline.md)      * [Macrolides](toc/ai-00-00/ai-01-00/ai-01-06/README.md)        * [Azithromycin](toc/ai-00-00/ai-01-00/ai-01-06/azithromycin.md)        * [Clarithromycin](toc/ai-00-00/ai-01-00/ai-01-06/clarithromycin.md)      * [Lincosamides](toc/ai-00-00/ai-01-00/ai-01-07/README.md)        * [Clindamycin](toc/ai-00-00/ai-01-00/ai-01-07/clindamycin.md)      * [Quinolones](toc/ai-00-00/ai-01-00/ai-01-08/README.md)        * [Ciprofloxacin](toc/ai-00-00/ai-01-00/ai-01-08/ciprofloxacin.md)        * [Levofloxacin](toc/ai-00-00/ai-01-00/ai-01-08/levofloxacin.md)        * [Moxifloxacin](toc/ai-00-00/ai-01-00/ai-01-08/moxifloxacin.md)        * [Pipemidic Acid](toc/ai-00-00/ai-01-00/ai-01-08/pipemidic_acid.md)      * [Sulfonamide](toc/ai-00-00/ai-01-00/ai-01-09/README.md)        * [Sulfamethoxazole-Trimethoprim](toc/ai-00-00/ai-01-00/ai-01-09/sulfamethoxazole-trimethoprim.md)      * [Carbapenems](toc/ai-00-00/ai-01-00/ai-01-10/README.md)        * [Imipenem-Cilastatin Sodium](toc/ai-00-00/ai-01-00/ai-01-10/imipenem-cilastatin_sodium.md)        * [Meropenem](toc/ai-00-00/ai-01-00/ai-01-10/meropenem.md)      * [Glycopeptides](toc/ai-00-00/ai-01-00/ai-01-11/README.md)        * [Teicoplanin](toc/ai-00-00/ai-01-00/ai-01-11/teicoplanin.md)        * [Vancomycin](toc/ai-00-00/ai-01-00/ai-01-11/vancomycin.md)      * [Antituberculous](toc/ai-00-00/ai-01-00/ai-01-12/README.md)        * [Ethambutol](toc/ai-00-00/ai-01-00/ai-01-12/ethambutol.md)        * [Isoniazid](toc/ai-00-00/ai-01-00/ai-01-12/isoniazid.md)        * [Pyrazinamide](toc/ai-00-00/ai-01-00/ai-01-12/pyrazinamide.md)        * [Rifampicin](toc/ai-00-00/ai-01-00/ai-01-12/rifampicin.md)      * [Miscellaneous Agents](toc/ai-00-00/ai-01-00/ai-01-13/README.md)        * [Colistin Methanesulfonate](toc/ai-00-00/ai-01-00/ai-01-13/colistin_methanesulfonate.md)        * [Linezolid](toc/ai-00-00/ai-01-00/ai-01-13/linezolid.md)        * [Metronidazole](toc/ai-00-00/ai-01-00/ai-01-13/metronidazole.md)    * [Antifungals](toc/ai-00-00/ai-02-00/README.md)      * [Fluconazole](toc/ai-00-00/ai-02-00/fluconazole.md)      * [Itraconazole](toc/ai-00-00/ai-02-00/itraconazole.md)      * [Micafungin](toc/ai-00-00/ai-02-00/micafungin.md)      * [Nystatin](toc/ai-00-00/ai-02-00/nystatin.md)      * [Terbinafine](toc/ai-00-00/ai-02-00/terbinafine.md)      * [Voriconazole](toc/ai-00-00/ai-02-00/voriconazole.md)    * [Antivirals](toc/ai-00-00/ai-03-00/README.md)      * [Acyclovir](toc/ai-00-00/ai-03-00/acyclovir.md)      * [Asunaprevir](toc/ai-00-00/ai-03-00/asunaprevir.md)      * [Baloxavir Marboxil](toc/ai-00-00/ai-03-00/baloxavir_marboxil.md)      * [Daclatasvir](toc/ai-00-00/ai-03-00/daclatasvir.md)      * [Entecavir](toc/ai-00-00/ai-03-00/entecavir.md)      * [Glecaprevir-Pibrentasvir](toc/ai-00-00/ai-03-00/glecaprevir-pibrentasvir.md)      * [/[Glecaprevir-Pibrentasvir /(1~6Type-8週/)/]/(toc/ai-00-00/ai-03-00/glecaprevir-pibrentasvir/_/(1~6type-8週/).](toc/ai-00-00/ai-03-00/glecaprevirpibrentasvir-16type8-zhou-tocai0000ai0300glecaprevirpibrentasvir16type8-zhou-.md.md)      * [/[Harvoni --- Ribavirin /(1、4、5、6-12週/)/]/(toc/ai-00-00/ai-03-00/harvoni---/_ribavirin/(1、4、5、6-12週/).md/)](toc/ai-00-00/ai-03-00/harvoni-ribavirin-145612-zhou-tocai0000ai0300harvoniribavirin145612-zhou-.md.md)      * [Ledipasvir-Sofosbuvir](toc/ai-00-00/ai-03-00/ledipasvir-sofosbuvir.md)      * [Methisoprinol](toc/ai-00-00/ai-03-00/methisoprinol.md)      * [Oseltamivir](toc/ai-00-00/ai-03-00/oseltamivir.md)      * [Peramivir](toc/ai-00-00/ai-03-00/peramivir.md)      * [Remdesivir](toc/ai-00-00/ai-03-00/remdesivir.md)      * [Ribavirin](toc/ai-00-00/ai-03-00/ribavirin.md)      * [Sofosbuvir-Velpatasvir](toc/ai-00-00/ai-03-00/sofosbuvir-velpatasvir.md)      * [Sofosbuvir](toc/ai-00-00/ai-03-00/sofosbuvir.md)      * [/[Sovaldi-Ribavirin /(2-12週/)/]/(toc/ai-00-00/ai-03-00/sovaldi-ribavirin/_/(2-12週/).md/)](toc/ai-00-00/ai-03-00/sovaldiribavirin-212-zhou-tocai0000ai0300sovaldiribavirin212-zhou-.md.md)      * [Tenofovir](toc/ai-00-00/ai-03-00/tenofovir.md)      * [Tenofovir Alafenamide](toc/ai-00-00/ai-03-00/tenofovir_alafenamide.md)      * [Valaciclovir](toc/ai-00-00/ai-03-00/valaciclovir.md)      * [Zanamivir](toc/ai-00-00/ai-03-00/zanamivir.md)    * [Antiparasitics](toc/ai-00-00/ai-04-00/README.md)      * [Hydroxychloroquine](toc/ai-00-00/ai-04-00/hydroxychloroquine.md)  * [Neuro-Muscular System](toc/cn-00-00/README.md)    * [Analgesics, Antipyretics And Anti-Inflammatory Agents](toc/cn-00-00/cn-01-00/README.md)      * [Narcotic Analgesics](toc/cn-00-00/cn-01-00/cn-01-01/README.md)        * [Alfentanil](toc/cn-00-00/cn-01-00/cn-01-01/alfentanil.md)        * [Buprenorphine-Naloxone](toc/cn-00-00/cn-01-00/cn-01-01/buprenorphine-naloxone.md)        * [Butorphanol](toc/cn-00-00/cn-01-00/cn-01-01/butorphanol.md)        * [Codeine](toc/cn-00-00/cn-01-00/cn-01-01/codeine.md)        * [Dinalbuphine](toc/cn-00-00/cn-01-00/cn-01-01/dinalbuphine.md)        * [Fentanyl](toc/cn-00-00/cn-01-00/cn-01-01/fentanyl.md)        * [Meperidine](toc/cn-00-00/cn-01-00/cn-01-01/meperidine.md)        * [Morphine](toc/cn-00-00/cn-01-00/cn-01-01/morphine.md)        * [Nalbuphine](toc/cn-00-00/cn-01-00/cn-01-01/nalbuphine.md)        * [/[Pca-1 Inj 100Ml /(自費/)/]/(toc/cn-00-00/cn-01-00/cn-01-01/pca-1inj/_100ml/(自費/).md/)](toc/cn-00-00/cn-01-00/cn-01-01/pca1-inj-100ml-zi-fei-toccn0000cn0100cn0101pca1inj100ml-zi-fei-.md.md)        * [Tramadol-Acetaminophen](toc/cn-00-00/cn-01-00/cn-01-01/tramadol-acetaminophen.md)        * [Tramadol](toc/cn-00-00/cn-01-00/cn-01-01/tramadol.md)      * [Non-Steroidal Anti-Inflammatory Drugs (Nsaid)](toc/cn-00-00/cn-01-00/cn-01-02/README.md)        * [Aceclofenac](toc/cn-00-00/cn-01-00/cn-01-02/aceclofenac.md)        * [Benzydamine](toc/cn-00-00/cn-01-00/cn-01-02/benzydamine.md)        * [Diclofenac](toc/cn-00-00/cn-01-00/cn-01-02/diclofenac.md)        * [Etodolac](toc/cn-00-00/cn-01-00/cn-01-02/etodolac.md)        * [Etofenamate](toc/cn-00-00/cn-01-00/cn-01-02/etofenamate.md)        * [Flurbiprofen](toc/cn-00-00/cn-01-00/cn-01-02/flurbiprofen.md)        * [Ibuprofen](toc/cn-00-00/cn-01-00/cn-01-02/ibuprofen.md)        * [Indomethacin](toc/cn-00-00/cn-01-00/cn-01-02/indomethacin.md)        * [Ketorolac](toc/cn-00-00/cn-01-00/cn-01-02/ketorolac.md)        * [Mefenamic Acid](toc/cn-00-00/cn-01-00/cn-01-02/mefenamic_acid.md)        * [Naproxen](toc/cn-00-00/cn-01-00/cn-01-02/naproxen.md)      * [Cox-2 Inhibitors](toc/cn-00-00/cn-01-00/cn-01-03/README.md)        * [Meloxicam](toc/cn-00-00/cn-01-00/cn-01-03/meloxicam.md)        * [Parecoxib](toc/cn-00-00/cn-01-00/cn-01-03/parecoxib.md)      * [Drugs Used In Gout](toc/cn-00-00/cn-01-00/cn-01-04/README.md)        * [Allopurinol](toc/cn-00-00/cn-01-00/cn-01-04/allopurinol.md)        * [Benzbromarone](toc/cn-00-00/cn-01-00/cn-01-04/benzbromarone.md)        * [Colchicine](toc/cn-00-00/cn-01-00/cn-01-04/colchicine.md)        * [Febuxostat](toc/cn-00-00/cn-01-00/cn-01-04/febuxostat.md)      * [Others](toc/cn-00-00/cn-01-00/cn-01-05/README.md)        * [Acetaminophen](toc/cn-00-00/cn-01-00/cn-01-05/acetaminophen.md)        * [Nefopam](toc/cn-00-00/cn-01-00/cn-01-05/nefopam.md)        * [Propacetamol](toc/cn-00-00/cn-01-00/cn-01-05/propacetamol.md)    * [Psychopharmacologic Drugs](toc/cn-00-00/cn-02-00/README.md)      * [Antipsychotics](toc/cn-00-00/cn-02-00/cn-02-01/README.md)        * [Amisulpride](toc/cn-00-00/cn-02-00/cn-02-01/amisulpride.md)        * [Aripiprazole](toc/cn-00-00/cn-02-00/cn-02-01/aripiprazole.md)        * [Brexpiprazole](toc/cn-00-00/cn-02-00/cn-02-01/brexpiprazole.md)        * [Clozapine](toc/cn-00-00/cn-02-00/cn-02-01/clozapine.md)        * [Haloperidol](toc/cn-00-00/cn-02-00/cn-02-01/haloperidol.md)        * [Lurasidone](toc/cn-00-00/cn-02-00/cn-02-01/lurasidone.md)        * [Olanzapine](toc/cn-00-00/cn-02-00/cn-02-01/olanzapine.md)        * [Paliperidone](toc/cn-00-00/cn-02-00/cn-02-01/paliperidone.md)        * [Quetiapine](toc/cn-00-00/cn-02-00/cn-02-01/quetiapine.md)        * [Risperidone](toc/cn-00-00/cn-02-00/cn-02-01/risperidone.md)        * [Sulpiride](toc/cn-00-00/cn-02-00/cn-02-01/sulpiride.md)        * [Zotepine](toc/cn-00-00/cn-02-00/cn-02-01/zotepine.md)      * [Anxiolytics](toc/cn-00-00/cn-02-00/cn-02-02/README.md)        * [Alprazolam](toc/cn-00-00/cn-02-00/cn-02-02/alprazolam.md)        * [Bromazepam](toc/cn-00-00/cn-02-00/cn-02-02/bromazepam.md)        * [Buspirone](toc/cn-00-00/cn-02-00/cn-02-02/buspirone.md)        * [Chlordiazepoxide](toc/cn-00-00/cn-02-00/cn-02-02/chlordiazepoxide.md)        * [Diazepam](toc/cn-00-00/cn-02-00/cn-02-02/diazepam.md)        * [Fludiazepam](toc/cn-00-00/cn-02-00/cn-02-02/fludiazepam.md)        * [Flurazepam](toc/cn-00-00/cn-02-00/cn-02-02/flurazepam.md)        * [Lorazepam](toc/cn-00-00/cn-02-00/cn-02-02/lorazepam.md)      * [Antidepressants- Tricyclic Antidepressants](toc/cn-00-00/cn-02-00/cn-02-03/README.md)        * [Amitriptyline](toc/cn-00-00/cn-02-00/cn-02-03/amitriptyline.md)        * [Imipramine](toc/cn-00-00/cn-02-00/cn-02-03/imipramine.md)      * [Antidepressants- Selective Serotonin Reuptake Inhibitors](toc/cn-00-00/cn-02-00/cn-02-04/README.md)        * [Escitalopram](toc/cn-00-00/cn-02-00/cn-02-04/escitalopram.md)        * [Fluvoxamine](toc/cn-00-00/cn-02-00/cn-02-04/fluvoxamine.md)        * [Paroxetine](toc/cn-00-00/cn-02-00/cn-02-04/paroxetine.md)        * [Sertraline](toc/cn-00-00/cn-02-00/cn-02-04/sertraline.md)      * [Antidepressants- Serotonin-Norepinephrine Reuptake Inhibitors](toc/cn-00-00/cn-02-00/cn-02-05/README.md)        * [Venlafaxine](toc/cn-00-00/cn-02-00/cn-02-05/venlafaxine.md)        * [Vortioxetine](toc/cn-00-00/cn-02-00/cn-02-05/vortioxetine.md)      * [Antidepressants- Others](toc/cn-00-00/cn-02-00/cn-02-06/README.md)        * [Agomelatine](toc/cn-00-00/cn-02-00/cn-02-06/agomelatine.md)        * [Bupropion](toc/cn-00-00/cn-02-00/cn-02-06/bupropion.md)        * [Flupentixol-Melitracen](toc/cn-00-00/cn-02-00/cn-02-06/flupentixol-melitracen.md)        * [Mirtazapine](toc/cn-00-00/cn-02-00/cn-02-06/mirtazapine.md)        * [Trazodone](toc/cn-00-00/cn-02-00/cn-02-06/trazodone.md)      * [Sedatives And Hypnotics](toc/cn-00-00/cn-02-00/cn-02-07/README.md)        * [Brotizolam](toc/cn-00-00/cn-02-00/cn-02-07/brotizolam.md)        * [Chloral Hydrate](toc/cn-00-00/cn-02-00/cn-02-07/chloral_hydrate.md)        * [Estazolam](toc/cn-00-00/cn-02-00/cn-02-07/estazolam.md)        * [Flunitrazepam](toc/cn-00-00/cn-02-00/cn-02-07/flunitrazepam.md)        * [Midazolam](toc/cn-00-00/cn-02-00/cn-02-07/midazolam.md)        * [Phenobarbital](toc/cn-00-00/cn-02-00/cn-02-07/phenobarbital.md)        * [Zolpidem](toc/cn-00-00/cn-02-00/cn-02-07/zolpidem.md)        * [Zopiclone](toc/cn-00-00/cn-02-00/cn-02-07/zopiclone.md)      * [Cns Stimulant](toc/cn-00-00/cn-02-00/cn-02-08/README.md)        * [Atomoxetine](toc/cn-00-00/cn-02-00/cn-02-08/atomoxetine.md)        * [Caffeine Citrate](toc/cn-00-00/cn-02-00/cn-02-08/caffeine_citrate.md)        * [Methylphenidate](toc/cn-00-00/cn-02-00/cn-02-08/methylphenidate.md)    * [Neurologic Drugs](toc/cn-00-00/cn-03-00/README.md)      * [Antiepileptics](toc/cn-00-00/cn-03-00/cn-03-01/README.md)        * [Carbamazepine](toc/cn-00-00/cn-03-00/cn-03-01/carbamazepine.md)        * [Clonazepam](toc/cn-00-00/cn-03-00/cn-03-01/clonazepam.md)        * [Lacosamide](toc/cn-00-00/cn-03-00/cn-03-01/lacosamide.md)        * [Lamotrigine](toc/cn-00-00/cn-03-00/cn-03-01/lamotrigine.md)        * [Levetiracetam](toc/cn-00-00/cn-03-00/cn-03-01/levetiracetam.md)        * [Oxcarbazepine](toc/cn-00-00/cn-03-00/cn-03-01/oxcarbazepine.md)        * [Perampanel](toc/cn-00-00/cn-03-00/cn-03-01/perampanel.md)        * [Phenytoin](toc/cn-00-00/cn-03-00/cn-03-01/phenytoin.md)        * [Pregabalin](toc/cn-00-00/cn-03-00/cn-03-01/pregabalin.md)        * [Topiramate](toc/cn-00-00/cn-03-00/cn-03-01/topiramate.md)        * [Valproic Acid](toc/cn-00-00/cn-03-00/cn-03-01/valproic_acid.md)        * [Vigabatrin](toc/cn-00-00/cn-03-00/cn-03-01/vigabatrin.md)        * [Zonisamide](toc/cn-00-00/cn-03-00/cn-03-01/zonisamide.md)      * [Skeletal Muscle Relaxants](toc/cn-00-00/cn-03-00/cn-03-02/README.md)        * [Botulinum Toxin Type A](toc/cn-00-00/cn-03-00/cn-03-02/botulinum_toxin_type_a.md)        * [Carisoprodol-Acetaminophen](toc/cn-00-00/cn-03-00/cn-03-02/carisoprodol-acetaminophen.md)        * [Cisatracurium](toc/cn-00-00/cn-03-00/cn-03-02/cisatracurium.md)        * [Dantrolene](toc/cn-00-00/cn-03-00/cn-03-02/dantrolene.md)        * [Mephenoxalone](toc/cn-00-00/cn-03-00/cn-03-02/mephenoxalone.md)        * [Rocuronium Bromide](toc/cn-00-00/cn-03-00/cn-03-02/rocuronium_bromide.md)        * [Succinylcholine](toc/cn-00-00/cn-03-00/cn-03-02/succinylcholine.md)      * [Drugs Used In Parkinsonism- Anticholinergic Activity](toc/cn-00-00/cn-03-00/cn-03-03/README.md)        * [Biperiden](toc/cn-00-00/cn-03-00/cn-03-03/biperiden.md)        * [Trihexyphenidyl](toc/cn-00-00/cn-03-00/cn-03-03/trihexyphenidyl.md)      * [Drugs Used In Parkinsonism- Dopamine Agonist Activity](toc/cn-00-00/cn-03-00/cn-03-04/README.md)        * [Bromocriptine](toc/cn-00-00/cn-03-00/cn-03-04/bromocriptine.md)        * [Pramipexole](toc/cn-00-00/cn-03-00/cn-03-04/pramipexole.md)        * [Rotigotine](toc/cn-00-00/cn-03-00/cn-03-04/rotigotine.md)      * [Drugs Used In Parkinsonism- Affecting Brain Dopamine](toc/cn-00-00/cn-03-00/cn-03-05/README.md)        * [Carbidopa-Levodopa](toc/cn-00-00/cn-03-00/cn-03-05/carbidopa-levodopa.md)        * [Entacapone](toc/cn-00-00/cn-03-00/cn-03-05/entacapone.md)        * [Levodopa-Benserazide](toc/cn-00-00/cn-03-00/cn-03-05/levodopa-benserazide.md)      * [Drugs Used In Parkinsonism- Others](toc/cn-00-00/cn-03-00/cn-03-06/README.md)        * [Amantadine](toc/cn-00-00/cn-03-00/cn-03-06/amantadine.md)        * [Rasagiline](toc/cn-00-00/cn-03-00/cn-03-06/rasagiline.md)      * [Drugs Used In Migraine](toc/cn-00-00/cn-03-00/cn-03-07/README.md)        * [Galcanezumab](toc/cn-00-00/cn-03-00/cn-03-07/galcanezumab.md)        * [Rizatriptan](toc/cn-00-00/cn-03-00/cn-03-07/rizatriptan.md)        * [Sumatriptan](toc/cn-00-00/cn-03-00/cn-03-07/sumatriptan.md)      * [Drugs Used In Vertigo And Vomiting](toc/cn-00-00/cn-03-00/cn-03-08/README.md)        * [Aprepitant](toc/cn-00-00/cn-03-00/cn-03-08/aprepitant.md)        * [Betahistine](toc/cn-00-00/cn-03-00/cn-03-08/betahistine.md)        * [Droperidol](toc/cn-00-00/cn-03-00/cn-03-08/droperidol.md)        * [Granisetron](toc/cn-00-00/cn-03-00/cn-03-08/granisetron.md)        * [Netupitant-Palonosetron](toc/cn-00-00/cn-03-00/cn-03-08/netupitant-palonosetron.md)        * [Ondansetron](toc/cn-00-00/cn-03-00/cn-03-08/ondansetron.md)        * [Palonosetron](toc/cn-00-00/cn-03-00/cn-03-08/palonosetron.md)        * [Prochlorperazine](toc/cn-00-00/cn-03-00/cn-03-08/prochlorperazine.md)      * [Drugs Used In Myasthenia Gravis](toc/cn-00-00/cn-03-00/cn-03-09/README.md)        * [Neostigmine Methylsulfate](toc/cn-00-00/cn-03-00/cn-03-09/neostigmine_methylsulfate.md)        * [Pyridostigmine](toc/cn-00-00/cn-03-00/cn-03-09/pyridostigmine.md)      * [Drugs For Neurodegenerative Disease](toc/cn-00-00/cn-03-00/cn-03-10/README.md)        * [Donepezil](toc/cn-00-00/cn-03-00/cn-03-10/donepezil.md)        * [Memantine](toc/cn-00-00/cn-03-00/cn-03-10/memantine.md)        * [Rivastigmine](toc/cn-00-00/cn-03-00/cn-03-10/rivastigmine.md)      * [Nootropics And Neurotonics](toc/cn-00-00/cn-03-00/cn-03-11/README.md)        * [Mecobalamin](toc/cn-00-00/cn-03-00/cn-03-11/mecobalamin.md)        * [Methylcobalamin](toc/cn-00-00/cn-03-00/cn-03-11/methylcobalamin.md)        * [Piracetam](toc/cn-00-00/cn-03-00/cn-03-11/piracetam.md)      * [Enzyme](toc/cn-00-00/cn-03-00/cn-03-12/README.md)        * [Bromelain-L-Cysteine](toc/cn-00-00/cn-03-00/cn-03-12/bromelain-l-cysteine.md)    * [Anesthetic Drugs](toc/cn-00-00/cn-04-00/README.md)      * [General Anesthetic](toc/cn-00-00/cn-04-00/cn-04-01/README.md)        * [Desflurane](toc/cn-00-00/cn-04-00/cn-04-01/desflurane.md)        * [Dexmedetomidine](toc/cn-00-00/cn-04-00/cn-04-01/dexmedetomidine.md)        * [Propofol](toc/cn-00-00/cn-04-00/cn-04-01/propofol.md)        * [Sevoflurane](toc/cn-00-00/cn-04-00/cn-04-01/sevoflurane.md)      * [Local Anesthetic](toc/cn-00-00/cn-04-00/cn-04-02/README.md)        * [Bupivacaine](toc/cn-00-00/cn-04-00/cn-04-02/bupivacaine.md)        * [Lidocaine-Epinephrine](toc/cn-00-00/cn-04-00/cn-04-02/lidocaine-epinephrine.md)        * [Lidocaine](toc/cn-00-00/cn-04-00/cn-04-02/lidocaine.md)    * [Others Neuromuscle Agents](toc/cn-00-00/cn-05-00/README.md)      * [Glucosamine Sulphate](toc/cn-00-00/cn-05-00/glucosamine_sulphate.md)      * [Sodium Hyaluronate](toc/cn-00-00/cn-05-00/sodium_hyaluronate.md)    * [Cholinergic Agents](toc/cn-00-00/cn-06-00/README.md)      * [Cevimeline](toc/cn-00-00/cn-06-00/cevimeline.md)      * [Pilocarpine](toc/cn-00-00/cn-06-00/pilocarpine.md)  * [Contraceptive Agents](toc/ct-00-00/README.md)    * [Oral Contraceptives](toc/ct-00-00/ct-01-00/README.md)      * [Cyproterone Acetate-Ethinylestradiol](toc/ct-00-00/ct-01-00/cyproterone_acetate-ethinylestradiol.md)      * [Desogestrel-Ethinylestradiol](toc/ct-00-00/ct-01-00/desogestrel-ethinylestradiol.md)      * [Drospirenone-Ethinylestradiol](toc/ct-00-00/ct-01-00/drospirenone-ethinylestradiol.md)    * [Intrauterine Devices](toc/ct-00-00/ct-02-00/README.md)      * [Levonorgestrel Implants](toc/ct-00-00/ct-02-00/levonorgestrel_implants.md)  * [Cardiovascular System](toc/cv-00-00/README.md)    * [Cardiac Drugs](toc/cv-00-00/cv-01-00/README.md)      * [Adenosine](toc/cv-00-00/cv-01-00/adenosine.md)      * [Amiodarone](toc/cv-00-00/cv-01-00/amiodarone.md)      * [Digoxin](toc/cv-00-00/cv-01-00/digoxin.md)      * [Dobutamine](toc/cv-00-00/cv-01-00/dobutamine.md)      * [Dopamine](toc/cv-00-00/cv-01-00/dopamine.md)      * [Dronedarone](toc/cv-00-00/cv-01-00/dronedarone.md)      * [Ephedrine](toc/cv-00-00/cv-01-00/ephedrine.md)      * [Epinephrine](toc/cv-00-00/cv-01-00/epinephrine.md)      * [Ivabradine](toc/cv-00-00/cv-01-00/ivabradine.md)      * [Mexiletine](toc/cv-00-00/cv-01-00/mexiletine.md)      * [Norepinephrine](toc/cv-00-00/cv-01-00/norepinephrine.md)      * [Propafenone](toc/cv-00-00/cv-01-00/propafenone.md)    * [Anti-Anginal Drugs](toc/cv-00-00/cv-02-00/README.md)      * [Isosorbide 5-Mononitrate](toc/cv-00-00/cv-02-00/isosorbide_5-mononitrate.md)      * [Nitroglycerin](toc/cv-00-00/cv-02-00/nitroglycerin.md)      * [Ranolazine](toc/cv-00-00/cv-02-00/ranolazine.md)    * [Diuretics](toc/cv-00-00/cv-03-00/README.md)      * [Thiazides And Related Diuretics](toc/cv-00-00/cv-03-00/cv-03-01/README.md)        * [Indapamide](toc/cv-00-00/cv-03-00/cv-03-01/indapamide.md)      * [Loop Diuretics](toc/cv-00-00/cv-03-00/cv-03-02/README.md)        * [Furosemide](toc/cv-00-00/cv-03-00/cv-03-02/furosemide.md)      * [Potassium-Sparing Diuretics](toc/cv-00-00/cv-03-00/cv-03-03/README.md)        * [Eplerenone](toc/cv-00-00/cv-03-00/cv-03-03/eplerenone.md)      * [Osmotic Diuretics](toc/cv-00-00/cv-03-00/cv-03-04/README.md)        * [D-Mannitol](toc/cv-00-00/cv-03-00/cv-03-04/d-mannitol.md)      * [Others](toc/cv-00-00/cv-03-00/cv-03-06/README.md)        * [Hydrochlorothiazide-Amiloride](toc/cv-00-00/cv-03-00/cv-03-06/hydrochlorothiazide-amiloride.md)        * [Tolvaptan](toc/cv-00-00/cv-03-00/cv-03-06/tolvaptan.md)    * [Adrenergic Blocking Agents](toc/cv-00-00/cv-04-00/README.md)      * [Alfa Blockers](toc/cv-00-00/cv-04-00/cv-04-01/README.md)        * [Doxazosin](toc/cv-00-00/cv-04-00/cv-04-01/doxazosin.md)        * [Terazosin](toc/cv-00-00/cv-04-00/cv-04-01/terazosin.md)      * [Beta Blockers](toc/cv-00-00/cv-04-00/cv-04-02/README.md)        * [Bisoprolol](toc/cv-00-00/cv-04-00/cv-04-02/bisoprolol.md)        * [Carvedilol](toc/cv-00-00/cv-04-00/cv-04-02/carvedilol.md)        * [Labetalol](toc/cv-00-00/cv-04-00/cv-04-02/labetalol.md)        * [Propranolol](toc/cv-00-00/cv-04-00/cv-04-02/propranolol.md)    * [Calcium Channel Blockers](toc/cv-00-00/cv-05-00/README.md)      * [Amlodipine](toc/cv-00-00/cv-05-00/amlodipine.md)      * [Benidipine](toc/cv-00-00/cv-05-00/benidipine.md)      * [Diltiazem](toc/cv-00-00/cv-05-00/diltiazem.md)      * [Felodipine](toc/cv-00-00/cv-05-00/felodipine.md)      * [Lercanidipine](toc/cv-00-00/cv-05-00/lercanidipine.md)      * [Nicardipine](toc/cv-00-00/cv-05-00/nicardipine.md)      * [Nifedipine](toc/cv-00-00/cv-05-00/nifedipine.md)      * [Nimodipine](toc/cv-00-00/cv-05-00/nimodipine.md)      * [Verapamil](toc/cv-00-00/cv-05-00/verapamil.md)    * [Vasodilators](toc/cv-00-00/cv-06-00/README.md)      * [Hydralazine](toc/cv-00-00/cv-06-00/hydralazine.md)      * [Sildenafil](toc/cv-00-00/cv-06-00/sildenafil.md)    * [Angiotensin-Converting Enzyme Inhibitors](toc/cv-00-00/cv-07-00/README.md)      * [Captopril](toc/cv-00-00/cv-07-00/captopril.md)    * [Angiotensin Ii Receptor Antagonists](toc/cv-00-00/cv-08-00/README.md)      * [Azilsartan Medoxomil](toc/cv-00-00/cv-08-00/azilsartan_medoxomil.md)      * [Candesartan](toc/cv-00-00/cv-08-00/candesartan.md)      * [Olmesartan Medoxomil](toc/cv-00-00/cv-08-00/olmesartan_medoxomil.md)    * [Other Antihypertensives](toc/cv-00-00/cv-09-00/README.md)      * [Amlodipine-Benazepril](toc/cv-00-00/cv-09-00/amlodipine-benazepril.md)      * [Amlodipine-Olmesartan](toc/cv-00-00/cv-09-00/amlodipine-olmesartan.md)      * [Amlodipine-Valsartan](toc/cv-00-00/cv-09-00/amlodipine-valsartan.md)      * [Clonidine](toc/cv-00-00/cv-09-00/clonidine.md)      * [Levosimendan](toc/cv-00-00/cv-09-00/levosimendan.md)      * [Sacubitril-Valsartan](toc/cv-00-00/cv-09-00/sacubitril-valsartan.md)    * [Drugs Used In Cerebral And Peripheral Vascular Disorders](toc/cv-00-00/cv-11-00/README.md)      * [Alprostadil](toc/cv-00-00/cv-11-00/alprostadil.md)      * [Flunarizine](toc/cv-00-00/cv-11-00/flunarizine.md)      * [Ginkgo Biloba](toc/cv-00-00/cv-11-00/ginkgo_biloba.md)      * [Nicergoline](toc/cv-00-00/cv-11-00/nicergoline.md)      * [Pentoxifylline](toc/cv-00-00/cv-11-00/pentoxifylline.md)    * [Drugs Used In Hyperlipidemia](toc/cv-00-00/cv-12-00/README.md)      * [Alirocumab](toc/cv-00-00/cv-12-00/alirocumab.md)      * [Atorvastatin](toc/cv-00-00/cv-12-00/atorvastatin.md)      * [Fenofibrate](toc/cv-00-00/cv-12-00/fenofibrate.md)      * [Niacin-Lovastatin](toc/cv-00-00/cv-12-00/niacin-lovastatin.md)      * [Omega-3- Acid Ethyl Esters 90](toc/cv-00-00/cv-12-00/omega-3-_acid_ethyl_esters_90.md)      * [Pitavastatin](toc/cv-00-00/cv-12-00/pitavastatin.md)      * [Pravastatin](toc/cv-00-00/cv-12-00/pravastatin.md)    * [Others](toc/cv-00-00/cv-13-00/README.md)      * [Amlodipine-Atorvastatin](toc/cv-00-00/cv-13-00/amlodipine-atorvastatin.md)  * [Dermatologic Preparations](toc/de-00-00/README.md)    * [Antiseptics And Disinfectants](toc/de-00-00/de-01-00/README.md)      * [Acrinol](toc/de-00-00/de-01-00/acrinol.md)      * [Alcohol](toc/de-00-00/de-01-00/alcohol.md)      * [Boric Acid-Nahco3-Menthol](toc/de-00-00/de-01-00/boric_acid-nahco3-menthol.md)      * [Hydrogen Peroxide](toc/de-00-00/de-01-00/hydrogen_peroxide.md)      * [Povidone-Iodine](toc/de-00-00/de-01-00/povidone-iodine.md)    * [Topical Antibiotics](toc/de-00-00/de-02-00/README.md)      * [Fusidic Acid](toc/de-00-00/de-02-00/fusidic_acid.md)      * [Metronidazole](toc/de-00-00/de-02-00/metronidazole.md)    * [Topical Antifungals & Antiparasites](toc/de-00-00/de-03-00/README.md)      * [Amorolfine](toc/de-00-00/de-03-00/amorolfine.md)      * [Benzyl Benzoate](toc/de-00-00/de-03-00/benzyl_benzoate.md)      * [Sertaconazole](toc/de-00-00/de-03-00/sertaconazole.md)    * [Topical Antivirals](toc/de-00-00/de-04-00/README.md)      * [Acyclovir](toc/de-00-00/de-04-00/acyclovir.md)      * [Imiquimod](toc/de-00-00/de-04-00/imiquimod.md)    * [Topical Anti-Infectives With Corticosteroids](toc/de-00-00/de-05-00/README.md)      * [Betamethasone-Gentamicin](toc/de-00-00/de-05-00/betamethasone-gentamicin.md)      * [Flumethasone-Salicylic Acid](toc/de-00-00/de-05-00/flumethasone-salicylic_acid.md)      * [Triamcinolone-Neomycin-Gramicidin-Nystatin](toc/de-00-00/de-05-00/triamcinolone-neomycin-gramicidin-nystatin.md)    * [Topical Corticosteroids](toc/de-00-00/de-06-00/README.md)      * [Clobetasol](toc/de-00-00/de-06-00/clobetasol.md)      * [Fluocinonide](toc/de-00-00/de-06-00/fluocinonide.md)      * [Fluticasone](toc/de-00-00/de-06-00/fluticasone.md)      * [Hydrocortisone](toc/de-00-00/de-06-00/hydrocortisone.md)      * [Mometasone](toc/de-00-00/de-06-00/mometasone.md)    * [Acne](toc/de-00-00/de-07-00/README.md)      * [Adapalene](toc/de-00-00/de-07-00/adapalene.md)      * [Azelaic Acid](toc/de-00-00/de-07-00/azelaic_acid.md)      * [Benzoyl Peroxide](toc/de-00-00/de-07-00/benzoyl_peroxide.md)      * [Clindamycin](toc/de-00-00/de-07-00/clindamycin.md)      * [Isotretinoin](toc/de-00-00/de-07-00/isotretinoin.md)    * [Topical Antihistamines And Antipruritics](toc/de-00-00/de-08-00/README.md)      * [Calamine- Zinc Oxide](toc/de-00-00/de-08-00/calamine-_zinc_oxide.md)      * [Crotamiton](toc/de-00-00/de-08-00/crotamiton.md)      * [Doxepin](toc/de-00-00/de-08-00/doxepin.md)      * [Zinc Oxide](toc/de-00-00/de-08-00/zinc_oxide.md)    * [Psoriasis And Seborrhea](toc/de-00-00/de-09-00/README.md)      * [Acitretin](toc/de-00-00/de-09-00/acitretin.md)      * [Calcipotriol-Betamethasone](toc/de-00-00/de-09-00/calcipotriol-betamethasone.md)      * [Clobetasol](toc/de-00-00/de-09-00/clobetasol.md)      * [Ustekinumab](toc/de-00-00/de-09-00/ustekinumab.md)    * [Keratolytics](toc/de-00-00/de-10-00/README.md)      * [Salicylic Acid-Lactic Acid](toc/de-00-00/de-10-00/salicylic_acid-lactic_acid.md)      * [Urea](toc/de-00-00/de-10-00/urea.md)    * [Other Dermatologicals](toc/de-00-00/de-11-00/README.md)      * [Brimonidine](toc/de-00-00/de-11-00/brimonidine.md)      * [Dupilumab](toc/de-00-00/de-11-00/dupilumab.md)      * [Finasteride](toc/de-00-00/de-11-00/finasteride.md)      * [Glycerin](toc/de-00-00/de-11-00/glycerin.md)      * [Heparinoid](toc/de-00-00/de-11-00/heparinoid.md)      * [Hydroquinone-Tretinoin-Dexamethasone](toc/de-00-00/de-11-00/hydroquinone-tretinoin-dexamethasone.md)      * [Ivermectin](toc/de-00-00/de-11-00/ivermectin.md)      * [Lidocaine-Prilocaine](toc/de-00-00/de-11-00/lidocaine-prilocaine.md)      * [Polysiloxane](toc/de-00-00/de-11-00/polysiloxane.md)      * [Silicone Gel](toc/de-00-00/de-11-00/silicone_gel.md)      * [Tacrolimus](toc/de-00-00/de-11-00/tacrolimus.md)  * [E. N. T. Preparations](toc/en-00-00/README.md)    * [Otic Preparations](toc/en-00-00/en-01-00/README.md)      * [Ofloxacin](toc/en-00-00/en-01-00/ofloxacin.md)      * [Sod Bicarbonate-Glycerin](toc/en-00-00/en-01-00/sod_bicarbonate-glycerin.md)    * [Nasal Preparations](toc/en-00-00/en-02-00/README.md)      * [Azelastine](toc/en-00-00/en-02-00/azelastine.md)      * [Fluticasone](toc/en-00-00/en-02-00/fluticasone.md)      * [Mometasone](toc/en-00-00/en-02-00/mometasone.md)    * [Preparations For Throat And Oral Cavity](toc/en-00-00/en-03-00/README.md)      * [Dexamethasone](toc/en-00-00/en-03-00/dexamethasone.md)      * [Enoxolone](toc/en-00-00/en-03-00/enoxolone.md)  * [Gastrointestinal & Hepatobiliary System](toc/gi-00-00/README.md)    * [Drugs Used In Peptic Ulcers](toc/gi-00-00/gi-01-00/README.md)      * [Antacids](toc/gi-00-00/gi-01-00/gi-01-01/README.md)        * [/[Alginic Acid-Colloidal Al/(Oh/)3-Mghco3/]/(toc/gi-00-00/gi-01-00/gi-01-01/alginic/_acid-colloidal/_al/(oh/)](toc/gi-00-00/gi-01-00/gi-01-01/alginic-acid-colloidal-al-oh-3-mghco3-toc-gi-00-00-gi-01-00-gi-01-01-alginic_acid-colloidal_al-oh-3.md)        * [Aluminium Hydroxide](toc/gi-00-00/gi-01-00/gi-01-01/aluminium_hydroxide.md)        * [Aluminum Hydroxide-Butinolin-Calcium Carbonate](toc/gi-00-00/gi-01-00/gi-01-01/aluminum_hydroxide-butinolin-calcium_carbonate.md)        * [Oxethazaine-Aluminum Hydroxide-Magnesium Oxide](toc/gi-00-00/gi-01-00/gi-01-01/oxethazaine-aluminum_hydroxide-magnesium_oxide.md)        * [Sucralfate](toc/gi-00-00/gi-01-00/gi-01-01/sucralfate.md)      * [Proton Pump Inhibitor](toc/gi-00-00/gi-01-00/gi-01-02/README.md)        * [Dexlansoprazole](toc/gi-00-00/gi-01-00/gi-01-02/dexlansoprazole.md)        * [Esomeprazole](toc/gi-00-00/gi-01-00/gi-01-02/esomeprazole.md)        * [Lansoprazole](toc/gi-00-00/gi-01-00/gi-01-02/lansoprazole.md)        * [Omeprazole](toc/gi-00-00/gi-01-00/gi-01-02/omeprazole.md)        * [Pantoprazole](toc/gi-00-00/gi-01-00/gi-01-02/pantoprazole.md)      * [H2-Receptor Antagonists](toc/gi-00-00/gi-01-00/gi-01-03/README.md)        * [Cimetidine](toc/gi-00-00/gi-01-00/gi-01-03/cimetidine.md)        * [Famotidine](toc/gi-00-00/gi-01-00/gi-01-03/famotidine.md)      * [Mucosa Protecting Agents](toc/gi-00-00/gi-01-00/gi-01-04/README.md)        * [Dibismuth Trioxide](toc/gi-00-00/gi-01-00/gi-01-04/dibismuth_trioxide.md)        * [Misoprostol](toc/gi-00-00/gi-01-00/gi-01-04/misoprostol.md)    * [Antidiarrheals](toc/gi-00-00/gi-02-00/README.md)      * [Dioctahedral Smectite](toc/gi-00-00/gi-02-00/dioctahedral_smectite.md)      * [Loperamide](toc/gi-00-00/gi-02-00/loperamide.md)    * [Laxatives And Cathartics](toc/gi-00-00/gi-03-00/README.md)      * [Bisacodyl](toc/gi-00-00/gi-03-00/bisacodyl.md)      * [Lactulose](toc/gi-00-00/gi-03-00/lactulose.md)      * [Magnesium Oxide](toc/gi-00-00/gi-03-00/magnesium_oxide.md)      * [Picosulfate-Mgo-Citric Acid](toc/gi-00-00/gi-03-00/picosulfate-mgo-citric_acid.md)      * [Polyethylene Glycol 3350](toc/gi-00-00/gi-03-00/polyethylene_glycol_3350.md)      * [Sennosides](toc/gi-00-00/gi-03-00/sennosides.md)      * [Sod Chloride](toc/gi-00-00/gi-03-00/sod_chloride.md)    * [Digestives](toc/gi-00-00/gi-04-00/README.md)      * [Clostridium Butyricum Miyairi 588](toc/gi-00-00/gi-04-00/clostridium_butyricum_miyairi_588.md)      * [Lactobacillus-Bifidobacterium](toc/gi-00-00/gi-04-00/lactobacillus-bifidobacterium.md)      * [Lactobacillus Casei](toc/gi-00-00/gi-04-00/lactobacillus_casei.md)      * [Pancrelipase](toc/gi-00-00/gi-04-00/pancrelipase.md)    * [Antispasmodics](toc/gi-00-00/gi-05-00/README.md)      * [Atropine](toc/gi-00-00/gi-05-00/atropine.md)      * [Hyoscin-Butylbromide](toc/gi-00-00/gi-05-00/hyoscin-butylbromide.md)      * [Hyoscyamine](toc/gi-00-00/gi-05-00/hyoscyamine.md)      * [Mebeverine](toc/gi-00-00/gi-05-00/mebeverine.md)      * [Otilonium](toc/gi-00-00/gi-05-00/otilonium.md)    * [Antiflatulents And Git Regulators](toc/gi-00-00/gi-06-00/README.md)      * [Dimethylpolysiloxane](toc/gi-00-00/gi-06-00/dimethylpolysiloxane.md)      * [Domperidone](toc/gi-00-00/gi-06-00/domperidone.md)      * [Metoclopramide](toc/gi-00-00/gi-06-00/metoclopramide.md)      * [Metoclopramide Hydrochloride](toc/gi-00-00/gi-06-00/metoclopramide_hydrochloride.md)      * [Simethicone](toc/gi-00-00/gi-06-00/simethicone.md)    * [Drugs Used In Disorders Of Liver And Bililary Tract](toc/gi-00-00/gi-07-00/README.md)      * [Silymarin](toc/gi-00-00/gi-07-00/silymarin.md)    * [Anorectal Preparations](toc/gi-00-00/gi-08-00/README.md)      * [Betamethasone-Lidocaine-Phenylephrine](toc/gi-00-00/gi-08-00/betamethasone-lidocaine-phenylephrine.md)      * [Mesalazine](toc/gi-00-00/gi-08-00/mesalazine.md)      * [Sodium Oleate](toc/gi-00-00/gi-08-00/sodium_oleate.md)    * [Others](toc/gi-00-00/gi-09-00/README.md)      * [Mesalazine](toc/gi-00-00/gi-09-00/mesalazine.md)      * [Sulfasalazine](toc/gi-00-00/gi-09-00/sulfasalazine.md)  * [Hematological Agents](toc/he-00-00/README.md)    * [Hematopoietc Agents](toc/he-00-00/he-01-00/README.md)      * [Darbepoetin Alfa](toc/he-00-00/he-01-00/darbepoetin_alfa.md)      * [Epoetin Beta](toc/he-00-00/he-01-00/epoetin_beta.md)      * [Methoxy Polyethylene Glycol- Epoetin Β](toc/he-00-00/he-01-00/methoxy_polyethylene_glycol-_epoetin_v.md)      * [Recombinant Human Erythropoiet](toc/he-00-00/he-01-00/recombinant_human_erythropoiet.md)    * [Anticoagulants](toc/he-00-00/he-02-00/README.md)      * [Apixaban](toc/he-00-00/he-02-00/apixaban.md)      * [Dabigatran](toc/he-00-00/he-02-00/dabigatran.md)      * [Dalteparin](toc/he-00-00/he-02-00/dalteparin.md)      * [Edoxaban](toc/he-00-00/he-02-00/edoxaban.md)      * [Fondaparinux](toc/he-00-00/he-02-00/fondaparinux.md)      * [Heparin](toc/he-00-00/he-02-00/heparin.md)      * [Rivaroxaban](toc/he-00-00/he-02-00/rivaroxaban.md)      * [Warfarin](toc/he-00-00/he-02-00/warfarin.md)    * [Antiplatelets](toc/he-00-00/he-03-00/README.md)      * [Acetylsalicylic Acid](toc/he-00-00/he-03-00/acetylsalicylic_acid.md)      * [Cilostazol](toc/he-00-00/he-03-00/cilostazol.md)      * [Clopidogrel-Acetylsalicylic Acid](toc/he-00-00/he-03-00/clopidogrel-acetylsalicylic_acid.md)      * [Clopidogrel](toc/he-00-00/he-03-00/clopidogrel.md)      * [Dipyridamole](toc/he-00-00/he-03-00/dipyridamole.md)      * [Prasugrel](toc/he-00-00/he-03-00/prasugrel.md)      * [Ticagrelor](toc/he-00-00/he-03-00/ticagrelor.md)      * [Ticlopidine](toc/he-00-00/he-03-00/ticlopidine.md)      * [Tirofiban](toc/he-00-00/he-03-00/tirofiban.md)    * [Thrombolytics](toc/he-00-00/he-04-00/README.md)      * [Human Plasminogen Activator](toc/he-00-00/he-04-00/human_plasminogen_activator.md)      * [Urokinase](toc/he-00-00/he-04-00/urokinase.md)    * [Hemostatics](toc/he-00-00/he-05-00/README.md)      * [Eptacog Alfa](toc/he-00-00/he-05-00/eptacog_alfa.md)      * [Thrombin-Calcium Chloride-Aprotinin-Protein Clotta](toc/he-00-00/he-05-00/thrombin-calcium_chloride-aprotinin-protein_clotta.md)      * [Tranexamic Acid](toc/he-00-00/he-05-00/tranexamic_acid.md)    * [Blood Components And Substituents](toc/he-00-00/he-06-00/README.md)      * [Albumin](toc/he-00-00/he-06-00/albumin.md)      * [Low Molecular Dextran Dextrose](toc/he-00-00/he-06-00/low_molecular_dextran_dextrose.md)  * [Hormones](toc/hr-00-00/README.md)    * [Corticosteroid Hormones](toc/hr-00-00/hr-01-00/README.md)      * [Betamethasone](toc/hr-00-00/hr-01-00/betamethasone.md)      * [Dexamethasone](toc/hr-00-00/hr-01-00/dexamethasone.md)      * [Methylprednisolone](toc/hr-00-00/hr-01-00/methylprednisolone.md)      * [Prednisolone](toc/hr-00-00/hr-01-00/prednisolone.md)      * [Triamcinolone](toc/hr-00-00/hr-01-00/triamcinolone.md)    * [Tropic Hormones And Related Synthetic Drugs](toc/hr-00-00/hr-02-00/README.md)      * [Cabergoline](toc/hr-00-00/hr-02-00/cabergoline.md)      * [Cetrorelix](toc/hr-00-00/hr-02-00/cetrorelix.md)      * [Clomiphene](toc/hr-00-00/hr-02-00/clomiphene.md)      * [Follitropin Alpha](toc/hr-00-00/hr-02-00/follitropin_alpha.md)      * [Fsh 450Iu-Lh 225Iu](toc/hr-00-00/hr-02-00/fsh_450iu-lh_225iu.md)      * [Fsh 600 Iu-Lh 600 Iu](toc/hr-00-00/hr-02-00/fsh_600_iu-lh_600_iu.md)    * [Sex Hormones](toc/hr-00-00/hr-03-00/README.md)      * [Androgens](toc/hr-00-00/hr-03-00/hr-03-01/README.md)        * [Testosterone](toc/hr-00-00/hr-03-00/hr-03-01/testosterone.md)      * [Estrogens](toc/hr-00-00/hr-03-00/hr-03-02/README.md)        * [Conjugated Estrogen](toc/hr-00-00/hr-03-00/hr-03-02/conjugated_estrogen.md)        * [Estradiol](toc/hr-00-00/hr-03-00/hr-03-02/estradiol.md)        * [Estradiol Valerate](toc/hr-00-00/hr-03-00/hr-03-02/estradiol_valerate.md)      * [Progestes](toc/hr-00-00/hr-03-00/hr-03-03/README.md)        * [Dienogest](toc/hr-00-00/hr-03-00/hr-03-03/dienogest.md)        * [Dydrogesterone](toc/hr-00-00/hr-03-00/hr-03-03/dydrogesterone.md)        * [Hydroxyprogesterone Caproate](toc/hr-00-00/hr-03-00/hr-03-03/hydroxyprogesterone_caproate.md)        * [Medroxyprogesterone](toc/hr-00-00/hr-03-00/hr-03-03/medroxyprogesterone.md)        * [Megestrol](toc/hr-00-00/hr-03-00/hr-03-03/megestrol.md)        * [Progesterone](toc/hr-00-00/hr-03-00/hr-03-03/progesterone.md)      * [Estrogens And Progesterones Combination](toc/hr-00-00/hr-03-00/hr-03-04/README.md)        * [Estradiol-Medroxyprogesterone](toc/hr-00-00/hr-03-00/hr-03-04/estradiol-medroxyprogesterone.md)    * [Other Hormones](toc/hr-00-00/hr-04-00/README.md)      * [Desmopressin](toc/hr-00-00/hr-04-00/desmopressin.md)      * [Gestrinone](toc/hr-00-00/hr-04-00/gestrinone.md)      * [Octreotide](toc/hr-00-00/hr-04-00/octreotide.md)      * [Terlipressin](toc/hr-00-00/hr-04-00/terlipressin.md)      * [Tibolone](toc/hr-00-00/hr-04-00/tibolone.md)      * [Vasopressin](toc/hr-00-00/hr-04-00/vasopressin.md)  * [Allergy And Immune System](toc/im-00-00/README.md)    * [Antihistamines And Antiallergics](toc/im-00-00/im-01-00/README.md)      * [Cyproheptadine](toc/im-00-00/im-01-00/cyproheptadine.md)      * [Diphenhydramine](toc/im-00-00/im-01-00/diphenhydramine.md)      * [Fexofenadine](toc/im-00-00/im-01-00/fexofenadine.md)      * [Ketotifen](toc/im-00-00/im-01-00/ketotifen.md)      * [Levocetirizine](toc/im-00-00/im-01-00/levocetirizine.md)      * [Loratadine-Pseudoephedrine](toc/im-00-00/im-01-00/loratadine-pseudoephedrine.md)      * [Triprolidine-Pseudoephedrine](toc/im-00-00/im-01-00/triprolidine-pseudoephedrine.md)    * [Vaccines](toc/im-00-00/im-02-00/README.md)      * [Diphtheria-Tetanus-Pertussis](toc/im-00-00/im-02-00/diphtheria-tetanus-pertussis.md)      * [Dtap-Ipv-Hib-Hbv](toc/im-00-00/im-02-00/dtap-ipv-hib-hbv.md)      * [Dtap-Ipv-Hib](toc/im-00-00/im-02-00/dtap-ipv-hib.md)      * [Dtap-Ipv](toc/im-00-00/im-02-00/dtap-ipv.md)      * [Hepatitis B Vaccine](toc/im-00-00/im-02-00/hepatitis_b_vaccine.md)      * [Hpv Type16-18 L1 Protein](toc/im-00-00/im-02-00/hpv_type16-18_l1_protein.md)      * [Hpv Type 6-11-16-18-31-33-45-52-58 L1 Protein](toc/im-00-00/im-02-00/hpv_type_6-11-16-18-31-33-45-52-58_l1_protein.md)      * [Human Rotavirus](toc/im-00-00/im-02-00/human_rotavirus.md)      * [Inactivated Hepatitis A Virus Vaccine](toc/im-00-00/im-02-00/inactivated_hepatitis__a_virus_vaccine.md)      * [Japanese Encephalitis Vaccine](toc/im-00-00/im-02-00/japanese_encephalitis_vaccine.md)      * [Measles-Mumps-Rubella](toc/im-00-00/im-02-00/measles-mumps-rubella.md)      * [Pneumococcal Vaccine Polyvalent](toc/im-00-00/im-02-00/pneumococcal_vaccine_polyvalent.md)      * [Purified Split Inactivated Influenz](toc/im-00-00/im-02-00/purified_split_inactivated_influenz.md)      * [Purified Split Inactivated Influenza Virus](toc/im-00-00/im-02-00/purified_split_inactivated_influenza_virus.md)      * [Sars-Cov-2 Spike Glycoprotein /[Mrna/]](toc/im-00-00/im-02-00/sars-cov-2_spike_glycoprotein_-mrna.md)      * [Tetanus Toxoid](toc/im-00-00/im-02-00/tetanus_toxoid.md)      * [Varicella Virus Vaccine](toc/im-00-00/im-02-00/varicella_virus_vaccine.md)      * [Zoster Virus Vaccine Live](toc/im-00-00/im-02-00/zoster_virus_vaccine_live.md)    * [Antisera And Immunologicals](toc/im-00-00/im-03-00/README.md)      * [Azathioprine](toc/im-00-00/im-03-00/azathioprine.md)      * [Hepatitis B Immune Globulin](toc/im-00-00/im-03-00/hepatitis_b_immune_globulin.md)      * [Human Immunoglobulin](toc/im-00-00/im-03-00/human_immunoglobulin.md)      * [Palivizumab](toc/im-00-00/im-03-00/palivizumab.md)      * [Tuberculin Ppd Rt](toc/im-00-00/im-03-00/tuberculin_ppd_rt.md)      * [Tuberculin Purified Protein Derivative](toc/im-00-00/im-03-00/tuberculin_purified_protein_derivative.md)    * [Immunosuppressants](toc/im-00-00/im-04-00/README.md)      * [Adalimumab](toc/im-00-00/im-04-00/adalimumab.md)      * [Belimumab](toc/im-00-00/im-04-00/belimumab.md)      * [Bimekizumab](toc/im-00-00/im-04-00/bimekizumab.md)      * [Brodalumab](toc/im-00-00/im-04-00/brodalumab.md)      * [Certolizumab Pegol](toc/im-00-00/im-04-00/certolizumab_pegol.md)      * [Cyclosporin](toc/im-00-00/im-04-00/cyclosporin.md)      * [Etanercept](toc/im-00-00/im-04-00/etanercept.md)      * [Golimumab](toc/im-00-00/im-04-00/golimumab.md)      * [Guselkumab](toc/im-00-00/im-04-00/guselkumab.md)      * [Interferon Beta-1A](toc/im-00-00/im-04-00/interferon_beta-1a.md)      * [Leflunomide](toc/im-00-00/im-04-00/leflunomide.md)      * [Mycophenolate Mofetil](toc/im-00-00/im-04-00/mycophenolate_mofetil.md)      * [Peginterferon Beta-1A](toc/im-00-00/im-04-00/peginterferon_beta-1a.md)      * [Risankizumab](toc/im-00-00/im-04-00/risankizumab.md)      * [Secukinumab](toc/im-00-00/im-04-00/secukinumab.md)      * [Tocilizumab](toc/im-00-00/im-04-00/tocilizumab.md)      * [Tofacitinib](toc/im-00-00/im-04-00/tofacitinib.md)      * [Vedolizumab](toc/im-00-00/im-04-00/vedolizumab.md)  * [Metabolic And Endocrine System](toc/me-00-00/README.md)    * [Insulin](toc/me-00-00/me-01-00/README.md)      * [Insulin-Short Or Rapid Acting](toc/me-00-00/me-01-00/me-01-01/README.md)        * [Insulin Aspart](toc/me-00-00/me-01-00/me-01-01/insulin_aspart.md)      * [Insulin-Intermedia Or Long Acting](toc/me-00-00/me-01-00/me-01-02/README.md)        * [Insulin Detemir](toc/me-00-00/me-01-00/me-01-02/insulin_detemir.md)        * [Insulin Glargine](toc/me-00-00/me-01-00/me-01-02/insulin_glargine.md)      * [Insulin-Mixed](toc/me-00-00/me-01-00/me-01-03/README.md)        * [Insulin Aspart 30-Nph 70](toc/me-00-00/me-01-00/me-01-03/insulin_aspart_30-nph_70.md)        * [Insulin Aspart 50-Nph 50](toc/me-00-00/me-01-00/me-01-03/insulin_aspart_50-nph_50.md)    * [Antidiabetic Agents](toc/me-00-00/me-02-00/README.md)      * [Sulfonylurea](toc/me-00-00/me-02-00/me-02-01/README.md)        * [Gliclazide](toc/me-00-00/me-02-00/me-02-01/gliclazide.md)        * [Glimepiride](toc/me-00-00/me-02-00/me-02-01/glimepiride.md)      * [Biguanides](toc/me-00-00/me-02-00/me-02-02/README.md)        * [Metformin](toc/me-00-00/me-02-00/me-02-02/metformin.md)      * [Alfa-Glucosidase Inhibitors](toc/me-00-00/me-02-00/me-02-04/README.md)        * [Acarbose](toc/me-00-00/me-02-00/me-02-04/acarbose.md)      * [Ddp-4 Inhibitors](toc/me-00-00/me-02-00/me-02-06/README.md)        * [Alogliptin](toc/me-00-00/me-02-00/me-02-06/alogliptin.md)        * [Linagliptin](toc/me-00-00/me-02-00/me-02-06/linagliptin.md)      * [me-02-07](toc/me-00-00/me-02-00/me-02-07/README.md)        * [Semaglutide](toc/me-00-00/me-02-00/me-02-07/semaglutide.md)      * [me-02-08](toc/me-00-00/me-02-00/me-02-08/README.md)        * [Canagliflozin](toc/me-00-00/me-02-00/me-02-08/canagliflozin.md)        * [Dapagliflozin](toc/me-00-00/me-02-00/me-02-08/dapagliflozin.md)        * [Empagliflozin](toc/me-00-00/me-02-00/me-02-08/empagliflozin.md)      * [Others-Antidiabetic Agents](toc/me-00-00/me-02-00/me-02-09/README.md)        * [Dapagliflozin-Metformin](toc/me-00-00/me-02-00/me-02-09/dapagliflozin-metformin.md)        * [Empagliflozin-Linagliptin](toc/me-00-00/me-02-00/me-02-09/empagliflozin-linagliptin.md)        * [Glyburide-Metformin](toc/me-00-00/me-02-00/me-02-09/glyburide-metformin.md)        * [Vildagliptin-Metformin](toc/me-00-00/me-02-00/me-02-09/vildagliptin-metformin.md)    * [Thyroid Hormones](toc/me-00-00/me-03-00/README.md)      * [Levothyroxine](toc/me-00-00/me-03-00/levothyroxine.md)      * [Thyrotropin Alfa](toc/me-00-00/me-03-00/thyrotropin_alfa.md)    * [Antithyroid Agents](toc/me-00-00/me-04-00/README.md)      * [Methimazole](toc/me-00-00/me-04-00/methimazole.md)      * [Propylthiouracil](toc/me-00-00/me-04-00/propylthiouracil.md)    * [Agents Affecting Bone Metabolism](toc/me-00-00/me-06-00/README.md)      * [Alendronate](toc/me-00-00/me-06-00/alendronate.md)      * [Clodronate](toc/me-00-00/me-06-00/clodronate.md)      * [Denosumab](toc/me-00-00/me-06-00/denosumab.md)      * [Ibandronate](toc/me-00-00/me-06-00/ibandronate.md)      * [Risedronic Acid](toc/me-00-00/me-06-00/risedronic_acid.md)      * [Salmon Calcitonin](toc/me-00-00/me-06-00/salmon_calcitonin.md)      * [Teriparatide](toc/me-00-00/me-06-00/teriparatide.md)      * [Zoledronic Acid](toc/me-00-00/me-06-00/zoledronic_acid.md)    * [Others-Metabolics](toc/me-00-00/me-07-00/README.md)      * [Glucagon](toc/me-00-00/me-07-00/glucagon.md)  * [Nutrition](toc/nu-00-00/README.md)    * [Antianemics](toc/nu-00-00/nu-01-00/README.md)      * [Ferric-Hydroxide-Sucrose Complex](toc/nu-00-00/nu-01-00/ferric-hydroxide-sucrose_complex.md)      * [Ferric Hydroxide Polymaltose Complex](toc/nu-00-00/nu-01-00/ferric_hydroxide_polymaltose_complex.md)      * [Ferrous Gluconate-Vit B1-Vit C](toc/nu-00-00/nu-01-00/ferrous_gluconate-vit_b1-vit_c.md)      * [/[Fe /(Iii/) Hydroxide Polymaltose Complex/]/(toc/nu-00-00/nu-01-00/fe/_/(iii/)/_hydroxide/_polymaltose/_comple](toc/nu-00-00/nu-01-00/fe-iii-hydroxide-polymaltose-complex-toc-nu-00-00-nu-01-00-fe_-iii-_hydroxide_polymaltose_complex.md.md)      * [Folic Acid](toc/nu-00-00/nu-01-00/folic_acid.md)    * [Vitamins And Minerals](toc/nu-00-00/nu-02-00/README.md)      * [Ascorbic Acid](toc/nu-00-00/nu-02-00/ascorbic_acid.md)      * [Cr-Cu-Fe-Zn-Mn-Se-I-F-Mo](toc/nu-00-00/nu-02-00/cr-cu-fe-zn-mn-se-i-f-mo.md)      * [Multivitamin](toc/nu-00-00/nu-02-00/multivitamin.md)      * [Pyridoxine](toc/nu-00-00/nu-02-00/pyridoxine.md)      * [Thiaine Tetrahydrofurfuryl Disulfide-Riboflavin](toc/nu-00-00/nu-02-00/thiaine_tetrahydrofurfuryl_disulfide-riboflavin.md)      * [Thiamine-Riboflavin-Nicotinamide-Pyridoxine](toc/nu-00-00/nu-02-00/thiamine-riboflavin-nicotinamide-pyridoxine.md)      * [Vitamin B Complex](toc/nu-00-00/nu-02-00/vitamin_b_complex.md)      * [Vit B1- B2-B6-C-Nicotinamide-Pantothenyl](toc/nu-00-00/nu-02-00/vit_b1-_b2-b6-c-nicotinamide-pantothenyl.md)    * [Calcium](toc/nu-00-00/nu-03-00/README.md)      * [Calcium-Cholecalciferol](toc/nu-00-00/nu-03-00/calcium-cholecalciferol.md)      * [Calcium Acetate](toc/nu-00-00/nu-03-00/calcium_acetate.md)      * [Calcium Carbonate](toc/nu-00-00/nu-03-00/calcium_carbonate.md)      * [Calcium Gluconate](toc/nu-00-00/nu-03-00/calcium_gluconate.md)    * [Nutrients](toc/nu-00-00/nu-04-00/README.md)      * [Amino Acid](toc/nu-00-00/nu-04-00/nu-04-01/README.md)        * [Amino Acid-Glucose- Vit B1](toc/nu-00-00/nu-04-00/nu-04-01/amino_acid-glucose-_vit_b1.md)        * [Amino Acids-Ketoanalogues](toc/nu-00-00/nu-04-00/nu-04-01/amino_acids-ketoanalogues.md)        * [/[Amino Acids /(Essential-Nonessential /)/]/(toc/nu-00-00/nu-04-00/nu-04-01/aminoacids/(essential-nonessen](toc/nu-00-00/nu-04-00/nu-04-01/amino-acids-essential-nonessential-toc-nu-00-00-nu-04-00-nu-04-01-aminoacids-essential-nonessential_.md)        * [Cerebrolysin Concentrate](toc/nu-00-00/nu-04-00/nu-04-01/cerebrolysin_concentrate.md)      * [Carbohydrate](toc/nu-00-00/nu-04-00/nu-04-02/README.md)        * [Dextrose](toc/nu-00-00/nu-04-00/nu-04-02/dextrose.md)        * [Glucose](toc/nu-00-00/nu-04-00/nu-04-02/glucose.md)      * [Lipid](toc/nu-00-00/nu-04-00/nu-04-03/README.md)        * [Mct-Omega-3-Triglyceride-Soya Oil](toc/nu-00-00/nu-04-00/nu-04-03/mct-omega-3-triglyceride-soya_oil.md)        * [Soyean Oil-Mct- Egg Yolk Phospholipids- Glycerol](toc/nu-00-00/nu-04-00/nu-04-03/soyean_oil-mct-_egg_yolk_phospholipids-_glycerol.md)      * [Electrolytes](toc/nu-00-00/nu-04-00/nu-04-04/README.md)        * [Lanthanum Carbonate](toc/nu-00-00/nu-04-00/nu-04-04/lanthanum_carbonate.md)        * [Potassium Chloride](toc/nu-00-00/nu-04-00/nu-04-04/potassium_chloride.md)        * [Potassium Gluconate](toc/nu-00-00/nu-04-00/nu-04-04/potassium_gluconate.md)        * [Potassium Chloride](toc/nu-00-00/nu-04-00/nu-04-04/potassium__chloride.md)        * [Sodium Bicarbonate](toc/nu-00-00/nu-04-00/nu-04-04/sodium_bicarbonate.md)        * [Sodium Chloride](toc/nu-00-00/nu-04-00/nu-04-04/sodium_chloride.md)      * [Others-Nutrient](toc/nu-00-00/nu-04-00/nu-04-05/README.md)        * [Amino Acid-Glucose-Lipid](toc/nu-00-00/nu-04-00/nu-04-05/amino_acid-glucose-lipid.md)        * [Amino Acid-Glucose](toc/nu-00-00/nu-04-00/nu-04-05/amino_acid-glucose.md)        * [Dextrose + Sodium Chloride](toc/nu-00-00/nu-04-00/nu-04-05/dextrose_-_sodium_chloride.md)        * [Electrolytes-Water](toc/nu-00-00/nu-04-00/nu-04-05/electrolytes-water.md)        * [L-Carnitine](toc/nu-00-00/nu-04-00/nu-04-05/l-carnitine.md)        * [Nacl-Kcl-Calcium Chloride-Lactose](toc/nu-00-00/nu-04-00/nu-04-05/nacl-kcl-calcium_chloride-lactose.md)        * [Tpn Solution](toc/nu-00-00/nu-04-00/nu-04-05/tpn_solution.md)        * [Water For Injection](toc/nu-00-00/nu-04-00/nu-04-05/water_for_injection.md)  * [Oncology](toc/on-00-00/README.md)    * [Alkylating Agents](toc/on-00-00/on-01-00/README.md)      * [Carboplatin](toc/on-00-00/on-01-00/carboplatin.md)      * [Chlorambucil](toc/on-00-00/on-01-00/chlorambucil.md)      * [Cisplatin](toc/on-00-00/on-01-00/cisplatin.md)      * [Cyclophosphamide](toc/on-00-00/on-01-00/cyclophosphamide.md)      * [Oxaliplatin](toc/on-00-00/on-01-00/oxaliplatin.md)    * [Antimetabolites](toc/on-00-00/on-02-00/README.md)      * [Capecitabine](toc/on-00-00/on-02-00/capecitabine.md)      * [Fluorouracil](toc/on-00-00/on-02-00/fluorouracil.md)      * [Methotrexate](toc/on-00-00/on-02-00/methotrexate.md)      * [Pemetrexed](toc/on-00-00/on-02-00/pemetrexed.md)      * [Tegafur-Gimeracil-Oteracil K](toc/on-00-00/on-02-00/tegafur-gimeracil-oteracil__k.md)      * [Trifluridine-Tipiracil](toc/on-00-00/on-02-00/trifluridine-tipiracil.md)    * [Antitumor Antibiotics](toc/on-00-00/on-03-00/README.md)      * [Bleomycin](toc/on-00-00/on-03-00/bleomycin.md)      * [Doxorubicin](toc/on-00-00/on-03-00/doxorubicin.md)      * [Epirubicin](toc/on-00-00/on-03-00/epirubicin.md)      * [Mitomycin C](toc/on-00-00/on-03-00/mitomycin_c.md)    * [Antimicrotubule Agents](toc/on-00-00/on-04-00/README.md)      * [Docetaxel](toc/on-00-00/on-04-00/docetaxel.md)      * [Eribulin](toc/on-00-00/on-04-00/eribulin.md)      * [Ixabepilone](toc/on-00-00/on-04-00/ixabepilone.md)      * [Paclitaxel](toc/on-00-00/on-04-00/paclitaxel.md)      * [Vincristine](toc/on-00-00/on-04-00/vincristine.md)      * [Vinorelbine](toc/on-00-00/on-04-00/vinorelbine.md)    * [Hormonal Chemotherapy](toc/on-00-00/on-05-00/README.md)      * [Abiraterone](toc/on-00-00/on-05-00/abiraterone.md)      * [Anastrozole](toc/on-00-00/on-05-00/anastrozole.md)      * [Cyproterone](toc/on-00-00/on-05-00/cyproterone.md)      * [Degarelix](toc/on-00-00/on-05-00/degarelix.md)      * [Enzalutamide](toc/on-00-00/on-05-00/enzalutamide.md)      * [Fulvestrant](toc/on-00-00/on-05-00/fulvestrant.md)      * [Goserelin](toc/on-00-00/on-05-00/goserelin.md)      * [Letrozole](toc/on-00-00/on-05-00/letrozole.md)      * [Tamoxifen](toc/on-00-00/on-05-00/tamoxifen.md)      * [Triptorelin](toc/on-00-00/on-05-00/triptorelin.md)    * [Immunotherapeutic Agents](toc/on-00-00/on-06-00/README.md)      * [Atezolizumab](toc/on-00-00/on-06-00/atezolizumab.md)      * [Bcg Immunotherapeutic](toc/on-00-00/on-06-00/bcg_immunotherapeutic.md)      * [Pembrolizumab](toc/on-00-00/on-06-00/pembrolizumab.md)      * [Polysaccharides Of Astragalus Membranaceus](toc/on-00-00/on-06-00/polysaccharides_of_astragalus_membranaceus.md)      * [Psk](toc/on-00-00/on-06-00/psk.md)      * [Streptococus Pyogenes](toc/on-00-00/on-06-00/streptococus_pyogenes.md)    * [Topoisomerase Inhibitors](toc/on-00-00/on-07-00/README.md)      * [Etoposide](toc/on-00-00/on-07-00/etoposide.md)      * [Topotecan](toc/on-00-00/on-07-00/topotecan.md)    * [Other Antineoplastic Agents](toc/on-00-00/on-08-00/README.md)      * [Bevacizumab](toc/on-00-00/on-08-00/bevacizumab.md)      * [Cetuximab](toc/on-00-00/on-08-00/cetuximab.md)      * [Erlotinib](toc/on-00-00/on-08-00/erlotinib.md)      * [Everolimus](toc/on-00-00/on-08-00/everolimus.md)      * [Gefitinib](toc/on-00-00/on-08-00/gefitinib.md)      * [Hydroxyurea](toc/on-00-00/on-08-00/hydroxyurea.md)      * [Imatinib](toc/on-00-00/on-08-00/imatinib.md)      * [Lapatinib Ditosylate](toc/on-00-00/on-08-00/lapatinib_ditosylate.md)      * [Nintedanib](toc/on-00-00/on-08-00/nintedanib.md)      * [Nivolumab](toc/on-00-00/on-08-00/nivolumab.md)      * [Palbociclib](toc/on-00-00/on-08-00/palbociclib.md)      * [Pertuzumab](toc/on-00-00/on-08-00/pertuzumab.md)      * [Ramucirumab](toc/on-00-00/on-08-00/ramucirumab.md)      * [Regorafenib](toc/on-00-00/on-08-00/regorafenib.md)      * [Ribociclib](toc/on-00-00/on-08-00/ribociclib.md)      * [Rituximab](toc/on-00-00/on-08-00/rituximab.md)      * [Sunitinib](toc/on-00-00/on-08-00/sunitinib.md)      * [Trastuzumab](toc/on-00-00/on-08-00/trastuzumab.md)      * [Trastuzumab Emtansine](toc/on-00-00/on-08-00/trastuzumab_emtansine.md)  * [Eye](toc/op-00-00/README.md)    * [Eye Anti-Infectives And Antiseptics](toc/op-00-00/op-01-00/README.md)      * [Acyclovir](toc/op-00-00/op-01-00/acyclovir.md)      * [Ciprofloxacin](toc/op-00-00/op-01-00/ciprofloxacin.md)      * [Erythromycin](toc/op-00-00/op-01-00/erythromycin.md)      * [Gentamicin](toc/op-00-00/op-01-00/gentamicin.md)      * [Sulfamethoxazole](toc/op-00-00/op-01-00/sulfamethoxazole.md)    * [Eye Antiseptics With Corticosteroids](toc/op-00-00/op-02-00/README.md)      * [Betamethasone-Neomycin](toc/op-00-00/op-02-00/betamethasone-neomycin.md)      * [Tobramycin-Dexamethasone](toc/op-00-00/op-02-00/tobramycin-dexamethasone.md)    * [Eye Corticosteroids](toc/op-00-00/op-03-00/README.md)      * [Betamethasone](toc/op-00-00/op-03-00/betamethasone.md)      * [Fluorometholone](toc/op-00-00/op-03-00/fluorometholone.md)      * [Prednisolone](toc/op-00-00/op-03-00/prednisolone.md)    * [Mydriatic Drugs](toc/op-00-00/op-04-00/README.md)      * [Atropine](toc/op-00-00/op-04-00/atropine.md)      * [Tropicamide-Phenylephrine](toc/op-00-00/op-04-00/tropicamide-phenylephrine.md)    * [Antiglaucoma Preparations](toc/op-00-00/op-05-00/README.md)      * [Brimonidine-Timolol](toc/op-00-00/op-05-00/brimonidine-timolol.md)      * [Brinzolamide- Brimonidine Tartrate](toc/op-00-00/op-05-00/brinzolamide-_brimonidine_tartrate.md)      * [Brinzolamide](toc/op-00-00/op-05-00/brinzolamide.md)      * [Carteolol](toc/op-00-00/op-05-00/carteolol.md)      * [Dorzolamide-Timolol](toc/op-00-00/op-05-00/dorzolamide-timolol.md)      * [Latanoprost](toc/op-00-00/op-05-00/latanoprost.md)      * [Pilocarpine](toc/op-00-00/op-05-00/pilocarpine.md)      * [Tafluprost](toc/op-00-00/op-05-00/tafluprost.md)      * [Timolol-Brinzolamide](toc/op-00-00/op-05-00/timolol-brinzolamide.md)      * [Timolol](toc/op-00-00/op-05-00/timolol.md)      * [Travoprost-Timolol](toc/op-00-00/op-05-00/travoprost-timolol.md)      * [Travoprost](toc/op-00-00/op-05-00/travoprost.md)    * [Eye Antiallergics](toc/op-00-00/op-06-00/README.md)      * [Antazoline-Tetrahydrozoline-Chlorhexidine](toc/op-00-00/op-06-00/antazoline-tetrahydrozoline-chlorhexidine.md)    * [Eye Lubricants](toc/op-00-00/op-07-00/README.md)      * [Carbomer](toc/op-00-00/op-07-00/carbomer.md)      * [Dextran70-Hydromellose](toc/op-00-00/op-07-00/dextran70-hydromellose.md)      * [Petrolatum-Lanolin-Mineral Oil](toc/op-00-00/op-07-00/petrolatum-lanolin-mineral_oil.md)    * [Others - Eye Preparations](toc/op-00-00/op-08-00/README.md)      * [Aflibercept](toc/op-00-00/op-08-00/aflibercept.md)      * [Balanced Salt Soln](toc/op-00-00/op-08-00/balanced_salt_soln.md)      * [Cyanocobalamin](toc/op-00-00/op-08-00/cyanocobalamin.md)      * [Cyclosporin](toc/op-00-00/op-08-00/cyclosporin.md)      * [Dexamethasone](toc/op-00-00/op-08-00/dexamethasone.md)      * [Neostigmine Methylsulfate](toc/op-00-00/op-08-00/neostigmine_methylsulfate.md)      * [Pirfenoxone](toc/op-00-00/op-08-00/pirfenoxone.md)      * [Ranibizumab](toc/op-00-00/op-08-00/ranibizumab.md)      * [Sodium Chloride](toc/op-00-00/op-08-00/sodium_chloride.md)      * [Verteporfin](toc/op-00-00/op-08-00/verteporfin.md)  * [Respiratory System](toc/re-00-00/README.md)    * [Bronchodilators](toc/re-00-00/re-01-00/README.md)      * [Aminophylline](toc/re-00-00/re-01-00/aminophylline.md)      * [Procaterol](toc/re-00-00/re-01-00/procaterol.md)      * [Salbutamol](toc/re-00-00/re-01-00/salbutamol.md)      * [Theophylline](toc/re-00-00/re-01-00/theophylline.md)      * [Tiotropium-Olodaterol](toc/re-00-00/re-01-00/tiotropium-olodaterol.md)      * [Tiotropium](toc/re-00-00/re-01-00/tiotropium.md)    * [Leukotriene Receptor Antagonists](toc/re-00-00/re-02-00/README.md)      * [Montelukast](toc/re-00-00/re-02-00/montelukast.md)    * [Corticosteroids Inhalants](toc/re-00-00/re-03-00/README.md)      * [Budesonide](toc/re-00-00/re-03-00/budesonide.md)      * [Fluticasone](toc/re-00-00/re-03-00/fluticasone.md)    * [Combined Inhalants](toc/re-00-00/re-04-00/README.md)      * [Beclomethasone-Formoterol](toc/re-00-00/re-04-00/beclomethasone-formoterol.md)      * [Budesonide-Formoterol](toc/re-00-00/re-04-00/budesonide-formoterol.md)      * [Fluticasone-Vilanterol](toc/re-00-00/re-04-00/fluticasone-vilanterol.md)      * [Fluticasone Furoate-Umeclidinium-Vilanterol](toc/re-00-00/re-04-00/fluticasone_furoate-umeclidinium-vilanterol.md)      * [Indacaterol-Glycopyrronium](toc/re-00-00/re-04-00/indacaterol-glycopyrronium.md)      * [Salmeterol-Fluticasone](toc/re-00-00/re-04-00/salmeterol-fluticasone.md)    * [Cough And Cold Preparations](toc/re-00-00/re-05-00/README.md)      * [Acetylcysteine](toc/re-00-00/re-05-00/acetylcysteine.md)      * [Ambroxol](toc/re-00-00/re-05-00/ambroxol.md)      * [Benzonatate](toc/re-00-00/re-05-00/benzonatate.md)      * [Butamirate](toc/re-00-00/re-05-00/butamirate.md)      * [Chlorpheniramine-Guaifenesin-Methylephedrine](toc/re-00-00/re-05-00/chlorpheniramine-guaifenesin-methylephedrine.md)      * [Dextromethorphan-Guaiacol Glycolate-Ipecac Extract](toc/re-00-00/re-05-00/dextromethorphan-guaiacol_glycolate-ipecac_extract.md)      * [Dextromethorphan-Lysozyme-K Cresolsulfonate](toc/re-00-00/re-05-00/dextromethorphan-lysozyme-k_cresolsulfonate.md)      * [Opium Tincture-Glycyrrhiza-Antimony K Tartrate](toc/re-00-00/re-05-00/opium_tincture-glycyrrhiza-antimony_k_tartrate.md)      * [Platycodon Fluid Extract](toc/re-00-00/re-05-00/platycodon_fluid_extract.md)      * [Tipepidine](toc/re-00-00/re-05-00/tipepidine.md)    * [Others-Respiratory System](toc/re-00-00/re-06-00/README.md)      * [Beractant](toc/re-00-00/re-06-00/beractant.md)      * [Mepolizumab](toc/re-00-00/re-06-00/mepolizumab.md)      * [Omalizumab](toc/re-00-00/re-06-00/omalizumab.md)  * [Genito-Urinary System](toc/ur-00-00/README.md)    * [Preparations For Vaginal Conditions](toc/ur-00-00/ur-01-00/README.md)      * [Conjugated Estrogen](toc/ur-00-00/ur-01-00/conjugated_estrogen.md)      * [Progesterone](toc/ur-00-00/ur-01-00/progesterone.md)    * [Drugs Acting On The Uterus](toc/ur-00-00/ur-02-00/README.md)      * [Carbetocin](toc/ur-00-00/ur-02-00/carbetocin.md)      * [Dinoprostone](toc/ur-00-00/ur-02-00/dinoprostone.md)      * [Ergometrine](toc/ur-00-00/ur-02-00/ergometrine.md)      * [Methylergometrine](toc/ur-00-00/ur-02-00/methylergometrine.md)      * [Oxytocin](toc/ur-00-00/ur-02-00/oxytocin.md)      * [Ritodrine](toc/ur-00-00/ur-02-00/ritodrine.md)    * [Drugs For Erectile Dysfunction](toc/ur-00-00/ur-03-00/README.md)      * [Sildenafil](toc/ur-00-00/ur-03-00/sildenafil.md)      * [Tadalafil](toc/ur-00-00/ur-03-00/tadalafil.md)    * [Drugs For Bladder And Prostate Disorders](toc/ur-00-00/ur-04-00/README.md)      * [Dutasteride-Tamsulosin](toc/ur-00-00/ur-04-00/dutasteride-tamsulosin.md)      * [Finasteride](toc/ur-00-00/ur-04-00/finasteride.md)      * [Hyaluronate](toc/ur-00-00/ur-04-00/hyaluronate.md)      * [Mirabegron](toc/ur-00-00/ur-04-00/mirabegron.md)      * [Silodosin](toc/ur-00-00/ur-04-00/silodosin.md)      * [Tamsulosin](toc/ur-00-00/ur-04-00/tamsulosin.md)      * [Tolterodine](toc/ur-00-00/ur-04-00/tolterodine.md)    * [Others-Genito-Urinary System](toc/ur-00-00/ur-05-00/README.md)      * [Dapoxetine](toc/ur-00-00/ur-05-00/dapoxetine.md)      * [Oxybutynin](toc/ur-00-00/ur-05-00/oxybutynin.md)      * [Potassium Citrate Monohydrate-Citric Acid](toc/ur-00-00/ur-05-00/potassium_citrate_monohydrate-citric_acid.md)      * [Trospium](toc/ur-00-00/ur-05-00/trospium.md)  * [Other Categories](toc/zz-00-00/README.md)    * [Hyaluronic Acid](toc/zz-00-00/hyaluronic_acid.md)    * [Methacholine](toc/zz-00-00/methacholine.md)    * [Patent Blue V](toc/zz-00-00/patent_blue_v.md)    * [Sodium Tetradecyl Sulphate](toc/zz-00-00/sodium_tetradecyl_sulphate.md)    * [Contrast Agents](toc/zz-00-00/vs-01-00/README.md)      * [Barium Sulfate](toc/zz-00-00/vs-01-00/barium_sulfate.md)      * [X Ray Contrast Agent](toc/zz-00-00/vs-01-00/vs-01-01/README.md)        * [Iodixanol](toc/zz-00-00/vs-01-00/vs-01-01/iodixanol.md)        * [Iohexol-Tromethamine](toc/zz-00-00/vs-01-00/vs-01-01/iohexol-tromethamine.md)        * [Ioversol](toc/zz-00-00/vs-01-00/vs-01-01/ioversol.md)      * [Magnetic Resonance Imaging Contrast Media](toc/zz-00-00/vs-01-00/vs-01-03/README.md)        * [Gadodiamide-Caldiamide](toc/zz-00-00/vs-01-00/vs-01-03/gadodiamide-caldiamide.md)        * [Gadoterate Meglumine](toc/zz-00-00/vs-01-00/vs-01-03/gadoterate_meglumine.md)        * [Gadoxetate](toc/zz-00-00/vs-01-00/vs-01-03/gadoxetate.md)      * [Other Diagnostic Agent](toc/zz-00-00/vs-01-00/vs-01-05/README.md)        * [Fluorescein](toc/zz-00-00/vs-01-00/vs-01-05/fluorescein.md)        * [Indocyanine Green](toc/zz-00-00/vs-01-00/vs-01-05/indocyanine_green.md)        * [Perfluorobutane Microbubbles](toc/zz-00-00/vs-01-00/vs-01-05/perfluorobutane_microbubbles.md)* [附錄](appendix.md)* [索引](index.md)* [常用連結](links.md)
