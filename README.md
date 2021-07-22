@@ -1,4 +1,4 @@
-# [首頁](https://shin13.gitbook.io/formulary/)
+# 首頁
 
 {% hint style="info" %}
 **本處方集之內容僅供醫療專業人員參考，不能取代專業醫療照護，也不應作為疾病治療指引。**
