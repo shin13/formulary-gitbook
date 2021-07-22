@@ -1,2 +1,0 @@
-# Measles-Mumps-Rubella
-

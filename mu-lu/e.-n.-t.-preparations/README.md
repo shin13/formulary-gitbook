@@ -1,2 +1,0 @@
-# E. N. T. Preparations
-

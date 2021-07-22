@@ -1,2 +1,0 @@
-# Polysaccharides Of Astragalus Membranaceus
-

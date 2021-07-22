@@ -1,2 +1,0 @@
-# Niacin-Lovastatin
-

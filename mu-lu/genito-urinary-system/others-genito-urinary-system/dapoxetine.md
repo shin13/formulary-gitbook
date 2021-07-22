@@ -1,2 +1,0 @@
-# Dapoxetine
-

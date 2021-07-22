@@ -1,2 +1,0 @@
-# Cholinergic Agents
-

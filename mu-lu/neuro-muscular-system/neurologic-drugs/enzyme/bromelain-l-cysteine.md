@@ -1,2 +1,0 @@
-# Bromelain-L-Cysteine
-

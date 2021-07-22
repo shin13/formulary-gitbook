@@ -1,2 +1,0 @@
-# Olmesartan Medoxomil
-

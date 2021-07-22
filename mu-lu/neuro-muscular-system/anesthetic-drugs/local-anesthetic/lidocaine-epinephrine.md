@@ -1,2 +1,0 @@
-# Lidocaine-Epinephrine
-

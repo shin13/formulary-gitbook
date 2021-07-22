@@ -1,2 +1,0 @@
-# Recombinant Human Erythropoiet
-

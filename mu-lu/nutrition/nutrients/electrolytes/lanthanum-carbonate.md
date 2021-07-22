@@ -1,2 +1,0 @@
-# Lanthanum Carbonate
-

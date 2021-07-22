@@ -1,2 +1,0 @@
-# Dextran70-Hydromellose
-

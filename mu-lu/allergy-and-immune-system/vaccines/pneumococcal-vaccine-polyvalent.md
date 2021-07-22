@@ -1,2 +1,0 @@
-# Pneumococcal Vaccine Polyvalent
-

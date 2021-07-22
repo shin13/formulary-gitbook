@@ -1,2 +1,0 @@
-# Thiaine Tetrahydrofurfuryl Disulfide-Riboflavin
-

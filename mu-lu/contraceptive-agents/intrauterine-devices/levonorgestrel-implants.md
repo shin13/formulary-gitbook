@@ -1,2 +1,0 @@
-# Levonorgestrel Implants
-

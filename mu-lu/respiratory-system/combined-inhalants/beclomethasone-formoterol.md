@@ -1,2 +1,0 @@
-# Beclomethasone-Formoterol
-

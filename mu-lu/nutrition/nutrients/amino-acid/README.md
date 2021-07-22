@@ -1,2 +1,0 @@
-# Amino Acid
-

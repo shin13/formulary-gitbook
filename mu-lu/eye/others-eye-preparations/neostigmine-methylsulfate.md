@@ -1,2 +1,0 @@
-# Neostigmine Methylsulfate
-

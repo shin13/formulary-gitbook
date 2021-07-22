@@ -1,2 +1,0 @@
-# Tranexamic Acid
-

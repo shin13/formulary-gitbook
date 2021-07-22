@@ -1,2 +1,0 @@
-# Lactobacillus Casei
-

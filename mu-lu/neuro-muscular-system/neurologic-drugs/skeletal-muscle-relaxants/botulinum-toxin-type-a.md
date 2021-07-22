@@ -1,2 +1,0 @@
-# Botulinum Toxin Type A
-

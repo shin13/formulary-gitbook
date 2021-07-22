@@ -1,2 +1,0 @@
-# Picosulfate-Mgo-Citric Acid
-

@@ -1,2 +1,0 @@
-# Follitropin Alpha
-

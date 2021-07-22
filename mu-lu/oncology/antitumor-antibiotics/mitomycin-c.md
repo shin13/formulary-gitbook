@@ -1,2 +1,0 @@
-# Mitomycin C
-

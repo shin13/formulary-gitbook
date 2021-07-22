@@ -1,2 +1,0 @@
-# Conjugated Estrogen
-

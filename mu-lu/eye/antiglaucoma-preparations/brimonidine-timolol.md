@@ -1,2 +1,0 @@
-# Brimonidine-Timolol
-

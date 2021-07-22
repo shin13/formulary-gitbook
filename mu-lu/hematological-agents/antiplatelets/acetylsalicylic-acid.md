@@ -1,2 +1,0 @@
-# Acetylsalicylic Acid
-

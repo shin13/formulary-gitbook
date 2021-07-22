@@ -1,2 +1,0 @@
-# Thiamine-Riboflavin-Nicotinamide-Pyridoxine
-

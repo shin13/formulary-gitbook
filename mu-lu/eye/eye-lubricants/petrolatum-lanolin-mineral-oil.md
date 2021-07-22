@@ -1,2 +1,0 @@
-# Petrolatum-Lanolin-Mineral Oil
-

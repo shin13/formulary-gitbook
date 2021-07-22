@@ -1,2 +1,0 @@
-# Sacubitril-Valsartan
-

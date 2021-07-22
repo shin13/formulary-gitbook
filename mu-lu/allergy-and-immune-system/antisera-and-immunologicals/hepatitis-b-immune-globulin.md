@@ -1,2 +1,0 @@
-# Hepatitis B Immune Globulin
-

@@ -1,2 +1,0 @@
-# Agents Affecting Bone Metabolism
-

@@ -1,2 +1,0 @@
-# Azilsartan Medoxomil
-

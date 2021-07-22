@@ -1,2 +1,0 @@
-# Cns Stimulant
-

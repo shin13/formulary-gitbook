@@ -1,2 +1,0 @@
-# Tegafur-Gimeracil-Oteracil  K
-

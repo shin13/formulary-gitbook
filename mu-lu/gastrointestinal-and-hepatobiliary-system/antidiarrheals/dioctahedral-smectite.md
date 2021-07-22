@@ -1,2 +1,0 @@
-# Dioctahedral Smectite
-

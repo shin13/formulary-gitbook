@@ -1,2 +1,0 @@
-# Carisoprodol-Acetaminophen
-

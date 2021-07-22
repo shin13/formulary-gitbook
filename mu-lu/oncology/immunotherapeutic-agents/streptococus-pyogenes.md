@@ -1,2 +1,0 @@
-# Streptococus Pyogenes
-

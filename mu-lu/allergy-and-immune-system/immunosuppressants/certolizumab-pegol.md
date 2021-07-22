@@ -1,2 +1,0 @@
-# Certolizumab Pegol
-

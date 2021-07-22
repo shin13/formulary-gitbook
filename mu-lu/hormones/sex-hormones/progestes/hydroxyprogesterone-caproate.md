@@ -1,2 +1,0 @@
-# Hydroxyprogesterone Caproate
-

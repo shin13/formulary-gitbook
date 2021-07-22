@@ -1,2 +1,0 @@
-# Clopidogrel-Acetylsalicylic Acid
-

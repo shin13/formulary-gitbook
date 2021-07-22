@@ -1,2 +1,0 @@
-# Salmon Calcitonin
-

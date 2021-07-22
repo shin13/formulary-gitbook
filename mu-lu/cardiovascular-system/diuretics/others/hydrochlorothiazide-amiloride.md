@@ -1,2 +1,0 @@
-# Hydrochlorothiazide-Amiloride
-

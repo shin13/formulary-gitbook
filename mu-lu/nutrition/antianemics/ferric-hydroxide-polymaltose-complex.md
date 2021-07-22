@@ -1,2 +1,0 @@
-# Ferric Hydroxide Polymaltose Complex
-

@@ -1,2 +1,0 @@
-# Betamethasone-Neomycin
-

@@ -1,2 +1,0 @@
-# Tuberculin Purified Protein Derivative
-

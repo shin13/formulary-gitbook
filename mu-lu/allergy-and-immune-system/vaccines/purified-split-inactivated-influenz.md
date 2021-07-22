@@ -1,2 +1,0 @@
-# Purified Split Inactivated Influenz
-

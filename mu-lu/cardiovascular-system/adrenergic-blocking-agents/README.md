@@ -1,2 +1,0 @@
-# Adrenergic Blocking Agents
-

@@ -1,2 +1,0 @@
-# Tropicamide-Phenylephrine
-

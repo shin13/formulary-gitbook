@@ -1,2 +1,0 @@
-# Platycodon Fluid Extract
-

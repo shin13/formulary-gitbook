@@ -1,2 +1,0 @@
-# Desogestrel-Ethinylestradiol
-

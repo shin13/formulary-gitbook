@@ -1,2 +1,0 @@
-# Triprolidine-Pseudoephedrine
-

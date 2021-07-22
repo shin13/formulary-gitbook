@@ -1,2 +1,0 @@
-# Brinzolamide- Brimonidine Tartrate
-

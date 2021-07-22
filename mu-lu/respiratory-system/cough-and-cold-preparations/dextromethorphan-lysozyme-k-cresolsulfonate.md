@@ -1,2 +1,0 @@
-# Dextromethorphan-Lysozyme-K Cresolsulfonate
-

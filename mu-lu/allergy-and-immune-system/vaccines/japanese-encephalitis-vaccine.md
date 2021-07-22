@@ -1,2 +1,0 @@
-# Japanese Encephalitis Vaccine
-

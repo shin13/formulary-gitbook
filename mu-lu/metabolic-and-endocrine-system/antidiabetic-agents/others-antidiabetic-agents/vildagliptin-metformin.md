@@ -1,2 +1,0 @@
-# Vildagliptin-Metformin
-

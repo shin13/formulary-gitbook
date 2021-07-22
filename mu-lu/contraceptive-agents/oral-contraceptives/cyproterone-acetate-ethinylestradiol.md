@@ -1,2 +1,0 @@
-# Cyproterone Acetate-Ethinylestradiol
-

@@ -1,2 +1,0 @@
-# Tuberculin Ppd Rt
-

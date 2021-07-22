@@ -1,2 +1,0 @@
-# Tetanus Toxoid
-
