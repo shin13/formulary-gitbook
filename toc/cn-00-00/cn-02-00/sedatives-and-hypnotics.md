@@ -1,2 +1,0 @@
-# Sedatives and Hypnotics
-

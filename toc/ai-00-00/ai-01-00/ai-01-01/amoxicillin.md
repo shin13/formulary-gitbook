@@ -1,32 +1,59 @@
 # Amoxicillin
 
-## Amolin 25mg/mL, 60mL suspension
+## Amolin 25mg/mL 60mL suspension
 
-_藥物代碼_：LAMO6
-
-_給藥途徑_：O
-
-_用法用量_：
-
-Powd for oral susp Adult 250 mg tid-qid. Children 20-40 mg/kg body weight daily in 3-4 divided doses.
+| 藥物代碼           | LAMO6                                                                                                   |
+|:-------------------|:--------------------------------------------------------------------------------------------------------|
+| 適應症             | Treatment of infections due to Staph, Strep, pneumococcus, meningococcus & other susceptible organisms. |
+| 副作用             | Allergic reactions, GI disturbances, pseudomembranous colitis, hemolytic anemia, leukopenia.            |
+| 禁忌               | Hypersensitivity to penicillins. Infectious mononucleosis.                                              |
+| 懷孕用藥危分級     | 可能安全                                                                                                |
+| 孕期用藥建議       | N/A                                                                                                     |
+| 附帶說明           | N/A                                                                                                     |
+| 哺乳期用藥建議     | Compatible 哺乳時可使用                                                                                 |
+| 附帶說明           | N/A                                                                                                     |
+| 注射劑給藥建議途徑 | AC, AC15, PC, PO, WM                                                                                    |
+| 乾粉稀釋液         | N/A                                                                                                     |
+| 輸注點滴液         | N/A                                                                                                     |
+| IVP 用法建議       | N/A                                                                                                     |
+| IVD 用法建議       | N/A                                                                                                     |
+| 注意事項           | N/A                                                                                                     |
 
 ## Amoxicillin 250mg
 
-_藥物代碼_：OAMO2
-
-_給藥途徑_：O
-
-_用法用量_：
-
-Adult : 250-500 mg q8h,\(max. 4.5 g/day\) Child under 20 kg: 20-40 mg/kg/day in 3 divided doses. Acute uncomplicated gonorrhea: Adult: 3 g once. Child over 2 yrs: 50mg/kg with 25 mg/kg probenecid once.
+| 藥物代碼           | OAMO2                                                                                                                                                                                                                                      |
+|:-------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 適應症             | G(+) & G(-) infections                                                                                                                                                                                                                     |
+| 副作用             | Nausea, vomiting, diarrhea, glossitis, stomatitis, black hairy tongue;              skin rashes, urticaria, exfoliative dermatitis, erythema multiforme;              anemia, thrombocytopenia, eosinophilia, leukopenia, agranulocytosis. |
+| 禁忌               | Hypersensitivity to penicillins.                                                                                                                                                                                                           |
+| 懷孕用藥危分級     | 可能安全                                                                                                                                                                                                                                   |
+| 孕期用藥建議       | N/A                                                                                                                                                                                                                                        |
+| 附帶說明           | N/A                                                                                                                                                                                                                                        |
+| 哺乳期用藥建議     | Compatible 哺乳時可使用                                                                                                                                                                                                                    |
+| 附帶說明           | N/A                                                                                                                                                                                                                                        |
+| 注射劑給藥建議途徑 | AC, AC15, PC, PO, WM                                                                                                                                                                                                                       |
+| 乾粉稀釋液         | N/A                                                                                                                                                                                                                                        |
+| 輸注點滴液         | N/A                                                                                                                                                                                                                                        |
+| IVP 用法建議       | N/A                                                                                                                                                                                                                                        |
+| IVD 用法建議       | N/A                                                                                                                                                                                                                                        |
+| 注意事項           | N/A                                                                                                                                                                                                                                        |
 
 ## AMOXICILLIN 500mg
 
-_藥物代碼_：OAMOX
-
-_給藥途徑_：O
-
-_用法用量_：
-
-Adult : 250-500 mg q8h,\(max. 4.5 g/day\) Child under 20 kg: 20-40 mg/kg/day in 3 divided doses. Acute uncomplicated gonorrhea: Adult: 3 g once. Child over 2 yrs: 50mg/kg with 25 mg/kg probenecid once.
+| 藥物代碼           | OAMOX                                                                                                                                                                                                                                      |
+|:-------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 適應症             | G(+) & G(-) infections                                                                                                                                                                                                                     |
+| 副作用             | Nausea, vomiting, diarrhea, glossitis, stomatitis, black hairy tongue;              skin rashes, urticaria, exfoliative dermatitis, erythema multiforme;              anemia, thrombocytopenia, eosinophilia, leukopenia, agranulocytosis. |
+| 禁忌               | Hypersensitivity to penicillins.                                                                                                                                                                                                           |
+| 懷孕用藥危分級     | 可能安全                                                                                                                                                                                                                                   |
+| 孕期用藥建議       | Human data suggest risk in 1st and 3rd trimester                                                                                                                                                                                           |
+| 附帶說明           | N/A                                                                                                                                                                                                                                        |
+| 哺乳期用藥建議     | Compatible 哺乳時可使用                                                                                                                                                                                                                    |
+| 附帶說明           | N/A                                                                                                                                                                                                                                        |
+| 注射劑給藥建議途徑 | AC, AC15, PC, PO, WM                                                                                                                                                                                                                       |
+| 乾粉稀釋液         | N/A                                                                                                                                                                                                                                        |
+| 輸注點滴液         | N/A                                                                                                                                                                                                                                        |
+| IVP 用法建議       | N/A                                                                                                                                                                                                                                        |
+| IVD 用法建議       | N/A                                                                                                                                                                                                                                        |
+| 注意事項           | N/A                                                                                                                                                                                                                                        |
 

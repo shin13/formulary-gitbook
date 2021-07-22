@@ -1,7 +1,11 @@
 # Table of Content
 
-* [首頁](README.md)
+* [附錄](appendix.md)
 * [更新歷程](changelog.md)
+* [索引](index.md)
+* [首頁](README.md)
+* [常用連結](links/README.md)
+  * [首頁](links/README.md)
 * [目錄](toc/README.md)
   * [Antidotes](toc/ad-00-00/README.md)
     * [General Antidotes](toc/ad-00-00/ad-01-00/README.md)
@@ -922,6 +926,3 @@
   * [zoth](toc/zoth/README.md)
     * [Methacholine](toc/zoth/methacholine.md)
     * [Patent Blue V](toc/zoth/patent_blue_v.md)
-* [附錄](appendix.md)
-* [索引](index.md)
-* [常用連結](links/README.md)

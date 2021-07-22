@@ -1,2 +1,0 @@
-# Antidiabetic Agents
-

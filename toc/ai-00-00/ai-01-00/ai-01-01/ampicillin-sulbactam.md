@@ -2,11 +2,20 @@
 
 ## SUBAcillin inj 1.5gm
 
-_藥物代碼_：ISUB
-
-_給藥途徑_：I
-
-_用法用量_：
-
-IV/IM Adult 1.5-12 g/day in divided doses 6-8 hrly. Max: Sulbactam 4 g daily. Non-severe infections may be administered 12 hrly. Prophylaxis of surgical infections 1.5-3 g given at induction of anesth. Dose may be repeated 6-8 hrly; administration is usually stopped 24 hr after the majority of surgical procedures, unless a therapeutic course is indicated. Children, infant & neonate 150 mg/kg/day in divided doses 6-8 hrly. Newborn &lt; 1 week 75 mg/kg/day in divided doses 12 hrly.
+| 藥物代碼           | ISUB                                                                                                                                                                                                                                                                        |
+|:-------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 適應症             | Infections due to susceptible strains of Streptococcus, S. aureus, Enterococcus, Escherichia coli, Klebsiella spp., Serratia, H. influenza, gm-ve bacteria, Citrobacter & anerobic bacterias (Bacteroides, Fusobacterium & Clostridium difficile), Branhamella catarrhalis. |
+| 副作用             | Inj site reactions, hypersensitivity reactions, nausea, vomiting, diarrhea, pseudomembraneous colitis, hematological changes, elevated liver transaminases, rash, itch.                                                                                                     |
+| 禁忌               | Hypersensitivity to penicillins.                                                                                                                                                                                                                                            |
+| 懷孕用藥危分級     | 可能安全                                                                                                                                                                                                                                                                    |
+| 孕期用藥建議       | N/A                                                                                                                                                                                                                                                                         |
+| 附帶說明           | N/A                                                                                                                                                                                                                                                                         |
+| 哺乳期用藥建議     | Contraindicated 哺乳期使用禁忌                                                                                                                                                                                                                                              |
+| 附帶說明           | Subactam會分泌至乳汁                                                                                                                                                                                                                                                        |
+| 注射劑給藥建議途徑 | IM, IVD, IVP, IVPUSH                                                                                                                                                                                                                                                        |
+| 乾粉稀釋液         | N/A                                                                                                                                                                                                                                                                         |
+| 輸注點滴液         | N/A                                                                                                                                                                                                                                                                         |
+| IVP 用法建議       | N/A                                                                                                                                                                                                                                                                         |
+| IVD 用法建議       | N/A                                                                                                                                                                                                                                                                         |
+| 注意事項           | 1.deep IM 疼痛時可用0.5%滅菌lidocaine hydrochloride anhydrous配製 2. 本品在含有葡萄糖或其他醣類溶液中較不穩定，也不可與血品、蛋白質水解物、胺基醣類混合。 3. 注射劑應於配置後1小時內使用。                                                                                  |
 

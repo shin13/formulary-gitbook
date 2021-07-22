@@ -1,26 +1,25 @@
 # Sofosbuvir
 
-## Sovaldi FC 400mg, 28\#-box
-
-_藥物代碼_：OSOV
-
-_給藥途徑_：O
-
-_用法用量_：
-
-The recommended dose of Sovaldi is one 400mg tablet, taken orally, once daily with or without food.
-
-Sovaldi should be used in combination with ribavirin or in combination with pegylated interferon and ribavirin for treatment of CHC in adults.
-
 ## Sovaldi FC 400mg
 
-_藥物代碼_：OSOV
-
-_給藥途徑_：O
-
-_用法用量_：
-
-The recommended dose of Sovaldi is one 400mg tablet, taken orally, once daily with or without food.
-
-Sovaldi should be used in combination with ribavirin or in combination with pegylated interferon and ribavirin for treatment of CHC in adults.
+| 藥物代碼           | OSOV                                                                                                                                                                                                                                               |
+|:-------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 適應症             | Chronic hepatitis C: Treatment of genotype 1, 2, 3, or 4 chronic hepatitis C (CHC) as a component of a combination antiviral treatment regimen.                                                                                                    |
+| 副作用             | Fatigue, headache, nausea, insomnia & anemia. Pruritus, asthenia, rash, decreased appetite, chills, influenza-like illness, pyrexia, diarrhea, neutropenia, myalgia, irritability.                                                                 |
+| 禁忌               | Hypersensivity, Pregnancy.                                                                                                                                                                                                                         |
+| 藥物保存方式       | N/A                                                                                                                                                                                                                                                |
+| 用法用量           | The recommended dose of Sovaldi is one 400mg tablet, taken orally, once daily with or without food. Sovaldi should be used in combination with ribavirin or in combination with pegylated interferon and ribavirin for treatment of CHC in adults. |
+| 肝功能異常         | 無需調整劑量                                                                                                                                                                                                                                       |
+| 腎功能異常         | 無需調整劑量                                                                                                                                                                                                                                       |
+| 懷孕用藥危分級     | 除非治療上需要                                                                                                                                                                                                                                     |
+| 孕期用藥建議       | No (Limited) Human Data - animal data suggest low risk                                                                                                                                                                                             |
+| 附帶說明           | N/A                                                                                                                                                                                                                                                |
+| 哺乳期用藥建議     | No (Limited) Human Data - Probably Compatible 無(很少)資料 - 可使用                                                                                                                                                                                |
+| 附帶說明           | No Human Data—Animal Data Suggest Low Risk (Contraindicated if combined with Ribavirin)                                                                                                                                                            |
+| 注射劑給藥建議途徑 | N/A                                                                                                                                                                                                                                                |
+| 乾粉稀釋液         | N/A                                                                                                                                                                                                                                                |
+| 輸注點滴液         | N/A                                                                                                                                                                                                                                                |
+| IVP 用法建議       | N/A                                                                                                                                                                                                                                                |
+| IVD 用法建議       | N/A                                                                                                                                                                                                                                                |
+| 注意事項           | N/A                                                                                                                                                                                                                                                |
 

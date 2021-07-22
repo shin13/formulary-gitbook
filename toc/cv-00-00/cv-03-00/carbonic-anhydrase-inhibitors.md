@@ -1,2 +1,0 @@
-# Carbonic Anhydrase Inhibitors
-

@@ -1,2 +1,0 @@
-# Selective Serotonin Reuptake Inhibitors
-

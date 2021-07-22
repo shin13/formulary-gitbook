@@ -1,22 +1,40 @@
 # Oseltamivir
 
-## Eraflu 75mg \(Government\)
+## Eraflu 75mg (Government)
 
-_藥物代碼_：OERAF
+| 藥物代碼           | OERAF                                                                                                                                                   |
+|:-------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 適應症             | Prophylaxis & treatment of influenza in adult & children.                                                                                               |
+| 副作用             | Nausea, vomiting, abdominal pain, headache. Insomnia, diarrhea.Gastrointestinal: Abdominal pain (2% to 5% ), Nausea (4% to 10% ), Vomiting (2% to 15% ) |
+| 禁忌               | Hypersensitivity.                                                                                                                                       |
+| 懷孕用藥危分級     | 除非治療上需要                                                                                                                                          |
+| 孕期用藥建議       | Compatible - maternal benefit >> embryo-fetal risk                                                                                                      |
+| 附帶說明           | N/A                                                                                                                                                     |
+| 哺乳期用藥建議     | Compatible 哺乳時可使用                                                                                                                                 |
+| 附帶說明           | N/A                                                                                                                                                     |
+| 注射劑給藥建議途徑 | N/A                                                                                                                                                     |
+| 乾粉稀釋液         | N/A                                                                                                                                                     |
+| 輸注點滴液         | N/A                                                                                                                                                     |
+| IVP 用法建議       | N/A                                                                                                                                                     |
+| IVD 用法建議       | N/A                                                                                                                                                     |
+| 注意事項           | N/A                                                                                                                                                     |
 
-_給藥途徑_：O
+## Tamiflu 75mg (Private)
 
-_用法用量_：
-
-Treatment of influenza Begin treatment within the 1st or 2nd day of onset of symptoms. Adult & adolescent &gt;= 13 years 75 mg, children &gt; 1 year, &gt; 40 kg 75 mg, &gt; 23-40 kg 60 mg, &gt;15-23 kg 45 mg, &lt;= 15 kg 30 mg. Doses to be given bid for 5 days. Prophylaxis of influenza Adult & adolescent &gt; 13 years 75 mg once daily for 10 days, children &gt; 1 year, &gt; 40 kg 75 mg, &gt; 23-40 kg 60 mg, &gt;15-23 kg 45 mg, &lt;= 15 kg 30 mg. Doses to be given once daily for 10 days.
-
-## Tamiflu 75mg \(Private\)
-
-_藥物代碼_：OTAM7
-
-_給藥途徑_：O
-
-_用法用量_：
-
-Treatment of influenza Begin treatment within the 1st or 2nd day of onset of symptoms. Adult & adolescent &gt;= 13 years 75 mg, children &gt; 1 year, &gt; 40 kg 75 mg, &gt; 23-40 kg 60 mg, &gt;15-23 kg 45 mg, &lt;= 15 kg 30 mg. Doses to be given bid for 5 days. Prophylaxis of influenza Adult & adolescent &gt; 13 years 75 mg once daily for 10 days, children &gt; 1 year, &gt; 40 kg 75 mg, &gt; 23-40 kg 60 mg, &gt;15-23 kg 45 mg, &lt;= 15 kg 30 mg. Doses to be given once daily for 10 days.
+| 藥物代碼           | OTAM7                                                                                                                                                   |
+|:-------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 適應症             | Prophylaxis & treatment of influenza in adult & children.                                                                                               |
+| 副作用             | Nausea, vomiting, abdominal pain, headache. Insomnia, diarrhea.Gastrointestinal: Abdominal pain (2% to 5% ), Nausea (4% to 10% ), Vomiting (2% to 15% ) |
+| 禁忌               | Hypersensitivity.                                                                                                                                       |
+| 懷孕用藥危分級     | 除非治療上需要                                                                                                                                          |
+| 孕期用藥建議       | Compatible - maternal benefit >> embryo-fetal risk                                                                                                      |
+| 附帶說明           | N/A                                                                                                                                                     |
+| 哺乳期用藥建議     | Compatible 哺乳時可使用                                                                                                                                 |
+| 附帶說明           | N/A                                                                                                                                                     |
+| 注射劑給藥建議途徑 | N/A                                                                                                                                                     |
+| 乾粉稀釋液         | N/A                                                                                                                                                     |
+| 輸注點滴液         | N/A                                                                                                                                                     |
+| IVP 用法建議       | N/A                                                                                                                                                     |
+| IVD 用法建議       | N/A                                                                                                                                                     |
+| 注意事項           | N/A                                                                                                                                                     |
 

@@ -2,11 +2,20 @@
 
 ## Colimycin inj 2MU
 
-_藥物代碼_：ICOL
-
-_給藥途徑_：I
-
-_用法用量_：
-
-IV/IM GI infections; Bowel sterilisation As colistimethate Na: 6 million units/day in 3 divided doses. Max: 6 million units/24 hr. \(每小瓶200萬單位，等於66.8mg colistin base力價\) Normal renal function: 2.5-5mg/kg/day divided in 2-4 doses Mild renal impairment: 2.8-3.8mg/kg/day divided in 2 doses Moderate renal impairment: 2.5mg/kg/day divided in 1-2 doses off-label route: Inhalation therapy:50-75mg in 3-4mL of saline via nebuilzer 2-3 times/day.\(from sanford guide\)
+| 藥物代碼           | ICOL                                                                                                                                                                              |
+|:-------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 適應症             | GI infections; Bowel sterilisation.                                                                                                                                               |
+| 副作用             | Superinfection; renal damage; visual disturbances; GI disturbances, dizziness, nausea, vomiting; confusion, peripheral neuropathy; respiratory insufficiency and muscle weakness. |
+| 禁忌               | Hypersensitivity. Anuria; porphyria; myasthenia gravis. Pregnancy and lactation.                                                                                                  |
+| 懷孕用藥危分級     | 除非治療上需要                                                                                                                                                                    |
+| 孕期用藥建議       | No (Limited) Human Data - animal data suggest moderate risk                                                                                                                       |
+| 附帶說明           | N/A                                                                                                                                                                               |
+| 哺乳期用藥建議     | No (Limited) Human Data - Probably Compatible 無(很少)資料 - 可使用                                                                                                               |
+| 附帶說明           | N/A                                                                                                                                                                               |
+| 注射劑給藥建議途徑 | IH, IM, IVD                                                                                                                                                                       |
+| 乾粉稀釋液         | "IM: 2 mL D/W, N/S; IV: 2mL D/W, N/S, D5W"                                                                                                                                        |
+| 輸注點滴液         | 【D5NS】 可選  【D5W】 可選  【L/R】 可選  【N/S】 可選                                                                                                                           |
+| IVP 用法建議       | 推注時間至少3 ~ 5分鐘                                                                                                                                                             |
+| IVD 用法建議       | 開始的1~2小時，以5-6mg/hr緩慢滴注                                                                                                                                                 |
+| 注意事項           | 1. 輸注液需新鮮配製，室溫下只能擺放24小時 2. 腎功能不全病患需減慢注射速率。                                                                                                       |
 

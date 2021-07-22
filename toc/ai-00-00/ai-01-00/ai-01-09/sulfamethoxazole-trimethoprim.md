@@ -1,32 +1,59 @@
 # Sulfamethoxazole + Trimethoprim
 
-## Sevatrim inj\(400mg+80mg\)
+## Sevatrim inj(400mg+80mg)
 
-_藥物代碼_：ISEV
+| 藥物代碼           | ISEV                                                                                                                              |
+|:-------------------|:----------------------------------------------------------------------------------------------------------------------------------|
+| 適應症             | Infections of respiratory tract, GIT due to gm+ve & gm-ve bacteria.                                                               |
+| 副作用             | Allergic skin reactions; hallucinations, depression, apathy,              nervousness. Arthralgia, myalgia. Neurologic reactions. |
+| 禁忌               | Liver parenchymal damage, blood dyscrasias;          severe renal insufficiency.         Pregnancy, lactation. Porphyria.         |
+| 懷孕用藥危分級     | 尚未確立                                                                                                                          |
+| 孕期用藥建議       | N/A                                                                                                                               |
+| 附帶說明           | N/A                                                                                                                               |
+| 哺乳期用藥建議     | Unknown 尚未建立                                                                                                                  |
+| 附帶說明           | N/A                                                                                                                               |
+| 注射劑給藥建議途徑 | IVD                                                                                                                               |
+| 乾粉稀釋液         | N/A                                                                                                                               |
+| 輸注點滴液         | 【D10W】 可選 仿單建議  【D5W】 可選 仿單建議  【N/S】 可選 仿單建議                                                              |
+| IVP 用法建議       | N/A                                                                                                                               |
+| IVD 用法建議       | N/A                                                                                                                               |
+| 注意事項           | N/A                                                                                                                               |
 
-_給藥途徑_：I
+## Sulfacotrim 40/8mg/mL 60mL suspension
 
-_用法用量_：
+| 藥物代碼           | LSUL                                                                                                                                                                                                                         |
+|:-------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 適應症             | Acute exacerbations of chronic bronchitis, UTI & acute otitis media due to susceptible organisms; treatment & prophylaxis of P. carinii pneumonia; travelers?diarrhea due to susceptible strains of enterotoxigenic E. coli. |
+| 副作用             | GI disturbances, allergic skin reactions (discontinue), folic acid deficiency; mild & transient hematological abnormalities; rarely, megaloblastic anemia, purpura, agranulocytosis.                                         |
+| 禁忌               | Hypersensitivity; megaloblastic anemia.                                                                                                                                                                                      |
+| 懷孕用藥危分級     | 尚未確立                                                                                                                                                                                                                     |
+| 孕期用藥建議       | N/A                                                                                                                                                                                                                          |
+| 附帶說明           | N/A                                                                                                                                                                                                                          |
+| 哺乳期用藥建議     | Unknown 尚未建立                                                                                                                                                                                                             |
+| 附帶說明           | N/A                                                                                                                                                                                                                          |
+| 注射劑給藥建議途徑 | AC, AC15, PC, PO, WM                                                                                                                                                                                                         |
+| 乾粉稀釋液         | N/A                                                                                                                                                                                                                          |
+| 輸注點滴液         | N/A                                                                                                                                                                                                                          |
+| IVP 用法建議       | N/A                                                                                                                                                                                                                          |
+| IVD 用法建議       | N/A                                                                                                                                                                                                                          |
+| 注意事項           | N/A                                                                                                                                                                                                                          |
 
-Adult 10 mL IV bid. Children &lt;12 years 2 mL /5 kg body weight daily in 2 divided doses.
+## Chemix (Baktar) 400/80mg
 
-## Sulfacotrim 40-8mg-mL, 60mL suspension
-
-_藥物代碼_：LSUL
-
-_給藥途徑_：O
-
-_用法用量_：
-
-Adult 20-30 mL bid; in prolonged therapy \(&gt; 14 days\), dose may be reduced to 10 mL bid. Children 6-12 years 10 mL bid, 6 months-5 years 5 mL bid, infants 6 weeks-5 months 2.5 mL bid.
-
-## Chemix \(Baktar\) 400-80mg
-
-_藥物代碼_：OCHE
-
-_給藥途徑_：O
-
-_用法用量_：
-
-Adult: Acute exacerbation of COPD: 1 tablets or 20 mL suspension every 12 hr for 14 days Traveler's diarrhea: 1 tablets or 20 mL suspension every 12 hr for 5 days Urinary tract infectious disease: 1 tablets or 20 mL suspension every 12 hr for 10-14 days Pediatric: Acute otitis media: \(2 months of age and older\) 8 mg/kg TMP component/day divided Q 12 hr for 10 days Urinary tract infectious disease: \(2 months of age and older\) 8 mg/kg TMP component/day divided Q 12 hr for 10 days Antimicrobial: Adult: 2 tab q12h. Child over 2 months under 40 kg: 20 mg/kg syr & 4 mg/kg tab q12h. Antiprotozoal \(Pneumocystis carinii pneumonia\): Adult & child over 2 months: 18.75-25 mg/kg syr. & 3.75-5 mg/kg tab q6h for 2 wks.
+| 藥物代碼           | OCHE                                                                                                                                                                     |
+|:-------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 適應症             | Acute infective exacerbation of chronic obstructive pulmonary disease, pneumocystis pneumonia, shigellosis, traveler's diarrhea, urinary tract infectious, acute otitis. |
+| 副作用             | GI disturbances; allergic skin reactions; hallucinations, depression, apathy, nervousness. Arthralgia, myalgia. Neurologic reactions.                                    |
+| 禁忌               | Liver parenchymal damage, blood dyscrasias; severe renal insufficiency. Pregnancy, lactation. Porphyria.                                                                 |
+| 懷孕用藥危分級     | 尚未確立                                                                                                                                                                 |
+| 孕期用藥建議       | N/A                                                                                                                                                                      |
+| 附帶說明           | N/A                                                                                                                                                                      |
+| 哺乳期用藥建議     | Unknown 尚未建立                                                                                                                                                         |
+| 附帶說明           | N/A                                                                                                                                                                      |
+| 注射劑給藥建議途徑 | AC, AC15, PC, PO, WM                                                                                                                                                     |
+| 乾粉稀釋液         | N/A                                                                                                                                                                      |
+| 輸注點滴液         | N/A                                                                                                                                                                      |
+| IVP 用法建議       | N/A                                                                                                                                                                      |
+| IVD 用法建議       | N/A                                                                                                                                                                      |
+| 注意事項           | N/A                                                                                                                                                                      |
 

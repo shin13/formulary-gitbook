@@ -1,25 +1,40 @@
 # Fluconazole
 
-## Diflucan inj 100mg-50mL
+## Diflucan inj 100mg/50mL
 
-_藥物代碼_：IDIF
-
-_給藥途徑_：I
-
-_用法用量_：
-
-Candidemia,disseminated candidiasis & invasive candidias is 400mg daily followed by 200mg daily. Oropharyngeal candidiasis 50mg daily for 7-14 days. Vag candidiasis :150mg as a single dose. Cryptococcosis : Initially 400mg then 200mg daily for 6-8 weeks. Dermal infection \(tinea corporis, cruris & dermal candidal infection\)150mg once wkly or 50 mg daily 2-4wk, tinea pedis 150 mg once wkly or 50 mg daily for 2-6 wk; tinea versicolor 50mg once daily for 2-4 wk. Prevention of fungal infection in patients with AIDS 50 mg daily.
-
-**\***NEONATE ANTIBIOTICS DOSE**\*** Fluconazole:  
-Invasive Candidiasis Duration of therapy for candidemia: 2 weeks after documented clearance of Candida from the bloodstream and resolution of symptoms \(without metastatic complications\) Prophylaxis: 3 mg/kg/dose, twice weekly, duration up to 6 weeks Treatment: loading dose 25 mg/kg GA &lt;= 29 week Postnatal 0-14 days: maintenance dose 12mg/kg Q48H GA &lt;= 29 week Postnatal &gt;=15days : maintenance dose 12mg/kg Q24H GA 30-44 week Postnatal 0-7 days: maintenance dose 12mg/kg Q48H GA 30-44 week Postnatal &gt;=8 days: maintenance dose 12mg/kg Q24H
+| 藥物代碼           | IDIF                                                                                                                                                                                                                                                                                                |
+|:-------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 適應症             | Candidemia, disseminated candidiasis & invasive candidiasis, Oropharyngeal candidiasis, Esophageal candidiasis, Vag candidiasis, Cryptococcal meningitis, Dermal infection (tinea corporis, cruris & dermal candidal infection), tinea pedis, Prevention of fungal infection in patients with AIDS. |
+| 副作用             | Nausea, abdominal pain, diarrhea; rash.                                                                                                                                                                                                                                                             |
+| 禁忌               | Patients with known hypersensitivity to fluconazole or to related azole compounds.                                                                                                                                                                                                                  |
+| 懷孕用藥危分級     | 儘量避免                                                                                                                                                                                                                                                                                            |
+| 孕期用藥建議       | N/A                                                                                                                                                                                                                                                                                                 |
+| 附帶說明           | N/A                                                                                                                                                                                                                                                                                                 |
+| 哺乳期用藥建議     | Compatible 哺乳時可使用                                                                                                                                                                                                                                                                             |
+| 附帶說明           | N/A                                                                                                                                                                                                                                                                                                 |
+| 注射劑給藥建議途徑 | IVD                                                                                                                                                                                                                                                                                                 |
+| 乾粉稀釋液         | N/A                                                                                                                                                                                                                                                                                                 |
+| 輸注點滴液         | N/A                                                                                                                                                                                                                                                                                                 |
+| IVP 用法建議       | N/A                                                                                                                                                                                                                                                                                                 |
+| IVD 用法建議       | 以10mL/分鐘速率緩慢滴注 (每小瓶至少滴注超過30分鐘),給藥速率 < 200 mg/hr                                                                                                                                                                                                                             |
+| 注意事項           | 1. 注意是否發生皮膚疹、腹痛症狀。 2. 監測肝腎功能與心電圖變化。                                                                                                                                                                                                                                     |
 
 ## Diflucan 150mg
 
-_藥物代碼_：ODIF
-
-_給藥途徑_：O
-
-_用法用量_：
-
-Adult Candidemia,disseminated candidiasis & invasive candidias is 400mg daily followed by 200mg daily. Oropharyngeal candidiasis 50mg daily for 7-14 days. Vag candidiasis :150mg as a single dose. Cryptococcosis : Initially 400mg then 200mg daily for 6-8 weeks. Dermal infection \(tinea corporis, cruris & dermal candidal infection\)150mg once wkly or 50 mg daily 2-4wk, tinea pedis 150 mg once wkly or 50 mg daily for 2-6 wk; tinea versicolor 50mg once daily for 2-4 wk. Prevention of fungal infection in patients with AIDS 50 mg daily.
+| 藥物代碼           | ODIF                                                                                                          |
+|:-------------------|:--------------------------------------------------------------------------------------------------------------|
+| 適應症             | Dermatomycosis including tinea pedis, tinea corporis, tinea cruris, tinea versicolor and candidal infections. |
+| 副作用             | Nausea, abdominal pain, diarrhoea; rash.                                                                      |
+| 禁忌               | Patients with known hypersensitivity to fluconazole or to related azole compounds.                            |
+| 懷孕用藥危分級     | 儘量避免                                                                                                      |
+| 孕期用藥建議       | N/A                                                                                                           |
+| 附帶說明           | N/A                                                                                                           |
+| 哺乳期用藥建議     | Compatible 哺乳時可使用                                                                                       |
+| 附帶說明           | N/A                                                                                                           |
+| 注射劑給藥建議途徑 | PO                                                                                                            |
+| 乾粉稀釋液         | N/A                                                                                                           |
+| 輸注點滴液         | N/A                                                                                                           |
+| IVP 用法建議       | N/A                                                                                                           |
+| IVD 用法建議       | N/A                                                                                                           |
+| 注意事項           | N/A                                                                                                           |
 

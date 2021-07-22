@@ -1,2 +1,0 @@
-# Thiazides and related diuretics
-

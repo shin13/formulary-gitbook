@@ -1,22 +1,40 @@
 # Azithromycin
 
-## Zithromax 200mg-5mL suspension
+## Zithromax 200mg/5mL suspension
 
-_藥物代碼_：LZIT
-
-_給藥途徑_：O
-
-_用法用量_：
-
-Adults: Sexually transmitted diseases caused by Chlamydia trachomatis or susceptible Neisseria gonorrhoeae the dose is 1g as a single oral dose. Other infections: 500 mg daily for 3 days. Childn: A single daily dose of 10 mg/kg for 3 days.
+| 藥物代碼           | LZIT                                                                                                                                                                                                                          |
+|:-------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 適應症             | Upper & lower respiratory tract infections; skin & soft tissue infections; otitis media; uncomplicated genital infections due to Chlamydia trachomatis & Neisseria gonorrheae.                                                |
+| 副作用             | Nausea, abdominal discomfort, vomiting, flatulence, diarrhoea & loose stools. Hearing impairment, interstitial nephritis, acute renal failure, abnormal liver function, dizziness/vertigo, convulsions, headache, somnolence. |
+| 禁忌               | Hypersensitivity to macrolides.                                                                                                                                                                                               |
+| 懷孕用藥危分級     | 可能安全                                                                                                                                                                                                                      |
+| 孕期用藥建議       | N/A                                                                                                                                                                                                                           |
+| 附帶說明           | N/A                                                                                                                                                                                                                           |
+| 哺乳期用藥建議     | No (Limited) Human Data - Probably Compatible 無(很少)資料 - 可使用                                                                                                                                                           |
+| 附帶說明           | N/A                                                                                                                                                                                                                           |
+| 注射劑給藥建議途徑 | AC, PC, PO, WM                                                                                                                                                                                                                |
+| 乾粉稀釋液         | N/A                                                                                                                                                                                                                           |
+| 輸注點滴液         | N/A                                                                                                                                                                                                                           |
+| IVP 用法建議       | N/A                                                                                                                                                                                                                           |
+| IVD 用法建議       | N/A                                                                                                                                                                                                                           |
+| 注意事項           | N/A                                                                                                                                                                                                                           |
 
 ## Zithromax 250mg
 
-_藥物代碼_：OZIT
-
-_給藥途徑_：O
-
-_用法用量_：
-
-Adults: Sexually transmitted diseases caused by Chlamydia trachomatis or susceptible Neisseria gonorrhoeae the dose is 1g as a single oral dose. Acute infective exacerbation of chronic obstructive pulmonary disease \(Mild to Moderate\): 500 mg ORALLY once daily for 3 days or 500 mg ORALLY on day 1 followed by 250 mg/day ORALLY on days 2 to day 5. Other infections: 500 mg daily for 3 days. Childn: A single daily dose of 10 mg/kg for 3 days.
+| 藥物代碼           | OZIT                                                                                                                                                                                                                          |
+|:-------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 適應症             | Upper & lower respiratory tract infections; skin & soft tissue infections; otitis media; uncomplicated genital infections due to Chlamydia trachomatis & Neisseria gonorrheae.                                                |
+| 副作用             | Nausea, abdominal discomfort, vomiting, flatulence, diarrhoea & loose stools. Hearing impairment, interstitial nephritis, acute renal failure, abnormal liver function, dizziness/vertigo, convulsions, headache, somnolence. |
+| 禁忌               | Hypersensitivity to macrolides.                                                                                                                                                                                               |
+| 懷孕用藥危分級     | 可能安全                                                                                                                                                                                                                      |
+| 孕期用藥建議       | Compatible                                                                                                                                                                                                                    |
+| 附帶說明           | N/A                                                                                                                                                                                                                           |
+| 哺乳期用藥建議     | Compatible 哺乳時可使用                                                                                                                                                                                                       |
+| 附帶說明           | N/A                                                                                                                                                                                                                           |
+| 注射劑給藥建議途徑 | AC, AC15, PC, PO, WM                                                                                                                                                                                                          |
+| 乾粉稀釋液         | N/A                                                                                                                                                                                                                           |
+| 輸注點滴液         | N/A                                                                                                                                                                                                                           |
+| IVP 用法建議       | N/A                                                                                                                                                                                                                           |
+| IVD 用法建議       | N/A                                                                                                                                                                                                                           |
+| 注意事項           | N/A                                                                                                                                                                                                                           |
 

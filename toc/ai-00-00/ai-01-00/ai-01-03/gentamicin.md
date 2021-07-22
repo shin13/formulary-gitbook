@@ -1,14 +1,21 @@
 # Gentamicin
 
-## Gentamycin inj 80mg-2mL
+## Gentamycin inj 80mg/2mL
 
-_藥物代碼_：IGEN8
-
-_給藥途徑_：I
-
-_用法用量_：
-
-Adult: 3-5 mg/kg/day in 3 equal dose q8h. Child: 6-7.5 mg/kg/day q8h. Infant and neonate: 7.5 mg/kg/day q8h. 1 wk of age or less: 5 mg/kg/day q12h.
-
-**\***NEONATE ANTIBIOTICS DOSE**\*** Gentamicin: Draw peak 30 min after completion infusion; draw trough just before the next dose \(於第4個dose給藥前\) PMA &lt;=29 week Postnatal 0 to 7 days dose : 5mg/kg Q48h PMA &lt;=29 week Postnatal 8 to 28 days dose : 4mg/kg Q36 h PMA &lt;=29 week Postnatal &gt;=29 days dose : 4mg/kg Q24 h PMA 30 – 34 week Postnatal 0 to 7 days dose : 4.5mg/kg Q36 h PMA 30 – 34 week Postnatal &gt;= 8 days dose : 4mg/kg Q24 h PMA 35 - 44 week Postnatal all dose : 4mg/kg Q24 h
+| 藥物代碼           | IGEN8                                                                                                                                                                                                                                                                                             |
+|:-------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 適應症             | Susceptible infections, Surgical prophylaxis.                                                                                                                                                                                                                                                     |
+| 副作用             | Dizziness or vertigo; acute renal failure, interstitial nephritis, acute tubular necrosis; electrolyte imbalances; transient elevation of serum bilirubin and aminotransferases; purpura; nausea, vomiting; convulsions, mental depression, hallucinations. Atrophy or rat necrosis at inj sites. |
+| 禁忌               | History of hypersensitivity to aminoglycoside; pregnancy; perforated ear drum.                                                                                                                                                                                                                    |
+| 懷孕用藥危分級     | 儘量避免                                                                                                                                                                                                                                                                                          |
+| 孕期用藥建議       | Human data suggest low risk                                                                                                                                                                                                                                                                       |
+| 附帶說明           | N/A                                                                                                                                                                                                                                                                                               |
+| 哺乳期用藥建議     | Compatible 哺乳時可使用                                                                                                                                                                                                                                                                           |
+| 附帶說明           | N/A                                                                                                                                                                                                                                                                                               |
+| 注射劑給藥建議途徑 | IH, IM, IMP, IRR, IVD, IVI, SCI, SUBCI                                                                                                                                                                                                                                                            |
+| 乾粉稀釋液         | N/A                                                                                                                                                                                                                                                                                               |
+| 輸注點滴液         | 【D10W】 可選  【D5W】 可選 仿單建議  【L/R】 可選  【N/S】 可選 仿單建議                                                                                                                                                                                                                         |
+| IVP 用法建議       | N/A                                                                                                                                                                                                                                                                                               |
+| IVD 用法建議       | 給藥濃度< 1 mg/mL (IV infuse over 30 minutes to 2 hours)。 NeoFax建議：Infuse over a period of 30 to 120 minutes using a concentration of 2 mg/mL or 10 mg/mL.                                                                                                                                    |
+| 注意事項           | 1. 監測體溫、CBC、肝腎功能、血鈣、血鉀、血鈉、血鎂、聽覺功能。 2. 建議監測藥物血中濃度。                                                                                                                                                                                                          |
 
