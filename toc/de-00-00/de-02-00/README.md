@@ -1,2 +1,6 @@
-# de-02-00
+---
+description: 外用抗生素
+---
+
+# Topical Antibiotics
 

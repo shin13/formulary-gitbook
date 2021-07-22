@@ -1,2 +1,6 @@
-# de-07-00
+---
+description: 痤瘡用藥
+---
+
+# Acne
 

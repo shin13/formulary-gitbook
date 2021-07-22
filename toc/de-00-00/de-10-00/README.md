@@ -1,2 +1,6 @@
-# de-10-00
+---
+description: 角質軟化劑
+---
+
+# Keratolytics
 

@@ -1,2 +1,6 @@
-# de-00-00
+---
+description: 皮膚用製劑
+---
+
+# Dermatologic Preparations
 

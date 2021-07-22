@@ -1,2 +1,2 @@
-# cn-02-08
+# CNS Stimulant
 
