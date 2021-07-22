@@ -1,0 +1,21 @@
+# Ampicillin
+
+## Ampolin inj 0.5gm
+
+| 藥物代碼 | IAMP |
+| :--- | :--- |
+| 適應症 | Respiratory tract infections, UTI, gonorrhea, enteric infections, meningitis, septicemia, bacillary dysentery, shigellosis, salmonellosis. |
+| 副作用 | Allergic reactions, GI disturbances, pseudomembranous colitis, hemolytic anemia, leukopenia. |
+| 禁忌 | Hypersensitivity to penicillins. Infectious mononucleosis. |
+| 懷孕用藥危分級 | 可能安全 |
+| 孕期用藥建議 | N/A |
+| 附帶說明 | N/A |
+| 哺乳期用藥建議 | Compatible 哺乳時可使用 |
+| 附帶說明 | N/A |
+| 注射劑給藥建議途徑 | IM, IVD, IVP, IVPUSH |
+| 乾粉稀釋液 | IM: 1.8 mL D/W IV: 5mL D/W |
+| 輸注點滴液 | 【D5W】 可選 仿單建議  【L/R】 可選  【N/S】 可選 仿單建議 |
+| IVP 用法建議 | over 3 to 5 minutes |
+| IVD 用法建議 | IV infusion: 以50 ~ 100 mL適當輸注液稀釋，濃度 &lt; 30mg/mL。每1gm劑量以至少10 ~ 15分鐘時間緩慢滴注，兒童的滴注速率建議超過30分鐘。 NeoFax建議：Doses 500 mg or less should be administered slowly over 3 to 5 minutes IV and over at least 10 to 15 minutes for doses 1 g or greater. Recommended concentrations are 30, 40, 50, and 100 mg/mL for intermittent IV. For ampicillin 100 mg/mL, consider central line administration due to potential osmolality greater than 600 mOsm/kg. |
+| 注意事項 | 1. 注射前檢查病患是否有PCN過敏史。 2. 稀釋液需在一小時內用完。 3. 乾粉稀釋：\(IM\) 0.5gm/vial 乾粉加入1.8 mL D/W泡製，\(IV bolus\) 0.5gm/vial 乾粉加入5 mL D/W泡製。 4. IV infusion: 以50 ~ 100 mL適當輸注液稀釋，濃度 &lt; 30mg/mL。每1gm劑量以至少10 ~ 15分鐘時間緩慢滴注，兒童的滴注速率建議超過30分鐘。 |
+

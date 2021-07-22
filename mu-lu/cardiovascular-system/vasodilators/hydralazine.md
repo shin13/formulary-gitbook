@@ -1,0 +1,25 @@
+# Hydralazine
+
+## Apresoline 50mg
+
+| 藥物代碼 | OAPR5 |
+| :--- | :--- |
+| 適應症 | Hypertension，為周邊血管擴張劑\(A030879100\) |
+| 副作用 | Tachycardia, palpitation, anginal symptoms, flushing, headache, dizziness, nasal congestion, GI disturbances. |
+| 禁忌 | Idiopathic SLE & related diseases. Severe tachycardia & heart failure with high cardiac output. Myocardial insufficiency due to mechanical obstruction. Right ventricular heart failure due to pulmonary HTN. Dissecting aortic aneurysm. |
+| 藥物保存方式 | 室溫 |
+| 用法用量 | Adult: 10-50 mg qid \(max. dose 200-300 mg/day\). Child: 0.75 mg/kg/day in 4 divided doses, up to 7.5 mg/kg/day. |
+| 肝功能異常 | 無需調整劑量 |
+| 腎功能異常 | 無需調整劑量 |
+| 懷孕用藥危分級 | 除非治療上需要 |
+| 孕期用藥建議 | Human data suggest risk in 3rd trimester |
+| 附帶說明 | No reports linking the use of hydralazine with congenital defects have been located. However, fetal toxicity has been associated with use of the drug in the 3rd trimester. |
+| 哺乳期用藥建議 | No \(Limited\) Human Data - Probably Compatible 無\(很少\)資料 - 可使用 |
+| 附帶說明 | N/A |
+| 注射劑給藥建議途徑 | N/A |
+| 乾粉稀釋液 | N/A |
+| 輸注點滴液 | N/A |
+| IVP 用法建議 | N/A |
+| IVD 用法建議 | N/A |
+| 注意事項 | N/A |
+

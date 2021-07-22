@@ -1,0 +1,25 @@
+# Isoniazid
+
+## Isoniazide 100mg
+
+| 藥物代碼 | OINH1 |
+| :--- | :--- |
+| 適應症 | Treatment of susceptible active tuberculosis \(eg, Mycobacterium tuberculosis\) infections. |
+| 副作用 | Common‧Hepatic: Increased liver enzymes \(10% to 20% \)‧Neurologic: Neuropathy, NeurotoxicitySerious‧Dermatologic: Rash‧Hematologic: Agranulocytosis, Anemia, Thrombocytopenia‧Hepatic: Hepatitis \(Severe\), Hepatotoxicity, Injury of liver‧Immunologic: Systemic lupus erythematosus‧Musculoskeletal: Rhabdomyolysis‧Neurologic: Seizure |
+| 禁忌 | ‧Acute liver disease.‧History of severe adverse reactions to isoniazid such as drug fever, chills, or arthritis.‧History of isoniazid associated hepatic injury or drug induced liver injury.‧Severe hypersensitivity to isoniazid. |
+| 藥物保存方式 | 室溫 |
+| 用法用量 | Adult 3-5 mg/kg/day in divided doses for 4-16 weeks. Infants and Children: Treatment of active infection: 10-15 mg/kg/day given once daily as part of a multidrug regimen; maximum dose: 300 mg/day Treatment of latent infection: 10-20 mg/kg/day given once daily, not to exceed 300 mg/day. |
+| 肝功能異常 | 需 調 整 劑 量  Advanced disease or AST greater than 3 times ULN and not due to TB: Isoniazid-based regimens are preferred if possible; expert consultation and dosage adjustments may be necessary. If isoniazid cannot be used, consider treatment regimens with fewer potentially hepatotoxic drugs. |
+| 腎功能異常 | 無需調整劑量 |
+| 懷孕用藥危分級 | 尚未確立 |
+| 孕期用藥建議 | Compatible - maternal benefit &gt;&gt; embryo-fetal risk |
+| 附帶說明 | PREGNANCY RECOMMENDATION: Compatible—Maternal Benefit &gt;&gt; Embryo–Fetal Risk |
+| 哺乳期用藥建議 | No \(Limited\) Human Data - Probably Compatible 無\(很少\)資料 - 可使用 |
+| 附帶說明 | N/A |
+| 注射劑給藥建議途徑 | N/A |
+| 乾粉稀釋液 | N/A |
+| 輸注點滴液 | N/A |
+| IVP 用法建議 | N/A |
+| IVD 用法建議 | N/A |
+| 注意事項 | N/A |
+

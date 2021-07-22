@@ -1,0 +1,48 @@
+# Pertuzumab
+
+## Perjeta inj 420mg/14mL \(sample\)
+
+| 藥物代碼 | IPER0 |
+| :--- | :--- |
+| 適應症 | PERJETA should not be used in patients who are allergic to pertuzumab or to any of the ingredients in PERJETA. |
+| 副作用 | The most common side effects of PERJETA when given with Herceptin and docetaxel \(chemotherapy\) for treatment of breast cancer that has spread to other parts of the body \(metastatic\) are:DiarrheaHair lossLow levels of white blood cells with or without a feverNauseaFeeling tiredRashDamage to the nerves \(numbness, tingling, pain in hands/feet\) |
+| 禁忌 | PERJETA? \(pertuzumab\) is approved for use in combination with Herceptin? \(trastuzumab\) and docetaxel \(chemotherapy\) in people who have HER2-positive breast cancer that has spread to different parts of the body \(metastatic\) and who have not received anti-HER2 therapy or chemotherapy for metastatic breast cancer. |
+| 藥物保存方式 | 2-8°C |
+| 用法用量 | The initial dose of PERJETA is 840 mg administered as a 60-minute intravenous infusion, followed every 3 weeks by a dose of 420 mg administered as an intravenous infusion over 30 to 60 minutes. |
+| 肝功能異常 | 無需調整劑量 |
+| 腎功能異常 | 無需調整劑量 |
+| 懷孕用藥危分級 | 儘量避免 |
+| 孕期用藥建議 | N/A |
+| 附帶說明 | N/A |
+| 哺乳期用藥建議 | Human Data Suggest Potential Toxicity |
+| 附帶說明 | N/A |
+| 注射劑給藥建議途徑 | IVD |
+| 乾粉稀釋液 | N/A |
+| 輸注點滴液 | N/A |
+| IVP 用法建議 | N/A |
+| IVD 用法建議 | N/A |
+| 注意事項 | 僅可使用0.9%氯化鈉注射液稀釋。不可使用葡萄糖\(5%\)溶液。 |
+
+## Perjeta inj 420mg/14mL
+
+| 藥物代碼 | IPERJ |
+| :--- | :--- |
+| 適應症 | Treatment of human epidermal growth factor receptor 2 \(HER2\)-positive metastatic breast cancer. |
+| 副作用 | The most common side effects of PERJETA when given with Herceptin and docetaxel \(chemotherapy\) for treatment of breast cancer that has spread to other parts of the body \(metastatic\) are:DiarrheaHair lossLow levels of white blood cells with or without a feverNauseaFeeling tiredRashDamage to the nerves \(numbness, tingling, pain in hands/feet\) |
+| 禁忌 | PERJETA? \(pertuzumab\) is approved for use in combination with Herceptin? \(trastuzumab\) and docetaxel \(chemotherapy\) in people who have HER2-positive breast cancer that has spread to different parts of the body \(metastatic\) and who have not received anti-HER2 therapy or chemotherapy for metastatic breast cancer. |
+| 藥物保存方式 | 2-8°C |
+| 用法用量 | The initial dose of PERJETA is 840 mg administered as a 60-minute intravenous infusion, followed every 3 weeks by a dose of 420 mg administered as an intravenous infusion over 30 to 60 minutes. |
+| 肝功能異常 | 無需調整劑量 |
+| 腎功能異常 | 無需調整劑量 |
+| 懷孕用藥危分級 | 儘量避免 |
+| 孕期用藥建議 | N/A |
+| 附帶說明 | N/A |
+| 哺乳期用藥建議 | Human Data Suggest Potential Toxicity |
+| 附帶說明 | N/A |
+| 注射劑給藥建議途徑 | IVD |
+| 乾粉稀釋液 | N/A |
+| 輸注點滴液 | N/A |
+| IVP 用法建議 | N/A |
+| IVD 用法建議 | N/A |
+| 注意事項 | 僅可使用0.9%氯化鈉注射液稀釋。不可使用葡萄糖\(5%\)溶液。 |
+

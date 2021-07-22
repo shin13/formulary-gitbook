@@ -1,0 +1,21 @@
+# Amantadine
+
+## Dopadine100mg
+
+| 藥物代碼 | ODOP |
+| :--- | :--- |
+| 適應症 | Parkinsonism of various origin, senile Parkinsonism, residual symptoms & discomfort after stereotactic operations. |
+| 副作用 | Occasional dry mouth; dizziness. Paranoid exogenous psychoses associated with visual hallucinations, visual disturbances; motor or mental restlessness, urinary retention in the case of prostatic hypertrophy, signs of cardiac insufficiency, cardiac dysrhythmia associated with tachycardia, nausea, sleep disturbances, orthostatic dysregulation; very rarely, myoclonus & symptoms of peripheral neuropathy; livedo reticularis \(marble skin\) & lower-leg & ankle oedema are common occurrences; very rarely, increased photosensitivity; very rarely haematological side effects, such as leukopenia & thrombocytopenia; very rarely, anaphylactic reactions after infusion therapy.Cardiovascular: Orthostatic hypotension \(1% to 5% \), Peripheral edema \(1% to 5% \)Gastrointestinal: Constipation \(1% to 5% \), Diarrhea \(1% to 5% \), Loss of appetite \(1% to 5% \), Nausea \(5% to 10% \), Xerostomia \(1% to 5% \)Neurologic: Ataxia \(1% to 5% \), Confusion \(1% to 5% \), Dizziness \(5% to 10% \), Headache \(1% to 5% \), Insomnia \(5% to 10% \), Somnolence \(1% to 5% \)Psychiatric: Agitation \(1% to 5% \), Anxiety \(1% to 5% \), Depression \(1% to 5% \), Dream disorder \(1% to 5% \), Feeling nervous \(1% to 5% \), Hallucinations \(1% to 5% \), Irritability \(1% to 5% \)Other: Fatigue \(1% to 5% \) |
+| 禁忌 | Severe CHF \(NYHA class IV\), cardiomyopathies & myocarditis, 2nd or 3rd degree AV block, existing bradycardia under 55 beats/min, known prolonged QT interval \(Bazett QTc &gt; 420 ms\) or discernible U-waves or congenital QT syndrome in the family anamnesis , history of serious ventricular arrhythmias including torsade de pointes, simultaneous treatment with budipine or other drugs that prolong the QT interval, reduced levels of potassium or magnesium in the blood. Pregnancy & lactation. |
+| 懷孕用藥危分級 | 除非治療上需要 |
+| 孕期用藥建議 | No \(Limited\) Human Data - animal data suggest risk |
+| 附帶說明 | \[仿單\] 懷孕禁止使用 |
+| 哺乳期用藥建議 | No \(Limited\) Human Data - Potential Toxicity 無\(很少\)資料 - 避免使用 |
+| 附帶說明 | \[仿單\] 本劑會分泌於乳液,授乳婦使用時應注意. |
+| 注射劑給藥建議途徑 | AC, AC15, PO, WM |
+| 乾粉稀釋液 | N/A |
+| 輸注點滴液 | N/A |
+| IVP 用法建議 | N/A |
+| IVD 用法建議 | N/A |
+| 注意事項 | N/A |
+

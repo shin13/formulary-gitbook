@@ -1,0 +1,21 @@
+# Candesartan
+
+## Blopress 8mg
+
+| 藥物代碼 | OBLO |
+| :--- | :--- |
+| 適應症 | Heart failure, \(NYHA class II to IV, ejection fraction 40% or less\) to reduce cardiovascular mortality and hospitalizations. Hypertension. |
+| 副作用 | CommonCardiovascular: Hypotension \(18.8% \)Musculoskeletal: Backache \(3% .\)Neurologic: Dizziness \(less than 5% \)Respiratory: Pharyngitis \(2% \), Rhinitis \(2% \), Upper respiratory infection \(6% \) |
+| 禁忌 | Concomitant use with aliskiren in diabetic patients. Hypersensitivity to candesartan. Severe hepatic impairment &/or cholestasis. Lactating women and women in the second and third trimesters of pregnancy. Children under one year old. |
+| 懷孕用藥危分級 | 尚未確立 |
+| 孕期用藥建議 | Human data suggest risk in 2nd and 3rd trimester |
+| 附帶說明 | \[仿單\]流行病學資料尚未能證實懷孕初期暴露於ACEI可能增加畸胎的風險；但無法排除有輕微提升的可能。 雖未有AIIRAs在流行病學的資料，但因屬同類產品，仍有相同的風險。 除非繼續使用AIIRA藥品是必要的，否則當病人有計畫要懷孕，就應改成其他對於使用在懷孕病人身上有安全療效的降血壓藥品。 一旦診斷懷孕，則應立即停止使用AIIRA藥品並開始使用其他合適的治療方式。 已知若懷孕第二及第三期間暴露在AIIRA治療將導致畸胎。\(腎功能降低，羊水過少，顱骨發育遲致\)及胎兒毒血症\(腎衰竭，低血壓，高血鉀\) 當發生AIIRA使用於懷孕第二期，建議使用超音波確認腎功能及顱部。嚴密觀察母親使用了AIIRA的嬰兒期低血壓情形。 |
+| 哺乳期用藥建議 | No \(Limited\) Human Data - Probably Compatible 無\(很少\)資料 - 可使用 |
+| 附帶說明 | \[仿單\]由於缺乏哺乳期間使用Blopress的資訊，故哺乳時不建議使用 ， 建議改用其他安全性較確立的藥物，尤其是為新生兒或早產兒哺乳期間。 |
+| 注射劑給藥建議途徑 | N/A |
+| 乾粉稀釋液 | N/A |
+| 輸注點滴液 | N/A |
+| IVP 用法建議 | N/A |
+| IVD 用法建議 | N/A |
+| 注意事項 | N/A |
+

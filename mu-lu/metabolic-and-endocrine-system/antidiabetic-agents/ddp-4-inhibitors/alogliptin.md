@@ -1,0 +1,21 @@
+# Alogliptin
+
+## NESINA 25mg
+
+| 藥物代碼 | ONES |
+| :--- | :--- |
+| 適應症 | Diabetes mellitus, type 2 |
+| 副作用 | 1% to 10%:Cardiovascular: Cardiac failure \(4%\)Central nervous system: Headache \(4%\)Genitourinary: Decreased estimated GFR \(5%\)Hepatic: Increased serum ALT \(&gt;3 times ULN: 1%\)Renal: Renal function abnormality \(3%; patients with high cardiovascular risk: 23%\), renal disease \(patients with high cardiovascular risk: 17%\), renal insufficiency \(patients with high cardiovascular risk: 8%\)Respiratory: Nasopharyngitis \(5%\), upper respiratory tract infection \(5%\)&lt;1%, postmarketing, and/or case reports: Anaphylaxis, angioedema, constipation, decreased creatinine clearance, diarrhea, hepatic failure, hypersensitivity reaction, increased liver enzymes, intestinal obstruction, nausea, pancreatitis, serum sickness, severe arthralgia \(FDA Safety Alert, Aug 28, 2015\), skin rash, Stevens-Johnson syndrome, urticaria. |
+| 禁忌 | History of serious hypersensitivity \(eg, anaphylaxis, angioedema, severe cutaneous reactions\) to alogliptin or any component of the formulation. |
+| 懷孕用藥危分級 | 尚未確立 |
+| 孕期用藥建議 | No \(Limited\) Human Data - animal data suggest low risk |
+| 附帶說明 | N/A |
+| 哺乳期用藥建議 | No \(Limited\) Human Data - Probably Compatible 無\(很少\)資料 - 可使用 |
+| 附帶說明 | N/A |
+| 注射劑給藥建議途徑 | N/A |
+| 乾粉稀釋液 | N/A |
+| 輸注點滴液 | N/A |
+| IVP 用法建議 | N/A |
+| IVD 用法建議 | N/A |
+| 注意事項 | N/A |
+

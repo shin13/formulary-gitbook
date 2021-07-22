@@ -1,0 +1,71 @@
+# Potassium Chloride
+
+## 10mEq KCl in N/S 500mL
+
+| 藥物代碼 | IKCL |
+| :--- | :--- |
+| 適應症 | Hypokalaemia. |
+| 副作用 | Hyperkalemia, pain or phlebitis at injection site. |
+| 禁忌 | Hyperkalemia. |
+| 藥物保存方式 | 室溫 |
+| 用法用量 | IV Adult Serum K &lt;2 mEq/L: 20-40 mEq/hr, with ECG monitoring. Max: 400 mEq/day. Serum K &gt;2.5 mEq/L: 10-15 mEq/hr; max: 200 mEq/day. Intermittent IV Children 0.5-1 mEq/kg/dose; infuse at 0.3-0.5 mEq/kg/hr; MAX: 1 mEq/kg/hr & 30 mEq/dose; MAX: 3 mEq/kg/day or 40 mEq/m2/day. |
+| 肝功能異常 | 無需調整劑量 |
+| 腎功能異常 | 無需調整劑量 |
+| 懷孕用藥危分級 | 除非治療上需要 |
+| 孕期用藥建議 | N/A |
+| 附帶說明 | N/A |
+| 哺乳期用藥建議 | Unknown 尚未建立 |
+| 附帶說明 | N/A |
+| 注射劑給藥建議途徑 | IVD |
+| 乾粉稀釋液 | N/A |
+| 輸注點滴液 | N/A |
+| IVP 用法建議 | N/A |
+| IVD 用法建議 | N/A |
+| 注意事項 | 1.使用期間應嚴密監測病患血鉀濃度與心電圖。 2.與ACE抑制劑併用可能引起高血鉀症。 3.與保鉀型利尿劑併用可能引起嚴重高血鉀症、心律不整與心跳停止。 4.鉀離子排除功能受損或輸注太快時，可能發生致命性高血鉀症。 |
+
+## 20mEq KCl in N/S 500mL
+
+| 藥物代碼 | IKCL2 |
+| :--- | :--- |
+| 適應症 | Hypokalaemia. |
+| 副作用 | Hyperkalemia. |
+| 禁忌 | Hyperkalemia: Close monitoring of serum potassium concentrations is needed to avoid hyperkalemia; severe hyperkalemia may lead to muscle weakness/paralysis and cardiac conduction abnormalities \(eg, heart block, ventricular arrhythmias, asystole\). |
+| 藥物保存方式 | 室溫 |
+| 用法用量 | IV Adult Serum K &lt;2 mEq/L: 20-40 mEq/hr, with ECG monitoring. Max: 400 mEq/day. Serum K &gt;2.5 mEq/L: 10-15 mEq/hr; max: 200 mEq/day. Intermittent IV Children 0.5-1 mEq/kg/dose; infuse at 0.3-0.5 mEq/kg/hr; MAX: 1 mEq/kg/hr & 30 mEq/dose; MAX: 3 mEq/kg/day or 40 mEq/m2/day. |
+| 肝功能異常 | 無需調整劑量 |
+| 腎功能異常 | 無需調整劑量 |
+| 懷孕用藥危分級 | 除非治療上需要 |
+| 孕期用藥建議 | N/A |
+| 附帶說明 | N/A |
+| 哺乳期用藥建議 | Unknown 尚未建立 |
+| 附帶說明 | N/A |
+| 注射劑給藥建議途徑 | IVD |
+| 乾粉稀釋液 | N/A |
+| 輸注點滴液 | N/A |
+| IVP 用法建議 | N/A |
+| IVD 用法建議 | N/A |
+| 注意事項 | 1.使用期間應嚴密監測病患血鉀濃度與心電圖。 2.與ACE抑制劑併用可能引起高血鉀症。 3.與保鉀型利尿劑併用可能引起嚴重高血鉀症、心律不整與心跳停止。 4.鉀離子排除功能受損或輸注太快時，可能發生致命性高血鉀症。 |
+
+## 20mEq KCl in【D5NS 500mL】
+
+| 藥物代碼 | IKCL7S |
+| :--- | :--- |
+| 適應症 | Hypokalaemia. |
+| 副作用 | Hyperkalemia, pain or phlebitis at injection site. |
+| 禁忌 | Hyperkalemia. |
+| 藥物保存方式 | 室溫 |
+| 用法用量 | IV Adult Serum K &lt;2 mEq/L: 20-40 mEq/hr, with ECG monitoring. Max: 400 mEq/day. Serum K &gt;2.5 mEq/L: 10-15 mEq/hr; max: 200 mEq/day. Intermittent IV Children 0.5-1 mEq/kg/dose; infuse at 0.3-0.5 mEq/kg/hr; MAX: 1 mEq/kg/hr & 30 mEq/dose; MAX: 3 mEq/kg/day or 40 mEq/m2/day. |
+| 肝功能異常 | 無需調整劑量 |
+| 腎功能異常 | 無需調整劑量 |
+| 懷孕用藥危分級 | 除非治療上需要 |
+| 孕期用藥建議 | N/A |
+| 附帶說明 | N/A |
+| 哺乳期用藥建議 | Unknown 尚未建立 |
+| 附帶說明 | N/A |
+| 注射劑給藥建議途徑 | IVD |
+| 乾粉稀釋液 | N/A |
+| 輸注點滴液 | N/A |
+| IVP 用法建議 | N/A |
+| IVD 用法建議 | N/A |
+| 注意事項 | 1.使用期間應嚴密監測病患血鉀濃度與心電圖。 2.與ACE抑制劑併用可能引起高血鉀症。 3.與保鉀型利尿劑併用可能引起嚴重高血鉀症、心律不整與心跳停止。 4.鉀離子排除功能受損或輸注太快時，可能發生致命性高血鉀症。 |
+

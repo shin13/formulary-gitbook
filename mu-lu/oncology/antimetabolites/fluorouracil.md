@@ -1,0 +1,25 @@
+# Fluorouracil
+
+## 5-FU inj 1000mg/20mL
+
+| 藥物代碼 | IFLU2 |
+| :--- | :--- |
+| 適應症 | Breast cancer, Colon and rectal cancer, Gastric cancer, Pancreatic cancer. Off-Label: Anal carcinoma; Bladder cancer; Cervical cancer; Esophageal cancer, advanced; Glaucoma surgery \(adjunctive therapy\); Head and neck cancer; Hepatobiliary cancers \(advanced\). |
+| 副作用 | Stomatitis, esophagopharyngitis, diarrhea, anorexia, nausea, vomiting, enteritis, cramps, abdominal pain & ulceration, glossitis, pharyngitis, leukopenia, alopecia, dermatitis, ocular irritation, central neurotoxicity \(acute cerebellar syndrome\), myocardial ischemia & angina. |
+| 禁忌 | Known hypersensitivity to fluorouracil or any component of the formulation; debilitated patients; poor nutritional state; depressed bone marrow function following radiotherapy or therapy with other antineoplastic agents; potentially serious infections. |
+| 藥物保存方式 | N/A |
+| 用法用量 | Breast cancer: IV:CEF or FEC regimen: 500 mg/m2 on days 1 and 8 every 28 days \(in combination with cyclophosphamide and epirubicin\) for 6 cycles. CMF regimen: 600 mg/m2 on days 1 and 8 every 28 days \(in combination with cyclophosphamide and methotrexate\) for 6 cycles Colorectal cancer: IV: 400 mg/m2 bolus on day 1, followed by 1,200 to 1,500 mg/m2/day continuous infusion for 2 days \(over 46 hours\) every 2 weeks \(in combination with leucovorin ± either oxaliplatin or irinotecan\). Gastric cancer: IV: 200 to 1,000 mg/m2/day as a continuous infusion over 24 hours \(as part of a platinum-containing regimen\); the duration and frequency of each cycle varies based on the dose and regimen. |
+| 肝功能異常 | 無需調整劑量 |
+| 腎功能異常 | 無需調整劑量 |
+| 懷孕用藥危分級 | 儘量避免 |
+| 孕期用藥建議 | Contraindicated - 1st trimester |
+| 附帶說明 | N/A |
+| 哺乳期用藥建議 | Contraindicated 哺乳期使用禁忌 |
+| 附帶說明 | N/A |
+| 注射劑給藥建議途徑 | IVD |
+| 乾粉稀釋液 | N/A |
+| 輸注點滴液 | 【D5W】 可選  【N/S】 可選 |
+| IVP 用法建議 | N/A |
+| IVD 用法建議 | N/A |
+| 注意事項 | 1. 本品為化療藥物，輸注時需注意注射部位，防止藥液外滲。 2. 監測CBC、血糖變化 \(DM病人\)。 |
+

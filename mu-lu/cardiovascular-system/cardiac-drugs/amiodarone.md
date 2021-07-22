@@ -1,0 +1,48 @@
+# Amiodarone
+
+## Amiodarone \(Cordarone\) inj 150mg/3mL
+
+| 藥物代碼 | IAMIO |
+| :--- | :--- |
+| 適應症 | Wolff-Parkinson-White syndrome, supraventricular & ventricular tachycardia, atrial & ventricular fibrillation. |
+| 副作用 | Hot flushes, sweating, nausea, moderate transient hypotension, moderate bradycardia, arrhythmia, elevation of transaminases. May impair hepatic function. Cardiovascular: Bradyarrhythmia, Hypotension \(oral, less than 1%; intravenous, 15.6% \)Dermatologic: Photodermatitis \(2% to 24% \), Photosensitivity \(3% to 10% \)Endocrine metabolic: Thyroid dysfunctionGastrointestinal: Constipation \(4% to 9% \), Loss of appetite \(4% to 9% \), Nausea \(10% to 33% \), Vomiting \(10% to 33% \)Hepatic: Increased liver enzymes \(4% to 9% \)Neurologic: Abnormal gait \(4% to 9% \), Coordination problem \(4% to 9% \), Dizziness \(4% to 9% \), Involuntary movement \(4% to 9% \), Movement disorder \(4% to 9% \), Paresthesia \(4% to 9% \), Peripheral neuropathyOphthalmic: Corneal deposit, Microdeposits, Visual disturbance \(4% to 9% \)Other: Malaise and fatigue \(4% to 9% \) |
+| 禁忌 | AV or SA block, sinus bradycardia, sick sinus syndrome except when used in conjunction with a pacemaker;  history of thyroid dysfunction;  iodine intolerance, severe arterial hypotension, CV collapse, acute cardiac insufficiency. Combined therapy with drugs which may induce torsades de pointes. Pregnancy, lactation. |
+| 藥物保存方式 | N/A |
+| 用法用量 | Initially 5 mg/kg in 250 mL of dextrose 5% given in 20 mins-2 hr. May be repeated 2-3 times in 24 hr. Maintenance: 10-20 mg/kg \(usually 600-800 mg/24 hr, max: 1.2 g/24 hr\) in 250 mL dextrose. |
+| 肝功能異常 | 無需調整劑量 |
+| 腎功能異常 | 無需調整劑量 |
+| 懷孕用藥危分級 | 儘量避免 |
+| 孕期用藥建議 | N/A |
+| 附帶說明 | N/A |
+| 哺乳期用藥建議 | No \(Limited\) Human Data - Potential Toxicity\(Mother\) 無\(很少\)資料 - 避免使用\(母體\) |
+| 附帶說明 | N/A |
+| 注射劑給藥建議途徑 | IVD, IVP, IVPUSH |
+| 乾粉稀釋液 | N/A |
+| 輸注點滴液 | 【D5W】 可選 |
+| IVP 用法建議 | administer according the ACLS guidelines for ventricular fibrillation/pulseless ventricular tachycardia \(300mg 以20mL的5%葡萄糖溶液稀釋後快速注射\) |
+| IVD 用法建議 | 稀釋濃度不可低於 600mg/L \(2 Amp in 500 mL\),儘可能從中央靜脈導管點滴給藥 \(濃度大於2mg/mL須由CVP給藥\),注射時間超過2小時應使用玻璃或非PVC容器稀釋液 |
+| 注意事項 | 1. 稀釋濃度不可低於 600mg/L \(2 Amp in 500 mL\) 2. 儘可能從中央靜脈導管點滴給藥 \(濃度大於2mg/mL須由CVP給藥\) 3. 注射時間超過2小時應使用玻璃或非PVC容器稀釋液 \(否則會有10%藥物被吸附\) 4. 不可混入Sodium Bicarbonate，會沉澱。 |
+
+## Cordarone 200mg
+
+| 藥物代碼 | OAMIO |
+| :--- | :--- |
+| 適應症 | Wolff-Parkinson-White syndrome, supraventricular & ventricular tachycardia, atrial & ventricular fibrillation. |
+| 副作用 | Hypersensitivity, headache, joint pain, bradycardia, pigmentation, photosensitization, transient hypotension, face flush, sweating & transient nausea.Cardiovascular: Bradyarrhythmia, Hypotension \(oral, less than 1%; intravenous, 15.6% \)Dermatologic: Photodermatitis \(2% to 24% \), Photosensitivity \(3% to 10% \)Endocrine metabolic: Thyroid dysfunctionGastrointestinal: Constipation \(4% to 9% \), Loss of appetite \(4% to 9% \), Nausea \(10% to 33% \), Vomiting \(10% to 33% \)Hepatic: Increased liver enzymes \(4% to 9% \)Neurologic: Abnormal gait \(4% to 9% \), Coordination problem \(4% to 9% \), Dizziness \(4% to 9% \), Involuntary movement \(4% to 9% \), Movement disorder \(4% to 9% \), Paresthesia \(4% to 9% \), Peripheral neuropathyOphthalmic: Corneal deposit, Microdeposits, Visual disturbance \(4% to 9% \)Other: Malaise and fatigue \(4% to 9% \) |
+| 禁忌 | AV or SA block, sinus bradycardia, sick sinus syndrome except when used in conjunction with a pacemaker; history of thyroid dysfunction; iodine intolerance, severe arterial hypotension, CV collapse, acute cardiac insufficiency. Combined therapy with drugs which may induce torsades de pointes. Pregnancy, lactation. |
+| 藥物保存方式 | 室溫 |
+| 用法用量 | initial 200mg tid for 8-10 days maintenance dose: 100-400 mg 5 days a week. |
+| 肝功能異常 | 無需調整劑量 |
+| 腎功能異常 | 無需調整劑量 |
+| 懷孕用藥危分級 | 儘量避免 |
+| 孕期用藥建議 | Human \(and animal\) data suggest risk |
+| 附帶說明 | N/A |
+| 哺乳期用藥建議 | Contraindicated 哺乳期使用禁忌 |
+| 附帶說明 | N/A |
+| 注射劑給藥建議途徑 | AC, PC, PO, WM |
+| 乾粉稀釋液 | N/A |
+| 輸注點滴液 | N/A |
+| IVP 用法建議 | N/A |
+| IVD 用法建議 | N/A |
+| 注意事項 | N/A |
+

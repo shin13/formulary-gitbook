@@ -1,0 +1,63 @@
+# Amoxicillin-Clavulanic Acid
+
+## Soonmelt inj 600mg
+
+| 藥物代碼 | ISOO |
+| :--- | :--- |
+| 適應症 | Treatment of infections due to Staph, Strep, pneumococcus, meningococcus & other susceptible organisms such as infections of the upper & lower respiratory tract, GUT, skin & soft tissue, bone & joint. Dental infections, septic abortion, puerperal sepsis, intra-abdominal sepsis. Vial Also indicated for prophylaxis against infection which may be associated with major surgical procedures such as GI, pelvic, head & neck, cardiac, renal, joint replacement & biliary tract. |
+| 副作用 | Diarrhea, indigestion, nausea, vomiting, pseudomembranous colitis and candidiasis have been reported. Nausea, although uncommon, is more often associated with higher oral dosages. If gastrointestinal side effects occur with oral therapy, they may be reduced by taking Augmentin at the start of meals. |
+| 禁忌 | Hypersensitivity to penicillins, possible cross sensitivity with other β-lactam antibiotics. History of penicillin-associated cholestatic jaundice/hepatic dysfunction |
+| 懷孕用藥危分級 | 可能安全 |
+| 孕期用藥建議 | N/A |
+| 附帶說明 | N/A |
+| 哺乳期用藥建議 | No \(Limited\) Human Data - Probably Compatible 無\(很少\)資料 - 可使用 |
+| 附帶說明 | N/A |
+| 注射劑給藥建議途徑 | IVD, IVP, IVPUSH |
+| 乾粉稀釋液 | 10 mL D/W \(稀釋液需在20分鐘內使用\) |
+| 輸注點滴液 | 【L/R】 可選 仿單建議  【N/S】 可選 仿單建議 |
+| IVP 用法建議 | 推注時間至少3 ~ 4分鐘 |
+| IVD 用法建議 | 以30 ~ 40分鐘緩慢滴注 |
+| 注意事項 | 1. 注射前檢查病患是否有 penicillin 過敏史。 2. 稀釋後應儘快使用，安定性與稀釋濃度與保存條件有關。 3. 每小瓶的Soonmelt inj. 600mg中，含有0.5 mmol 的鉀與 1.55 mmol 的鈉 \(估計值\)。 4. 本產品不適用於肌肉注射給藥。 5.不可以血液製劑、其他蛋白液或靜脈注射用脂肪乳劑混合使用。 5. IV bolus: Amoxycillin 500mg + Clavulanic acid 100mg/vial 乾粉加入10 mL D/W泡製。 6. IV infusion: 每小瓶以50 mL適當輸注液稀釋，以30 ~ 40分鐘緩慢滴注。 本藥品不可加入含有葡萄糖、聚葡萄糖或重碳酸鹽的輸注溶液。 |
+
+## Augmentin syrup 457mg/5mL 35mL
+
+| 藥物代碼 | LAUG3 |
+| :--- | :--- |
+| 適應症 | Treatment of infections due to Staph, Strep, pneumococcus, meningococcus & other susceptible organisms such as infections of the upper & lower respiratory tract, GUT, skin & soft tissue, bone & joint. Dental infections, septic abortion, puerperal sepsis, intra-abdominal sepsis. Vial Also indicated for prophylaxis against infection which may be associated with major surgical procedures such as GI, pelvic, head & neck, cardiac, renal, joint replacement & biliary tract. |
+| 副作用 | Diarrhea, nausea, vomiting, skin candidiasis. Uncommonly dizziness, headache, indigestion, rash, pruritus, urticaria. Rarely, reversible leucopenia, thrombocytopenia, erythema multiforme. |
+| 禁忌 | Hypersensitivity to penicillins, possible cross sensitivity with other β-lactam antibiotics. History of penicillin-associated cholestatic jaundice/hepatic dysfunction. |
+| 藥物保存方式 | 室溫 |
+| 用法用量 | \(Amoxicillin 400 mg and clavulanate 57 mg per 5mL\) Acute otitis media: severe infections or treatment failure, 90 mg/kg/day \(amoxicillin component\) ORALLY in 2 divided doses for 10 days Acute otitis media: 3 months and older and under 40 kg, 25 to 45 mg/kg/day \(amoxicillin component\) ORALLY divided every 12 hr for 10 days, depending on severity of infection Infection of skin AND/OR subcutaneous tissue: 3 months and older and under 40 kg, 25 to 45 mg/kg/day \(amoxicillin component\) ORALLY divided every 12 hr, depending on severity of infection Lower respiratory tract infection:3 months and older and under 40 kg, 25 to 45 mg/kg/day \(based on amoxicillin component\) ORALLY divided every 12 hr, depending on severity of infection Sinusitis: \(second-line, high-dose\) 90 mg/kg/day \(amoxicillin component\) ORALLY twice daily Sinusitis: 3 months and older and under 40 kg, 25 to 45 mg/kg/day \(amoxicillin component\) ORALLY divided every 12 hours, depending on severity of infection Urinary tract infectious disease: 3 months and older and under 40 kg, 25 to 45 mg/kg/day \(amoxicillin component\) ORALLY divided every 12 hr, depending on severity of infection |
+| 肝功能異常 | 無需調整劑量 |
+| 腎功能異常 | 需 調 整 劑 量 |
+| 懷孕用藥危分級 | 可能安全 |
+| 孕期用藥建議 | N/A |
+| 附帶說明 | N/A |
+| 哺乳期用藥建議 | No \(Limited\) Human Data - Probably Compatible 無\(很少\)資料 - 可使用 |
+| 附帶說明 | WHO: Compatible with breastfeeding Micromedex: Infant |
+| 注射劑給藥建議途徑 | AC, AC15, PC, PO, WM |
+| 乾粉稀釋液 | N/A |
+| 輸注點滴液 | N/A |
+| IVP 用法建議 | N/A |
+| IVD 用法建議 | N/A |
+| 注意事項 | N/A |
+
+## Curam 1000mg
+
+| 藥物代碼 | OCUR |
+| :--- | :--- |
+| 適應症 | Treatment of infections due to Staph, Strep, pneumococcus, meningococcus & other susceptible organisms such as infections of the upper & lower respiratory tract, GUT, skin & soft tissue, bone & joint. Dental infections, septic abortion, puerperal sepsis, intra-abdominal sepsis. |
+| 副作用 | Diarrhea, nausea, vomiting, mucocutaneous candidiasis.Dermatologic: Diaper rash \(3.5% \), Rash \(1.1% to 3% \)Gastrointestinal: Diarrhea \(2.9% to 14.5% \), Loose stool \(1.6% \), Nausea \(2.1% to 3% \), Vomiting \(1% to 2.2% \)Reproductive: Mycosis \(3.3% \), Vaginitis \(1% \)Other: Candidiasis \(1.4% \) |
+| 禁忌 | History of hypersensitivity to β-lactams. History of penicillin-associated jaundice/hepatic dysfunction. |
+| 懷孕用藥危分級 | 可能安全 |
+| 孕期用藥建議 | Human data suggest risk in 1st and 3rd trimester |
+| 附帶說明 | AMOXICILLIN: Human Data Suggest Risk in 1st and 3rd Trimesters. CLAVULANATE, POTASSIUM: Compatible. \[仿單\]利用小老鼠及大白鼠所進行的動物試驗中,在經口及注射的方式投予amoxycillin + clavulanic acid 後顯示此藥並不會有畸胎的情形發生. 一針對孕婦早產和胚胎膜早熟破裂\(premature rupture of the foetal membrane,pPROM\)進行之單盲試驗指出, Amoxycillin+clavulanic acid之預防療法可能與新生兒壞死性腸炎的危險性增加有關。 如同所有其他藥品一樣,若非醫師認為有必要,在懷孕期間應避免使用, 尤其是在懷孕的前三個月。 |
+| 哺乳期用藥建議 | No \(Limited\) Human Data - Probably Compatible 無\(很少\)資料 - 可使用 |
+| 附帶說明 | AMOXICILLIN: Compatible CLAVULANATE, POTASSIUM: No Human Data - Probably Compatible. \[仿單\]在授乳的期間仍可使用amoxycillin+clavulanic acid,本藥用於母體時, 對於嬰兒並不會有所傷害,唯一的例外是當微量的藥物隨著母乳進入嬰兒體？時, 可能會有造成過敏的危險。 |
+| 注射劑給藥建議途徑 | AC, AC15, PC, PO, WM |
+| 乾粉稀釋液 | N/A |
+| 輸注點滴液 | N/A |
+| IVP 用法建議 | N/A |
+| IVD 用法建議 | N/A |
+| 注意事項 | N/A |
+

@@ -1,0 +1,25 @@
+# Zotepine
+
+## Zonin 50mg
+
+| 藥物代碼 | OZON |
+| :--- | :--- |
+| 適應症 | Schizophrenia. |
+| 副作用 | Sleepiness, weakness, malaise, insomnia, thirst, constipation, dizziness. |
+| 禁忌 | Patients with coma or circulatory collapse, patients on epinephrine, hypersensitivity to phenothiazines, suspected subcortical lesions \(eg encephalitis, cerebral tumor & sequelae of brain trauma\).Patients receiving central nervous system inhibitors such as Barbiturates or anesthetics \(which enhance and prolong the effects of central nervous system inhibitors\). Patients with Terfenadine or Astemizole \(may have prolonged QT or caused ventricular arrhythmia\) |
+| 藥物保存方式 | 25℃以下儲存。 |
+| 用法用量 | Adult 75-150 mg daily in divided doses, up to 450 mg/day. |
+| 肝功能異常 | 無需調整劑量 |
+| 腎功能異常 | 無需調整劑量 |
+| 懷孕用藥危分級 | 尚未確立 |
+| 孕期用藥建議 | Human \(and animal\) data suggest risk |
+| 附帶說明 | \(仿單\)在動物實驗曾有新生仔死亡率增多的報告，所以對孕婦或可能懷孕的婦女，最好不要給藥 |
+| 哺乳期用藥建議 | Hold Breast Feeding 暫停哺乳 |
+| 附帶說明 | \(仿單\)授乳婦最好避免使用本藥。若判斷必須使用本藥，於服用期間務必停止哺乳 |
+| 注射劑給藥建議途徑 | N/A |
+| 乾粉稀釋液 | N/A |
+| 輸注點滴液 | N/A |
+| IVP 用法建議 | N/A |
+| IVD 用法建議 | N/A |
+| 注意事項 | N/A |
+
