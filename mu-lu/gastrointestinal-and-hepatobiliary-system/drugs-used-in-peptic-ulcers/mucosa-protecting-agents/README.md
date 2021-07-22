@@ -1,2 +1,0 @@
-# Mucosa Protecting Agents
-

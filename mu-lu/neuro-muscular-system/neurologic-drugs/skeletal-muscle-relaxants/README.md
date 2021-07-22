@@ -1,2 +1,0 @@
-# Skeletal Muscle Relaxants
-

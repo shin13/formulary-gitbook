@@ -1,2 +1,0 @@
-# Proton Pump Inhibitor
-

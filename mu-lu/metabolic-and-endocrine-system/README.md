@@ -1,2 +1,0 @@
-# Metabolic And Endocrine System
-

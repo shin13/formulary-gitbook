@@ -1,2 +1,0 @@
-# Intrauterine Devices
-

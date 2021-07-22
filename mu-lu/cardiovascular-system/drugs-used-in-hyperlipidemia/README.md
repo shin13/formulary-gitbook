@@ -1,2 +1,0 @@
-# Drugs Used In Hyperlipidemia
-

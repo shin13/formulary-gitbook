@@ -1,0 +1,25 @@
+# Succinylcholine
+
+## Relaxin inj 500mg
+
+| 藥物代碼           | IREL                                                                                                                                                                                                                                       |
+|:-------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 適應症             | Muscle relaxation.                                                                                                                                                                                                                         |
+| 副作用             | Bronchial spasm; arrhythmia; hypotension; myotonia, raised intraocular pressure & hypersensitivity                                                                                                                                         |
+| 禁忌               | Genetically determined disorders of plasma pseudocholinesterase; history of malignant hyperthermia; penetrating eye injuries.                                                                                                              |
+| 藥物保存方式       | 室溫                                                                                                                                                                                                                                       |
+| 用法用量           | Intermittent IV infusion: 10-60 mg, dilute with normal saline or 5% dextrose to 0.1-0.2% soln, with rate of 2.5 mg/min.                                                                                                                    |
+| 肝功能異常         | 無需調整劑量  需調整劑量                                                                                                                                                                                                                   |
+| 腎功能異常         | 無需調整劑量  需調整劑量                                                                                                                                                                                                                   |
+| 懷孕用藥危分級     | 除非治療上需要                                                                                                                                                                                                                             |
+| 孕期用藥建議       | N/A                                                                                                                                                                                                                                        |
+| 附帶說明           | N/A                                                                                                                                                                                                                                        |
+| 哺乳期用藥建議     | No (Limited) Human Data - Probably Compatible 無(很少)資料 - 可使用                                                                                                                                                                        |
+| 附帶說明           | N/A                                                                                                                                                                                                                                        |
+| 注射劑給藥建議途徑 | IM, IVD, IVPUSH                                                                                                                                                                                                                            |
+| 乾粉稀釋液         | N/S or D5W, 250mL or 500mL. Final concentration of 1 or 2 mg/mL. (0.1% or 0.2% solution)                                                                                                                                                   |
+| 輸注點滴液         | 【D5W】 可選 仿單建議  【N/S】 可選 仿單建議                                                                                                                                                                                               |
+| IVP 用法建議       | for Intubation: Adult dose - 0.6 mg/kg (range: 0.3 to 1.1 mg/kg)                                                                                                                                                                           |
+| IVD 用法建議       | IVD: (continuous infusion) a solution diluted to 1 mg/mL in D5W or N/S may be administered at a rate of 0.5 to 10 mg/min depending on patient specific factors.                                                                            |
+| 注意事項           | Do not mix with alkaline solutions having a pH greater than 8.5 (eg, barbiturate solutions). Add 1 g succinylcholine to 1000 or 500 mL sterile solution (eg, D5W or NS) for a final concentration of 1 or 2 mg/mL. (0.1% or 0.2% solution) |
+

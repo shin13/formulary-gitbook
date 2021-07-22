@@ -1,2 +1,0 @@
-# Estrogens And Progesterones Combination
-

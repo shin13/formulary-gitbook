@@ -1,2 +1,0 @@
-# Others-Genito-Urinary System
-

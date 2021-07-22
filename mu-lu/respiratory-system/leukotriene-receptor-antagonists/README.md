@@ -1,2 +1,0 @@
-# Leukotriene Receptor Antagonists
-

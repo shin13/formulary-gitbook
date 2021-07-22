@@ -1,2 +1,0 @@
-# Antiseptics And Disinfectants
-

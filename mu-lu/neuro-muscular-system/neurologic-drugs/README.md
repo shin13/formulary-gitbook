@@ -1,2 +1,0 @@
-# Neurologic Drugs
-

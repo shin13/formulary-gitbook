@@ -1,2 +1,0 @@
-# Drugs For Neurodegenerative Disease
-
