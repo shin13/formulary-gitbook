@@ -696,7 +696,6 @@
       * [Calcium Gluconate](toc/nu-00-00/nu-03-00/calcium_gluconate.md)
     * [Nutrients](toc/nu-00-00/nu-04-00/README.md)
       * [Amino Acid](toc/nu-00-00/nu-04-00/nu-04-01/README.md)
-        * [Alanine 8.2%-Glutamine 13.64%](toc/nu-00-00/nu-04-00/nu-04-01/alanine_8.2%-glutamine_13.64%.md)
         * [Amino Acid-Glucose- Vit B1](toc/nu-00-00/nu-04-00/nu-04-01/amino_acid-glucose-_vit_b1.md)
         * [Amino Acids-Ketoanalogues](toc/nu-00-00/nu-04-00/nu-04-01/amino_acids-ketoanalogues.md)
         * [Amino Acids (Essential-Nonessential )](toc/nu-00-00/nu-04-00/nu-04-01/amino_acids_(essential-nonessential_).md)
