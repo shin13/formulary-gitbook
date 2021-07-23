@@ -1,2 +1,2 @@
-# \[Amino Acids \(Essential-Nonessential \)\]\(toc/nu-00-00/nu-04-00/nu-04-01/aminoacids\(essential-nonessen
+# Amino-Acids-Essential-Nonessential-Toc-Nu-00-00-Nu-04-00-Nu-04-01-Aminoacids-Essential-Nonessential
 

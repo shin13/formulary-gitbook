@@ -1,4 +1,4 @@
-# Sars-Cov-2 Spike Glycoprotein \[Mrna\]
+# Sars-Cov-2 Spike Glycoprotein -Mrna
 
 ## COVID-19 Vaccine Moderna 0.5mL/dose \(5mL/vial\)
 

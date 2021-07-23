@@ -1,59 +1,59 @@
-# Sulfamethoxazole + Trimethoprim
+# Sulfamethoxazole-Trimethoprim
 
-## Sevatrim inj(400mg+80mg)
+## Sevatrim inj\(400mg+80mg\)
 
-| 藥物代碼           | ISEV                                                                                                                              |
-|:-------------------|:----------------------------------------------------------------------------------------------------------------------------------|
-| 適應症             | Infections of respiratory tract, GIT due to gm+ve & gm-ve bacteria.                                                               |
-| 副作用             | Allergic skin reactions; hallucinations, depression, apathy,              nervousness. Arthralgia, myalgia. Neurologic reactions. |
-| 禁忌               | Liver parenchymal damage, blood dyscrasias;          severe renal insufficiency.         Pregnancy, lactation. Porphyria.         |
-| 懷孕用藥危分級     | 尚未確立                                                                                                                          |
-| 孕期用藥建議       | N/A                                                                                                                               |
-| 附帶說明           | N/A                                                                                                                               |
-| 哺乳期用藥建議     | Unknown 尚未建立                                                                                                                  |
-| 附帶說明           | N/A                                                                                                                               |
-| 注射劑給藥建議途徑 | IVD                                                                                                                               |
-| 乾粉稀釋液         | N/A                                                                                                                               |
-| 輸注點滴液         | 【D10W】 可選 仿單建議  【D5W】 可選 仿單建議  【N/S】 可選 仿單建議                                                              |
-| IVP 用法建議       | N/A                                                                                                                               |
-| IVD 用法建議       | N/A                                                                                                                               |
-| 注意事項           | N/A                                                                                                                               |
+| 藥物代碼 | ISEV |
+| :--- | :--- |
+| 適應症 | Infections of respiratory tract, GIT due to gm+ve & gm-ve bacteria. |
+| 副作用 | Allergic skin reactions; hallucinations, depression, apathy,              nervousness. Arthralgia, myalgia. Neurologic reactions. |
+| 禁忌 | Liver parenchymal damage, blood dyscrasias;          severe renal insufficiency.         Pregnancy, lactation. Porphyria. |
+| 懷孕用藥危分級 | 尚未確立 |
+| 孕期用藥建議 | N/A |
+| 附帶說明 | N/A |
+| 哺乳期用藥建議 | Unknown 尚未建立 |
+| 附帶說明 | N/A |
+| 注射劑給藥建議途徑 | IVD |
+| 乾粉稀釋液 | N/A |
+| 輸注點滴液 | 【D10W】 可選 仿單建議  【D5W】 可選 仿單建議  【N/S】 可選 仿單建議 |
+| IVP 用法建議 | N/A |
+| IVD 用法建議 | N/A |
+| 注意事項 | N/A |
 
 ## Sulfacotrim 40/8mg/mL 60mL suspension
 
-| 藥物代碼           | LSUL                                                                                                                                                                                                                         |
-|:-------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 適應症             | Acute exacerbations of chronic bronchitis, UTI & acute otitis media due to susceptible organisms; treatment & prophylaxis of P. carinii pneumonia; travelers?diarrhea due to susceptible strains of enterotoxigenic E. coli. |
-| 副作用             | GI disturbances, allergic skin reactions (discontinue), folic acid deficiency; mild & transient hematological abnormalities; rarely, megaloblastic anemia, purpura, agranulocytosis.                                         |
-| 禁忌               | Hypersensitivity; megaloblastic anemia.                                                                                                                                                                                      |
-| 懷孕用藥危分級     | 尚未確立                                                                                                                                                                                                                     |
-| 孕期用藥建議       | N/A                                                                                                                                                                                                                          |
-| 附帶說明           | N/A                                                                                                                                                                                                                          |
-| 哺乳期用藥建議     | Unknown 尚未建立                                                                                                                                                                                                             |
-| 附帶說明           | N/A                                                                                                                                                                                                                          |
-| 注射劑給藥建議途徑 | AC, AC15, PC, PO, WM                                                                                                                                                                                                         |
-| 乾粉稀釋液         | N/A                                                                                                                                                                                                                          |
-| 輸注點滴液         | N/A                                                                                                                                                                                                                          |
-| IVP 用法建議       | N/A                                                                                                                                                                                                                          |
-| IVD 用法建議       | N/A                                                                                                                                                                                                                          |
-| 注意事項           | N/A                                                                                                                                                                                                                          |
+| 藥物代碼 | LSUL |
+| :--- | :--- |
+| 適應症 | Acute exacerbations of chronic bronchitis, UTI & acute otitis media due to susceptible organisms; treatment & prophylaxis of P. carinii pneumonia; travelers?diarrhea due to susceptible strains of enterotoxigenic E. coli. |
+| 副作用 | GI disturbances, allergic skin reactions \(discontinue\), folic acid deficiency; mild & transient hematological abnormalities; rarely, megaloblastic anemia, purpura, agranulocytosis. |
+| 禁忌 | Hypersensitivity; megaloblastic anemia. |
+| 懷孕用藥危分級 | 尚未確立 |
+| 孕期用藥建議 | N/A |
+| 附帶說明 | N/A |
+| 哺乳期用藥建議 | Unknown 尚未建立 |
+| 附帶說明 | N/A |
+| 注射劑給藥建議途徑 | AC, AC15, PC, PO, WM |
+| 乾粉稀釋液 | N/A |
+| 輸注點滴液 | N/A |
+| IVP 用法建議 | N/A |
+| IVD 用法建議 | N/A |
+| 注意事項 | N/A |
 
-## Morcasin (Baktar) 400/80mg
+## Morcasin \(Baktar\) 400/80mg
 
-| 藥物代碼           | OMORC                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-|:-------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 適應症             | Infection.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| 副作用             | CommonDermatologic: Rash, UrticariaGastrointestinal: Loss of appetite, Nausea, VomitingSeriousCardiovascular: Cardiogenic shock, Prolonged QT interval, Torsades de pointes, Ventricular tachycardiaDermatologic: Drug reaction with eosinophilia and systemic symptoms, Erythema multiforme, Generalized exanthematous pustulosis, acute, Stevens-Johnson syndrome, Sweet's syndrome, Toxic epidermal necrolysisEndocrine metabolic: HyponatremiaGastrointestinal: Clostridioides difficile infection, Associated diarrheaHematologic: Agranulocytosis, Aplastic anemia, Disorder of hematopoietic structure, Neutropenia, ThrombocytopeniaHepatic: Hepatic necrosis, FulminantImmunologic: AnaphylaxisMusculoskeletal: Rhabdomyolysis |
-| 禁忌               | History of sulfonamide- or trimethoprim-induced immune thrombocytopenia. Hypersensitivity to sulfonamides or trimethoprim. Infants younger than 2 months of age. Marked hepatic damage. Megaloblastic anemia due to folate deficiency.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| 懷孕用藥危分級     | 不可使用                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| 孕期用藥建議       | Human data suggest low risk                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| 附帶說明           | [仿單]孕婦不可使用                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| 哺乳期用藥建議     | No (Limited) Human Data - Probably Compatible 無(很少)資料 - 可使用                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| 附帶說明           | [仿單]未有說明                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| 注射劑給藥建議途徑 | AC, AC15, PC, PO, WM                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| 乾粉稀釋液         | N/A                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| 輸注點滴液         | N/A                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| IVP 用法建議       | N/A                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| IVD 用法建議       | N/A                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| 注意事項           | N/A                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| 藥物代碼 | OMORC |
+| :--- | :--- |
+| 適應症 | Infection. |
+| 副作用 | CommonDermatologic: Rash, UrticariaGastrointestinal: Loss of appetite, Nausea, VomitingSeriousCardiovascular: Cardiogenic shock, Prolonged QT interval, Torsades de pointes, Ventricular tachycardiaDermatologic: Drug reaction with eosinophilia and systemic symptoms, Erythema multiforme, Generalized exanthematous pustulosis, acute, Stevens-Johnson syndrome, Sweet's syndrome, Toxic epidermal necrolysisEndocrine metabolic: HyponatremiaGastrointestinal: Clostridioides difficile infection, Associated diarrheaHematologic: Agranulocytosis, Aplastic anemia, Disorder of hematopoietic structure, Neutropenia, ThrombocytopeniaHepatic: Hepatic necrosis, FulminantImmunologic: AnaphylaxisMusculoskeletal: Rhabdomyolysis |
+| 禁忌 | History of sulfonamide- or trimethoprim-induced immune thrombocytopenia. Hypersensitivity to sulfonamides or trimethoprim. Infants younger than 2 months of age. Marked hepatic damage. Megaloblastic anemia due to folate deficiency. |
+| 懷孕用藥危分級 | 不可使用 |
+| 孕期用藥建議 | Human data suggest low risk |
+| 附帶說明 | \[仿單\]孕婦不可使用 |
+| 哺乳期用藥建議 | No \(Limited\) Human Data - Probably Compatible 無\(很少\)資料 - 可使用 |
+| 附帶說明 | \[仿單\]未有說明 |
+| 注射劑給藥建議途徑 | AC, AC15, PC, PO, WM |
+| 乾粉稀釋液 | N/A |
+| 輸注點滴液 | N/A |
+| IVP 用法建議 | N/A |
+| IVD 用法建議 | N/A |
+| 注意事項 | N/A |
 

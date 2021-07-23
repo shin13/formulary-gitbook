@@ -2,47 +2,47 @@
 
 ## Pulmicort respules 1mg/2mL
 
-| 藥物代碼           | EPULR                                                                                                       |
-|:-------------------|:------------------------------------------------------------------------------------------------------------|
-| 適應症             | Patients with bronchial asthma not well controlled by bronchodilators &/or antiallergic agents.             |
-| 副作用             | Mild throat irritation & hoarseness. Candida infection in oropharynx.                                       |
-| 禁忌               | Hypersensitivity to budesonide or any other ingredients.                                                    |
-| 藥物保存方式       | 室溫                                                                                                        |
-| 用法用量           | Adult Initially 1-2 mg bid, maintenance: 0.5-1 mg bid. Children 0.5-1 mg bid, maintenance: 0.25-0.5 mg bid. |
-| 肝功能異常         | 無需調整劑量                                                                                                |
-| 腎功能異常         | 無需調整劑量                                                                                                |
-| 懷孕用藥危分級     | 可能安全                                                                                                    |
-| 孕期用藥建議       | Compatible                                                                                                  |
-| 附帶說明           | PREGNANCY RECOMMENDATION: Compatible (Inhaled/Nasal) No Human Data—Animal Data Suggest Risk (Oral)          |
-| 哺乳期用藥建議     | No (Limited) Human Data - Probably Compatible 無(很少)資料 - 可使用                                         |
-| 附帶說明           | N/A                                                                                                         |
-| 注射劑給藥建議途徑 | IH, INHL                                                                                                    |
-| 乾粉稀釋液         | N/A                                                                                                         |
-| 輸注點滴液         | N/A                                                                                                         |
-| IVP 用法建議       | N/A                                                                                                         |
-| IVD 用法建議       | N/A                                                                                                         |
-| 注意事項           | N/A                                                                                                         |
+| 藥物代碼 | EPULR |
+| :--- | :--- |
+| 適應症 | Patients with bronchial asthma not well controlled by bronchodilators &/or antiallergic agents. |
+| 副作用 | Mild throat irritation & hoarseness. Candida infection in oropharynx. |
+| 禁忌 | Hypersensitivity to budesonide or any other ingredients. |
+| 藥物保存方式 | 室溫 |
+| 用法用量 | Adult Initially 1-2 mg bid, maintenance: 0.5-1 mg bid. Children 0.5-1 mg bid, maintenance: 0.25-0.5 mg bid. |
+| 肝功能異常 | 無需調整劑量 |
+| 腎功能異常 | 無需調整劑量 |
+| 懷孕用藥危分級 | 可能安全 |
+| 孕期用藥建議 | Compatible |
+| 附帶說明 | PREGNANCY RECOMMENDATION: Compatible \(Inhaled/Nasal\) No Human Data—Animal Data Suggest Risk \(Oral\) |
+| 哺乳期用藥建議 | No \(Limited\) Human Data - Probably Compatible 無\(很少\)資料 - 可使用 |
+| 附帶說明 | N/A |
+| 注射劑給藥建議途徑 | IH, INHL |
+| 乾粉稀釋液 | N/A |
+| 輸注點滴液 | N/A |
+| IVP 用法建議 | N/A |
+| IVD 用法建議 | N/A |
+| 注意事項 | N/A |
 
 ## Pulmicort Turbuhaler 200mcg/dose
 
-| 藥物代碼           | EPULT                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-|:-------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 適應症             | Patients with bronchial asthma not well controlled by bronchodilators &/or antiallergic agents.                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| 副作用             | Mild throat irritation & hoarseness. Candida infection in oropharynx.Gastrointestinal: Diarrhea (inhalation, 4%; oral, 10% ), Nausea (inhalation, 1.8% to 6%; oral, 11% )Musculoskeletal: Arthralgia (inhalation, 6%; oral, 5% )Neurologic: Headache (inhalation, 3%; oral, 21% )Respiratory: Epistaxis (intranasal, 8%; inhalation, 2% to 4% ), Nasal stinging/burning (intranasal, greater than 1% ), Respiratory tract infection (inhalation, 3% to 38%; oral, 11% ), Sinusitis (inhalation, 3% to 16%; oral, 8% ) |
-| 禁忌               | Hypersensitivity to budesonide or any other ingredients.                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| 藥物保存方式       | 室溫                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| 用法用量           | Adult Initially, 400-800 mcg bid morning & evening. Maintenance: 200-400 mcg bid. Children Initially, 100-200 mcg bid. Maintenance: individualised.                                                                                                                                                                                                                                                                                                                                                                   |
-| 肝功能異常         | 無需調整劑量                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| 腎功能異常         | 無需調整劑量                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| 懷孕用藥危分級     | 可能安全                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| 孕期用藥建議       | Compatible                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| 附帶說明           | PREGNANCY RECOMMENDATION: Compatible (Inhaled/Nasal) No Human Data—Animal Data Suggest Risk (Oral)                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| 哺乳期用藥建議     | No (Limited) Human Data - Probably Compatible 無(很少)資料 - 可使用                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| 附帶說明           | N/A                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| 注射劑給藥建議途徑 | IH                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| 乾粉稀釋液         | N/A                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| 輸注點滴液         | N/A                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| IVP 用法建議       | N/A                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| IVD 用法建議       | N/A                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| 注意事項           | N/A                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| 藥物代碼 | EPULT |
+| :--- | :--- |
+| 適應症 | Patients with bronchial asthma not well controlled by bronchodilators &/or antiallergic agents. |
+| 副作用 | Mild throat irritation & hoarseness. Candida infection in oropharynx.Gastrointestinal: Diarrhea \(inhalation, 4%; oral, 10% \), Nausea \(inhalation, 1.8% to 6%; oral, 11% \)Musculoskeletal: Arthralgia \(inhalation, 6%; oral, 5% \)Neurologic: Headache \(inhalation, 3%; oral, 21% \)Respiratory: Epistaxis \(intranasal, 8%; inhalation, 2% to 4% \), Nasal stinging/burning \(intranasal, greater than 1% \), Respiratory tract infection \(inhalation, 3% to 38%; oral, 11% \), Sinusitis \(inhalation, 3% to 16%; oral, 8% \) |
+| 禁忌 | Hypersensitivity to budesonide or any other ingredients. |
+| 藥物保存方式 | 室溫 |
+| 用法用量 | Adult Initially, 400-800 mcg bid morning & evening. Maintenance: 200-400 mcg bid. Children Initially, 100-200 mcg bid. Maintenance: individualised. |
+| 肝功能異常 | 無需調整劑量 |
+| 腎功能異常 | 無需調整劑量 |
+| 懷孕用藥危分級 | 可能安全 |
+| 孕期用藥建議 | Compatible |
+| 附帶說明 | PREGNANCY RECOMMENDATION: Compatible \(Inhaled/Nasal\) No Human Data—Animal Data Suggest Risk \(Oral\) |
+| 哺乳期用藥建議 | No \(Limited\) Human Data - Probably Compatible 無\(很少\)資料 - 可使用 |
+| 附帶說明 | N/A |
+| 注射劑給藥建議途徑 | IH |
+| 乾粉稀釋液 | N/A |
+| 輸注點滴液 | N/A |
+| IVP 用法建議 | N/A |
+| IVD 用法建議 | N/A |
+| 注意事項 | N/A |
 

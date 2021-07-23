@@ -1,25 +1,25 @@
-# Dextromethorphan+Guaiacol Glycolate+Ipecac extract
+# Dextromethorphan-Guaiacol Glycolate-Ipecac Extract
 
 ## Sortuss Cough liquid 60mL
 
-| 藥物代碼           | LSOR                                                                                                                                                                                                                                                                                      |
-|:-------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 適應症             | Cough, expectorant                                                                                                                                                                                                                                                                        |
-| 副作用             | CommonNeurologic: Dizziness (mild), Somnolence (mild), LethargyOther: Fatigue (mild)Gastrointestinal: Diarrhea, Stomach cramps, Nausea, VomitingMusculoskeletal: Myalgia, Chronic useSeriousRenal: Nephrolithiasis, Large quantity consumptionCardiovascular: Cardiomyopathy, Chronic use |
-| 禁忌               | hypersensitivity to any any excipients.                                                                                                                                                                                                                                                   |
-| 藥物保存方式       | 攝氏25度C以下                                                                                                                                                                                                                                                                             |
-| 用法用量           | Adults:10-20 mL Q4h. Pediatric: 6-12 yrs: 6-10 mL Q4h, 2-6 yrs: 2-6 mL Q4h.                                                                                                                                                                                                               |
-| 肝功能異常         | 無需調整劑量                                                                                                                                                                                                                                                                              |
-| 腎功能異常         | 無需調整劑量                                                                                                                                                                                                                                                                              |
-| 懷孕用藥危分級     | 尚未確立                                                                                                                                                                                                                                                                                  |
-| 孕期用藥建議       | N/A                                                                                                                                                                                                                                                                                       |
-| 附帶說明           | Dextromethorphan: Compatible. Guaiacol Glycolate: 沒有資料 Ipecac Fluid Extract: 沒有資料 [仿單]沒有相關敘述                                                                                                                                                                              |
-| 哺乳期用藥建議     | Unknown 尚未建立                                                                                                                                                                                                                                                                          |
-| 附帶說明           | Dextromethorphan: Compatible. Guaiacol Glycolate: 沒有資料 Ipecac Fluid Extract: 沒有資料 [仿單]沒有相關敘述                                                                                                                                                                              |
-| 注射劑給藥建議途徑 | AC, AC15, PC, PO, WM                                                                                                                                                                                                                                                                      |
-| 乾粉稀釋液         | N/A                                                                                                                                                                                                                                                                                       |
-| 輸注點滴液         | N/A                                                                                                                                                                                                                                                                                       |
-| IVP 用法建議       | N/A                                                                                                                                                                                                                                                                                       |
-| IVD 用法建議       | N/A                                                                                                                                                                                                                                                                                       |
-| 注意事項           | N/A                                                                                                                                                                                                                                                                                       |
+| 藥物代碼 | LSOR |
+| :--- | :--- |
+| 適應症 | Cough, expectorant |
+| 副作用 | CommonNeurologic: Dizziness \(mild\), Somnolence \(mild\), LethargyOther: Fatigue \(mild\)Gastrointestinal: Diarrhea, Stomach cramps, Nausea, VomitingMusculoskeletal: Myalgia, Chronic useSeriousRenal: Nephrolithiasis, Large quantity consumptionCardiovascular: Cardiomyopathy, Chronic use |
+| 禁忌 | hypersensitivity to any any excipients. |
+| 藥物保存方式 | 攝氏25度C以下 |
+| 用法用量 | Adults:10-20 mL Q4h. Pediatric: 6-12 yrs: 6-10 mL Q4h, 2-6 yrs: 2-6 mL Q4h. |
+| 肝功能異常 | 無需調整劑量 |
+| 腎功能異常 | 無需調整劑量 |
+| 懷孕用藥危分級 | 尚未確立 |
+| 孕期用藥建議 | N/A |
+| 附帶說明 | Dextromethorphan: Compatible. Guaiacol Glycolate: 沒有資料 Ipecac Fluid Extract: 沒有資料 \[仿單\]沒有相關敘述 |
+| 哺乳期用藥建議 | Unknown 尚未建立 |
+| 附帶說明 | Dextromethorphan: Compatible. Guaiacol Glycolate: 沒有資料 Ipecac Fluid Extract: 沒有資料 \[仿單\]沒有相關敘述 |
+| 注射劑給藥建議途徑 | AC, AC15, PC, PO, WM |
+| 乾粉稀釋液 | N/A |
+| 輸注點滴液 | N/A |
+| IVP 用法建議 | N/A |
+| IVD 用法建議 | N/A |
+| 注意事項 | N/A |
 

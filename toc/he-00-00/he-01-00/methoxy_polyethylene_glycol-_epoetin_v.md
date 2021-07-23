@@ -1,4 +1,4 @@
-# Methoxy Polyethylene Glycol- Epoetin Β
+# Methoxy Polyethylene Glycol- Epoetin V
 
 ## Mircera inj 50mcg/0.3mL
 

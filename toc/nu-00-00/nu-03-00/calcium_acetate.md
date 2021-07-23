@@ -2,24 +2,24 @@
 
 ## Procal 667mg
 
-| 藥物代碼           | OPRO6                                                                                                                                                                                                                                              |
-|:-------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 適應症             | Control of hyperphosphatemia in end stage renal failure and does not promote aluminum absorption.                                                                                                                                                  |
-| 副作用             | Hypercalemia, nausea, constipation, allergy reaction                                                                                                                                                                                               |
-| 禁忌               | Hypercalemia                                                                                                                                                                                                                                       |
-| 藥物保存方式       | 室溫                                                                                                                                                                                                                                               |
-| 用法用量           | Initial dose for the adult dialysis pt's is 2 tablets with each meal. The dosage may be increased gradually to bring serum phosphate value below 6 mg/ml, as long as hypercalcemia does not develop. Most pt's require 3-4 tablets with each meal. |
-| 肝功能異常         | 無需調整劑量  No dosage adjustment necessary.                                                                                                                                                                                                      |
-| 腎功能異常         | 無需調整劑量                                                                                                                                                                                                                                       |
-| 懷孕用藥危分級     | 尚未確立                                                                                                                                                                                                                                           |
-| 孕期用藥建議       | N/A                                                                                                                                                                                                                                                |
-| 附帶說明           | N/A                                                                                                                                                                                                                                                |
-| 哺乳期用藥建議     | Unknown 尚未建立                                                                                                                                                                                                                                   |
-| 附帶說明           | N/A                                                                                                                                                                                                                                                |
-| 注射劑給藥建議途徑 | N/A                                                                                                                                                                                                                                                |
-| 乾粉稀釋液         | N/A                                                                                                                                                                                                                                                |
-| 輸注點滴液         | N/A                                                                                                                                                                                                                                                |
-| IVP 用法建議       | N/A                                                                                                                                                                                                                                                |
-| IVD 用法建議       | N/A                                                                                                                                                                                                                                                |
-| 注意事項           | Calcium acetate 667 mg = elemental calcium 169 mg = calcium 8.45 mEq = calcium 4.23 mmol                                                                                                                                                           |
+| 藥物代碼 | OPRO6 |
+| :--- | :--- |
+| 適應症 | Control of hyperphosphatemia in end stage renal failure and does not promote aluminum absorption. |
+| 副作用 | Hypercalemia, nausea, constipation, allergy reaction |
+| 禁忌 | Hypercalemia |
+| 藥物保存方式 | 室溫 |
+| 用法用量 | Initial dose for the adult dialysis pt's is 2 tablets with each meal. The dosage may be increased gradually to bring serum phosphate value below 6 mg/ml, as long as hypercalcemia does not develop. Most pt's require 3-4 tablets with each meal. |
+| 肝功能異常 | 無需調整劑量  No dosage adjustment necessary. |
+| 腎功能異常 | 無需調整劑量 |
+| 懷孕用藥危分級 | 尚未確立 |
+| 孕期用藥建議 | N/A |
+| 附帶說明 | N/A |
+| 哺乳期用藥建議 | Unknown 尚未建立 |
+| 附帶說明 | N/A |
+| 注射劑給藥建議途徑 | N/A |
+| 乾粉稀釋液 | N/A |
+| 輸注點滴液 | N/A |
+| IVP 用法建議 | N/A |
+| IVD 用法建議 | N/A |
+| 注意事項 | Calcium acetate 667 mg = elemental calcium 169 mg = calcium 8.45 mEq = calcium 4.23 mmol |
 
