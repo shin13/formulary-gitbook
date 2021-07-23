@@ -2,24 +2,24 @@
 
 ## Avelox infusion 400mg/250mL
 
-| 藥物代碼           | IAVE                                                                                                                                                                                                                                                                                                                                 |
-|:-------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 適應症             | Treatment of adults >= 18 years with upper & lower respiratory tract infections such as acute sinusitis, acute exacerbation of chronic bronchitis, community acquired pneumonia; skin & soft tissue infections; complicated intra-abdominal infection.                                                                               |
-| 副作用             | GI disturbances (eg nausea, vomiting, dyspepsia, abdominal pain); headache, dizziness; taste perversion; musculoskeletal effects (eg back pain, arthralgia); CVS effects (eg tachycardia, hypertension); hematological changes; CNS disturbances eg (insomnia, convulsion); skin reactions (eg rash, pruritus); visual disturbances. |
-| 禁忌               | Hypersensitivity. Children, growing adolescent. Pregnancy, lactation.                                                                                                                                                                                                                                                                |
-| 藥物保存方式       | N/A                                                                                                                                                                                                                                                                                                                                  |
-| 用法用量           | 1 bot (400 mg) once daily. Duration: Acute exacerbation of chronic bronchitis 5 days. Community acquired pneumonia 10 days (IV 7-14 days). Acute sinusitis 7 days. Skin & soft tissue infection 7-21 days. Complicated intra-abdominal infection 5-14 days.                                                                          |
-| 肝功能異常         | 無需調整劑量                                                                                                                                                                                                                                                                                                                         |
-| 腎功能異常         | 無需調整劑量                                                                                                                                                                                                                                                                                                                         |
-| 懷孕用藥危分級     | 不可使用                                                                                                                                                                                                                                                                                                                             |
-| 孕期用藥建議       | Contraindicated                                                                                                                                                                                                                                                                                                                      |
-| 附帶說明           | N/A                                                                                                                                                                                                                                                                                                                                  |
-| 哺乳期用藥建議     | No (Limited) Human Data - Probably Compatible 無(很少)資料 - 可使用                                                                                                                                                                                                                                                                  |
-| 附帶說明           | N/A                                                                                                                                                                                                                                                                                                                                  |
-| 注射劑給藥建議途徑 | IVD                                                                                                                                                                                                                                                                                                                                  |
-| 乾粉稀釋液         | N/A                                                                                                                                                                                                                                                                                                                                  |
-| 輸注點滴液         | 【D10W】 可選  【D5W】 可選  【L/R】 可選  【N/S】 可選                                                                                                                                                                                                                                                                              |
-| IVP 用法建議       | N/A                                                                                                                                                                                                                                                                                                                                  |
-| IVD 用法建議       | 以超過60分鐘緩慢滴注。不建議使用在pediatric patients                                                                                                                                                                                                                                                                                 |
-| 注意事項           | 1. 監測體溫、CBC，注意是否有癲癇、心律不整徵狀。 2. 本品可直接輸注或透過T-tube與其他相容的輸注液一同輸注。                                                                                                                                                                                                                           |
+| 藥物代碼 | IAVE |
+| :--- | :--- |
+| 適應症 | Treatment of adults &gt;= 18 years with upper & lower respiratory tract infections such as acute sinusitis, acute exacerbation of chronic bronchitis, community acquired pneumonia; skin & soft tissue infections; complicated intra-abdominal infection. |
+| 副作用 | GI disturbances \(eg nausea, vomiting, dyspepsia, abdominal pain\); headache, dizziness; taste perversion; musculoskeletal effects \(eg back pain, arthralgia\); CVS effects \(eg tachycardia, hypertension\); hematological changes; CNS disturbances eg \(insomnia, convulsion\); skin reactions \(eg rash, pruritus\); visual disturbances. |
+| 禁忌 | Hypersensitivity. Children, growing adolescent. Pregnancy, lactation. |
+| 藥物保存方式 | N/A |
+| 用法用量 | 1 bot \(400 mg\) once daily. Duration: Acute exacerbation of chronic bronchitis 5 days. Community acquired pneumonia 10 days \(IV 7-14 days\). Acute sinusitis 7 days. Skin & soft tissue infection 7-21 days. Complicated intra-abdominal infection 5-14 days. |
+| 肝功能異常 | 無需調整劑量 |
+| 腎功能異常 | 無需調整劑量 |
+| 懷孕用藥危分級 | 不可使用 |
+| 孕期用藥建議 | Contraindicated |
+| 附帶說明 | N/A |
+| 哺乳期用藥建議 | No \(Limited\) Human Data - Probably Compatible 無\(很少\)資料 - 可使用 |
+| 附帶說明 | N/A |
+| 注射劑給藥建議途徑 | IVD |
+| 乾粉稀釋液 | N/A |
+| 輸注點滴液 | 【D10W】 可選  【D5W】 可選  【L/R】 可選  【N/S】 可選 |
+| IVP 用法建議 | N/A |
+| IVD 用法建議 | 以超過60分鐘緩慢滴注。不建議使用在pediatric patients |
+| 注意事項 | 1. 監測體溫、CBC，注意是否有癲癇、心律不整徵狀。 2. 本品可直接輸注或透過T-tube與其他相容的輸注液一同輸注。 |
 

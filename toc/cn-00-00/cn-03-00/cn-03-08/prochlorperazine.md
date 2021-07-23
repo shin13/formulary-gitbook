@@ -2,47 +2,47 @@
 
 ## Novamin inj 5mg/1mL
 
-| 藥物代碼           | INOV                                                                                                                                                                                                                                                                                                                                                              |
-|:-------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 適應症             | Prevention of nausea and vomiting, Nausea and vomiting,Adjunctive management of severe anxiety disorders ,Psychoses                                                                                                                                                                                                                                               |
-| 副作用             | Cholestatic jaundice, cardiac arrhythmias, orthostatic hypotension, leucopaenia, thrombocytopaenia, dry mouth, blurring of vision, glaucoma, urinary retention, constipation, galactorrhoea, gynaecomastia, amenorrhoea and impotence. Buccal: Transient numbness of gum and tongue.Potentially Fatal: Bone-marrow suppression. Cardiac arrhythmias or aspiration |
-| 禁忌               | CNS depression, comatose patients. Bone marrow depression, phaechromocytoma, prolactin-dependent tumours, hypersensitivity. Childn <2 yr. Pregnancy and lactation.                                                                                                                                                                                                |
-| 藥物保存方式       | 室溫                                                                                                                                                                                                                                                                                                                                                              |
-| 用法用量           | IM Nausea and vomiting As mesilate: 12.5 mg, may repeat via PO if needed. Psychoses As mesilate: 12.5-25 mg, 2-3 times/day. Rectal Nausea and vomiting As 25 mg supp: 1 supp twice daily. Psychoses As maleate: 25 mg 2-3 times/day.                                                                                                                              |
-| 肝功能異常         | 無需調整劑量                                                                                                                                                                                                                                                                                                                                                      |
-| 腎功能異常         | 無需調整劑量                                                                                                                                                                                                                                                                                                                                                      |
-| 懷孕用藥危分級     | 除非治療上需要                                                                                                                                                                                                                                                                                                                                                    |
-| 孕期用藥建議       | N/A                                                                                                                                                                                                                                                                                                                                                               |
-| 附帶說明           | N/A                                                                                                                                                                                                                                                                                                                                                               |
-| 哺乳期用藥建議     | No (Limited) Human Data - Potential Toxicity 無(很少)資料 - 避免使用                                                                                                                                                                                                                                                                                              |
-| 附帶說明           | N/A                                                                                                                                                                                                                                                                                                                                                               |
-| 注射劑給藥建議途徑 | IM                                                                                                                                                                                                                                                                                                                                                                |
-| 乾粉稀釋液         | N/A                                                                                                                                                                                                                                                                                                                                                               |
-| 輸注點滴液         | N/A                                                                                                                                                                                                                                                                                                                                                               |
-| IVP 用法建議       | N/A                                                                                                                                                                                                                                                                                                                                                               |
-| IVD 用法建議       | N/A                                                                                                                                                                                                                                                                                                                                                               |
-| 注意事項           | N/A                                                                                                                                                                                                                                                                                                                                                               |
+| 藥物代碼 | INOV |
+| :--- | :--- |
+| 適應症 | Prevention of nausea and vomiting, Nausea and vomiting,Adjunctive management of severe anxiety disorders ,Psychoses |
+| 副作用 | Cholestatic jaundice, cardiac arrhythmias, orthostatic hypotension, leucopaenia, thrombocytopaenia, dry mouth, blurring of vision, glaucoma, urinary retention, constipation, galactorrhoea, gynaecomastia, amenorrhoea and impotence. Buccal: Transient numbness of gum and tongue.Potentially Fatal: Bone-marrow suppression. Cardiac arrhythmias or aspiration |
+| 禁忌 | CNS depression, comatose patients. Bone marrow depression, phaechromocytoma, prolactin-dependent tumours, hypersensitivity. Childn &lt;2 yr. Pregnancy and lactation. |
+| 藥物保存方式 | 室溫 |
+| 用法用量 | IM Nausea and vomiting As mesilate: 12.5 mg, may repeat via PO if needed. Psychoses As mesilate: 12.5-25 mg, 2-3 times/day. Rectal Nausea and vomiting As 25 mg supp: 1 supp twice daily. Psychoses As maleate: 25 mg 2-3 times/day. |
+| 肝功能異常 | 無需調整劑量 |
+| 腎功能異常 | 無需調整劑量 |
+| 懷孕用藥危分級 | 除非治療上需要 |
+| 孕期用藥建議 | N/A |
+| 附帶說明 | N/A |
+| 哺乳期用藥建議 | No \(Limited\) Human Data - Potential Toxicity 無\(很少\)資料 - 避免使用 |
+| 附帶說明 | N/A |
+| 注射劑給藥建議途徑 | IM |
+| 乾粉稀釋液 | N/A |
+| 輸注點滴液 | N/A |
+| IVP 用法建議 | N/A |
+| IVD 用法建議 | N/A |
+| 注意事項 | N/A |
 
 ## Novamin 5mg
 
-| 藥物代碼           | ONOV                                                                                                                                                                                                                                     |
-|:-------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 適應症             | Pyschosis, nausea, vomiting.                                                                                                                                                                                                             |
-| 副作用             | CV & haematological changes, GI disturbances. Hepatic dysfunction, Malin syndrome, extrapyrimidal reactions, visual disturbances, weight increase, breast enlargement changes in libido, dysmenorrhoea, CNS disorders, photosensitivity. |
-| 禁忌               | Bone-marrow depression.                                                                                                                                                                                                                  |
-| 藥物保存方式       | 室溫                                                                                                                                                                                                                                     |
-| 用法用量           | Adult: 5-10 mg tid-qid (max. 150 mg/day). Child: 0.1 mg/kg qid (max. 6-12 yrs, 25 mg/day; 2-5 yrs,20 mg/day). Note: 1. Not recommended for children under 9 kg.  2. It is a potent inducer of EPS especially in young patients.          |
-| 肝功能異常         | 無需調整劑量                                                                                                                                                                                                                             |
-| 腎功能異常         | 無需調整劑量                                                                                                                                                                                                                             |
-| 懷孕用藥危分級     | 尚未確立                                                                                                                                                                                                                                 |
-| 孕期用藥建議       | Compatible                                                                                                                                                                                                                               |
-| 附帶說明           | [仿單]無相關記載                                                                                                                                                                                                                         |
-| 哺乳期用藥建議     | No (Limited) Human Data - Potential Toxicity 無(很少)資料 - 避免使用                                                                                                                                                                     |
-| 附帶說明           | [仿單]無相關記載                                                                                                                                                                                                                         |
-| 注射劑給藥建議途徑 | N/A                                                                                                                                                                                                                                      |
-| 乾粉稀釋液         | N/A                                                                                                                                                                                                                                      |
-| 輸注點滴液         | N/A                                                                                                                                                                                                                                      |
-| IVP 用法建議       | N/A                                                                                                                                                                                                                                      |
-| IVD 用法建議       | N/A                                                                                                                                                                                                                                      |
-| 注意事項           | N/A                                                                                                                                                                                                                                      |
+| 藥物代碼 | ONOV |
+| :--- | :--- |
+| 適應症 | Pyschosis, nausea, vomiting. |
+| 副作用 | CV & haematological changes, GI disturbances. Hepatic dysfunction, Malin syndrome, extrapyrimidal reactions, visual disturbances, weight increase, breast enlargement changes in libido, dysmenorrhoea, CNS disorders, photosensitivity. |
+| 禁忌 | Bone-marrow depression. |
+| 藥物保存方式 | 室溫 |
+| 用法用量 | Adult: 5-10 mg tid-qid \(max. 150 mg/day\). Child: 0.1 mg/kg qid \(max. 6-12 yrs, 25 mg/day; 2-5 yrs,20 mg/day\). Note: 1. Not recommended for children under 9 kg.  2. It is a potent inducer of EPS especially in young patients. |
+| 肝功能異常 | 無需調整劑量 |
+| 腎功能異常 | 無需調整劑量 |
+| 懷孕用藥危分級 | 尚未確立 |
+| 孕期用藥建議 | Compatible |
+| 附帶說明 | \[仿單\]無相關記載 |
+| 哺乳期用藥建議 | No \(Limited\) Human Data - Potential Toxicity 無\(很少\)資料 - 避免使用 |
+| 附帶說明 | \[仿單\]無相關記載 |
+| 注射劑給藥建議途徑 | N/A |
+| 乾粉稀釋液 | N/A |
+| 輸注點滴液 | N/A |
+| IVP 用法建議 | N/A |
+| IVD 用法建議 | N/A |
+| 注意事項 | N/A |
 

@@ -2,5 +2,5 @@
 description: 痤瘡用藥
 ---
 
-# Acne
+# de-07-00
 
