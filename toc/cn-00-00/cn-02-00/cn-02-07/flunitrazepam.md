@@ -2,24 +2,24 @@
 
 ## Fallep 2mg
 
-| 藥物代碼 | OFAL |
-| :--- | :--- |
-| 適應症 | Insomnia. |
-| 副作用 | Drowsiness & lightheadedness the next day; confusion & ataxia; dependence. |
-| 禁忌 | Preexisting CNS depression or coma, resp depression, acute pulmonary insufficiency or sleep apnoea; severe hepatic impairment; chronic psychosis, phobic or obsessional states; may precipitate suicide or aggressive behavior; not to be used alone to treat depression or anxiety associated with depression; glaucoma. Pregnancy, lactation. Neonates. |
-| 藥物保存方式 | 室溫 |
-| 用法用量 | Adult 0.5-1 mg at bedtime. Max: 2 mg/day. Elderly or debilitated patients Initially 0.5 mg at bedtime. Max: 1 mg/day. |
-| 肝功能異常 | 無需調整劑量 |
-| 腎功能異常 | 無需調整劑量 |
-| 懷孕用藥危分級 | 儘量避免 |
-| 孕期用藥建議 | N/A |
-| 附帶說明 | N/A |
-| 哺乳期用藥建議 | Unknown 尚未建立 |
-| 附帶說明 | N/A |
-| 注射劑給藥建議途徑 | N/A |
-| 乾粉稀釋液 | N/A |
-| 輸注點滴液 | N/A |
-| IVP 用法建議 | N/A |
-| IVD 用法建議 | N/A |
-| 注意事項 | N/A |
+| 藥物代碼           | OFAL                                                                                                                                                                                                                                                                                                                                                      |
+|:-------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 適應症             | Insomnia.                                                                                                                                                                                                                                                                                                                                                 |
+| 副作用             | Drowsiness & lightheadedness the next day; confusion & ataxia; dependence.                                                                                                                                                                                                                                                                                |
+| 禁忌               | Preexisting CNS depression or coma, resp depression, acute pulmonary insufficiency or sleep apnoea; severe hepatic impairment; chronic psychosis, phobic or obsessional states; may precipitate suicide or aggressive behavior; not to be used alone to treat depression or anxiety associated with depression; glaucoma. Pregnancy, lactation. Neonates. |
+| 藥物保存方式       | 室溫                                                                                                                                                                                                                                                                                                                                                      |
+| 用法用量           | Adult 0.5-1 mg at bedtime. Max: 2 mg/day. Elderly or debilitated patients Initially 0.5 mg at bedtime. Max: 1 mg/day.                                                                                                                                                                                                                                     |
+| 肝功能異常         | 無需調整劑量                                                                                                                                                                                                                                                                                                                                              |
+| 腎功能異常         | 無需調整劑量                                                                                                                                                                                                                                                                                                                                              |
+| 懷孕用藥危分級     | 儘量避免                                                                                                                                                                                                                                                                                                                                                  |
+| 孕期用藥建議       | N/A                                                                                                                                                                                                                                                                                                                                                       |
+| 附帶說明           | N/A                                                                                                                                                                                                                                                                                                                                                       |
+| 哺乳期用藥建議     | Unknown 尚未建立                                                                                                                                                                                                                                                                                                                                          |
+| 附帶說明           | N/A                                                                                                                                                                                                                                                                                                                                                       |
+| 注射劑給藥建議途徑 | N/A                                                                                                                                                                                                                                                                                                                                                       |
+| 乾粉稀釋液         | N/A                                                                                                                                                                                                                                                                                                                                                       |
+| 輸注點滴液         | N/A                                                                                                                                                                                                                                                                                                                                                       |
+| IVP 用法建議       | N/A                                                                                                                                                                                                                                                                                                                                                       |
+| IVD 用法建議       | N/A                                                                                                                                                                                                                                                                                                                                                       |
+| 注意事項           | N/A                                                                                                                                                                                                                                                                                                                                                       |
 

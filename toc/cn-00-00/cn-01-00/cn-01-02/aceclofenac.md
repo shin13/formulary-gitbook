@@ -2,24 +2,24 @@
 
 ## Tonec 100mg
 
-| 藥物代碼 | OTONE |
-| :--- | :--- |
-| 適應症 | Relief of pain & inflammation in osteoarthritis, rheumatoid arthritis & ankylosing spondylitis. |
-| 副作用 | GI disturbances, ulceration or bleeding; dizziness; hypersensitivity reactions including skin rash, angioedema or bronchospasm; headache, nervousness, depression, drowsiness, insomnia, vertigo, tinnitus, photosensitivity reactions, hematuria, blood disorders, fluid retention, disturbances in renal function. |
-| 禁忌 | Hypersensitivity to aspirin or other NSAIDs; previous or active peptic ulceration or GI bleeding; moderate to severe renal impairment. |
-| 藥物保存方式 | 室溫 |
-| 用法用量 | 100 mg bid |
-| 肝功能異常 | 需 調 整 劑 量  肝功能損傷的病患須減低劑量,初始劑量為每日 100 mg |
-| 腎功能異常 | 無需調整劑量 |
-| 懷孕用藥危分級 | 尚未確立 |
-| 孕期用藥建議 | N/A |
-| 附帶說明 | 仿單:本藥無孕婦使用的相關資訊,故不建議使用,且於第三孕期使用NSAIDs可能增加子宮張力,促進子宮收縮.可能使胎兒動脈導管早期閉鎖,造成新生兒肺動脈高壓.分娩延遲和時間延長. \[20201124非類固醇消炎藥品安全資訊風險溝通表\] 懷孕20週以上孕婦使用NSAIDs可能會導致胎兒腎功能障礙並導致羊水過少； 妊娠30週以上之孕婦可能導致胎兒動脈導管過早閉合的風險。 |
-| 哺乳期用藥建議 | Unknown 尚未建立 |
-| 附帶說明 | 仿單:本藥無授乳婦使用的相關資訊,故不建議使用.但是鼠實驗中藥品不會進入乳汁. |
-| 注射劑給藥建議途徑 | N/A |
-| 乾粉稀釋液 | N/A |
-| 輸注點滴液 | N/A |
-| IVP 用法建議 | N/A |
-| IVD 用法建議 | N/A |
-| 注意事項 | N/A |
+| 藥物代碼           | OTONE                                                                                                                                                                                                                                                                                                                                     |
+|:-------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 適應症             | Relief of pain & inflammation in osteoarthritis, rheumatoid arthritis & ankylosing spondylitis.                                                                                                                                                                                                                                           |
+| 副作用             | GI disturbances, ulceration or bleeding; dizziness; hypersensitivity reactions including skin rash, angioedema or bronchospasm; headache, nervousness, depression, drowsiness, insomnia, vertigo, tinnitus, photosensitivity reactions, hematuria, blood disorders, fluid retention, disturbances in renal function.                      |
+| 禁忌               | Hypersensitivity to aspirin or other NSAIDs; previous or active peptic ulceration or GI bleeding; moderate to severe renal impairment.                                                                                                                                                                                                    |
+| 藥物保存方式       | 室溫                                                                                                                                                                                                                                                                                                                                      |
+| 用法用量           | 100 mg bid                                                                                                                                                                                                                                                                                                                                |
+| 肝功能異常         | 需 調 整 劑 量  肝功能損傷的病患須減低劑量,初始劑量為每日 100 mg                                                                                                                                                                                                                                                                          |
+| 腎功能異常         | 無需調整劑量                                                                                                                                                                                                                                                                                                                              |
+| 懷孕用藥危分級     | 尚未確立                                                                                                                                                                                                                                                                                                                                  |
+| 孕期用藥建議       | N/A                                                                                                                                                                                                                                                                                                                                       |
+| 附帶說明           | 仿單:本藥無孕婦使用的相關資訊,故不建議使用,且於第三孕期使用NSAIDs可能增加子宮張力,促進子宮收縮.可能使胎兒動脈導管早期閉鎖,造成新生兒肺動脈高壓.分娩延遲和時間延長. [20201124非類固醇消炎藥品安全資訊風險溝通表] 懷孕20週以上孕婦使用NSAIDs可能會導致胎兒腎功能障礙並導致羊水過少； 妊娠30週以上之孕婦可能導致胎兒動脈導管過早閉合的風險。 |
+| 哺乳期用藥建議     | Unknown 尚未建立                                                                                                                                                                                                                                                                                                                          |
+| 附帶說明           | 仿單:本藥無授乳婦使用的相關資訊,故不建議使用.但是鼠實驗中藥品不會進入乳汁.                                                                                                                                                                                                                                                                |
+| 注射劑給藥建議途徑 | N/A                                                                                                                                                                                                                                                                                                                                       |
+| 乾粉稀釋液         | N/A                                                                                                                                                                                                                                                                                                                                       |
+| 輸注點滴液         | N/A                                                                                                                                                                                                                                                                                                                                       |
+| IVP 用法建議       | N/A                                                                                                                                                                                                                                                                                                                                       |
+| IVD 用法建議       | N/A                                                                                                                                                                                                                                                                                                                                       |
+| 注意事項           | N/A                                                                                                                                                                                                                                                                                                                                       |
 
