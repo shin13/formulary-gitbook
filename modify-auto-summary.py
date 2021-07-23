@@ -2,10 +2,10 @@
 
 import re
 
-with open('SUMMARY.md', 'rb') as f:
-    contents = f.read().decode('big5hkscs')
+with open('SUMMARY.md', 'r') as f:
+    contents = f.read()
     contents = contents.replace('\\', '/')
-    contents = contents.replace('./', '')
+    contents = contents.replace('\./', '')
 
 rep = dict({'[Readme]': '[首頁]', '[Index]': '[索引]',
             '[Changelog]': '[更新歷程]', '[Appendix]': '[附錄]', '[Links]': '[常用連結]'})
@@ -15,7 +15,7 @@ text = pattern.sub(lambda m: rep[re.escape(m.group(0))], contents)
 
 # Remove blank lines
 text = re.sub(r'\n\s*\n', '\n', text)
-with open('SUMMARY.md', 'w+', encoding='utf-8') as f:
+with open('SUMMARY.md', 'w+') as f:
     f.write(text)
 
 print('SUMMARY.md 自訂修改完成 :)')

@@ -1,5 +1,28 @@
 # Atropine
 
+## Antol 0.125% 5mL
+
+| 藥物代碼           | EATR1                                                                                              |
+|:-------------------|:---------------------------------------------------------------------------------------------------|
+| 適應症             | Topical mydriatic & cycloplegic; uveitis.                                                          |
+| 副作用             | Stinging, increased intraocular pressure, conjunctivitis. May precipitate glaucoma.                |
+| 禁忌               | Closed- & narrow-angle glaucoma.                                                                   |
+| 藥物保存方式       | 室溫                                                                                               |
+| 用法用量           | 1 gtt hs: for treatment of myopia. (0.1 %, 0.25 % and 0.5%) 1 gtt qid: for use in uveitis. (1.0 %) |
+| 肝功能異常         | 無需調整劑量                                                                                       |
+| 腎功能異常         | 無需調整劑量                                                                                       |
+| 懷孕用藥危分級     | 除非治療上需要                                                                                     |
+| 孕期用藥建議       | No (Limited) Human Data - Probably Compatible                                                      |
+| 附帶說明           | N/A                                                                                                |
+| 哺乳期用藥建議     | No (Limited) Human Data - Probably Compatible 無(很少)資料 - 可使用                                |
+| 附帶說明           | N/A                                                                                                |
+| 注射劑給藥建議途徑 | OD, OL, OU                                                                                         |
+| 乾粉稀釋液         | N/A                                                                                                |
+| 輸注點滴液         | N/A                                                                                                |
+| IVP 用法建議       | N/A                                                                                                |
+| IVD 用法建議       | N/A                                                                                                |
+| 注意事項           | N/A                                                                                                |
+
 ## Atropine Eye Drops 0.01% 0.5mL/支
 
 | 藥物代碼           | EATREU                                                                                                                                                                                                                   |
