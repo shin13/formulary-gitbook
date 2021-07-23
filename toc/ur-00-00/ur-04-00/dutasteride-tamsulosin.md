@@ -1,21 +1,21 @@
-# Dutasteride-Tamsulosin
+# Dutasteride + Tamsulosin
 
 ## Duodart 0.5/0.4mg
 
-| 藥物代碼 | ODUO |
-| :--- | :--- |
-| 適應症 | Benign prostatic hyperplasia: Treatment of symptomatic benign prostatic hyperplasia \(BPH\) in men with an enlarged prostate |
-| 副作用 | 1% to 10%:Central nervous system: Dizziness \(2%\)Endocrine & metabolic: Decreased libido \(5% to 6%\), breast changes \(3% to 5%, including enlargement, swelling, pain, tenderness, gynecomastia, nipple pain, nipple swelling\)Genitourinary: Ejaculatory disorder \(10% to 11%\), impotence \(8% to 10%\) &lt;1% \(Limited to important or life-threatening\): Prostate cancer \(high-grade\) |
-| 禁忌 | Hypersensitivity \(clinically significant\) to dutasteride, tamsulosin, other 5-alpha-reductase inhibitors \(eg, finasteride\), or any component of the formulation; children; women of childbearing potential; pregnancy |
-| 懷孕用藥危分級 | 不可使用 |
-| 孕期用藥建議 | N/A |
-| 附帶說明 | TAMSULOSIN PREGNANCY RECOMMENDATION: No Human Data—Animal Data Suggest Low Risk BREASTFEEDING RECOMMENDATION: No Human Data—Potential Toxicity |
-| 哺乳期用藥建議 | No \(Limited\) Human Data - Potential Toxicity\(Mother\) 無\(很少\)資料 - 避免使用\(母體\) |
-| 附帶說明 | Up-to date: Breast-Feeding Considerations:It is not known if dutasteride or tamsulosin are excreted in human milk. Use is contraindicated in women of childbearing potential. TAMSULOSIN BREASTFEEDING RECOMMENDATION: No Human Data—Potential Toxicity |
-| 注射劑給藥建議途徑 | N/A |
-| 乾粉稀釋液 | N/A |
-| 輸注點滴液 | N/A |
-| IVP 用法建議 | N/A |
-| IVD 用法建議 | N/A |
-| 注意事項 | N/A |
+| 藥物代碼           | ODUO                                                                                                                                                                                                                                                                                                                                                                             |
+|:-------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 適應症             | Benign prostatic hyperplasia: Treatment of symptomatic benign prostatic hyperplasia (BPH) in men with an enlarged prostate                                                                                                                                                                                                                                                       |
+| 副作用             | 1% to 10%:Central nervous system: Dizziness (2%)Endocrine & metabolic: Decreased libido (5% to 6%), breast changes (3% to 5%, including enlargement, swelling, pain, tenderness, gynecomastia, nipple pain, nipple swelling)Genitourinary: Ejaculatory disorder (10% to 11%), impotence (8% to 10%) <1% (Limited to important or life-threatening): Prostate cancer (high-grade) |
+| 禁忌               | Hypersensitivity (clinically significant) to dutasteride, tamsulosin, other 5-alpha-reductase inhibitors (eg, finasteride), or any component of the formulation; children; women of childbearing potential; pregnancy                                                                                                                                                            |
+| 懷孕用藥危分級     | 不可使用                                                                                                                                                                                                                                                                                                                                                                         |
+| 孕期用藥建議       | N/A                                                                                                                                                                                                                                                                                                                                                                              |
+| 附帶說明           | TAMSULOSIN PREGNANCY RECOMMENDATION: No Human Data—Animal Data Suggest Low Risk BREASTFEEDING RECOMMENDATION: No Human Data—Potential Toxicity                                                                                                                                                                                                                                   |
+| 哺乳期用藥建議     | No (Limited) Human Data - Potential Toxicity(Mother) 無(很少)資料 - 避免使用(母體)                                                                                                                                                                                                                                                                                               |
+| 附帶說明           | Up-to date: Breast-Feeding Considerations:It is not known if dutasteride or tamsulosin are excreted in human milk. Use is contraindicated in women of childbearing potential. TAMSULOSIN BREASTFEEDING RECOMMENDATION: No Human Data—Potential Toxicity                                                                                                                          |
+| 注射劑給藥建議途徑 | N/A                                                                                                                                                                                                                                                                                                                                                                              |
+| 乾粉稀釋液         | N/A                                                                                                                                                                                                                                                                                                                                                                              |
+| 輸注點滴液         | N/A                                                                                                                                                                                                                                                                                                                                                                              |
+| IVP 用法建議       | N/A                                                                                                                                                                                                                                                                                                                                                                              |
+| IVD 用法建議       | N/A                                                                                                                                                                                                                                                                                                                                                                              |
+| 注意事項           | N/A                                                                                                                                                                                                                                                                                                                                                                              |
 

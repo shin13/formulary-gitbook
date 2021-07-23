@@ -2,20 +2,20 @@
 
 ## Gentamycin inj 80mg/2mL
 
-| 藥物代碼 | IGEN8 |
-| :--- | :--- |
-| 適應症 | Susceptible infections, Surgical prophylaxis. |
-| 副作用 | Dizziness or vertigo; acute renal failure, interstitial nephritis, acute tubular necrosis; electrolyte imbalances; transient elevation of serum bilirubin and aminotransferases; purpura; nausea, vomiting; convulsions, mental depression, hallucinations. Atrophy or rat necrosis at inj sites. |
-| 禁忌 | History of hypersensitivity to aminoglycoside; pregnancy; perforated ear drum. |
-| 懷孕用藥危分級 | 儘量避免 |
-| 孕期用藥建議 | Human data suggest low risk |
-| 附帶說明 | N/A |
-| 哺乳期用藥建議 | Compatible 哺乳時可使用 |
-| 附帶說明 | N/A |
-| 注射劑給藥建議途徑 | IH, IM, IMP, IRR, IVD, IVI, SCI, SUBCI |
-| 乾粉稀釋液 | N/A |
-| 輸注點滴液 | 【D10W】 可選  【D5W】 可選 仿單建議  【L/R】 可選  【N/S】 可選 仿單建議 |
-| IVP 用法建議 | N/A |
-| IVD 用法建議 | 給藥濃度&lt; 1 mg/mL \(IV infuse over 30 minutes to 2 hours\)。 NeoFax建議：Infuse over a period of 30 to 120 minutes using a concentration of 2 mg/mL or 10 mg/mL. |
-| 注意事項 | 1. 監測體溫、CBC、肝腎功能、血鈣、血鉀、血鈉、血鎂、聽覺功能。 2. 建議監測藥物血中濃度。 |
+| 藥物代碼           | IGEN8                                                                                                                                                                                                                                                                                             |
+|:-------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 適應症             | Susceptible infections, Surgical prophylaxis.                                                                                                                                                                                                                                                     |
+| 副作用             | Dizziness or vertigo; acute renal failure, interstitial nephritis, acute tubular necrosis; electrolyte imbalances; transient elevation of serum bilirubin and aminotransferases; purpura; nausea, vomiting; convulsions, mental depression, hallucinations. Atrophy or rat necrosis at inj sites. |
+| 禁忌               | History of hypersensitivity to aminoglycoside; pregnancy; perforated ear drum.                                                                                                                                                                                                                    |
+| 懷孕用藥危分級     | 儘量避免                                                                                                                                                                                                                                                                                          |
+| 孕期用藥建議       | Human data suggest low risk                                                                                                                                                                                                                                                                       |
+| 附帶說明           | N/A                                                                                                                                                                                                                                                                                               |
+| 哺乳期用藥建議     | Compatible 哺乳時可使用                                                                                                                                                                                                                                                                           |
+| 附帶說明           | N/A                                                                                                                                                                                                                                                                                               |
+| 注射劑給藥建議途徑 | IH, IM, IMP, IRR, IVD, IVI, SCI, SUBCI                                                                                                                                                                                                                                                            |
+| 乾粉稀釋液         | N/A                                                                                                                                                                                                                                                                                               |
+| 輸注點滴液         | 【D5W】 可選 仿單建議  【N/S】 可選 仿單建議  【D10W】 可選  【L/R】 可選                                                                                                                                                                                                                         |
+| IVP 用法建議       | N/A                                                                                                                                                                                                                                                                                               |
+| IVD 用法建議       | 給藥濃度< 1 mg/mL (IV infuse over 30 minutes to 2 hours)。 NeoFax建議：Infuse over a period of 30 to 120 minutes using a concentration of 2 mg/mL or 10 mg/mL.                                                                                                                                    |
+| 注意事項           | 1. 監測體溫、CBC、肝腎功能、血鈣、血鉀、血鈉、血鎂、聽覺功能。 2. 建議監測藥物血中濃度。                                                                                                                                                                                                          |
 

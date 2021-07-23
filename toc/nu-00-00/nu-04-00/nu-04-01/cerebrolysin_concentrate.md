@@ -1,25 +1,25 @@
-# Cerebrolysin Concentrate
+# Cerebrolysin concentrate
 
 ## Cerebrolysin 215.2mg/mL 10mL
 
-| 藥物代碼 | ICERE |
-| :--- | :--- |
-| 適應症 | Amino acid supplement for disturbances of protein digestion & malabsorption due to disorders, heavy protein loss due to wounds, burns, fractures, purulency or operation.. |
-| 副作用 | Hypersensitivity reactions. |
-| 禁忌 | severe renal impairment |
-| 藥物保存方式 | N/A |
-| 用法用量 | Up to 2mL of Cerebrolysin can be injected subcutaneously, up to 5mL intramuscularly, and up to 10mL intravenously. In addition, an infusion containing 10mL to maximum 30mL diluted in approx 250mL of physiological saline is recommended, which should be given slowly enough so that the length of the infusion is approximately 60-120 minutes. |
-| 肝功能異常 | 無需調整劑量 |
-| 腎功能異常 | 無需調整劑量 |
-| 懷孕用藥危分級 | 尚未確立 |
-| 孕期用藥建議 | N/A |
-| 附帶說明 | N/A |
-| 哺乳期用藥建議 | Unknown 尚未建立 |
-| 附帶說明 | N/A |
-| 注射劑給藥建議途徑 | IM, IVD |
-| 乾粉稀釋液 | N/A |
-| 輸注點滴液 | 【D5W】 可選  【N/S】 可選 |
-| IVP 用法建議 | N/A |
-| IVD 用法建議 | 1.建議以60 ~ 120分鐘緩慢滴注 2.10ml - 50ml Cerebrolysin diluted to at least 100ml total volume with Saline, Ringer solution or 5% glucose solution. Infuse within 15 minutes. \[202004查詢廠商國外官網[https://www.cerebrolysin.com/en/cerebrolysin/administration.html](https://www.cerebrolysin.com/en/cerebrolysin/administration.html)\] |
-| 注意事項 | N/A |
+| 藥物代碼           | ICERE                                                                                                                                                                                                                                                                                                                                               |
+|:-------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 適應症             | Amino acid supplement for disturbances of protein digestion & malabsorption due to disorders, heavy protein loss due to wounds, burns, fractures, purulency or operation..                                                                                                                                                                          |
+| 副作用             | Hypersensitivity reactions.                                                                                                                                                                                                                                                                                                                         |
+| 禁忌               | severe renal impairment                                                                                                                                                                                                                                                                                                                             |
+| 藥物保存方式       | N/A                                                                                                                                                                                                                                                                                                                                                 |
+| 用法用量           | Up to 2mL of Cerebrolysin can be injected subcutaneously, up to 5mL intramuscularly, and up to 10mL intravenously. In addition, an infusion containing 10mL to maximum 30mL diluted in approx 250mL of physiological saline is recommended, which should be given slowly enough so that the length of the infusion is approximately 60-120 minutes. |
+| 肝功能異常         | 無需調整劑量                                                                                                                                                                                                                                                                                                                                        |
+| 腎功能異常         | 無需調整劑量                                                                                                                                                                                                                                                                                                                                        |
+| 懷孕用藥危分級     | 尚未確立                                                                                                                                                                                                                                                                                                                                            |
+| 孕期用藥建議       | N/A                                                                                                                                                                                                                                                                                                                                                 |
+| 附帶說明           | N/A                                                                                                                                                                                                                                                                                                                                                 |
+| 哺乳期用藥建議     | Unknown 尚未建立                                                                                                                                                                                                                                                                                                                                    |
+| 附帶說明           | N/A                                                                                                                                                                                                                                                                                                                                                 |
+| 注射劑給藥建議途徑 | IM, IVD                                                                                                                                                                                                                                                                                                                                             |
+| 乾粉稀釋液         | N/A                                                                                                                                                                                                                                                                                                                                                 |
+| 輸注點滴液         | 【N/S】 可選  【D5W】 可選                                                                                                                                                                                                                                                                                                                          |
+| IVP 用法建議       | N/A                                                                                                                                                                                                                                                                                                                                                 |
+| IVD 用法建議       | 1.建議以60 ~ 120分鐘緩慢滴注 2.10ml - 50ml Cerebrolysin diluted to at least 100ml total volume with Saline, Ringer solution or 5% glucose solution. Infuse within 15 minutes. [202004查詢廠商國外官網https://www.cerebrolysin.com/en/cerebrolysin/administration.html]                                                                              |
+| 注意事項           | N/A                                                                                                                                                                                                                                                                                                                                                 |
 

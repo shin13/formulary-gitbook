@@ -2,20 +2,20 @@
 
 ## Xyzal  5mg
 
-| 藥物代碼 | OXYZ |
-| :--- | :--- |
-| 適應症 | Treatment of symptoms associated with allergic conditions in adults & children &gt;= 6 years, such as seasonal allergic rhinitis, perennial allergic rhinitis & chronic urticaria. |
-| 副作用 | Dry mouth, headache, fatigue, somnolence, asthenia, rhinitis, pharyngitis, abdominal pain & migraine.Neurologic: Asthenia \(2.3% \), Somnolence \(children 3%; adults 5% to 6% \)Respiratory: Nasopharyngitis \(4% to 6% \), Pharyngitis \(1% to 2% \), Xerostomia \(2% to 3% \)Other: Fatigue \(1% to 4% \), Fever \(children 4% \) |
-| 禁忌 | Severe renal impairment \(creatinine clearance &lt; 10 mL/min\). |
-| 懷孕用藥危分級 | 可能安全 |
-| 孕期用藥建議 | No \(Limited\) Human Data - animal data suggest low risk |
-| 附帶說明 | N/A |
-| 哺乳期用藥建議 | No \(Limited\) Human Data - Probably Compatible 無\(很少\)資料 - 可使用 |
-| 附帶說明 | N/A |
-| 注射劑給藥建議途徑 | AC, AC15, PC, PO, WM |
-| 乾粉稀釋液 | N/A |
-| 輸注點滴液 | N/A |
-| IVP 用法建議 | N/A |
-| IVD 用法建議 | N/A |
-| 注意事項 | N/A |
+| 藥物代碼           | OXYZ                                                                                                                                                                                                                                                                                                                   |
+|:-------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 適應症             | Treatment of symptoms associated with allergic conditions in adults & children >= 6 years, such as seasonal allergic rhinitis, perennial allergic rhinitis & chronic urticaria.                                                                                                                                        |
+| 副作用             | Dry mouth, headache, fatigue, somnolence, asthenia, rhinitis, pharyngitis, abdominal pain & migraine.Neurologic: Asthenia (2.3% ), Somnolence (children 3%; adults 5% to 6% )Respiratory: Nasopharyngitis (4% to 6% ), Pharyngitis (1% to 2% ), Xerostomia (2% to 3% )Other: Fatigue (1% to 4% ), Fever (children 4% ) |
+| 禁忌               | Severe renal impairment (creatinine clearance < 10 mL/min).                                                                                                                                                                                                                                                            |
+| 懷孕用藥危分級     | 可能安全                                                                                                                                                                                                                                                                                                               |
+| 孕期用藥建議       | No (Limited) Human Data - animal data suggest low risk                                                                                                                                                                                                                                                                 |
+| 附帶說明           | N/A                                                                                                                                                                                                                                                                                                                    |
+| 哺乳期用藥建議     | No (Limited) Human Data - Probably Compatible 無(很少)資料 - 可使用                                                                                                                                                                                                                                                    |
+| 附帶說明           | N/A                                                                                                                                                                                                                                                                                                                    |
+| 注射劑給藥建議途徑 | AC, AC15, PC, PO, WM                                                                                                                                                                                                                                                                                                   |
+| 乾粉稀釋液         | N/A                                                                                                                                                                                                                                                                                                                    |
+| 輸注點滴液         | N/A                                                                                                                                                                                                                                                                                                                    |
+| IVP 用法建議       | N/A                                                                                                                                                                                                                                                                                                                    |
+| IVD 用法建議       | N/A                                                                                                                                                                                                                                                                                                                    |
+| 注意事項           | N/A                                                                                                                                                                                                                                                                                                                    |
 
