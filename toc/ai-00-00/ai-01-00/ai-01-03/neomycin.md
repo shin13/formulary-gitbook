@@ -2,20 +2,16 @@
 
 ## Neomycin 250mg
 
-| 藥物代碼 | ONEO |
-| :--- | :--- |
-| 適應症 | Bowel sterilisation before surgery; to reduce the bacterial population of the colon in hepatic failure. |
-| 副作用 | Vestibular & auditory damage, nephrotoxicity, GI disturbances. |
-| 禁忌 | Intestinal obstruction; myasthenia gravis. |
-| 懷孕用藥危分級 | 儘量避免 |
-| 孕期用藥建議 | N/A |
-| 附帶說明 | N/A |
-| 哺乳期用藥建議 | No \(Limited\) Human Data - Probably Compatible 無\(很少\)資料 - 可使用 |
-| 附帶說明 | 以上懷孕分級參考micromedex |
-| 注射劑給藥建議途徑 | N/A |
-| 乾粉稀釋液 | N/A |
-| 輸注點滴液 | N/A |
-| IVP 用法建議 | N/A |
-| IVD 用法建議 | N/A |
-| 注意事項 | N/A |
+#### 一般可用
+
+| 藥品代碼       | ONEO                                                                                                                                                                                                                           |
+|:---------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 適應症         | Bowel sterilisation before surgery; to reduce the bacterial population of the colon in hepatic failure.                                                                                                                        |
+| 用法用量       | (仿單) Adults: Intestinal infection: 500 mg orally Q6H. Bowel preparation， pre-GI surgery: 1 g orally Q6H for 1-3 days. (熱病) Hepatic encephalopathy: 500-2000 mg Q6-8H for 5-6 days; seek safer alternative for longer use. |
+| 肝功能異常     | 無需調整劑量                                                                                                                                                                                                                   |
+| 腎功能異常     | 需調整劑量                                                                                                                                                                                                                     |
+| 禁忌           | Intestinal obstruction; myasthenia gravis.                                                                                                                                                                                     |
+| 副作用         | Vestibular & auditory damage， nephrotoxicity， GI disturbances.                                                                                                                                                               |
+| 孕期用藥建議   | nan                                                                                                                                                                                                                            |
+| 哺乳期用藥建議 | No (Limited) Human Data - Probably Compatible 無(很少)資料 - 可使用                                                                                                                                                            |
 

@@ -1,25 +1,17 @@
 # Pyridoxine
 
-## Pyridoxine \(B6\) 50mg
+## Pyridoxine (B6) 50mg
 
-| 藥物代碼 | OPYR |
-| :--- | :--- |
-| 適應症 | Prevention & treatment of vit B6 deficiency. |
-| 副作用 | Severe peripheral neuropathies \(long-term administration of large doses\). |
-| 禁忌 | Hypersensitivity. |
-| 藥物保存方式 | 室溫 |
-| 用法用量 | 50-200 mg/day. |
-| 肝功能異常 | 無需調整劑量  There are no dosage adjustments provided in the manufacturer’s labeling. |
-| 腎功能異常 | 無需調整劑量 |
-| 懷孕用藥危分級 | 安全 |
-| 孕期用藥建議 | Compatible |
-| 附帶說明 | N/A |
-| 哺乳期用藥建議 | Compatible 哺乳時可使用 |
-| 附帶說明 | N/A |
-| 注射劑給藥建議途徑 | N/A |
-| 乾粉稀釋液 | N/A |
-| 輸注點滴液 | N/A |
-| IVP 用法建議 | N/A |
-| IVD 用法建議 | N/A |
-| 注意事項 | N/A |
+#### 一般可用
+
+| 藥品代碼       | OPYR                                                                                                                                                                                                                                                                                                                                                                                                                             |
+|:---------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 適應症         | Prevention & treatment of vit B6 deficiency.                                                                                                                                                                                                                                                                                                                                                                                     |
+| 用法用量       | 50-100 mg/day. [Micromedex 20210731] Adverse reaction to drug - Vitamin B6 deficiency: (deficiency due to isoniazid) 100 mg/day IV or IM for 3 weeks， followed by 30 mg/day ORAL maintenance dose. [UpToDate 20210731] Nausea and vomiting of pregnancy (off-label use): Oral: 10 to 25 mg 3 to 4 times a day. May be given alone or in combination with doxylamine. Adjust dose based on severity of symptoms (ACOG 189 2018). |
+| 肝功能異常     | 無需調整劑量                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| 腎功能異常     | 無需調整劑量                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| 禁忌           | Hypersensitivity.                                                                                                                                                                                                                                                                                                                                                                                                                |
+| 副作用         | Severe peripheral neuropathies (long-term administration of large doses).                                                                                                                                                                                                                                                                                                                                                        |
+| 孕期用藥建議   | Compatible                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| 哺乳期用藥建議 | Compatible 哺乳時可使用                                                                                                                                                                                                                                                                                                                                                                                                          |
 

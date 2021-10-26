@@ -2,47 +2,31 @@
 
 ## Bisacodyl suppository 10mg
 
-| 藥物代碼 | EBIS |
-| :--- | :--- |
-| 適應症 | Constipation. Preparation of diagnostic procedures, in pre- & post-examination & in conditions which require defecation to be facilitated. |
-| 副作用 | Rarely, abdominal cramps, abdominal pain & diarrhea. Allergic reactions. |
-| 禁忌 | Ileus, intestinal obstruction, acute surgical abdominal conditions including appendicitis, acute inflammatory bowel diseases & severe dehydration. Rare hereditary conditions of galactose intolerance eg. galactosemia or fructose intolerance. Lactation. |
-| 藥物保存方式 | 室溫 |
-| 用法用量 | Dosing: Adult Relief of constipation: Rectal: Suppository: 10 mg as single dose Children: Rectal \(suppository\) 2 years: 10 mg |
-| 肝功能異常 | 無需調整劑量 |
-| 腎功能異常 | 無需調整劑量 |
-| 懷孕用藥危分級 | 除非治療上需要 |
-| 孕期用藥建議 | N/A |
-| 附帶說明 | N/A |
-| 哺乳期用藥建議 | No \(Limited\) Human Data - Probably Compatible 無\(很少\)資料 - 可使用 |
-| 附帶說明 | N/A |
-| 注射劑給藥建議途徑 | RECT |
-| 乾粉稀釋液 | N/A |
-| 輸注點滴液 | N/A |
-| IVP 用法建議 | N/A |
-| IVD 用法建議 | N/A |
-| 注意事項 | N/A |
+#### 一般可用
+
+| 藥品代碼       | EBIS                                                                                                                                                                                                                                                           |
+|:---------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 適應症         | Constipation. Preparation of diagnostic procedures， in pre- & post-examination & in conditions which require defecation to be facilitated.                                                                                                                    |
+| 用法用量       | Dosing: Adult & children > 10 years Relief of constipation: Rectal: Suppository: 5-10 mg as single dose Children: Rectal (suppository) 4-10 years: 5mg <4 years: 5 mg as a single dose                                                                         |
+| 肝功能異常     | 無需調整劑量                                                                                                                                                                                                                                                   |
+| 腎功能異常     | 無需調整劑量                                                                                                                                                                                                                                                   |
+| 禁忌           | Ileus， intestinal obstruction， acute surgical abdominal conditions including appendicitis， acute inflammatory bowel diseases & severe dehydration. Rare hereditary conditions of galactose intolerance eg. galactosemia or fructose intolerance. Lactation. |
+| 副作用         | Rarely， abdominal cramps， abdominal pain & diarrhea. Allergic reactions.                                                                                                                                                                                     |
+| 孕期用藥建議   | nan                                                                                                                                                                                                                                                            |
+| 哺乳期用藥建議 | No (Limited) Human Data - Probably Compatible 無(很少)資料 - 可使用                                                                                                                                                                                            |
 
 ## Johnlax 5mg
 
-| 藥物代碼 | OJOH |
-| :--- | :--- |
-| 適應症 | Treatment of constipation; colonic evacuation prior to procedures or examination. |
-| 副作用 | Abdominal cramps \(mild\), electrolyte disturbance \(metabolic acidosis or alkalosis, hypocalcemia\), nausea, rectal irritation \(burning\), vertigo, vomiting |
-| 禁忌 | Hypersensitivity to bisacodyl or any component of the formulation; abdominal pain or obstruction, nausea, or vomiting |
-| 藥物保存方式 | 室溫 |
-| 用法用量 | Dosing: Adult Relief of constipation: Oral: 5-15 mg as single dose \(up to 30 mg when complete evacuation of bowel is required\) Rectal: Suppository: 10 mg as single dose Dosing: Pediatric Relief of constipation: Oral: Children &gt;6 years: 5-10 mg \(0.3 mg/kg\) at bedtime or before breakfast Rectal \(suppository\): Children: 2 years: 10 mg Dosing: Geriatric Refer to adult dosing. |
-| 肝功能異常 | 無需調整劑量 |
-| 腎功能異常 | 無需調整劑量 |
-| 懷孕用藥危分級 | 除非治療上需要 |
-| 孕期用藥建議 | N/A |
-| 附帶說明 | N/A |
-| 哺乳期用藥建議 | No \(Limited\) Human Data - Probably Compatible 無\(很少\)資料 - 可使用 |
-| 附帶說明 | N/A |
-| 注射劑給藥建議途徑 | N/A |
-| 乾粉稀釋液 | N/A |
-| 輸注點滴液 | N/A |
-| IVP 用法建議 | N/A |
-| IVD 用法建議 | N/A |
-| 注意事項 | 應整粒吞服, 切勿咬嚼或壓碎 |
+#### 一般可用
+
+| 藥品代碼       | OJOH                                                                                                                                                                                                                                   |
+|:---------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 適應症         | Treatment of constipation; colonic evacuation prior to procedures or examination.                                                                                                                                                      |
+| 用法用量       | Dosing: Adult & children >10 years Relief of constipation: Oral: 5-10 mg as single dose Dosing: Pediatric Relief of constipation: Oral: Children 4-10 years: 5 mg as single dose Oral: Children <4 years: recommend Rectal suppository |
+| 肝功能異常     | 無需調整劑量                                                                                                                                                                                                                           |
+| 腎功能異常     | 無需調整劑量                                                                                                                                                                                                                           |
+| 禁忌           | Hypersensitivity to bisacodyl or any component of the formulation; abdominal pain or obstruction， nausea， or vomiting                                                                                                                |
+| 副作用         | Abdominal cramps (mild)， electrolyte disturbance (metabolic acidosis or alkalosis， hypocalcemia)， nausea， rectal irritation (burning)， vertigo， vomiting                                                                         |
+| 孕期用藥建議   | nan                                                                                                                                                                                                                                    |
+| 哺乳期用藥建議 | No (Limited) Human Data - Probably Compatible 無(很少)資料 - 可使用                                                                                                                                                                    |
 

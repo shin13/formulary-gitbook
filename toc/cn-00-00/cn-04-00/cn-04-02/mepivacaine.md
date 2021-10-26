@@ -1,25 +1,32 @@
 # Mepivacaine
 
-## Scandonest 3%\(for Dental\) 1.8mL
+## Mepivastesin 3%(for Dental) 1.7mL
 
-| 藥物代碼 | ISCA3 |
-| :--- | :--- |
-| 適應症 | Dental infiltration and dental nerve block. |
-| 副作用 | Restlessness, excitement, nervousness, paraesthesias; dizziness, tinnitus, blurred vision; nausea, vomiting; muscle twitching, tremors, convulsions; numbness of the tongue and perioral region; lightheadedness, drowsiness, respiratory failure, coma, hypotension. |
-| 禁忌 | Complete heart block. Porphyria. Do not inject through infected skin when using for epidural anaesthesia. |
-| 藥物保存方式 | 室溫 |
-| 用法用量 | 3~6 years:max.1.8ml 6~14 years:usual dose:1.35ml; max.2.7ml |
-| 肝功能異常 | 無需調整劑量  需調整劑量 |
-| 腎功能異常 | 無需調整劑量  需調整劑量 |
-| 懷孕用藥危分級 | 除非治療上需要 |
-| 孕期用藥建議 | N/A |
-| 附帶說明 | N/A |
-| 哺乳期用藥建議 | No \(Limited\) Human Data - Probably Compatible 無\(很少\)資料 - 可使用 |
-| 附帶說明 | N/A |
-| 注射劑給藥建議途徑 | LI |
-| 乾粉稀釋液 | N/A |
-| 輸注點滴液 | N/A |
-| IVP 用法建議 | N/A |
-| IVD 用法建議 | N/A |
-| 注意事項 | N/A |
+#### 一般可用
+
+| 藥品代碼       | IMEPI                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+|:---------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 適應症         | Dental infiltration and dental nerve block.                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| 用法用量       | Mepivacaine 30mg/mL. Dosage requirements should be determined on an individual basis. For submucosal infiltration and/or nerve block injection. Avoid intravascular injection. Aspirate the syringe after tissue penetration and before injection to minimize chance of direct vascular injection. Adult: dosages of 1-4 mL are usually effective. Children 20-30 kg: 0.25-1 mL. Children 30-45 kg: 0.5-2 mL. Mepivacaine maximum dose: 4 mg/kg (equivalent to 0.133 mL). |
+| 肝功能異常     | 無需調整劑量                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| 腎功能異常     | 無需調整劑量                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| 禁忌           | Complete heart block. Porphyria. Do not inject through infected skin when using for epidural anaesthesia.                                                                                                                                                                                                                                                                                                                                                                 |
+| 副作用         | Restlessness， excitement， nervousness， paraesthesias; dizziness， tinnitus， blurred vision; nausea， vomiting; muscle twitching， tremors， convulsions; numbness of the tongue and perioral region; lightheadedness， drowsiness， respiratory failure， coma， hypotension.                                                                                                                                                                                         |
+| 孕期用藥建議   | nan                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| 哺乳期用藥建議 | No (Limited) Human Data - Probably Compatible 無(很少)資料 - 可使用                                                                                                                                                                                                                                                                                                                                                                                                       |
+
+## Scandonest 3%(for Dental) 1.8mL
+
+#### 一般可用
+
+| 藥品代碼       | ISCA3                                                                                                                                                                                                                                                                             |
+|:---------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 適應症         | Dental infiltration and dental nerve block.                                                                                                                                                                                                                                       |
+| 用法用量       | 3~6 years:max.1.8ml 6~14 years:usual dose:1.35ml; max.2.7ml                                                                                                                                                                                                                       |
+| 肝功能異常     | 無需調整劑量                                                                                                                                                                                                                                                                      |
+| 腎功能異常     | 無需調整劑量                                                                                                                                                                                                                                                                      |
+| 禁忌           | Complete heart block. Porphyria. Do not inject through infected skin when using for epidural anaesthesia.                                                                                                                                                                         |
+| 副作用         | Restlessness， excitement， nervousness， paraesthesias; dizziness， tinnitus， blurred vision; nausea， vomiting; muscle twitching， tremors， convulsions; numbness of the tongue and perioral region; lightheadedness， drowsiness， respiratory failure， coma， hypotension. |
+| 孕期用藥建議   | nan                                                                                                                                                                                                                                                                               |
+| 哺乳期用藥建議 | No (Limited) Human Data - Probably Compatible 無(很少)資料 - 可使用                                                                                                                                                                                                               |
 

@@ -5,7 +5,7 @@
 import re
 import pandas as pd
 
-cat_list = pd.read_excel('cat_ref.xlsx')
+cat_list = pd.read_excel('cat_ref2.xlsx')
 cat_list['code'] = '[' + cat_list['code'].astype(str) + ']'
 cat_list['name'] = '[' + cat_list['name'].astype(str) + ']'
 

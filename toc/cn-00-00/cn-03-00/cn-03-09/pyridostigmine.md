@@ -1,25 +1,32 @@
 # Pyridostigmine
 
+## Antilon 60mg
+
+#### 一般可用
+
+| 藥品代碼       | OANT6                                                                                                                                                                                                                                                                                                                                                                                                                            |
+|:---------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 適應症         | Myasthenia gravis.                                                                                                                                                                                                                                                                                                                                                                                                               |
+| 用法用量       | Myasthenia gravis: each time 60-180 mg， BID-QID. [Micromedex 20211004] Myasthenia gravis: 600 mg (ten 60-mg tablets) orally daily， spaced throughout the day to provide maximum relief when maximum strength is needed; dosage and frequency must be individualized; mild cases may respond to 60 to 360 mg (one to six 60-mg tablets) daily， while severe cases may require up to 1500 mg (twenty five 60-mg tablets) daily. |
+| 肝功能異常     | 無需調整劑量                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| 腎功能異常     | 無需調整劑量                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| 禁忌           | Hypersensitivity to anticholinesterase agents. Mechanical intestinal obstruction. Urinary obstruction.                                                                                                                                                                                                                                                                                                                           |
+| 副作用         | Common Dermatologic: Diaphoresis Gastrointestinal: Diarrhea， Excessive salivation， Increased peristalsis， Stomach cramps Musculoskeletal: Cramp， Muscle fasciculation Neurologic: Asthenia Ophthalmic: Miosis Respiratory: Excessive bronchial secretion                                                                                                                                                                     |
+| 孕期用藥建議   | No (limited) human data – animal data suggest low risk                                                                                                                                                                                                                                                                                                                                                                           |
+| 哺乳期用藥建議 | No (Limited) Human Data - Probably Compatible 無(很少)資料 - 可使用                                                                                                                                                                                                                                                                                                                                                              |
+
 ## Mestinon 60mg
 
-| 藥物代碼 | OMES |
-| :--- | :--- |
-| 適應症 | Myasthenia gravis. |
-| 副作用 | Muscarinic: Nausea, vomiting, diarrhea, abdominal cramps, increased peristalsis, increased salivation, increased bronchial secretions, headache, miosis and diaphoresis.Nicotinic: Muscle cramps, fasciculation and weakness. |
-| 禁忌 | Mechanical intestinal or urinary obstruction. |
-| 藥物保存方式 | 室溫 |
-| 用法用量 | Intestinal atony, atonic constipation 1 tab at interval of 4 hr. Myasthenia gravis 1-3 tab Bid-qid;more in severe cases. |
-| 肝功能異常 | 無需調整劑量 |
-| 腎功能異常 | 無需調整劑量 |
-| 懷孕用藥危分級 | 除非治療上需要 |
-| 孕期用藥建議 | No \(Limited\) Human Data - animal data suggest low risk |
-| 附帶說明 | N/A |
-| 哺乳期用藥建議 | No \(Limited\) Human Data - Probably Compatible 無\(很少\)資料 - 可使用 |
-| 附帶說明 | N/A |
-| 注射劑給藥建議途徑 | N/A |
-| 乾粉稀釋液 | N/A |
-| 輸注點滴液 | N/A |
-| IVP 用法建議 | N/A |
-| IVD 用法建議 | N/A |
-| 注意事項 | N/A |
+#### 一般可用
+
+| 藥品代碼       | OMES                                                                                                                                                                                                                                    |
+|:---------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 適應症         | Myasthenia gravis.                                                                                                                                                                                                                      |
+| 用法用量       | Myasthenia gravis: 60-180 mg BID-QID. Severe cases may require up to 1500 mg daily. (MicroMedex)                                                                                                                                        |
+| 肝功能異常     | 無需調整劑量                                                                                                                                                                                                                            |
+| 腎功能異常     | 無需調整劑量                                                                                                                                                                                                                            |
+| 禁忌           | Mechanical intestinal or urinary obstruction.                                                                                                                                                                                           |
+| 副作用         | Muscarinic: Nausea， vomiting， diarrhea， abdominal cramps， increased peristalsis， increased salivation， increased bronchial secretions， headache， miosis and diaphoresis. Nicotinic: Muscle cramps， fasciculation and weakness. |
+| 孕期用藥建議   | No (limited) human data – animal data suggest low risk                                                                                                                                                                                  |
+| 哺乳期用藥建議 | No (Limited) Human Data - Probably Compatible 無(很少)資料 - 可使用                                                                                                                                                                     |
 

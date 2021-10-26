@@ -2,24 +2,16 @@
 
 ## Mycostatin100000 Units/mL suspension
 
-| 藥物代碼 | LMYC |
-| :--- | :--- |
-| 適應症 | Treatment of susceptible cutaneous, mucocutaneous, and oral cavity fungal infections normally caused by the Candida species |
-| 副作用 | Diarrhea, nausea, stomach pain, vomiting |
-| 禁忌 | Hypersensitivity to nystatin or any component of the formulation |
-| 藥物保存方式 | N/A |
-| 用法用量 | Oral candidiasis: \(Suspension\) Premature infants: 100,000 units 4 times/day; paint suspension into recesses of the mouth Infants: 200,000 units 4 times/day or 100,000 units to each side of mouth 4 times/day; paint suspension into recesses of the mouth Children: 400,000-600,000 units 4 times/day; swish in the mouth and retain for as long as possible \(several minutes\) before swallowing Adult: Suspension \(swish and swallow\): 400,000-600,000 units 4 times/day; swish in the mouth and retain for as long as possible \(several minutes\) before swallowing |
-| 肝功能異常 | 無需調整劑量 |
-| 腎功能異常 | 無需調整劑量 |
-| 懷孕用藥危分級 | 除非治療上需要 |
-| 孕期用藥建議 | Compatible |
-| 附帶說明 | N/A |
-| 哺乳期用藥建議 | Compatible 哺乳時可使用 |
-| 附帶說明 | N/A |
-| 注射劑給藥建議途徑 | AC, AC15, PC, PO, WM |
-| 乾粉稀釋液 | N/A |
-| 輸注點滴液 | N/A |
-| IVP 用法建議 | N/A |
-| IVD 用法建議 | N/A |
-| 注意事項 | N/A |
+#### 一般可用
+
+| 藥品代碼       | LMYC                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+|:---------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 適應症         | Treatment of susceptible cutaneous， mucocutaneous， and oral cavity fungal infections normally caused by the Candida species                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| 用法用量       | Oral candidiasis: (Suspension) Premature infants: 100，000 units 4 times/day; paint suspension into recesses of the mouth Infants: 200，000 units 4 times/day or 100，000 units to each side of mouth 4 times/day; paint suspension into recesses of the mouth Children: 400，000-600，000 units 4 times/day; swish in the mouth and retain for as long as possible (several minutes) before swallowing Adult: Suspension (swish and swallow): 400，000-600，000 units 4 times/day; swish in the mouth and retain for as long as possible (several minutes) before swallowing |
+| 肝功能異常     | 無需調整劑量                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| 腎功能異常     | 無需調整劑量                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| 禁忌           | Hypersensitivity to nystatin or any component of the formulation                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| 副作用         | Diarrhea， nausea， stomach pain， vomiting                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| 孕期用藥建議   | Compatible                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| 哺乳期用藥建議 | Compatible 哺乳時可使用                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 

@@ -1,25 +1,17 @@
-# Perfluorobutane Microbubbles
+# Perfluorobutane microbubbles
 
-## Sonazoid inj 8 microliter/mL 2mL
+## Sonazoid inj 8 microliter/mL， 2mL
 
-| 藥物代碼 | ISONA |
-| :--- | :--- |
-| 適應症 | Contrast-enhanced ultrasonography of focal liver lesions and focal breast lesions. |
-| 副作用 | Headache, diarrhea, nausea, vomiting, abdominal pain, fever. |
-| 禁忌 | Hypersensitivity to Perfluorobutane microbubbles. |
-| 藥物保存方式 | 室溫 |
-| 用法用量 | Sonazoid contain perfluorobutane \(PFB\) microbubbles: 8 microliter per mL, powder and solvent for dispersion for injection. Adult: subsequent dosage adjustments should be made based on body weight. IV push only. 40kg:0.6mL; 50kg:0.75mL; 60kg:0.9mL; 70kg:1.05mL; 80kg: 1.2mL; 90kg:1.35mL; 100kg:1.5mL |
-| 肝功能異常 | 無需調整劑量 |
-| 腎功能異常 | 無需調整劑量 |
-| 懷孕用藥危分級 | 尚未確立 |
-| 孕期用藥建議 | N/A |
-| 附帶說明 | N/A |
-| 哺乳期用藥建議 | Unknown 尚未建立 |
-| 附帶說明 | 1.使用注射針孔徑至少為22G。 2.靜置時懸浮液會分離，使用前需要搖晃均勻。 3.投藥後以5-10mL的0.9%N/S沖洗注射管路。 4.僅供單次使用。 |
-| 注射劑給藥建議途徑 | IVP, IVPUSH |
-| 乾粉稀釋液 | 藥品專用稀釋液 |
-| 輸注點滴液 | N/A |
-| IVP 用法建議 | IV bolus for contrast-enhanced ultrasonography. |
-| IVD 用法建議 | N/A |
-| 注意事項 | 1.使用注射針孔徑至少為22G。 2.靜置時懸浮液會分離，使用前需要搖晃均勻。 3.投藥後以5-10mL的0.9%N/S沖洗注射管路。 4.僅供單次使用。 |
+#### 單位臨採
+
+| 藥品代碼       | ISONA                                                                                                                                                                                                                                                                                                       |
+|:---------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 適應症         | Contrast-enhanced ultrasonography of focal liver lesions and focal breast lesions.                                                                                                                                                                                                                          |
+| 用法用量       | Sonazoid contain perfluorobutane (PFB) microbubbles: 8 microliter per mL， powder and solvent for dispersion for injection. Adult: subsequent dosage adjustments should be made based on body weight. IV push only. 40kg:0.6mL; 50kg:0.75mL; 60kg:0.9mL; 70kg:1.05mL; 80kg: 1.2mL; 90kg:1.35mL; 100kg:1.5mL |
+| 肝功能異常     | 無需調整劑量                                                                                                                                                                                                                                                                                                |
+| 腎功能異常     | 無需調整劑量                                                                                                                                                                                                                                                                                                |
+| 禁忌           | Hypersensitivity to Perfluorobutane microbubbles.                                                                                                                                                                                                                                                           |
+| 副作用         | Headache， diarrhea， nausea， vomiting， abdominal pain， fever.                                                                                                                                                                                                                                           |
+| 孕期用藥建議   | Uknown 沒有資料                                                                                                                                                                                                                                                                                             |
+| 哺乳期用藥建議 | Unknown 沒有資料                                                                                                                                                                                                                                                                                            |
 

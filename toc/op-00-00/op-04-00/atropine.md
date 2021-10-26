@@ -1,48 +1,32 @@
 # Atropine
 
-## Antol 0.125% 5mL
+## Antol 0.125%， 5mL
 
-| 藥物代碼 | EATR1 |
-| :--- | :--- |
-| 適應症 | Topical mydriatic & cycloplegic; uveitis. |
-| 副作用 | Stinging, increased intraocular pressure, conjunctivitis. May precipitate glaucoma. |
-| 禁忌 | Closed- & narrow-angle glaucoma. |
-| 藥物保存方式 | 室溫 |
-| 用法用量 | 1 gtt hs: for treatment of myopia. \(0.1 %, 0.25 % and 0.5%\) 1 gtt qid: for use in uveitis. \(1.0 %\) |
-| 肝功能異常 | 無需調整劑量 |
-| 腎功能異常 | 無需調整劑量 |
-| 懷孕用藥危分級 | 除非治療上需要 |
-| 孕期用藥建議 | No \(Limited\) Human Data - Probably Compatible |
-| 附帶說明 | N/A |
-| 哺乳期用藥建議 | No \(Limited\) Human Data - Probably Compatible 無\(很少\)資料 - 可使用 |
-| 附帶說明 | N/A |
-| 注射劑給藥建議途徑 | OD, OL, OU |
-| 乾粉稀釋液 | N/A |
-| 輸注點滴液 | N/A |
-| IVP 用法建議 | N/A |
-| IVD 用法建議 | N/A |
-| 注意事項 | N/A |
+#### 一般可用
 
-## Atropine Eye Drops 0.01% 0.5mL/支
+| 藥品代碼       | EATR1                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+|:---------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 適應症         | Topical mydriatic & cycloplegic; uveitis.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| 用法用量       | Ciliary muscle paralyzation: Instill 1 drop 1 to 2 times per day at conjunctiva. Age < 1 year: 0.125% or depending on the doctor’s instruction. Age 1-5 years: 0.25% or depending on the doctor’s instruction. Age > or = 5 years with blue iris: 0.25% or depending on the doctor’s instruction. Age > or = 5 years with dark iris: 0.5% or 1% or depending on the doctor’s instruction. Uveitis: Apply 1 drop in the conjunctival sac 1 to 3 times daily(0.125%-1%) For pupil dilation after operation: Instill 1 drop 1 to 3 times per day (or depending on the doctor’s instruction) at conjunctiva. (0.5% or 1%) |
+| 肝功能異常     | 無需調整劑量                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| 腎功能異常     | 無需調整劑量                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| 禁忌           | Closed- & narrow-angle glaucoma.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| 副作用         | Stinging， increased intraocular pressure， conjunctivitis. May precipitate glaucoma.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| 孕期用藥建議   | No (limited) human data – probably compatible                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| 哺乳期用藥建議 | No (Limited) Human Data - Probably Compatible 無(很少)資料 - 可使用                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 
-| 藥物代碼 | EATREU |
-| :--- | :--- |
-| 適應症 | Mydriasis, cycloplegia. |
-| 副作用 | CommonOphthalmic: Blurred vision, Finding of lacrimation, Decreased, Pain in eye, Photophobia, Superficial keratitisSeriousImmunologic: Anaphylaxis, Hypersensitivity reaction,Ophthalmic: acute angle-closure glaucoma, |
-| 禁忌 | Hypersensitivity to any component of the product. Primary glaucoma or predisposition to narrow anterior chamber angle glaucoma. |
-| 藥物保存方式 | 攝氏25度C以下 |
-| 用法用量 | 1-4 times a day, each time used 1-2 drops. |
-| 肝功能異常 | 無需調整劑量 |
-| 腎功能異常 | 無需調整劑量 |
-| 懷孕用藥危分級 | 尚未確立 |
-| 孕期用藥建議 | No \(Limited\) Human Data - Probably Compatible |
-| 附帶說明 | \[仿單\]尚未有動物生殖研究,目前尚未清楚局不Atropine是否會對胎兒造成傷害或影響生殖能力. 僅當清楚需要時,本品可以用於孕婦. |
-| 哺乳期用藥建議 | No \(Limited\) Human Data - Probably Compatible 無\(很少\)資料 - 可使用 |
-| 附帶說明 | \[仿單\]無相關說明 |
-| 注射劑給藥建議途徑 | OD, OL, OU |
-| 乾粉稀釋液 | N/A |
-| 輸注點滴液 | N/A |
-| IVP 用法建議 | N/A |
-| IVD 用法建議 | N/A |
-| 注意事項 | N/A |
+## Atropine Eye Drops 0.01%， 0.5mL/支
+
+#### 一般可用
+
+| 藥品代碼       | EATREU                                                                                                                                                                                                                             |
+|:---------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 適應症         | Mydriasis， cycloplegia.                                                                                                                                                                                                           |
+| 用法用量       | 1-4 times a day， each time used 1-2 drops.                                                                                                                                                                                        |
+| 肝功能異常     | 無需調整劑量                                                                                                                                                                                                                       |
+| 腎功能異常     | 無需調整劑量                                                                                                                                                                                                                       |
+| 禁忌           | Hypersensitivity to any component of the product. Primary glaucoma or predisposition to narrow anterior chamber angle glaucoma.                                                                                                    |
+| 副作用         | Common Ophthalmic: Blurred vision， Finding of lacrimation， Decreased， Pain in eye， Photophobia， Superficial keratitis Serious Immunologic: Anaphylaxis， Hypersensitivity reaction， Ophthalmic: acute angle-closure glaucoma |
+| 孕期用藥建議   | No (limited) human data – probably compatible                                                                                                                                                                                      |
+| 哺乳期用藥建議 | No (Limited) Human Data - Probably Compatible 無(很少)資料 - 可使用                                                                                                                                                                |
 

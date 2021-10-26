@@ -2,24 +2,16 @@
 
 ## Pyrazinamide 500mg
 
-| 藥物代碼 | OPYRZ |
-| :--- | :--- |
-| 適應症 | Treatment of pulmonary & extrapulmonary TB. |
-| 副作用 | Hepatotoxicity, jaundice, hyperuricemia leading to attacks of gout, anorexia, nausea, vomiting, arthralgia, malaise, fever, sideroblastic anemia, difficulty in micturition.Endocrine metabolic: HyperuricemiaGastrointestinal: Nausea, VomitingMusculoskeletal: Arthralgia \(40%\) |
-| 禁忌 | Hypersensitivity to pyrazinamide or any component of the formulation; acute gout; severe hepatic damage |
-| 藥物保存方式 | 25度C以下 |
-| 用法用量 | Always administer in combination with other antitubercular drugs. 20-35 mg/kg daily in 3-4 divided doses. \(max. 3 gm/day\). |
-| 肝功能異常 | 無需調整劑量 |
-| 腎功能異常 | 需 調 整 劑 量 |
-| 懷孕用藥危分級 | 除非治療上需要 |
-| 孕期用藥建議 | Compatible - maternal benefit &gt;&gt; embryo-fetal risk |
-| 附帶說明 | PREGNANCY RECOMMENDATION: Compatible—Maternal Benefit &gt;&gt; Embryo–Fetal Risk |
-| 哺乳期用藥建議 | No \(Limited\) Human Data - Probably Compatible 無\(很少\)資料 - 可使用 |
-| 附帶說明 | N/A |
-| 注射劑給藥建議途徑 | AC, AC15, PO, WM |
-| 乾粉稀釋液 | N/A |
-| 輸注點滴液 | N/A |
-| IVP 用法建議 | N/A |
-| IVD 用法建議 | N/A |
-| 注意事項 | N/A |
+#### 一般可用
+
+| 藥品代碼       | OPYRZ                                                                                                                                                                                                                                                                                           |
+|:---------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 適應症         | Treatment of pulmonary & extrapulmonary TB.                                                                                                                                                                                                                                                     |
+| 用法用量       | (仿單) 1500-2000 mg/day (3-4 tablets) divided into 1-3 doses. (熱病) Adult: 25 mg/kg po q24h (max. 2.5 g/day). Pediatric: 15-30 mg/kg/day (once daily， max. 2 g/day) or 50 mg/kg twice weekly (max. 2 g/day).                                                                                  |
+| 肝功能異常     | 無需調整劑量                                                                                                                                                                                                                                                                                    |
+| 腎功能異常     | 需調整劑量                                                                                                                                                                                                                                                                                      |
+| 禁忌           | Hypersensitivity to pyrazinamide or any component of the formulation; acute gout; severe hepatic damage                                                                                                                                                                                         |
+| 副作用         | Hepatotoxicity， jaundice， hyperuricemia leading to attacks of gout， anorexia， nausea， vomiting， arthralgia， malaise， fever， sideroblastic anemia， difficulty in micturition. Endocrine metabolic: Hyperuricemia Gastrointestinal: Nausea， Vomiting Musculoskeletal: Arthralgia (40%) |
+| 孕期用藥建議   | Compatible – maternal benefit >> embryo-fetal risk                                                                                                                                                                                                                                              |
+| 哺乳期用藥建議 | No (Limited) Human Data - Probably Compatible 無(很少)資料 - 可使用                                                                                                                                                                                                                             |
 

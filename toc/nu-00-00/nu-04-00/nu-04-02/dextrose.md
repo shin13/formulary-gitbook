@@ -1,48 +1,32 @@
 # Dextrose
 
-## 20% Vitagen inj \(Glucose\) 20mL
+## 20% Vitagen inj (Glucose) 20mL
 
-| 藥物代碼 | IGW20 |
-| :--- | :--- |
-| 適應症 | Treatment of carbohydrate & fluid depletion. |
-| 副作用 | NA |
-| 禁忌 | NA |
-| 藥物保存方式 | 室溫 |
-| 用法用量 | Adult 20-500 mL IV, repeated when necessary. |
-| 肝功能異常 | 無需調整劑量  需調整劑量 |
-| 腎功能異常 | 無需調整劑量  需調整劑量 |
-| 懷孕用藥危分級 | 尚未確立 |
-| 孕期用藥建議 | N/A |
-| 附帶說明 | N/A |
-| 哺乳期用藥建議 | N/A |
-| 附帶說明 | N/A |
-| 注射劑給藥建議途徑 | N/A |
-| 乾粉稀釋液 | N/A |
-| 輸注點滴液 | N/A |
-| IVP 用法建議 | N/A |
-| IVD 用法建議 | N/A |
-| 注意事項 | N/A |
+#### 常備臨採(不刪)
 
-## 50% G/W inj \(Vitagen\) 20mL
+| 藥品代碼       | IGW20                                                                                                                                                                                                                                                                                                                                                                                                                     |
+|:---------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 適應症         | Treatment of carbohydrate & fluid depletion.                                                                                                                                                                                                                                                                                                                                                                              |
+| 用法用量       | Only for Postpartum Nursing Care Center using. [UpToDate 20270731] Hypoglycemia: IV: 10 to 25 g (50 to 125 mL of 20% solution); repeat as needed in severe cases. Oral: 15 to 20 g as a single dose; repeat in 15 minutes if self-monitoring of blood glucose (SMBG) shows continued hypoglycemia. Once the SMBG returns to normal， a meal or snack should be consumed to prevent recurrence of hypoglycemia (ADA 2020). |
+| 肝功能異常     | 無需調整劑量                                                                                                                                                                                                                                                                                                                                                                                                              |
+| 腎功能異常     | 無需調整劑量                                                                                                                                                                                                                                                                                                                                                                                                              |
+| 禁忌           | nan                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| 副作用         | nan                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| 孕期用藥建議   | nan                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| 哺乳期用藥建議 | nan                                                                                                                                                                                                                                                                                                                                                                                                                       |
 
-| 藥物代碼 | IGW50 |
-| :--- | :--- |
-| 適應症 | Treatment of carbohydrate & fluid depletion. |
-| 副作用 | NA |
-| 禁忌 | NA |
-| 藥物保存方式 | N/A |
-| 用法用量 | Adult 20-500 mL IV, repeated when necessary. |
-| 肝功能異常 | 無需調整劑量 |
-| 腎功能異常 | 無需調整劑量 |
-| 懷孕用藥危分級 | 尚未確立 |
-| 孕期用藥建議 | N/A |
-| 附帶說明 | N/A |
-| 哺乳期用藥建議 | Unknown 尚未建立 |
-| 附帶說明 | N/A |
-| 注射劑給藥建議途徑 | IVD, IVP, IVPUSH, LI, PO |
-| 乾粉稀釋液 | N/A |
-| 輸注點滴液 | N/A |
-| IVP 用法建議 | 於靜脈注射時應盡可能減慢速率，以免引起注射部位疼痛或靜脈炎 |
-| IVD 用法建議 | N/A |
-| 注意事項 | 1.高張液於靜脈注射時應盡可能減慢速率，以免引起注射部位疼痛或靜脈炎。 2.每支20mL含有10g Dextrose。 |
+## 50% G/W inj (Vitagen) 20mL
+
+#### 一般可用
+
+| 藥品代碼       | IGW50                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+|:---------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 適應症         | Treatment of carbohydrate & fluid depletion.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| 用法用量       | [UpToDate 20270731] Hypoglycemia: IV: 10 to 25 g (20 to 50 mL of 50% solution); repeat as needed in severe cases. Oral: 15 to 20 g as a single dose; repeat in 15 minutes if self-monitoring of blood glucose (SMBG) shows continued hypoglycemia. Once the SMBG returns to normal， a meal or snack should be consumed to prevent recurrence of hypoglycemia (ADA 2020). Glucose tolerance test (Glutol): Oral: One-step (ADA 2020): 75 g as single dose to a fasting patient; assess plasma glucose 2 hours after dose in nonpregnant adults or 1 and 2 hours after dose in pregnant women. |
+| 肝功能異常     | 無需調整劑量                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| 腎功能異常     | 無需調整劑量                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| 禁忌           | nan                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| 副作用         | nan                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| 孕期用藥建議   | Uknown 沒有資料                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| 哺乳期用藥建議 | Unknown 沒有資料                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 

@@ -1,59 +1,47 @@
 # Amoxicillin
 
-## Amolin 25mg/mL 60mL suspension
+## Amolin 25mg/mL， 60mL suspension
 
-| 藥物代碼 | LAMO6 |
-| :--- | :--- |
-| 適應症 | Treatment of infections due to Staph, Strep, pneumococcus, meningococcus & other susceptible organisms. |
-| 副作用 | Allergic reactions, GI disturbances, pseudomembranous colitis, hemolytic anemia, leukopenia. |
-| 禁忌 | Hypersensitivity to penicillins. Infectious mononucleosis. |
-| 懷孕用藥危分級 | 可能安全 |
-| 孕期用藥建議 | N/A |
-| 附帶說明 | N/A |
-| 哺乳期用藥建議 | Compatible 哺乳時可使用 |
-| 附帶說明 | N/A |
-| 注射劑給藥建議途徑 | AC, AC15, PC, PO, WM |
-| 乾粉稀釋液 | N/A |
-| 輸注點滴液 | N/A |
-| IVP 用法建議 | N/A |
-| IVD 用法建議 | N/A |
-| 注意事項 | N/A |
+#### 一般可用
+
+| 藥品代碼       | LAMO6                                                                                                                                                                                              |
+|:---------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 適應症         | Treatment of infections due to Staph， Strep， pneumococcus， meningococcus & other susceptible organisms.                                                                                         |
+| 用法用量       | Adult: 250 mg 3-4 times daily; children: 20-40 mg/kg in divided doses 3-4 times daily. Before administration， add water 60 mL into the bottle and shake until all the powder is thoroughly mixed. |
+| 肝功能異常     | 無需調整劑量                                                                                                                                                                                       |
+| 腎功能異常     | 需調整劑量                                                                                                                                                                                         |
+| 禁忌           | Hypersensitivity to penicillins. Infectious mononucleosis.                                                                                                                                         |
+| 副作用         | Allergic reactions， GI disturbances， pseudomembranous colitis， hemolytic anemia， leukopenia.                                                                                                   |
+| 孕期用藥建議   | nan                                                                                                                                                                                                |
+| 哺乳期用藥建議 | Compatible 哺乳時可使用                                                                                                                                                                            |
 
 ## Amoxicillin 250mg
 
-| 藥物代碼 | OAMO2 |
-| :--- | :--- |
-| 適應症 | G\(+\) & G\(-\) infections |
-| 副作用 | Nausea, vomiting, diarrhea, glossitis, stomatitis, black hairy tongue;              skin rashes, urticaria, exfoliative dermatitis, erythema multiforme;              anemia, thrombocytopenia, eosinophilia, leukopenia, agranulocytosis. |
-| 禁忌 | Hypersensitivity to penicillins. |
-| 懷孕用藥危分級 | 可能安全 |
-| 孕期用藥建議 | N/A |
-| 附帶說明 | N/A |
-| 哺乳期用藥建議 | Compatible 哺乳時可使用 |
-| 附帶說明 | N/A |
-| 注射劑給藥建議途徑 | AC, AC15, PC, PO, WM |
-| 乾粉稀釋液 | N/A |
-| 輸注點滴液 | N/A |
-| IVP 用法建議 | N/A |
-| IVD 用法建議 | N/A |
-| 注意事項 | N/A |
+#### 一般可用
+
+| 藥品代碼       | OAMO2                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+|:---------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 適應症         | G(+) & G(-) infections                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| 用法用量       | Infection of upper respiratory tract， genitourinary tract and skin/soft tissue: Adult: 250-500 mg orally once every 8 hours; children: 20-40 mg/kg/day in divided doses every 8 hours. Lower respiratory tract infection: Adult: 500 mg every 8 hours; children: 40 mg/kg/day in divided doses every 8 hours. Children > 20 kg should be dosed according to the adult recommendations. Gonorrhea， acute uncomplicated genitourinary tract infections caused by N. gonorrhoeae in males and females: Adult: 3 g as single oral dose. All patients with gonorrhea should be evaluated for syphilis. |
+| 肝功能異常     | 無需調整劑量                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| 腎功能異常     | 需調整劑量                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| 禁忌           | Hypersensitivity to penicillins.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| 副作用         | Nausea， vomiting， diarrhea， glossitis， stomatitis， black hairy tongue; skin rashes， urticaria， exfoliative dermatitis， erythema multiforme; anemia， thrombocytopenia， eosinophilia， leukopenia， agranulocytosis.                                                                                                                                                                                                                                                                                                                                                                        |
+| 孕期用藥建議   | nan                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| 哺乳期用藥建議 | Compatible 哺乳時可使用                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 
 ## AMOXICILLIN 500mg
 
-| 藥物代碼 | OAMOX |
-| :--- | :--- |
-| 適應症 | G\(+\) & G\(-\) infections |
-| 副作用 | Nausea, vomiting, diarrhea, glossitis, stomatitis, black hairy tongue;              skin rashes, urticaria, exfoliative dermatitis, erythema multiforme;              anemia, thrombocytopenia, eosinophilia, leukopenia, agranulocytosis. |
-| 禁忌 | Hypersensitivity to penicillins. |
-| 懷孕用藥危分級 | 可能安全 |
-| 孕期用藥建議 | Human data suggest risk in 1st and 3rd trimester |
-| 附帶說明 | N/A |
-| 哺乳期用藥建議 | Compatible 哺乳時可使用 |
-| 附帶說明 | N/A |
-| 注射劑給藥建議途徑 | AC, AC15, PC, PO, WM |
-| 乾粉稀釋液 | N/A |
-| 輸注點滴液 | N/A |
-| IVP 用法建議 | N/A |
-| IVD 用法建議 | N/A |
-| 注意事項 | N/A |
+#### 一般可用
+
+| 藥品代碼       | OAMOX                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+|:---------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 適應症         | G(+) & G(-) infections                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| 用法用量       | Infection of upper respiratory tract， genitourinary tract and skin/soft tissue: Adult: 250-500 mg orally once every 8 hours; children: 20-40 mg/kg/day in divided doses every 8 hours. Lower respiratory tract infection: Adult: 500 mg every 8 hours; children: 40 mg/kg/day in divided doses every 8 hours. Children > 20 kg should be dosed according to the adult recommendations. Gonorrhea， acute uncomplicated genitourinary tract infections caused by N. gonorrhoeae in males and females: Adult: 3 g as single oral dose. All patients with gonorrhea should be evaluated for syphilis. |
+| 肝功能異常     | 無需調整劑量                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| 腎功能異常     | 需調整劑量                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| 禁忌           | Hypersensitivity to penicillins.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| 副作用         | Nausea， vomiting， diarrhea， glossitis， stomatitis， black hairy tongue; skin rashes， urticaria， exfoliative dermatitis， erythema multiforme; anemia， thrombocytopenia， eosinophilia， leukopenia， agranulocytosis.                                                                                                                                                                                                                                                                                                                                                                        |
+| 孕期用藥建議   | Human data suggest risk in 1st and 3 rd trimesters                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| 哺乳期用藥建議 | Compatible 哺乳時可使用                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 

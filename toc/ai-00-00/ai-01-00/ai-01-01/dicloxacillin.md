@@ -2,24 +2,16 @@
 
 ## Ziefmycin 250mg
 
-| 藥物代碼 | OZIE |
-| :--- | :--- |
-| 適應症 | Respiratory tract, skin & soft tissue infections caused by penicillinase-producing Staph. |
-| 副作用 | Allergic reactions; angioedema; bronchospasm. |
-| 禁忌 | Hypersensitivity to penicillins. |
-| 藥物保存方式 | 室溫 |
-| 用法用量 | Mild to moderate infection Adult & children &gt;40 kg 125-500 mg 6 hrly, &lt;40 kg 12.5 mg/kg/day in 4 divided doses 6 hrly. Max: 2 g / day. |
-| 肝功能異常 | 無需調整劑量 |
-| 腎功能異常 | 無需調整劑量 |
-| 懷孕用藥危分級 | 可能安全 |
-| 孕期用藥建議 | N/A |
-| 附帶說明 | N/A |
-| 哺乳期用藥建議 | Compatible 哺乳時可使用 |
-| 附帶說明 | N/A |
-| 注射劑給藥建議途徑 | N/A |
-| 乾粉稀釋液 | N/A |
-| 輸注點滴液 | N/A |
-| IVP 用法建議 | N/A |
-| IVD 用法建議 | N/A |
-| 注意事項 | N/A |
+#### 一般可用
+
+| 藥品代碼       | OZIE                                                                                                                                                                                                                                                                                                                                       |
+|:---------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 適應症         | Respiratory tract， skin & soft tissue infections caused by penicillinase-producing Staph.                                                                                                                                                                                                                                                 |
+| 用法用量       | Adults and children > 40 kg: 125-250 mg orally q6h 1-2 hours before meals. Children < 40 kg: 12.5-25 mg/kg/day divided q6h 1-2 hours before meals. [Micromedex 20210920] Methicillin-susceptible Staphylococcus aureus: 500 mg orally 4 times daily. [Sanford Guide to Antimicrobial Therapy 2021] Usual Dose: 125-500mg Q6H before meals. |
+| 肝功能異常     | 無需調整劑量                                                                                                                                                                                                                                                                                                                               |
+| 腎功能異常     | 無需調整劑量                                                                                                                                                                                                                                                                                                                               |
+| 禁忌           | Hypersensitivity to penicillins.                                                                                                                                                                                                                                                                                                           |
+| 副作用         | Allergic reactions; angioedema; bronchospasm.                                                                                                                                                                                                                                                                                              |
+| 孕期用藥建議   | nan                                                                                                                                                                                                                                                                                                                                        |
+| 哺乳期用藥建議 | Compatible 哺乳時可使用                                                                                                                                                                                                                                                                                                                    |
 

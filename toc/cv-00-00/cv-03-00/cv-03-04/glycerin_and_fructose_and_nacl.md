@@ -1,0 +1,17 @@
+# Glycerin + Fructose + NaCl
+
+## Glycetose inj 10%， 500mL
+
+#### 一般可用
+
+| 藥品代碼       | IGLY1                                                                                                                                                                                                                                                                                                                                     |
+|:---------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 適應症         | Treatment of increased intracranial pressure & intracranial edema， improvement of impaired consciousness & neurologic deficits in cerebral infarct， intracerebral & subarachnoid hemorrhages， head injury， brain tumor， cerebromeningitis. Post-op therapy following brain surgery; reduction of brain vol at time of brain surgery. |
+| 用法用量       | Adult usual dosage: 200-500 mL QD-BID IV infusion (rate: 500 mL over 2-3 hours). Duration of treatment usually is about 1-2 weeks， the dosage may be adjusted according to age and symptoms. Reduction of the brain volume during brain surgery: IV bolus of 500 mL over 30 minutes.                                                     |
+| 肝功能異常     | 無需調整劑量                                                                                                                                                                                                                                                                                                                              |
+| 腎功能異常     | 無需調整劑量                                                                                                                                                                                                                                                                                                                              |
+| 禁忌           | Hereditary fructose intolerance.                                                                                                                                                                                                                                                                                                          |
+| 副作用         | Lactic acidosis; hemoglobinuria; headache， thirst， nausea; hypernatremia.                                                                                                                                                                                                                                                               |
+| 孕期用藥建議   | No (limited) human data – probably compatible                                                                                                                                                                                                                                                                                             |
+| 哺乳期用藥建議 | No (Limited) Human Data - Probably Compatible 無(很少)資料 - 可使用                                                                                                                                                                                                                                                                       |
+

@@ -2,47 +2,31 @@
 
 ## Anxicam inj 2mg/1mL
 
-| 藥物代碼 | IANX |
-| :--- | :--- |
-| 適應症 | Insomnia, anxiety & tension. |
-| 副作用 | Sedation; dizziness; muscle weakness; ataxia; disorientation; depression; change in appetite; headache; sleep disturbance; agitation; dermatological symptoms, eye function disturbance; minor GI symptoms; autonomic manifestations; blood dyscrasias; elevated liver enzymes. Paradoxical reactions eg stimulation & rage \(rare\). Hypotension.Neurologic: Asthenia \(4.2% \), Dizziness \(6.9% \), Sedated \(15.9% \), Unsteadiness present \(3.4% \), VertigoPsychiatric: Depression |
-| 禁忌 | Sleep apnea; severe respiratory insufficiency; not for primary treatment of psychosis or depressive disorders |
-| 藥物保存方式 | 2-8℃ |
-| 用法用量 | IV 0.044 mg/kg \(max: 2 mg\) 15-20 mins before procedure. IM 0.05 mg/kg \(max: 4 mg\) .&gt;= 2 hr before procedure. |
-| 肝功能異常 | 無需調整劑量 |
-| 腎功能異常 | 無需調整劑量 |
-| 懷孕用藥危分級 | 儘量避免 |
-| 孕期用藥建議 | Human data suggest risk in 1st and 3rd trimester |
-| 附帶說明 | N/A |
-| 哺乳期用藥建議 | No \(Limited\) Human Data - Probably Compatible 無\(很少\)資料 - 可使用 |
-| 附帶說明 | N/A |
-| 注射劑給藥建議途徑 | IM, IVD, IVP, IVPUSH |
-| 乾粉稀釋液 | N/A |
-| 輸注點滴液 | 【N/S】 可選 |
-| IVP 用法建議 | IV 注射速率 &lt; 2mg/min |
-| IVD 用法建議 | 應使用non-PVC材質，用等體積生理食鹽水或注射用水稀釋 |
-| 注意事項 | 1.未稀釋可deep IM 2.IV 0.044 mg/kg \(max: 2 mg\) 3.應使用non-PVC材質 4.dilute with an equal volume of compatible solution immediately prior to use; mix thoroughly by gently inverting the container until homogenous; do not shake vigorously. 5.diluted solution may be injected directly into a vein or into the tubing of an existing IV infusion. |
+#### 一般可用
+
+| 藥品代碼       | IANX                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+|:---------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 適應症         | Insomnia， anxiety & tension.                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| 用法用量       | IV 0.044 mg/kg (max: 2 mg) 15-20 mins before procedure. IM 0.05 mg/kg (max: 4 mg) .>= 2 hr before procedure.                                                                                                                                                                                                                                                                                                                                                                           |
+| 肝功能異常     | 無需調整劑量                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| 腎功能異常     | 無需調整劑量                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| 禁忌           | Sleep apnea; severe respiratory insufficiency; not for primary treatment of psychosis or depressive disorders                                                                                                                                                                                                                                                                                                                                                                          |
+| 副作用         | Sedation; dizziness; muscle weakness; ataxia; disorientation; depression; change in appetite; headache; sleep disturbance; agitation; dermatological symptoms， eye function disturbance; minor GI symptoms; autonomic manifestations; blood dyscrasias; elevated liver enzymes. Paradoxical reactions eg stimulation & rage (rare). Hypotension. Neurologic: Asthenia (4.2% )， Dizziness (6.9% )， Sedated (15.9% )， Unsteadiness present (3.4% )， Vertigo Psychiatric: Depression |
+| 孕期用藥建議   | Human data suggest risk in 1st and 3 rd trimesters                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| 哺乳期用藥建議 | No (Limited) Human Data - Probably Compatible 無(很少)資料 - 可使用                                                                                                                                                                                                                                                                                                                                                                                                                    |
 
 ## Ativan 0.5mg
 
-| 藥物代碼 | OATI5 |
-| :--- | :--- |
-| 適應症 | 焦慮、失眠\(B018741100\)Relief of anxiety. Insomnia due to anxiety or transient situational stress. Pre-surgical medication. |
-| 副作用 | Daytime drowsiness, dizziness, muscle weakness, ataxia, confusion, depression, appetite changes, headache, sleep disturbance, agitation, dermatological symptoms, libido changes, decreased alertness, numbed emotions, eye function disturbance, GI symptoms, blood dyscrasias, elevated liver enzymes. Paradoxical reactions eg stimulation & rage \(rare\). Hypotension.Neurologic: Asthenia \(4.2% \), Dizziness \(6.9% \), Sedated \(15.9% \), Unsteadiness present \(3.4% \), VertigoPsychiatric: Depression |
-| 禁忌 | Sleep apnoea, severe respiratory insufficiency. Pregnancy, lactation. |
-| 藥物保存方式 | 室溫 |
-| 用法用量 | Anxiolytic:1-3 mg bid-tid, \(max. 10 mg/day\).  Sedative-hypnotic:2-4 mg hs. For elderly or debilitated patients:  Initial, 0.5-2 mg/day in divided doses.  Inj Premed IV: 44μg/kg \(max 2mg\)15-20 mins before procedure.Premed IM:50μg/kg\(max 4 mg\)≧2 hr before procedure. |
-| 肝功能異常 | 無需調整劑量 |
-| 腎功能異常 | 無需調整劑量 |
-| 懷孕用藥危分級 | 儘量避免 |
-| 孕期用藥建議 | Human data suggest risk in 1st and 3rd trimester |
-| 附帶說明 | N/A |
-| 哺乳期用藥建議 | No \(Limited\) Human Data - Probably Compatible 無\(很少\)資料 - 可使用 |
-| 附帶說明 | Potential toxicity if combined with other CNS depressants |
-| 注射劑給藥建議途徑 | N/A |
-| 乾粉稀釋液 | N/A |
-| 輸注點滴液 | N/A |
-| IVP 用法建議 | N/A |
-| IVD 用法建議 | N/A |
-| 注意事項 | N/A |
+#### 一般可用
+
+| 藥品代碼       | OATI5                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+|:---------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 適應症         | 焦慮、失眠(B018741100) Relief of anxiety. Insomnia due to anxiety or transient situational stress. Pre-surgical medication.                                                                                                                                                                                                                                                                                                                                                                                                     |
+| 用法用量       | Anxiolytic:1-3 mg bid-tid， (max. 10 mg/day). Sedative-hypnotic:2-4 mg hs. For elderly or debilitated patients: Initial， 0.5-2 mg/day in divided doses. Inj Premed IV: 44μg/kg (max 2mg)15-20 mins before procedure.Premed IM:50μg/kg(max 4 mg)≧2 hr before procedure.                                                                                                                                                                                                                                                         |
+| 肝功能異常     | 無需調整劑量                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| 腎功能異常     | 無需調整劑量                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| 禁忌           | Sleep apnoea， severe respiratory insufficiency. Pregnancy， lactation.                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| 副作用         | Daytime drowsiness， dizziness， muscle weakness， ataxia， confusion， depression， appetite changes， headache， sleep disturbance， agitation， dermatological symptoms， libido changes， decreased alertness， numbed emotions， eye function disturbance， GI symptoms， blood dyscrasias， elevated liver enzymes. Paradoxical reactions eg stimulation & rage (rare). Hypotension. Neurologic: Asthenia (4.2% )， Dizziness (6.9% )， Sedated (15.9% )， Unsteadiness present (3.4% )， Vertigo Psychiatric: Depression |
+| 孕期用藥建議   | Human data suggest risk in 1st and 3 rd trimesters                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| 哺乳期用藥建議 | No (Limited) Human Data - Probably Compatible 無(很少)資料 - 可使用                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 
