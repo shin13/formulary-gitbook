@@ -26,7 +26,7 @@
 * [KM藥品資訊公告\(含藥品異動\)](http://km.domain.tahsda.org.tw/KM/listfolders.aspx?uid=2429)
 * [臺安資訊入口網\(EIP\)](http://portal.tahsda.org.tw/TaianPortal/)
   * 右側 臨床常用公告 --&gt; [藥品資訊公告\(含藥品異動\)](http://km.domain.tahsda.org.tw/KM/listfolders.aspx?uid=2429)
-* [臺安醫院處方集網頁](https://shin13.gitbook.io/tah-formulary/)
+* [臺安醫院處方集網頁](https://shin13.gitbook.io/formulary/)
 
 ### 主要參考資料
 
