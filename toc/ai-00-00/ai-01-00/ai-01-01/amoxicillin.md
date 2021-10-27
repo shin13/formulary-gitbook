@@ -4,16 +4,16 @@
 
 #### 一般可用
 
-| 標題           | 說明                                                                                                                                                                                               |
-|:---------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 藥品代碼       | LAMO6                                                                                                                                                                                              |
-| 適應症         | Treatment of infections due to Staph， Strep， pneumococcus， meningococcus & other susceptible organisms.                                                                                         |
-| 用法用量       | Adult: 250 mg 3-4 times daily; children: 20-40 mg/kg in divided doses 3-4 times daily. Before administration， add water 60 mL into the bottle and shake until all the powder is thoroughly mixed. |
-| 肝功能異常     | 無需調整劑量                                                                                                                                                                                       |
-| 腎功能異常     | 需調整劑量                                                                                                                                                                                         |
-| 禁忌           | Hypersensitivity to penicillins. Infectious mononucleosis.                                                                                                                                         |
-| 副作用         | Allergic reactions， GI disturbances， pseudomembranous colitis， hemolytic anemia， leukopenia.                                                                                                   |
-| 孕期用藥建議   | nan                                                                                                                                                                                                |
+| 標題 | 說明                                                                                                                                                                                               |
+|:-|:----|
+| 藥品代碼 | LAMO6                                                                                                                                                                                              |
+| 適應症 | Treatment of infections due to Staph， Strep， pneumococcus， meningococcus & other susceptible organisms.                                                                                         |
+| 用法用量 | Adult: 250 mg 3-4 times daily; children: 20-40 mg/kg in divided doses 3-4 times daily. Before administration， add water 60 mL into the bottle and shake until all the powder is thoroughly mixed. |
+| 肝功能異常 | 無需調整劑量                                                                                                                                                                                       |
+| 腎功能異常 | 需調整劑量                                                                                                                                                                                         |
+| 禁忌 | Hypersensitivity to penicillins. Infectious mononucleosis.                                                                                                                                         |
+| 副作用 | Allergic reactions， GI disturbances， pseudomembranous colitis， hemolytic anemia， leukopenia.                                                                                                   |
+| 孕期用藥建議 | nan                                                                                                                                                                                                |
 | 哺乳期用藥建議 | Compatible 哺乳時可使用                                                                                                                                                                            |
 
 ## Amoxicillin 250mg
