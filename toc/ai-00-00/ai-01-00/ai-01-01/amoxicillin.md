@@ -1,11 +1,12 @@
 # Amoxicillin
 
-## Amolin 25mg/mL， 60mL suspension
+## Amolin 25mg/mL, 60mL suspension
 
 #### 一般可用
 
-| 藥品代碼       | LAMO6                                                                                                                                                                                              |
+|                |                                                                                                                                                                                                    |
 |:---------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 藥品代碼       | LAMO6                                                                                                                                                                                              |
 | 適應症         | Treatment of infections due to Staph， Strep， pneumococcus， meningococcus & other susceptible organisms.                                                                                         |
 | 用法用量       | Adult: 250 mg 3-4 times daily; children: 20-40 mg/kg in divided doses 3-4 times daily. Before administration， add water 60 mL into the bottle and shake until all the powder is thoroughly mixed. |
 | 肝功能異常     | 無需調整劑量                                                                                                                                                                                       |
