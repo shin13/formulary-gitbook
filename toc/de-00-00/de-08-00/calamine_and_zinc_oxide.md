@@ -4,8 +4,9 @@
 
 ##### 
 
-| 藥品代碼   | EMENL                                                                |
+| 標題       | 說明                                                                 |
 |:-----------|:---------------------------------------------------------------------|
+| 藥品代碼   | EMENL                                                                |
 | 適應症     | Symptomatic relief of skin irritation & nappy rash.                  |
 | 用法用量   | Skin protectant: Topical: Apply to affected area as often as needed. |
 | 肝功能異常 | 無需調整劑量                                                         |

@@ -4,9 +4,10 @@
 
 ##### 
 
-| 藥品代碼   | EFRA                                                                    |
+| 標題       | 說明                                                                    |
 |:-----------|:------------------------------------------------------------------------|
-| 適應症     | Wounds， burns， ulcers & other infections skin conditions.             |
+| 藥品代碼   | EFRA                                                                    |
+| 適應症     | Wounds, burns, ulcers & other infections skin conditions.               |
 | 用法用量   | Apply the paraffin gauze dressing directly to the cleaned wound qd-bid. |
 | 肝功能異常 | 無需調整劑量                                                            |
 | 腎功能異常 | 無需調整劑量                                                            |

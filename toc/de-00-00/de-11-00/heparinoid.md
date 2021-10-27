@@ -4,8 +4,9 @@
 
 ##### 
 
-| 藥品代碼   | ECIV                                                                                                                                             |
+| 標題       | 說明                                                                                                                                             |
 |:-----------|:-------------------------------------------------------------------------------------------------------------------------------------------------|
+| 藥品代碼   | ECIV                                                                                                                                             |
 | 適應症     | Treatment of superficial thrombophlebitis & relief of superficial bruising & haematoma.                                                          |
 | 用法用量   | Cividoid gel each gm contains Heparinoid Natural 3mg (Heparin activity 250IU). Use 2-3 times a day according to the size of the affected region. |
 | 肝功能異常 | 無需調整劑量                                                                                                                                     |

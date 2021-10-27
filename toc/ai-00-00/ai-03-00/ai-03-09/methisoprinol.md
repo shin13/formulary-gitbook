@@ -4,9 +4,10 @@
 
 ##### 
 
-| 藥品代碼   | OIMIN                                                         |
+| 標題       | 說明                                                          |
 |:-----------|:--------------------------------------------------------------|
-| 適應症     | Viral disease， immunomodulator.                              |
+| 藥品代碼   | OIMIN                                                         |
+| 適應症     | Viral disease, immunomodulator.                               |
 | 用法用量   | Adult: 500 mg q3-4h. Children: 50 mg/kg/day in divided doses. |
 | 肝功能異常 | 無需調整劑量                                                  |
 | 腎功能異常 | 無需調整劑量                                                  |

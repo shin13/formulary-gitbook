@@ -4,10 +4,11 @@
 
 ##### 
 
-| 藥品代碼   | EKING                                                                  |
+| 標題       | 說明                                                                   |
 |:-----------|:-----------------------------------------------------------------------|
+| 藥品代碼   | EKING                                                                  |
 | 適應症     | Trachoma or inclusion conjunctivitis.                                  |
-| 用法用量   | Instill a few drops at a time， 3 to 4 times daily.                    |
+| 用法用量   | Instill a few drops at a time, 3 to 4 times daily.                     |
 | 肝功能異常 | 無需調整劑量                                                           |
 | 腎功能異常 | 無需調整劑量                                                           |
 | 禁忌       | Hypersensitivity to sulfonamides or sulfa drugs.                       |

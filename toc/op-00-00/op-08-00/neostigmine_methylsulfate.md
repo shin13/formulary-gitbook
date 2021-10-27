@@ -4,8 +4,9 @@
 
 ##### 
 
-| 藥品代碼   | EONMD                                                                     |
+| 標題       | 說明                                                                      |
 |:-----------|:--------------------------------------------------------------------------|
+| 藥品代碼   | EONMD                                                                     |
 | 適應症     | Relief of fatigue of ocular muscle.                                       |
 | 用法用量   | Instill 2 drops TID .The dosage may be increased or decreased moderately. |
 | 肝功能異常 | 無需調整劑量                                                              |

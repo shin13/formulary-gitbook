@@ -4,8 +4,9 @@
 
 ##### 
 
-| 藥品代碼   | EZAL5                                                                                           |
+| 標題       | 說明                                                                                            |
 |:-----------|:------------------------------------------------------------------------------------------------|
+| 藥品代碼   | EZAL5                                                                                           |
 | 適應症     | Vulvovag candidiasis.                                                                           |
 | 用法用量   | Insert 1 vaginal tablet at bedtime. Administer 2nd dose 1-2 weeks later if symptoms not reside. |
 | 肝功能異常 | 無需調整劑量                                                                                    |

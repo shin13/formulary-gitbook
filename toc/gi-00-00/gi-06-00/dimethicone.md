@@ -4,9 +4,10 @@
 
 ##### 
 
-| 藥品代碼   | OKAS4                                                                                                                  |
+| 標題       | 說明                                                                                                                   |
 |:-----------|:-----------------------------------------------------------------------------------------------------------------------|
-| 適應症     | Relief of pressure， bloating， fullness， and discomfort of gastrointestinal gas.                                     |
+| 藥品代碼   | OKAS4                                                                                                                  |
+| 適應症     | Relief of pressure, bloating, fullness, and discomfort of gastrointestinal gas.                                        |
 | 用法用量   | Adult & children > 3 years: 2 tablets TID to QID or taken when needed; Children < 3 years: should consult with doctor. |
 | 肝功能異常 | 無需調整劑量                                                                                                           |
 | 腎功能異常 | 無需調整劑量                                                                                                           |

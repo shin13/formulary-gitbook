@@ -4,14 +4,15 @@
 
 ##### 
 
-| 藥品代碼   | EACZ                                                                                                                               |
-|:-----------|:-----------------------------------------------------------------------------------------------------------------------------------|
-| 適應症     | Treatment of acne vulgaris.                                                                                                        |
-| 用法用量   | Apply 1 time/day                                                                                                                   |
-| 肝功能異常 | 無需調整劑量                                                                                                                       |
-| 腎功能異常 | 無需調整劑量                                                                                                                       |
-| 禁忌       | Hypersensitivity.                                                                                                                  |
-| 副作用     | Dry skin， erythema， skin exfoliation and burning sensation， pruritus， irritation， allergic contact dermatitis， swelling face |
-| 孕期建議   | Uknown 沒有資料                                                                                                                    |
-| 哺乳期建議 | Unknown 沒有資料                                                                                                                   |
+| 標題       | 說明                                                                                                                         |
+|:-----------|:-----------------------------------------------------------------------------------------------------------------------------|
+| 藥品代碼   | EACZ                                                                                                                         |
+| 適應症     | Treatment of acne vulgaris.                                                                                                  |
+| 用法用量   | Apply 1 time/day                                                                                                             |
+| 肝功能異常 | 無需調整劑量                                                                                                                 |
+| 腎功能異常 | 無需調整劑量                                                                                                                 |
+| 禁忌       | Hypersensitivity.                                                                                                            |
+| 副作用     | Dry skin, erythema, skin exfoliation and burning sensation, pruritus, irritation, allergic contact dermatitis, swelling face |
+| 孕期建議   | Uknown 沒有資料                                                                                                              |
+| 哺乳期建議 | Unknown 沒有資料                                                                                                             |
 

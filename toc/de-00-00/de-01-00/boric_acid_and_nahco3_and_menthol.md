@@ -4,8 +4,9 @@
 
 ##### 
 
-| 藥品代碼   | EBSM                                                                               |
+| 標題       | 說明                                                                               |
 |:-----------|:-----------------------------------------------------------------------------------|
+| 藥品代碼   | EBSM                                                                               |
 | 適應症     | Antiseptics                                                                        |
 | 用法用量   | 1pk boric acid + 1pk NaHCO3 + few Methol to some warm water for topical infection. |
 | 肝功能異常 | 無需調整劑量                                                                       |

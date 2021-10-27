@@ -4,9 +4,10 @@
 
 ##### 
 
-| 藥品代碼   | EZIN                           |
+| 標題       | 說明                           |
 |:-----------|:-------------------------------|
-| 適應症     | Eczema， scalp dermatoses.     |
+| 藥品代碼   | EZIN                           |
+| 適應症     | Eczema, scalp dermatoses.      |
 | 用法用量   | Apply several times as need.   |
 | 肝功能異常 | 無需調整劑量                   |
 | 腎功能異常 | 無需調整劑量                   |
