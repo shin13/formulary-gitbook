@@ -12,6 +12,6 @@
 | Renal Impairment   | Dose adjustment not necessary                                        |
 | Contraindications  | Hypersensitivity to any component of the formulation                 |
 | Adverse Effects    | Local irritation                                                     |
-| Pregnancy          | No Data                                                              |
+| Pregnancy          | Unknown                                                              |
 | Lactation          | Unknown                                                              |
 

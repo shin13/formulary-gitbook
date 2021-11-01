@@ -12,6 +12,6 @@
 | Renal Impairment   | Dose adjustment not necessary                                                                                                          |
 | Contraindications  | No Data                                                                                                                                |
 | Adverse Effects    | Conjunctival irritation. Discolouration of the tongue & teeth. Taste disturbances, burning sensation of the tongue. Oral desquamation. |
-| Pregnancy          | No Data                                                                                                                                |
+| Pregnancy          | Compatible                                                                                                                             |
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                                                          |
 

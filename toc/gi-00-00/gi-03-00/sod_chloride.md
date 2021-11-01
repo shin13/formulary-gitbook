@@ -12,6 +12,6 @@
 | Renal Impairment   | Dose adjustment required                                                                    |
 | Contraindications  | GI obstruction, abdominal pain, nausea, vomiting. Children <3 years.                        |
 | Adverse Effects    | Diarrhea, rectal irritation, abdominal discomfort.                                          |
-| Pregnancy          | No Data                                                                                     |
+| Pregnancy          | Unknown                                                                                     |
 | Lactation          | Contraindicated                                                                             |
 

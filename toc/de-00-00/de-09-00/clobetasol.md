@@ -12,6 +12,6 @@
 | Renal Impairment   | Dose adjustment not necessary                                                                                                                                                                                                      |
 | Contraindications  | Hypersensitivity to clobetasol or any ingredient in the preparation (gel, cream, ointment)                                                                                                                                         |
 | Adverse Effects    | Burning/stinging, pruritus, edema, folliculitis, acne, dry skin, irritant dermatitis, alopecia, urticaria, skin atrophy & telangiectasia.                                                                                          |
-| Pregnancy          | No Data                                                                                                                                                                                                                            |
+| Pregnancy          | No (Limited) Human Data – Animal Data Suggest Risk                                                                                                                                                                                 |
 | Lactation          | No (Limited) Human Data - Potential Toxicity                                                                                                                                                                                       |
 

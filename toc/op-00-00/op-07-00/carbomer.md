@@ -12,6 +12,6 @@
 | Renal Impairment   | Dose adjustment not necessary                                                                        |
 | Contraindications  | Hypersensitivity to cetrimide.                                                                       |
 | Adverse Effects    | Transient blurring in vision.                                                                        |
-| Pregnancy          | No Data                                                                                              |
+| Pregnancy          | Unknown                                                                                              |
 | Lactation          | Unknown                                                                                              |
 

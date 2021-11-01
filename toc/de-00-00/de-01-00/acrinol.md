@@ -12,6 +12,6 @@
 | Renal Impairment   | Dose adjustment not necessary                        |
 | Contraindications  | Hypersensitivity, pregnancy.                         |
 | Adverse Effects    | Hypersensitivity, prolonged use delays wound healing |
-| Pregnancy          | No Data                                              |
+| Pregnancy          | Unknown                                              |
 | Lactation          | Contraindicated                                      |
 

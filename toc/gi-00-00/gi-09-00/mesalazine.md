@@ -12,6 +12,6 @@
 | Renal Impairment   | Dose adjustment not necessary                                                                                                                                    |
 | Contraindications  | Hypersensitivity to mesalamine, salicylates, or any component of the formulation; severe renal impairment (GFR <30 mL/minute/1.73 m2); severe hepatic impairment |
 | Adverse Effects    | Nausea, diarrhea, abdominal pain, headache                                                                                                                       |
-| Pregnancy          | No Data                                                                                                                                                          |
+| Pregnancy          | Compatible                                                                                                                                                       |
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                                                                                    |
 

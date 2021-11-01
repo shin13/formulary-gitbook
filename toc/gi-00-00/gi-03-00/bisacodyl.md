@@ -12,7 +12,7 @@
 | Renal Impairment   | Dose adjustment not necessary                                                                                                                                                                                                                               |
 | Contraindications  | Ileus, intestinal obstruction, acute surgical abdominal conditions including appendicitis, acute inflammatory bowel diseases & severe dehydration. Rare hereditary conditions of galactose intolerance eg. galactosemia or fructose intolerance. Lactation. |
 | Adverse Effects    | Rarely, abdominal cramps, abdominal pain & diarrhea. Allergic reactions.                                                                                                                                                                                    |
-| Pregnancy          | No Data                                                                                                                                                                                                                                                     |
+| Pregnancy          | No (Limited) Human Data – Probably Compatible                                                                                                                                                                                                               |
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                                                                                                                                                                               |
 
 ## Johnlax 5mg

@@ -12,7 +12,7 @@
 | Renal Impairment   | Dose adjustment not necessary                                        |
 | Contraindications  | No Data                                                              |
 | Adverse Effects    | No Data                                                              |
-| Pregnancy          | No Data                                                              |
+| Pregnancy          | Unknown                                                              |
 | Lactation          | No Data                                                              |
 
 ## BSS sterile irrigation solusion 500ml/Bottle
