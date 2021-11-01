@@ -4,15 +4,15 @@
 
 ##### 
 
-| 標題       | 說明                                                  |
-|:-----------|:------------------------------------------------------|
-| 藥品代碼   | IPPD                                                  |
-| 適應症     | Skin test as an aid in the diagnosis of tuberculosis. |
-| 用法用量   | ID, 0.1 mL, in the middle third of the forearm.       |
-| 肝功能異常 | 無需調整劑量                                          |
-| 腎功能異常 | 無需調整劑量                                          |
-| 禁忌       | No Data                                               |
-| 副作用     | No Data                                               |
-| 孕期建議   | Uknown 沒有資料                                       |
-| 哺乳期建議 | Unknown 沒有資料                                      |
+| Title              | Content                                               |
+|:-------------------|:------------------------------------------------------|
+| TAH Drug Code      | IPPD                                                  |
+| Indications        | Skin test as an aid in the diagnosis of tuberculosis. |
+| Dosing             | ID， 0.1 mL， in the middle third of the forearm.     |
+| Hepatic Impairment | Dose adjustment not necessary                         |
+| Renal Impairment   | Dose adjustment not necessary                         |
+| Contraindications  | No Data                                               |
+| Adverse Effects    | No Data                                               |
+| Pregnancy          | Unknown                                               |
+| Lactation          | Unknown                                               |
 

@@ -4,15 +4,15 @@
 
 ##### 
 
-| 標題       | 說明                                                         |
-|:-----------|:-------------------------------------------------------------|
-| 藥品代碼   | OGOU                                                         |
-| 適應症     | Hyperuricemia.                                               |
-| 用法用量   | 1 tab qd to tid                                              |
-| 肝功能異常 | 無需調整劑量                                                 |
-| 腎功能異常 | 無需調整劑量                                                 |
-| 禁忌       | Severe renal disease, nephrolithiasis; pregnancy & lactation |
-| 副作用     | Rarely, diarrhoea, mild GI disturbances                      |
-| 孕期建議   | Uknown 沒有資料                                              |
-| 哺乳期建議 | Unknown 沒有資料                                             |
+| Title              | Content                                                       |
+|:-------------------|:--------------------------------------------------------------|
+| TAH Drug Code      | OGOU                                                          |
+| Indications        | Hyperuricemia.                                                |
+| Dosing             | 50mg QD to BID.                                               |
+| Hepatic Impairment | Dose adjustment not necessary                                 |
+| Renal Impairment   | Dose adjustment not necessary                                 |
+| Contraindications  | Severe renal disease， nephrolithiasis; pregnancy & lactation |
+| Adverse Effects    | Rarely， diarrhoea， mild GI disturbances                     |
+| Pregnancy          | Unknown                                                       |
+| Lactation          | Unknown                                                       |
 

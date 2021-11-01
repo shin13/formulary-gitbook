@@ -4,15 +4,15 @@
 
 ##### 
 
-| 標題       | 說明                                                                      |
-|:-----------|:--------------------------------------------------------------------------|
-| 藥品代碼   | ETEA                                                                      |
-| 適應症     | Temporary relief of ocular irritation due to eye dryness.                 |
-| 用法用量   | Instill 1-2 drops TID-QID.                                                |
-| 肝功能異常 | 無需調整劑量                                                              |
-| 腎功能異常 | 無需調整劑量                                                              |
-| 禁忌       | Wearing of soft contact lenses.                                           |
-| 副作用     | Occasionally ocular redness, swelling, burning sensation, pain, stinging. |
-| 孕期建議   | Uknown 沒有資料                                                           |
-| 哺乳期建議 | Unknown 沒有資料                                                          |
+| Title              | Content                                                                       |
+|:-------------------|:------------------------------------------------------------------------------|
+| TAH Drug Code      | ETEA                                                                          |
+| Indications        | Temporary relief of ocular irritation due to eye dryness.                     |
+| Dosing             | Instill 1-2 drops TID-QID.                                                    |
+| Hepatic Impairment | Dose adjustment not necessary                                                 |
+| Renal Impairment   | Dose adjustment not necessary                                                 |
+| Contraindications  | Wearing of soft contact lenses.                                               |
+| Adverse Effects    | Occasionally ocular redness， swelling， burning sensation， pain， stinging. |
+| Pregnancy          | Unknown                                                                       |
+| Lactation          | Unknown                                                                       |
 

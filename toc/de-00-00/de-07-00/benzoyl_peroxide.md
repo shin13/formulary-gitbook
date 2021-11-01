@@ -4,15 +4,15 @@
 
 ##### 
 
-| 標題       | 說明                                                                                                                         |
-|:-----------|:-----------------------------------------------------------------------------------------------------------------------------|
-| 藥品代碼   | EACZ                                                                                                                         |
-| 適應症     | Treatment of acne vulgaris.                                                                                                  |
-| 用法用量   | Apply 1 time/day                                                                                                             |
-| 肝功能異常 | 無需調整劑量                                                                                                                 |
-| 腎功能異常 | 無需調整劑量                                                                                                                 |
-| 禁忌       | Hypersensitivity.                                                                                                            |
-| 副作用     | Dry skin, erythema, skin exfoliation and burning sensation, pruritus, irritation, allergic contact dermatitis, swelling face |
-| 孕期建議   | Uknown 沒有資料                                                                                                              |
-| 哺乳期建議 | Unknown 沒有資料                                                                                                             |
+| Title              | Content                                                                                                                            |
+|:-------------------|:-----------------------------------------------------------------------------------------------------------------------------------|
+| TAH Drug Code      | EACZ                                                                                                                               |
+| Indications        | Treatment of acne vulgaris.                                                                                                        |
+| Dosing             | Acne vulgaris Adult， children >= 12 years old， initialy 1 time/day. Increased to 2-3 time/day when needed.                       |
+| Hepatic Impairment | Dose adjustment not necessary                                                                                                      |
+| Renal Impairment   | Dose adjustment not necessary                                                                                                      |
+| Contraindications  | Hypersensitivity.                                                                                                                  |
+| Adverse Effects    | Dry skin， erythema， skin exfoliation and burning sensation， pruritus， irritation， allergic contact dermatitis， swelling face |
+| Pregnancy          | Unknown                                                                                                                            |
+| Lactation          | Unknown                                                                                                                            |
 

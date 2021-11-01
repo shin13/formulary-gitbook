@@ -4,15 +4,15 @@
 
 ##### 
 
-| 標題       | 說明                                   |
-|:-----------|:---------------------------------------|
-| 藥品代碼   | EULE                                   |
-| 適應症     | Non-atopic allergy, urticaria, eczema. |
-| 用法用量   | Apply several times daily.             |
-| 肝功能異常 | 無需調整劑量                           |
-| 腎功能異常 | 無需調整劑量                           |
-| 禁忌       | No Data                                |
-| 副作用     | Local skin irritations.                |
-| 孕期建議   | No Data                                |
-| 哺乳期建議 | Contraindicated 哺乳期使用禁忌         |
+| Title              | Content                                                                             |
+|:-------------------|:------------------------------------------------------------------------------------|
+| TAH Drug Code      | EULE                                                                                |
+| Indications        | Non-atopic allergy， urticaria， eczema.                                            |
+| Dosing             | Scabies， Apply several times daily for 5 days Pruritus， Apply several times daily |
+| Hepatic Impairment | Dose adjustment not necessary                                                       |
+| Renal Impairment   | Dose adjustment not necessary                                                       |
+| Contraindications  | No Data                                                                             |
+| Adverse Effects    | Local skin irritations.                                                             |
+| Pregnancy          | No Data                                                                             |
+| Lactation          | Contraindicated                                                                     |
 

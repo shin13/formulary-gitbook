@@ -4,15 +4,15 @@
 
 ##### 
 
-| 標題       | 說明                                                                              |
-|:-----------|:----------------------------------------------------------------------------------|
-| 藥品代碼   | OALGI                                                                             |
-| 適應症     | Reflux esophagitis, hiatal hernia, heartburn, peptic ulcer, gastric hyperacidity. |
-| 用法用量   | 2 tab bid-tid. (Each tablet contains Sodium 0.4mEq)                               |
-| 肝功能異常 | 無需調整劑量                                                                      |
-| 腎功能異常 | 無需調整劑量                                                                      |
-| 禁忌       | Hypersensitivity to any component of the formulation.                             |
-| 副作用     | Diarrhea, constipation.                                                           |
-| 孕期建議   | No Data                                                                           |
-| 哺乳期建議 | Compatible 哺乳時可使用                                                           |
+| Title              | Content                                                                               |
+|:-------------------|:--------------------------------------------------------------------------------------|
+| TAH Drug Code      | OALGI                                                                                 |
+| Indications        | Reflux esophagitis， hiatal hernia， heartburn， peptic ulcer， gastric hyperacidity. |
+| Dosing             | usual dose: 2 tab TID. (Each tablet contains Sodium 0.4mEq)                           |
+| Hepatic Impairment | Dose adjustment not necessary                                                         |
+| Renal Impairment   | Dose adjustment not necessary                                                         |
+| Contraindications  | Hypersensitivity to any component of the formulation.                                 |
+| Adverse Effects    | Diarrhea， constipation.                                                              |
+| Pregnancy          | No Data                                                                               |
+| Lactation          | Compatible                                                                            |
 

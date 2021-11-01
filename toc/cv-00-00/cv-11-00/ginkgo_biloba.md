@@ -4,15 +4,15 @@
 
 ##### 
 
-| 標題       | 說明                                                                                                               |
-|:-----------|:-------------------------------------------------------------------------------------------------------------------|
-| 藥品代碼   | OGIN9                                                                                                              |
-| 適應症     | Peripheral circulatory disorders                                                                                   |
-| 用法用量   | 1 tab tid.                                                                                                         |
-| 肝功能異常 | 無需調整劑量                                                                                                       |
-| 腎功能異常 | 無需調整劑量                                                                                                       |
-| 禁忌       | Caution should be exercised with ginkgo in patients with bleeding disorders or those who take anticoagulant drugs. |
-| 副作用     | No Data                                                                                                            |
-| 孕期建議   | No (limited) human data – animal data suggest low risk                                                             |
-| 哺乳期建議 | No (Limited) Human Data - Potential Toxicity 無(很少)資料 - 避免使用                                               |
+| Title              | Content                                                                                                            |
+|:-------------------|:-------------------------------------------------------------------------------------------------------------------|
+| TAH Drug Code      | OGIN9                                                                                                              |
+| Indications        | Peripheral circulatory disorders                                                                                   |
+| Dosing             | 1 tab tid.                                                                                                         |
+| Hepatic Impairment | Dose adjustment not necessary                                                                                      |
+| Renal Impairment   | Dose adjustment not necessary                                                                                      |
+| Contraindications  | Caution should be exercised with ginkgo in patients with bleeding disorders or those who take anticoagulant drugs. |
+| Adverse Effects    | No Data                                                                                                            |
+| Pregnancy          | No (limited) human data – animal data suggest low risk                                                             |
+| Lactation          | No (Limited) Human Data - Potential Toxicity                                                                       |
 

@@ -4,15 +4,15 @@
 
 ##### 
 
-| 標題       | 說明                                                                                                                                                  |
-|:-----------|:------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 藥品代碼   | OPRS                                                                                                                                                  |
-| 適應症     | Treatment & control of benign prostatic hyperplasia (BPH) to cause regression of enlarged prostate, improve urine flow & improve the symptoms of BPH. |
-| 用法用量   | 5mg daily.                                                                                                                                            |
-| 肝功能異常 | 無需調整劑量                                                                                                                                          |
-| 腎功能異常 | 無需調整劑量                                                                                                                                          |
-| 禁忌       | Women & paediatric patients.                                                                                                                          |
-| 副作用     | Impotence, decreased libido & vol of ejaculate.                                                                                                       |
-| 孕期建議   | Uknown 沒有資料                                                                                                                                       |
-| 哺乳期建議 | Unknown 沒有資料                                                                                                                                      |
+| Title              | Content                                                                                                                                                |
+|:-------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------|
+| TAH Drug Code      | OPRS                                                                                                                                                   |
+| Indications        | Treatment & control of benign prostatic hyperplasia (BPH) to cause regression of enlarged prostate， improve urine flow & improve the symptoms of BPH. |
+| Dosing             | 5mg daily.                                                                                                                                             |
+| Hepatic Impairment | Dose adjustment not necessary                                                                                                                          |
+| Renal Impairment   | Dose adjustment not necessary                                                                                                                          |
+| Contraindications  | Women & paediatric patients.                                                                                                                           |
+| Adverse Effects    | Impotence， decreased libido & vol of ejaculate.                                                                                                       |
+| Pregnancy          | Unknown                                                                                                                                                |
+| Lactation          | Unknown                                                                                                                                                |
 

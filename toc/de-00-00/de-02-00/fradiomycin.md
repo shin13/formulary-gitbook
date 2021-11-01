@@ -4,15 +4,15 @@
 
 ##### 
 
-| 標題       | 說明                                                                    |
-|:-----------|:------------------------------------------------------------------------|
-| 藥品代碼   | EFRA                                                                    |
-| 適應症     | Wounds, burns, ulcers & other infections skin conditions.               |
-| 用法用量   | Apply the paraffin gauze dressing directly to the cleaned wound qd-bid. |
-| 肝功能異常 | 無需調整劑量                                                            |
-| 腎功能異常 | 無需調整劑量                                                            |
-| 禁忌       | No Data                                                                 |
-| 副作用     | Possible ototoxicity.                                                   |
-| 孕期建議   | Uknown 沒有資料                                                         |
-| 哺乳期建議 | Unknown 沒有資料                                                        |
+| Title              | Content                                                                 |
+|:-------------------|:------------------------------------------------------------------------|
+| TAH Drug Code      | EFRA                                                                    |
+| Indications        | Wounds， burns， ulcers & other infections skin conditions.             |
+| Dosing             | Apply the paraffin gauze dressing directly to the cleaned wound qd-bid. |
+| Hepatic Impairment | Dose adjustment not necessary                                           |
+| Renal Impairment   | Dose adjustment not necessary                                           |
+| Contraindications  | No Data                                                                 |
+| Adverse Effects    | Possible ototoxicity.                                                   |
+| Pregnancy          | Unknown                                                                 |
+| Lactation          | Unknown                                                                 |
 

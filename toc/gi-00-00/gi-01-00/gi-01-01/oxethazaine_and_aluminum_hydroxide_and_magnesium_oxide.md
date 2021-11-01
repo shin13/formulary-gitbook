@@ -4,15 +4,15 @@
 
 ##### 
 
-| 標題       | 說明                                                                                                                                                                       |
-|:-----------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 藥品代碼   | OMUCA                                                                                                                                                                      |
-| 適應症     | Symptomatic relief of gastric pain & heartburn due to gastric hyperacidity.                                                                                                |
-| 用法用量   | 2-4 tab qid.                                                                                                                                                               |
-| 肝功能異常 | 無需調整劑量                                                                                                                                                               |
-| 腎功能異常 | 無需調整劑量                                                                                                                                                               |
-| 禁忌       | Hypophosphatemia; severe renal impairment; symptoms of appendicitis.                                                                                                       |
-| 副作用     | Hypersensitivity reactions, dermatitis, urticaria, pruritus, glossitis, angioedema & collapse. In large doses, dizziness, faintness or drowsiness. Diarrhea, constipation. |
-| 孕期建議   | No Data                                                                                                                                                                    |
-| 哺乳期建議 | Contraindicated 哺乳期使用禁忌                                                                                                                                             |
+| Title              | Content                                                                                                                                                                            |
+|:-------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| TAH Drug Code      | OMUCA                                                                                                                                                                              |
+| Indications        | Symptomatic relief of gastric pain & heartburn due to gastric hyperacidity.                                                                                                        |
+| Dosing             | 2-4 tab qid.                                                                                                                                                                       |
+| Hepatic Impairment | Dose adjustment not necessary                                                                                                                                                      |
+| Renal Impairment   | Dose adjustment not necessary                                                                                                                                                      |
+| Contraindications  | Hypophosphatemia; severe renal impairment; symptoms of appendicitis.                                                                                                               |
+| Adverse Effects    | Hypersensitivity reactions， dermatitis， urticaria， pruritus， glossitis， angioedema & collapse. In large doses， dizziness， faintness or drowsiness. Diarrhea， constipation. |
+| Pregnancy          | No Data                                                                                                                                                                            |
+| Lactation          | Contraindicated                                                                                                                                                                    |
 

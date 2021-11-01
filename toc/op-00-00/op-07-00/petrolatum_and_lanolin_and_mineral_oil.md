@@ -4,15 +4,15 @@
 
 ##### 
 
-| 標題       | 說明                                                                                                                                  |
-|:-----------|:--------------------------------------------------------------------------------------------------------------------------------------|
-| 藥品代碼   | EDUR                                                                                                                                  |
-| 適應症     | Temporary relief of ocular irritation due to eye dryness.                                                                             |
-| 用法用量   | Apply a small amount of cream (approximately 1 cm) to the pouch whitch formed by pull the lower eyelid away from the eye when needed. |
-| 肝功能異常 | 無需調整劑量                                                                                                                          |
-| 腎功能異常 | 無需調整劑量                                                                                                                          |
-| 禁忌       | Hypersensitivity to any ingredients of the ointment.                                                                                  |
-| 副作用     | Transient blurring in vision, allergic reaction.                                                                                      |
-| 孕期建議   | Uknown 沒有資料                                                                                                                       |
-| 哺乳期建議 | Unknown 沒有資料                                                                                                                      |
+| Title              | Content                                                                                                                               |
+|:-------------------|:--------------------------------------------------------------------------------------------------------------------------------------|
+| TAH Drug Code      | EDUR                                                                                                                                  |
+| Indications        | Temporary relief of ocular irritation due to eye dryness.                                                                             |
+| Dosing             | Apply a small amount of cream (approximately 1 cm) to the pouch whitch formed by pull the lower eyelid away from the eye when needed. |
+| Hepatic Impairment | Dose adjustment not necessary                                                                                                         |
+| Renal Impairment   | Dose adjustment not necessary                                                                                                         |
+| Contraindications  | Hypersensitivity to any ingredients of the ointment.                                                                                  |
+| Adverse Effects    | Transient blurring in vision， allergic reaction.                                                                                     |
+| Pregnancy          | Unknown                                                                                                                               |
+| Lactation          | Unknown                                                                                                                               |
 

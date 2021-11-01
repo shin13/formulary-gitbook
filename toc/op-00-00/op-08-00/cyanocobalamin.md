@@ -4,15 +4,15 @@
 
 ##### 
 
-| 標題       | 說明                                                                    |
-|:-----------|:------------------------------------------------------------------------|
-| 藥品代碼   | ESAN                                                                    |
-| 適應症     | Relief of fatigue of ocular muscle.                                     |
-| 用法用量   | Instill 1-2 drops TID-QID.                                              |
-| 肝功能異常 | 無需調整劑量                                                            |
-| 腎功能異常 | 無需調整劑量                                                            |
-| 禁忌       | Hypersensitivity to cyanocobalamin or any component of the formulation. |
-| 副作用     | Transient stinging & burning, ocular irritation, allergic reactions.    |
-| 孕期建議   | Compatible                                                              |
-| 哺乳期建議 | Compatible 哺乳時可使用                                                 |
+| Title              | Content                                                                 |
+|:-------------------|:------------------------------------------------------------------------|
+| TAH Drug Code      | ESAN                                                                    |
+| Indications        | Relief of fatigue of ocular muscle.                                     |
+| Dosing             | Instill 1-2 drops TID-QID.                                              |
+| Hepatic Impairment | Dose adjustment not necessary                                           |
+| Renal Impairment   | Dose adjustment not necessary                                           |
+| Contraindications  | Hypersensitivity to cyanocobalamin or any component of the formulation. |
+| Adverse Effects    | Transient stinging & burning， ocular irritation， allergic reactions.  |
+| Pregnancy          | Compatible                                                              |
+| Lactation          | Compatible                                                              |
 

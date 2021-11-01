@@ -4,15 +4,15 @@
 
 ##### 
 
-| 標題       | 說明                                                                                                                                                |
-|:-----------|:----------------------------------------------------------------------------------------------------------------------------------------------------|
-| 藥品代碼   | INOVX                                                                                                                                               |
-| 適應症     | Treatment of patients with diabetes mellitus.                                                                                                       |
-| 用法用量   | IVA, IVD, SC, according to the individual needs of the patient, the insulin requirements of adults and children are usually 0.5 to 1.0 unit/kg/day. |
-| 肝功能異常 | 無需調整劑量                                                                                                                                        |
-| 腎功能異常 | 無需調整劑量                                                                                                                                        |
-| 禁忌       | Hypoglycaemia.                                                                                                                                      |
-| 副作用     | Hypoglycaemia, edema, refraction anomalies, hypersensitivity reactions, lipodystrophy.                                                              |
-| 孕期建議   | No (limited) human data – probably compatible                                                                                                       |
-| 哺乳期建議 | Compatible 哺乳時可使用                                                                                                                             |
+| Title              | Content                                                                                                                                                 |
+|:-------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------|
+| TAH Drug Code      | INOVX                                                                                                                                                   |
+| Indications        | Treatment of patients with diabetes mellitus.                                                                                                           |
+| Dosing             | IVA， IVD， SC， according to the individual needs of the patient， the insulin requirements of adults and children are usually 0.5 to 1.0 unit/kg/day. |
+| Hepatic Impairment | Dose adjustment not necessary                                                                                                                           |
+| Renal Impairment   | Dose adjustment not necessary                                                                                                                           |
+| Contraindications  | Hypoglycaemia.                                                                                                                                          |
+| Adverse Effects    | Hypoglycaemia， edema， refraction anomalies， hypersensitivity reactions， lipodystrophy.                                                              |
+| Pregnancy          | No (limited) human data – probably compatible                                                                                                           |
+| Lactation          | Compatible                                                                                                                                              |
 

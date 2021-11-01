@@ -4,15 +4,15 @@
 
 ##### 
 
-| 標題       | 說明                                                                                                                                                                                                                                                                 |
-|:-----------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 藥品代碼   | OCER4                                                                                                                                                                                                                                                                |
-| 適應症     | Peripheral circulatory disorders, chronic occlusive arterial disease.                                                                                                                                                                                                |
-| 用法用量   | Intermittent claudication: 400 mg ORALLY three times a day with meals Stasis ulcer: 800 mg ORALLY three times a day Vascular disorder of inner ear: 1600 mg/day ORALLY in 2-4 divided doses Safety and effectiveness in pediatric patients have not been established |
-| 肝功能異常 | 無需調整劑量                                                                                                                                                                                                                                                         |
-| 腎功能異常 | 無需調整劑量                                                                                                                                                                                                                                                         |
-| 禁忌       | Cerebral or retinal hemorrhage, intolerance to xanthine derivatives.                                                                                                                                                                                                 |
-| 副作用     | Cardiac arrhythmias, headache, nausea, GI effects, dizziness, flushing.                                                                                                                                                                                              |
-| 孕期建議   | No (limited) human data – animal data suggest moderate risk                                                                                                                                                                                                          |
-| 哺乳期建議 | No (Limited) Human Data - Probably Compatible 無(很少)資料 - 可使用                                                                                                                                                                                                  |
+| Title              | Content                                                                      |
+|:-------------------|:-----------------------------------------------------------------------------|
+| TAH Drug Code      | OCER4                                                                        |
+| Indications        | Peripheral circulatory disorders， chronic occlusive arterial disease.       |
+| Dosing             | 1 tab TID with meal.                                                         |
+| Hepatic Impairment | Dose adjustment not necessary                                                |
+| Renal Impairment   | Dose adjustment not necessary                                                |
+| Contraindications  | Cerebral or retinal hemorrhage， intolerance to xanthine derivatives.        |
+| Adverse Effects    | Cardiac arrhythmias， headache， nausea， GI effects， dizziness， flushing. |
+| Pregnancy          | No (limited) human data – animal data suggest moderate risk                  |
+| Lactation          | No (Limited) Human Data - Probably Compatible                                |
 

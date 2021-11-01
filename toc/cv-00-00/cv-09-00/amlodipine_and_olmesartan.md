@@ -4,15 +4,15 @@
 
 ##### 
 
-| 標題       | 說明                                                                   |
-|:-----------|:-----------------------------------------------------------------------|
-| 藥品代碼   | OSEV                                                                   |
-| 適應症     | Treatment of HTN. Not indicated for the initial therapy.               |
-| 用法用量   | 1 tab once daily. May be increased after 2 weeks. Max: 10/40 mg daily. |
-| 肝功能異常 | 需調整劑量                                                             |
-| 腎功能異常 | 無需調整劑量                                                           |
-| 禁忌       | Pregnancy.                                                             |
-| 副作用     | Edema, dizziness, flushing, palpitation, somnolence.                   |
-| 孕期建議   | Human data suggest risk in 2nd and 3 rd trimesters                     |
-| 哺乳期建議 | No (Limited) Human Data - Probably Compatible 無(很少)資料 - 可使用    |
+| Title              | Content                                                                                  |
+|:-------------------|:-----------------------------------------------------------------------------------------|
+| TAH Drug Code      | OSEV                                                                                     |
+| Indications        | Treatment of HTN. Not indicated for the initial therapy.                                 |
+| Dosing             | HTN initial: 1 tablet QD， after 2 weeks may titrate up to 2 tablet QD (maximum 10/40mg) |
+| Hepatic Impairment | Dose adjustment required                                                                 |
+| Renal Impairment   | Dose adjustment not necessary                                                            |
+| Contraindications  | Pregnancy.                                                                               |
+| Adverse Effects    | Edema， dizziness， flushing， palpitation， somnolence.                                 |
+| Pregnancy          | Human data suggest risk in 2nd and 3 rd trimesters                                       |
+| Lactation          | No (Limited) Human Data - Probably Compatible                                            |
 

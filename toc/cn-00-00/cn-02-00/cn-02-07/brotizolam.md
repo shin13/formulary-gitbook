@@ -4,15 +4,15 @@
 
 ##### 
 
-| 標題       | 說明                             |
-|:-----------|:---------------------------------|
-| 藥品代碼   | OLEN                             |
-| 適應症     | Insomnia                         |
-| 用法用量   | Adults: Oral: 0.25 mg at bedtime |
-| 肝功能異常 | 無需調整劑量                     |
-| 腎功能異常 | 無需調整劑量                     |
-| 禁忌       | Hypersensitivity to Brotizolam   |
-| 副作用     | Dizziness, headache, tiredness   |
-| 孕期建議   | Uknown 沒有資料                  |
-| 哺乳期建議 | Unknown 沒有資料                 |
+| Title              | Content                                                                                                                                                                                                                                                |
+|:-------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| TAH Drug Code      | OLEN                                                                                                                                                                                                                                                   |
+| Indications        | Insomnia                                                                                                                                                                                                                                               |
+| Dosing             | Adults: Oral: 0.25 mg at bedtime. Elderly: 0.125 mg - 0.25 mg. Treatment should be started with the lowest recommended dose. The recommended dose of 0.25 mg should not be exceeded because of the increased risk of unacceptable CNS-adverse effects. |
+| Hepatic Impairment | Dose adjustment not necessary                                                                                                                                                                                                                          |
+| Renal Impairment   | Dose adjustment not necessary                                                                                                                                                                                                                          |
+| Contraindications  | Hypersensitivity to Brotizolam                                                                                                                                                                                                                         |
+| Adverse Effects    | Dizziness， headache， tiredness                                                                                                                                                                                                                       |
+| Pregnancy          | Unknown                                                                                                                                                                                                                                                |
+| Lactation          | Unknown                                                                                                                                                                                                                                                |
 

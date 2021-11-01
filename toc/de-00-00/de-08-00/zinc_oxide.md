@@ -4,15 +4,15 @@
 
 ##### 
 
-| 標題       | 說明                           |
-|:-----------|:-------------------------------|
-| 藥品代碼   | EZIN                           |
-| 適應症     | Eczema, scalp dermatoses.      |
-| 用法用量   | Apply several times as need.   |
-| 肝功能異常 | 無需調整劑量                   |
-| 腎功能異常 | 無需調整劑量                   |
-| 禁忌       | No Data                        |
-| 副作用     | No Data                        |
-| 孕期建議   | No Data                        |
-| 哺乳期建議 | Contraindicated 哺乳期使用禁忌 |
+| Title              | Content                       |
+|:-------------------|:------------------------------|
+| TAH Drug Code      | EZIN                          |
+| Indications        | Eczema， scalp dermatoses.    |
+| Dosing             | Apply several times as need.  |
+| Hepatic Impairment | Dose adjustment not necessary |
+| Renal Impairment   | Dose adjustment not necessary |
+| Contraindications  | No Data                       |
+| Adverse Effects    | No Data                       |
+| Pregnancy          | No Data                       |
+| Lactation          | Contraindicated               |
 

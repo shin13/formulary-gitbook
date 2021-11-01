@@ -4,15 +4,15 @@
 
 ##### 
 
-| 標題       | 說明                                                                   |
-|:-----------|:-----------------------------------------------------------------------|
-| 藥品代碼   | EKING                                                                  |
-| 適應症     | Trachoma or inclusion conjunctivitis.                                  |
-| 用法用量   | Instill a few drops at a time, 3 to 4 times daily.                     |
-| 肝功能異常 | 無需調整劑量                                                           |
-| 腎功能異常 | 無需調整劑量                                                           |
-| 禁忌       | Hypersensitivity to sulfonamides or sulfa drugs.                       |
-| 副作用     | Conjunctival or corneal scarring may occur. Hypersensitivity reaction. |
-| 孕期建議   | Uknown 沒有資料                                                        |
-| 哺乳期建議 | Unknown 沒有資料                                                       |
+| Title              | Content                                                                |
+|:-------------------|:-----------------------------------------------------------------------|
+| TAH Drug Code      | EKING                                                                  |
+| Indications        | Trachoma or inclusion conjunctivitis.                                  |
+| Dosing             | Instill a few drops at a time， 3 to 4 times daily.                    |
+| Hepatic Impairment | Dose adjustment not necessary                                          |
+| Renal Impairment   | Dose adjustment not necessary                                          |
+| Contraindications  | Hypersensitivity to sulfonamides or sulfa drugs.                       |
+| Adverse Effects    | Conjunctival or corneal scarring may occur. Hypersensitivity reaction. |
+| Pregnancy          | Unknown                                                                |
+| Lactation          | Unknown                                                                |
 
