@@ -1032,4 +1032,5 @@
         * [Perfluorobutane Microbubbles](toc/vs-00-00/vs-01-00/vs-01-05/perfluorobutane_microbubbles.md)
 * [附錄](appendix.md)
 * [索引](index.md)
-* [常用連結](links.md)* [更新歷程](changelog.md)
+* [常用連結](links.md)
+* [更新歷程](changelog.md)
