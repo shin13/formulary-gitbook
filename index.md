@@ -115,16 +115,19 @@
 
 ## II. DEFINITIONS OF PREGNANCY RECOMMENDATIONS
 
-- *COMPATIBLE*
+- **COMPATIBLE**
 	- The human pregnancy experience, either for the drug itself or drugs in the same class or with similar mechanisms of action, is adequate to demonstrate that the embryo-fetal risk is very low or nonexistent. Animal reproduction data are not relevant.
 
 - *NO (LIMITED) HUMAN DATA--PROBABLY COMPATIBLE*
-	There may or may not be human pregnancy experience, but the characteristics of the drug suggest that it does not represent a significant risk to the embryo-fetus. For example, other drugs in the same class or with similar mechanisms are compatible or the drug does not obtain significant systemic concentrations. Any animal reproduction data are not relevant.
 
-- *COMPATIBLE--MATERNAL BENEFIT >> EMBRYO-FETAL RISK*
+There may or may not be human pregnancy experience, but the characteristics of the drug suggest that it does not represent a significant risk to the embryo-fetus. For example, other drugs in the same class or with similar mechanisms are compatible or the drug does not obtain significant systemic concentrations. Any animal reproduction data are not relevant.
+
+*COMPATIBLE--MATERNAL BENEFIT >> EMBRYO-FETAL RISK*
+
 There may or may not be human pregnancy experience, but the potential maternal benefit far outweighs the known or unknown embryo-fetal risk. Animal reproduction data are not relevant.
 
-- *HUMAN DATA SUGGEST LOW RISK*
+**HUMAN DATA SUGGEST LOW RISK**
+
 There is limited human pregnancy experience, either for the drug itself or drugs in the same class or with similar mechanisms of action, including the 1st trimester, suggesting that the drug does not represent a significant risk of developmental toxicity (growth restriction, structural anomalies, functional/behavioral deficits, or death at any time in pregnancy. The limited human pregnancy data outweighs any animal reproduction data.
 
 - *NO (LIMITED) HUMAN DATA--ANIMAL DATA SUGGEST LOW RISK*
