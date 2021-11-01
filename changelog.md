@@ -1,5 +1,11 @@
 # 更新歷程
 
+## 0.2.1 - 2021-10-31
+
+* 部分內容翻譯為英文。
+* `索引` 新增 `II. DEFINITIONS OF PREGNANCY RECOMMENDATIONS` 與 `III. DEFINITIONS OF BREASTFEEDING RECOMMENDATIONS`。
+* 更新藥品資料庫。
+
 ## 0.2.0 - 2021-10-27
 
 * 重新設計藥品頁面內容。
@@ -8,7 +14,7 @@
 
 ## 0.1.1 - 2021-07-23
 
-* 更新資料庫。
+* 更新藥品資料庫。
 * 修正缺漏藥品頁面。
 
 ## 0.1.0 - 2021-07-22

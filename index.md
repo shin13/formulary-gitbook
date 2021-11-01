@@ -133,19 +133,19 @@ There is limited human pregnancy experience, either for the drug itself or drugs
 
 **NO (LIMITED) HUMAN DATA--ANIMAL DATA SUGGEST LOW RISK**
 
-Either there is no human pregnancy experience or the few pregnancy exposures have not been associated with developmental toxicity (growth restriction, structural anomalies, functional/behavioral deficits, or death). The drug does not cause developmental toxicity (at doses that did not cause maternal toxicity) in all animal species studied at doses ≤10 times the human dose based on body surface area (BSA) or AUC- *.
+Either there is no human pregnancy experience or the few pregnancy exposures have not been associated with developmental toxicity (growth restriction, structural anomalies, functional/behavioral deficits, or death). The drug does not cause developmental toxicity (at doses that did not cause maternal toxicity) in all animal species studied at doses ≤10 times the human dose based on body surface area (BSA) or AUC*.
 
 **NO (LIMITED) HUMAN DATA--ANIMAL DATA SUGGEST MODERATE RISK**
 
-Either there is no human pregnancy experience or the few pregnancy exposures have not been associated with developmental toxicity (growth restriction, structural anomalies, functional/behavioral deficits, or death). The drug causes developmental toxicity (at doses that did not cause maternal toxicity) in one animal species at doses $10 times the human dose based on body surface area (BSA) or AUC- *.
+Either there is no human pregnancy experience or the few pregnancy exposures have not been associated with developmental toxicity (growth restriction, structural anomalies, functional/behavioral deficits, or death). The drug causes developmental toxicity (at doses that did not cause maternal toxicity) in one animal species at doses $10 times the human dose based on body surface area (BSA) or AUC*.
 
 **NO (LIMITED) HUMAN DATA--ANIMAL DATA SUGGEST RISK**
 
-Either there is no human pregnancy experience or the few pregnancy exposures have not been associated with devel. opmental toxicity (growth restriction, structural anomalies, functional/behavioral deficits, or death). The drug causes developmental toxicity (at doses that did not cause maternal toxicity) in two animal species at doses $10 times the human dose based on body surface area (BSA) or AUC- *.
+Either there is no human pregnancy experience or the few pregnancy exposures have not been associated with devel. opmental toxicity (growth restriction, structural anomalies, functional/behavioral deficits, or death). The drug causes developmental toxicity (at doses that did not cause maternal toxicity) in two animal species at doses $10 times the human dose based on body surface area (BSA) or AUC*.
 
 **NO (LIMITED) HUMAN DATA--ANIMAL DATA SUGGEST HIGH RISK**
 
-Either there is no human pregnancy experience or the few pregnancy exposures have not been associated with developmental toxicity (growth restriction, structural anomalies, functional/behavioral deficits, or death). The drug causes developmental toxicity (at doses that did not cause mater. nal toxicity) in three or more animal species at doses <10 times the human dose based on body surface area (BSA) or AUC- *.
+Either there is no human pregnancy experience or the few pregnancy exposures have not been associated with developmental toxicity (growth restriction, structural anomalies, functional/behavioral deficits, or death). The drug causes developmental toxicity (at doses that did not cause mater. nal toxicity) in three or more animal species at doses <10 times the human dose based on body surface area (BSA) or AUC*.
 
 **CONTRAINDICATED--1st TRIMESTER**
 
