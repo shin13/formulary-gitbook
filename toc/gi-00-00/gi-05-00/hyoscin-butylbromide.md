@@ -4,15 +4,14 @@
 
 ##### 
 
-| Title              | Content                                                                                                                                                                      |
-|:-------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| TAH Drug Code      | IFUC                                                                                                                                                                         |
-| Indications        | Spasm & hyperkinesia of the GIT， spasm & dyskinesia of the biliary tract， urinary tract & female genital tracts.                                                           |
-| Dosing             | Adult 20 mg 3-5 times daily IM/IV/SC.                                                                                                                                        |
-| Hepatic Impairment | Dose adjustment required                                                                                                                                                     |
-| Renal Impairment   | Dose adjustment required                                                                                                                                                     |
-| Contraindications  | Myasthenia gravis， toxic megacolon， narrow angle glaucoma， tachycardia， prostatic enlargement with urinary retention， pyloric stenosis & paralytic ileus.               |
-| Adverse Effects    | Dry mouth， dyshidrosis， visual accommodation disturbances， tachycardia， dizziness， constipation， urinary retention， hypotension， allergic reactions， inj site pain. |
-| Pregnancy          | No Data                                                                                                                                                                      |
-| Lactation          | No (Limited) Human Data - Probably Compatible                                                                                                                                |
+| TAH Drug Code      | IFUC                                                                                                                                                                |
+|:-------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Indications        | Spasm & hyperkinesia of the GIT, spasm & dyskinesia of the biliary tract, urinary tract & female genital tracts.                                                    |
+| Dosing             | Adult 20 mg 3-5 times daily IM/IV/SC.                                                                                                                               |
+| Hepatic Impairment | Dose adjustment required                                                                                                                                            |
+| Renal Impairment   | Dose adjustment required                                                                                                                                            |
+| Contraindications  | Myasthenia gravis, toxic megacolon, narrow angle glaucoma, tachycardia, prostatic enlargement with urinary retention, pyloric stenosis & paralytic ileus.           |
+| Adverse Effects    | Dry mouth, dyshidrosis, visual accommodation disturbances, tachycardia, dizziness, constipation, urinary retention, hypotension, allergic reactions, inj site pain. |
+| Pregnancy          | No Data                                                                                                                                                             |
+| Lactation          | No (Limited) Human Data - Probably Compatible                                                                                                                       |
 

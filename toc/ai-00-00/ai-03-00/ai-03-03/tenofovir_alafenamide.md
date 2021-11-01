@@ -4,15 +4,14 @@
 
 ##### 
 
-| Title              | Content                                                                             |
-|:-------------------|:------------------------------------------------------------------------------------|
 | TAH Drug Code      | OVEM                                                                                |
+|:-------------------|:------------------------------------------------------------------------------------|
 | Indications        | Chronic hepatitis B virus (HBV) infection in adults with compensated liver disease. |
 | Dosing             | Adutl: 25 mg orally once daily.                                                     |
 | Hepatic Impairment | Dose adjustment required                                                            |
 | Renal Impairment   | Dose adjustment required                                                            |
 | Contraindications  | Hypersensitivity to tenofovir alafenamide or any component of the formulation.      |
-| Adverse Effects    | Headache， abdominal pain， fatigue， cough， nausea， back pain.                   |
+| Adverse Effects    | Headache, abdominal pain, fatigue, cough, nausea, back pain.                        |
 | Pregnancy          | No Data                                                                             |
 | Lactation          | No (Limited) Human Data – Potential Toxicity(Mother)                                |
 

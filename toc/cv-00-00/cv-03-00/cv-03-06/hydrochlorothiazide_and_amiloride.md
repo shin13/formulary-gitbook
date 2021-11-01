@@ -4,15 +4,14 @@
 
 ##### 
 
-| Title              | Content                                                                                                                                                                                                                  |
-|:-------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| TAH Drug Code      | OAMIZ                                                                                                                                                                                                                    |
-| Indications        | Hypertension， edema of cardiac origin & hepatic cirrhosis with ascites & edema.                                                                                                                                         |
-| Dosing             | Initially， 1-2 tablets daily. Maximum: 4 tablets/day.                                                                                                                                                                   |
-| Hepatic Impairment | Dose adjustment not necessary                                                                                                                                                                                            |
-| Renal Impairment   | Dose adjustment required                                                                                                                                                                                                 |
-| Contraindications  | Hyperkalemia， other concomitant antikaliuretic therapy or K supplementation， renal insufficiency.                                                                                                                      |
-| Adverse Effects    | Headache， weakness， nausea， anorexia， rash & dizziness; orthostatic effects. Dermatologic: Rash (3% to 8% ) Gastrointestinal: Nausea Neurologic: Asthenia (3% to 8% )， Dizziness (3% to 8% )， Headache (3% to 8% ) |
-| Pregnancy          | No (limited) human data – animal data suggest low risk                                                                                                                                                                   |
-| Lactation          | No (Limited) Human Data - Probably Compatible                                                                                                                                                                            |
+| TAH Drug Code      | OAMIZ                                                                                                                                                                                                              |
+|:-------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Indications        | Hypertension, edema of cardiac origin & hepatic cirrhosis with ascites & edema.                                                                                                                                    |
+| Dosing             | Initially, 1-2 tablets daily. Maximum: 4 tablets/day.                                                                                                                                                              |
+| Hepatic Impairment | Dose adjustment not necessary                                                                                                                                                                                      |
+| Renal Impairment   | Dose adjustment required                                                                                                                                                                                           |
+| Contraindications  | Hyperkalemia, other concomitant antikaliuretic therapy or K supplementation, renal insufficiency.                                                                                                                  |
+| Adverse Effects    | Headache, weakness, nausea, anorexia, rash & dizziness; orthostatic effects. Dermatologic: Rash (3% to 8% ) Gastrointestinal: Nausea Neurologic: Asthenia (3% to 8% ), Dizziness (3% to 8% ), Headache (3% to 8% ) |
+| Pregnancy          | No (Limited) Human Data – Animal Data Suggest Low Risk                                                                                                                                                             |
+| Lactation          | No (Limited) Human Data - Probably Compatible                                                                                                                                                                      |
 

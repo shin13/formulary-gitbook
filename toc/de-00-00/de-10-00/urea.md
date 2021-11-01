@@ -4,9 +4,8 @@
 
 ##### 
 
-| Title              | Content                                       |
-|:-------------------|:----------------------------------------------|
 | TAH Drug Code      | EURE                                          |
+|:-------------------|:----------------------------------------------|
 | Indications        | Ichthyosis and hyperkeratotic skin disorders. |
 | Dosing             | Apply qd-tid.                                 |
 | Hepatic Impairment | Dose adjustment not necessary                 |

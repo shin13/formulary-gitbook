@@ -4,9 +4,8 @@
 
 ##### 
 
-| Title              | Content                       |
-|:-------------------|:------------------------------|
 | TAH Drug Code      | ECER                          |
+|:-------------------|:------------------------------|
 | Indications        | No Data                       |
 | Dosing             | No Data                       |
 | Hepatic Impairment | Dose adjustment not necessary |

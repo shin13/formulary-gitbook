@@ -4,15 +4,14 @@
 
 ##### 
 
-| Title              | Content                                                                                        |
-|:-------------------|:-----------------------------------------------------------------------------------------------|
-| TAH Drug Code      | OFER                                                                                           |
-| Indications        | Treatment & prevention of iron deficiency anemia， vit B1 & C deficiency.                      |
-| Dosing             | 1 TAB contains：Ferrous gluconte 300mg， Vitamin B1 10mg， Vitamin C 30mg. PO dose: 1 TAB TID. |
-| Hepatic Impairment | Dose adjustment not necessary                                                                  |
-| Renal Impairment   | Dose adjustment not necessary                                                                  |
-| Contraindications  | No Data                                                                                        |
-| Adverse Effects    | Nausea & GI irritation， tachycardia(5%)                                                       |
-| Pregnancy          | Unknown                                                                                        |
-| Lactation          | Unknown                                                                                        |
+| TAH Drug Code      | OFER                                                                                         |
+|:-------------------|:---------------------------------------------------------------------------------------------|
+| Indications        | Treatment & prevention of iron deficiency anemia, vit B1 & C deficiency.                     |
+| Dosing             | 1 TAB contains：Ferrous gluconte 300mg, Vitamin B1 10mg, Vitamin C 30mg. PO dose: 1 TAB TID. |
+| Hepatic Impairment | Dose adjustment not necessary                                                                |
+| Renal Impairment   | Dose adjustment not necessary                                                                |
+| Contraindications  | No Data                                                                                      |
+| Adverse Effects    | Nausea & GI irritation, tachycardia(5%)                                                      |
+| Pregnancy          | Unknown                                                                                      |
+| Lactation          | Unknown                                                                                      |
 

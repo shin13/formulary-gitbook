@@ -4,31 +4,29 @@
 
 ##### 
 
-| Title              | Content                                                                                                                                                                                                                                                                                          |
-|:-------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| TAH Drug Code      | IMETY                                                                                                                                                                                                                                                                                            |
-| Indications        | Megaloblastic anemia due to vit B12 deficiency & peripheral neuropathies.                                                                                                                                                                                                                        |
-| Dosing             | Peripheral neuropathies: 500 mcg IM/IV 3 times/week.Megaloblastic anemia due to vit B12 deficiency: 500 mcg IM/IV 3 times/week for 2 months， then 500 mcg every 1-3 months as maintenance therapy.                                                                                              |
-| Hepatic Impairment | Dose adjustment not necessary                                                                                                                                                                                                                                                                    |
-| Renal Impairment   | Dose adjustment not necessary                                                                                                                                                                                                                                                                    |
-| Contraindications  | No Data                                                                                                                                                                                                                                                                                          |
-| Adverse Effects    | Infrequently: Anorexia， nausea， diarrhea， pain & induration at IM inj site. Rarely: Skin rash， headache， sweating or hot sensation. Dermatologic: Injection site pain Musculoskeletal: Arthralgia (12% ) Neurologic: Dizziness (12% )， Headache (12% ) Respiratory: Nasopharyngitis (12% ) |
-| Pregnancy          | No Data                                                                                                                                                                                                                                                                                          |
-| Lactation          | Compatible                                                                                                                                                                                                                                                                                       |
+| TAH Drug Code      | IMETY                                                                                                                                                                                                                                                                                      |
+|:-------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Indications        | Megaloblastic anemia due to vit B12 deficiency & peripheral neuropathies.                                                                                                                                                                                                                  |
+| Dosing             | Peripheral neuropathies: 500 mcg IM/IV 3 times/week.Megaloblastic anemia due to vit B12 deficiency: 500 mcg IM/IV 3 times/week for 2 months, then 500 mcg every 1-3 months as maintenance therapy.                                                                                         |
+| Hepatic Impairment | Dose adjustment not necessary                                                                                                                                                                                                                                                              |
+| Renal Impairment   | Dose adjustment not necessary                                                                                                                                                                                                                                                              |
+| Contraindications  | No Data                                                                                                                                                                                                                                                                                    |
+| Adverse Effects    | Infrequently: Anorexia, nausea, diarrhea, pain & induration at IM inj site. Rarely: Skin rash, headache, sweating or hot sensation. Dermatologic: Injection site pain Musculoskeletal: Arthralgia (12% ) Neurologic: Dizziness (12% ), Headache (12% ) Respiratory: Nasopharyngitis (12% ) |
+| Pregnancy          | No Data                                                                                                                                                                                                                                                                                    |
+| Lactation          | Compatible                                                                                                                                                                                                                                                                                 |
 
 ## Methycobal 250mcg
 
 ##### 
 
-| Title              | Content                                                                                                                                  |
-|:-------------------|:-----------------------------------------------------------------------------------------------------------------------------------------|
-| TAH Drug Code      | OMETY                                                                                                                                    |
-| Indications        | Megaloblastic anemia due to vit B12 deficiency & peripheral neuropathies.                                                                |
-| Dosing             | Adult: 1500 mcg daily in 3 divided doses. May adjust dosage according to patient's age and synptoms.                                     |
-| Hepatic Impairment | Dose adjustment not necessary                                                                                                            |
-| Renal Impairment   | Dose adjustment not necessary                                                                                                            |
-| Contraindications  | No Data                                                                                                                                  |
-| Adverse Effects    | Infrequently: Anorexia， nausea， diarrhea， pain & induration at IM inj site. Rarely: Skin rash， headache， sweating or hot sensation. |
-| Pregnancy          | Unknown                                                                                                                                  |
-| Lactation          | Unknown                                                                                                                                  |
+| TAH Drug Code      | OMETY                                                                                                                               |
+|:-------------------|:------------------------------------------------------------------------------------------------------------------------------------|
+| Indications        | Megaloblastic anemia due to vit B12 deficiency & peripheral neuropathies.                                                           |
+| Dosing             | Adult: 1500 mcg daily in 3 divided doses. May adjust dosage according to patient's age and synptoms.                                |
+| Hepatic Impairment | Dose adjustment not necessary                                                                                                       |
+| Renal Impairment   | Dose adjustment not necessary                                                                                                       |
+| Contraindications  | No Data                                                                                                                             |
+| Adverse Effects    | Infrequently: Anorexia, nausea, diarrhea, pain & induration at IM inj site. Rarely: Skin rash, headache, sweating or hot sensation. |
+| Pregnancy          | Unknown                                                                                                                             |
+| Lactation          | Unknown                                                                                                                             |
 

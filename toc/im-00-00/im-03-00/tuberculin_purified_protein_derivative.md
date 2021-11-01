@@ -4,11 +4,10 @@
 
 ##### 
 
-| Title              | Content                                               |
-|:-------------------|:------------------------------------------------------|
 | TAH Drug Code      | IPPD                                                  |
+|:-------------------|:------------------------------------------------------|
 | Indications        | Skin test as an aid in the diagnosis of tuberculosis. |
-| Dosing             | ID， 0.1 mL， in the middle third of the forearm.     |
+| Dosing             | ID, 0.1 mL, in the middle third of the forearm.       |
 | Hepatic Impairment | Dose adjustment not necessary                         |
 | Renal Impairment   | Dose adjustment not necessary                         |
 | Contraindications  | No Data                                               |

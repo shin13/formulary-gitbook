@@ -4,15 +4,14 @@
 
 ##### 
 
-| Title              | Content                                                               |
-|:-------------------|:----------------------------------------------------------------------|
-| TAH Drug Code      | OCAT4                                                                 |
-| Indications        | Relief of abdominal pain due to irritable bowel syndrome.             |
-| Dosing             | Oral， 40 mg bid-tid. Adult: Up to 120 mg daily.                      |
-| Hepatic Impairment | Dose adjustment not necessary                                         |
-| Renal Impairment   | Dose adjustment not necessary                                         |
-| Contraindications  | Glaucoma青光眼                                                        |
-| Adverse Effects    | Mild nausea， vomiting， upper abdominal pain， dizziness & headache. |
-| Pregnancy          | No Data                                                               |
-| Lactation          | Contraindicated                                                       |
+| TAH Drug Code      | OCAT4                                                              |
+|:-------------------|:-------------------------------------------------------------------|
+| Indications        | Relief of abdominal pain due to irritable bowel syndrome.          |
+| Dosing             | Oral, 40 mg bid-tid. Adult: Up to 120 mg daily.                    |
+| Hepatic Impairment | Dose adjustment not necessary                                      |
+| Renal Impairment   | Dose adjustment not necessary                                      |
+| Contraindications  | Glaucoma青光眼                                                     |
+| Adverse Effects    | Mild nausea, vomiting, upper abdominal pain, dizziness & headache. |
+| Pregnancy          | No Data                                                            |
+| Lactation          | Contraindicated                                                    |
 

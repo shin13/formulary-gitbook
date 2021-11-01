@@ -4,11 +4,10 @@
 
 ##### 
 
-| Title              | Content                                                                                 |
-|:-------------------|:----------------------------------------------------------------------------------------|
 | TAH Drug Code      | ECIV                                                                                    |
+|:-------------------|:----------------------------------------------------------------------------------------|
 | Indications        | Treatment of superficial thrombophlebitis & relief of superficial bruising & haematoma. |
-| Dosing             | superficial thrombophlebitis & hematoma Use 2-3 times a day， till symptom resolved     |
+| Dosing             | superficial thrombophlebitis & hematoma Use 2-3 times a day, till symptom resolved      |
 | Hepatic Impairment | Dose adjustment not necessary                                                           |
 | Renal Impairment   | Dose adjustment not necessary                                                           |
 | Contraindications  | Hypersensitivity to this medicine. Not for oral or ophthalmic use.                      |

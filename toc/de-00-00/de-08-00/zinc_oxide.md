@@ -4,10 +4,9 @@
 
 ##### 
 
-| Title              | Content                       |
-|:-------------------|:------------------------------|
 | TAH Drug Code      | EZIN                          |
-| Indications        | Eczema， scalp dermatoses.    |
+|:-------------------|:------------------------------|
+| Indications        | Eczema, scalp dermatoses.     |
 | Dosing             | Apply several times as need.  |
 | Hepatic Impairment | Dose adjustment not necessary |
 | Renal Impairment   | Dose adjustment not necessary |

@@ -4,10 +4,9 @@
 
 ##### 
 
-| Title              | Content                                                                 |
-|:-------------------|:------------------------------------------------------------------------|
 | TAH Drug Code      | EFRA                                                                    |
-| Indications        | Wounds， burns， ulcers & other infections skin conditions.             |
+|:-------------------|:------------------------------------------------------------------------|
+| Indications        | Wounds, burns, ulcers & other infections skin conditions.               |
 | Dosing             | Apply the paraffin gauze dressing directly to the cleaned wound qd-bid. |
 | Hepatic Impairment | Dose adjustment not necessary                                           |
 | Renal Impairment   | Dose adjustment not necessary                                           |

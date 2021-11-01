@@ -4,9 +4,8 @@
 
 ##### 
 
-| Title              | Content                                                              |
-|:-------------------|:---------------------------------------------------------------------|
 | TAH Drug Code      | EMENL                                                                |
+|:-------------------|:---------------------------------------------------------------------|
 | Indications        | Symptomatic relief of skin irritation & nappy rash.                  |
 | Dosing             | Skin protectant: Topical: Apply to affected area as often as needed. |
 | Hepatic Impairment | Dose adjustment not necessary                                        |

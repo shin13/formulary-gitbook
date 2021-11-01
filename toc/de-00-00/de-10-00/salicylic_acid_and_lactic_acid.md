@@ -4,15 +4,14 @@
 
 ##### 
 
-| Title              | Content                                                                                                                                                                                            |
-|:-------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| TAH Drug Code      | EDEC                                                                                                                                                                                               |
-| Indications        | Removal of warts.                                                                                                                                                                                  |
-| Dosing             | Soak lesion in hot water for 5 mins & dry thoroughly. Rub surface with pumice stone or emery board & apply to affected area 2-4 drops once daily.                                                  |
-| Hepatic Impairment | Dose adjustment not necessary                                                                                                                                                                      |
-| Renal Impairment   | Dose adjustment not necessary                                                                                                                                                                      |
-| Contraindications  | Hypersensitivity to salicylic acid or any component of the formulation. Impaired circulation (eg， diabetes， peripheral vascular disease); moles， birthmarks; warts with hair growth or on face. |
-| Adverse Effects    | Local irritation.                                                                                                                                                                                  |
-| Pregnancy          | No Data                                                                                                                                                                                            |
-| Lactation          | Contraindicated                                                                                                                                                                                    |
+| TAH Drug Code      | EDEC                                                                                                                                                                                            |
+|:-------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Indications        | Removal of warts.                                                                                                                                                                               |
+| Dosing             | Soak lesion in hot water for 5 mins & dry thoroughly. Rub surface with pumice stone or emery board & apply to affected area 2-4 drops once daily.                                               |
+| Hepatic Impairment | Dose adjustment not necessary                                                                                                                                                                   |
+| Renal Impairment   | Dose adjustment not necessary                                                                                                                                                                   |
+| Contraindications  | Hypersensitivity to salicylic acid or any component of the formulation. Impaired circulation (eg, diabetes, peripheral vascular disease); moles, birthmarks; warts with hair growth or on face. |
+| Adverse Effects    | Local irritation.                                                                                                                                                                               |
+| Pregnancy          | No Data                                                                                                                                                                                         |
+| Lactation          | Contraindicated                                                                                                                                                                                 |
 

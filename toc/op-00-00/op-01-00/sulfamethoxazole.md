@@ -4,11 +4,10 @@
 
 ##### 
 
-| Title              | Content                                                                |
-|:-------------------|:-----------------------------------------------------------------------|
 | TAH Drug Code      | EKING                                                                  |
+|:-------------------|:-----------------------------------------------------------------------|
 | Indications        | Trachoma or inclusion conjunctivitis.                                  |
-| Dosing             | Instill a few drops at a time， 3 to 4 times daily.                    |
+| Dosing             | Instill a few drops at a time, 3 to 4 times daily.                     |
 | Hepatic Impairment | Dose adjustment not necessary                                          |
 | Renal Impairment   | Dose adjustment not necessary                                          |
 | Contraindications  | Hypersensitivity to sulfonamides or sulfa drugs.                       |

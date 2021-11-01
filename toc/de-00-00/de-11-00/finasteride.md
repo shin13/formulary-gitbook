@@ -4,9 +4,8 @@
 
 ##### 
 
-| Title              | Content                                                                                                                                                             |
-|:-------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | TAH Drug Code      | OPROP                                                                                                                                                               |
+|:-------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Treatment of male pattern hair loss (androgenetic alopecia) in men only. Not indicated in women & children.                                                         |
 | Dosing             | Androgenetic alopecia (male pattern hair loss): Males: Oral: 1 mg once daily. Continue for at least 12 months to assess the full effect                             |
 | Hepatic Impairment | Dose adjustment not necessary                                                                                                                                       |

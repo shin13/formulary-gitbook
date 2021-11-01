@@ -756,6 +756,7 @@
     * [Nutrients](toc/nu-00-00/nu-04-00/README.md)
       * [Amino Acid](toc/nu-00-00/nu-04-00/nu-04-01/README.md)
         * [Alanine And Glutamine](toc/nu-00-00/nu-04-00/nu-04-01/alanine_and_glutamine.md)
+        * [Alanine And Glutamine](toc/nu-00-00/nu-04-00/nu-04-01/alanine_and_glutamine.md)
         * [Amino Acids](toc/nu-00-00/nu-04-00/nu-04-01/amino_acids.md)
         * [Amino Acids (Essential And Nonessential )](toc/nu-00-00/nu-04-00/nu-04-01/amino_acids_(essential_and_nonessential_).md)
         * [Amino Acids And Ketoanalogues](toc/nu-00-00/nu-04-00/nu-04-01/amino_acids_and_ketoanalogues.md)
@@ -1031,6 +1032,7 @@
         * [Indocyanine Green](toc/vs-00-00/vs-01-00/vs-01-05/indocyanine_green.md)
         * [Perfluorobutane Microbubbles](toc/vs-00-00/vs-01-00/vs-01-05/perfluorobutane_microbubbles.md)
 * [附錄](appendix.md)
-* [更新歷程](changelog.md)
 * [索引](index.md)
 * [常用連結](links.md)
+* [更新歷程](changelog.md)
+

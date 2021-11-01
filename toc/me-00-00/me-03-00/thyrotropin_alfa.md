@@ -4,15 +4,14 @@
 
 ##### 臨採
 
-| Title              | Content                                                                                                                                                                                                                                      |
-|:-------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | TAH Drug Code      | ITHYR                                                                                                                                                                                                                                        |
+|:-------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Adjunctive treatment for radioiodine ablation of thyroid tissue remnants in patients who have undergone thyroidectomy for well-differentiated thyroid cancer. Adjunctive diagnostic tool for serum Tg testing w/ or w/o radioiodine imaging. |
-| Dosing             | IM， 2 inj regimen， initial 0.9 mg followed by 2nd 0.9 mg 24 hours later.                                                                                                                                                                   |
+| Dosing             | IM, 2 inj regimen, initial 0.9 mg followed by 2nd 0.9 mg 24 hours later.                                                                                                                                                                     |
 | Hepatic Impairment | Dose adjustment not necessary                                                                                                                                                                                                                |
 | Renal Impairment   | Dose adjustment not necessary                                                                                                                                                                                                                |
 | Contraindications  | Hypersensitivity to thyrotropin alfa or any component of the formulation.                                                                                                                                                                    |
-| Adverse Effects    | Nausea， vomiting， headache， asthenia， chills， fever， flu syndrome， dizziness， paresthesia.                                                                                                                                           |
+| Adverse Effects    | Nausea, vomiting, headache, asthenia, chills, fever, flu syndrome, dizziness, paresthesia.                                                                                                                                                   |
 | Pregnancy          | No Data                                                                                                                                                                                                                                      |
 | Lactation          | Compatible                                                                                                                                                                                                                                   |
 

@@ -4,9 +4,8 @@
 
 ##### 
 
-| Title              | Content                                              |
-|:-------------------|:-----------------------------------------------------|
 | TAH Drug Code      | EALC2                                                |
+|:-------------------|:-----------------------------------------------------|
 | Indications        | No Data                                              |
 | Dosing             | No Data                                              |
 | Hepatic Impairment | Dose adjustment not necessary                        |
@@ -20,9 +19,8 @@
 
 ##### 
 
-| Title              | Content                                              |
-|:-------------------|:-----------------------------------------------------|
 | TAH Drug Code      | EALC9                                                |
+|:-------------------|:-----------------------------------------------------|
 | Indications        | No Data                                              |
 | Dosing             | No Data                                              |
 | Hepatic Impairment | Dose adjustment not necessary                        |
