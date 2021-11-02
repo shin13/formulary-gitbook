@@ -72,8 +72,8 @@
 | Renal Impairment   | No Data                                                                                                                   |
 | Contraindications  | No Data                                                                                                                   |
 | Adverse Effects    | No Data                                                                                                                   |
-| Pregnancy          | No Data                                                                                                                   |
-| Lactation          | No Data                                                                                                                   |
+| Pregnancy          | Unknown                                                                                                                   |
+| Lactation          | Unknown                                                                                                                   |
 
 ## 4價自費流感 (VaxigripTetra)0.5mL/dose
 

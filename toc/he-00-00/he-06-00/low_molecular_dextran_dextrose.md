@@ -12,6 +12,6 @@
 | Renal Impairment   | Dose adjustment not necessary                                                                                                      |
 | Contraindications  | Hypersensitivity. Severe renal disease with oliguria or anuria. Marked cardiac decompensation. Pregnancy.                          |
 | Adverse Effects    | GI disturbances; headache, dizziness; allergic reactions; raised liver enzyme values; alopecia; bone marrow suppression.           |
-| Pregnancy          | No Data                                                                                                                            |
+| Pregnancy          | Unknown                                                                                                                            |
 | Lactation          | Contraindicated                                                                                                                    |
 
