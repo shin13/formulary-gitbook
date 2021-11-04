@@ -4,7 +4,7 @@
 
 ##### 
 
-| TAH Drug Code      | EILO1                                                                                                                     |
+| TAH Drug Code      | [EILO1](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EILO1)                                                    |
 |:-------------------|:--------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Treatment of bacterial infections of the eye involving the conjunctiva &/or cornea caused by susceptible organisms.       |
 | Dosing             | Instill 1 cm ribbon of the ointment into affected eye(s) up to 6 times daily, depending on the severity of the infection. |

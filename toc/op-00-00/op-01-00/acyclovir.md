@@ -4,7 +4,7 @@
 
 ##### 
 
-| TAH Drug Code      | EDEV                                                                                                                                                                                                                                                                                                                          |
+| TAH Drug Code      | [EDEV](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EDEV)                                                                                                                                                                                                                                                          |
 |:-------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Herpes simplex virus infection of the eyes including initial & recurrent genital herpes & herpes labialis.                                                                                                                                                                                                                    |
 | Dosing             | Apply 1 cm ribbon of the ointment should be placed inside the lower conjunctival sac five times a day at approximately four hourly intervals. Treatment should continue for at least three days after ending."                                                                                                                |

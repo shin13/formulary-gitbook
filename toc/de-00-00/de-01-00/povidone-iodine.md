@@ -4,7 +4,7 @@
 
 ##### 
 
-| TAH Drug Code      | EBIAQ                                                                                                                                                                                           |
+| TAH Drug Code      | [EBIAQ](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EBIAQ)                                                                                                                          |
 |:-------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Post-op infections, bacterial or fungal skin infections. surgical scrub Antiseptic cleanser for pre-op scrubbing & washing by surgeons & theatre staff, & pre-op preparation of patients' skin. |
 | Dosing             | Aqueous soln As directed. Surgical disinfection Use 5 mL undiluted & allow to work for 5 mins, rinse off & repeat. Pre-op antiseptic skin cleanser Use undiluted.                               |

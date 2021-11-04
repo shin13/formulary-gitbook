@@ -4,7 +4,7 @@
 
 ##### 
 
-| TAH Drug Code      | OSEV                                                                                    |
+| TAH Drug Code      | [OSEV](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OSEV)                    |
 |:-------------------|:----------------------------------------------------------------------------------------|
 | Indications        | Treatment of HTN. Not indicated for the initial therapy.                                |
 | Dosing             | HTN initial: 1 tablet QD, after 2 weeks may titrate up to 2 tablet QD (maximum 10/40mg) |

@@ -4,7 +4,7 @@
 
 ##### 
 
-| TAH Drug Code      | OVGR1                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| TAH Drug Code      | [OVGR1](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OVGR1)                                                                                                                                                                                                                                                                                                                                                                        |
 |:-------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Treatment of erectile dysfunction.                                                                                                                                                                                                                                                                                                                                                                                                            |
 | Dosing             | Erectile dysfunction: Sildenafil 25 to 100 mg (50 mg usual dose) orally 1 hour (range 0.5 to 4 hours) prior to sexual activity; the maximum frequency of administration once daily.                                                                                                                                                                                                                                                           |
@@ -19,7 +19,7 @@
 
 ##### 
 
-| TAH Drug Code      | OVGRO                                                                                                                                                                               |
+| TAH Drug Code      | [OVGRO](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OVGRO)                                                                                                              |
 |:-------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | No Data                                                                                                                                                                             |
 | Dosing             | Erectile dysfunction: Sildenafil 25 to 100 mg (50 mg usual dose) orally 1 hour (range 0.5 to 4 hours) prior to sexual activity; the maximum frequency of administration once daily. |

@@ -4,7 +4,7 @@
 
 ##### 
 
-| TAH Drug Code      | ENACL                                                                                                                                                                                                                                                                                                                                  |
+| TAH Drug Code      | [ENACL](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ENACL)                                                                                                                                                                                                                                                                 |
 |:-------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | No Data                                                                                                                                                                                                                                                                                                                                |
 | Dosing             | Corneal edema: Instill 1 to 2 drops in affected eye(s) every 3 to 4 hours. [Micromedex 2021/08/02] 2% solution Instill 1 to 2 drops in affected eye(s) every 3 to 4 hours. [UpToDate 2021/08/02] Infants, Children, and Adolescents: Ophthalmic solution (5%): Instill 1 to 2 drops into affected eye(s) every 3 to 4 hours as needed. |

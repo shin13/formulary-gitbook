@@ -4,7 +4,7 @@
 
 ##### 
 
-| TAH Drug Code      | EVIRL                                                                                                                                                                                                                                                                                                                         |
+| TAH Drug Code      | [EVIRL](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EVIRL)                                                                                                                                                                                                                                                        |
 |:-------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Herpes simplex virus infection of the skin including initial & recurrent genital herpes & herpes labialis.                                                                                                                                                                                                                    |
 | Dosing             | Herpes simplex: Initial therapy: Apply ointment topically every 3 hours (6 times per day) for 7 days in sufficient quantities to adequately cover lesion                                                                                                                                                                      |

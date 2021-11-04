@@ -4,7 +4,7 @@
 
 ##### 
 
-| TAH Drug Code      | ODET4                                                                                                                                                                                                                                                                                                       |
+| TAH Drug Code      | [ODET4](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ODET4)                                                                                                                                                                                                                                      |
 |:-------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | 膀胱過動症(B023568100) Treatment of overactive bladder with symptoms of urinary urgency, frequency,or urge incontinence.                                                                                                                                                                                    |
 | Dosing             | 2-4 mg once daily depending on response & tolerability.                                                                                                                                                                                                                                                     |

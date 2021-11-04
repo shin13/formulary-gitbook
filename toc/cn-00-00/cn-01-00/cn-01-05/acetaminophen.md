@@ -4,7 +4,7 @@
 
 ##### 
 
-| TAH Drug Code      | LANT                                                                                                                                    |
+| TAH Drug Code      | [LANT](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=LANT)                                                                    |
 |:-------------------|:----------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Analgesic & antipyretic.                                                                                                                |
 | Dosing             | ＞12 years old:20-30mL(480mg-720mg) Q4H-Q6H, 6-12 years old: 10-15mL(240mg-360mg) Q4H-Q6H, 3-6 years old: 5-7.5mL(120mg-180mg) Q4H-Q6H, |
@@ -19,7 +19,7 @@
 
 ##### 
 
-| TAH Drug Code      | ODEPY                                                                                                                                                                                                                                                                                                    |
+| TAH Drug Code      | [ODEPY](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ODEPY)                                                                                                                                                                                                                                   |
 |:-------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Relief of painful disorders such as headache, dysmenorrhea, conditions involving musculoskeletal pain, myalgias & neuralgias. After dental work, tooth extractions & in teething. As an analgesic & antipyretic in conditions accompanied by discomfort & fever, such as common cold & viral infections. |
 | Dosing             | >12 years old: 500-1000mg(1-2 Tablet) q4h-q6h. Use the minimum recommended dose for the first time, and then increase or decrease the dose based on symptoms. No more than 4 times in 24 hours. 6-12 years old: 1/2 of adult dose. 3-6 years old: 1/4 of adult dose."                                    |

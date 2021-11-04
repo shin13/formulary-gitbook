@@ -4,7 +4,7 @@
 
 ##### 
 
-| TAH Drug Code      | OCAPA                                                                           |
+| TAH Drug Code      | [OCAPA](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OCAPA)          |
 |:-------------------|:--------------------------------------------------------------------------------|
 | Indications        | Relief of pain                                                                  |
 | Dosing             | 30-60 mg 3 times daily.                                                         |

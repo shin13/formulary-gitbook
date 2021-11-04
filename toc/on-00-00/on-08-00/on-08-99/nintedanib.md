@@ -4,7 +4,7 @@
 
 ##### 臨採
 
-| TAH Drug Code      | OOFE                                                                                                                                                                                                                  |
+| TAH Drug Code      | [OOFE](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OOFE)                                                                                                                                                  |
 |:-------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Idiopathic pulmonary fibrosis (IPF).                                                                                                                                                                                  |
 | Dosing             | 150 mg orally every 12 hours (maximum: 300 mg/day)Administer with food. Swallow capsules whole with liquid; do not chew or crush.                                                                                     |

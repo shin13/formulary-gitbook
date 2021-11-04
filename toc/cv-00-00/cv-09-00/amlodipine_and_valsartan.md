@@ -4,7 +4,7 @@
 
 ##### 
 
-| TAH Drug Code      | OEXF                                                                                                                                                                                                                                                              |
+| TAH Drug Code      | [OEXF](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OEXF)                                                                                                                                                                                              |
 |:-------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Hypertension                                                                                                                                                                                                                                                      |
 | Dosing             | HTN initial: 1tablet QD slowly titiate up to 2 tablet QD (maximum 10mg/160mg)                                                                                                                                                                                     |

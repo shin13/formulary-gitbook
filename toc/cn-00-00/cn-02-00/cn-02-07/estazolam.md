@@ -4,7 +4,7 @@
 
 ##### 
 
-| TAH Drug Code      | OEUR                                                                                                                                                                                                                     |
+| TAH Drug Code      | [OEUR](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OEUR)                                                                                                                                                     |
 |:-------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Insomnia.                                                                                                                                                                                                                |
 | Dosing             | 2mg-4mg(1- 2 TAB) at bedtime. Increase or decrease according to age and medical condition.                                                                                                                               |

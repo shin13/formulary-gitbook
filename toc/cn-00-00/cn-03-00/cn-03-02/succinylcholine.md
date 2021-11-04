@@ -4,7 +4,7 @@
 
 ##### 
 
-| TAH Drug Code      | IREL                                                                                                                                                                                                                                                       |
+| TAH Drug Code      | [IREL](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IREL)                                                                                                                                                                                       |
 |:-------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Muscle relaxation.                                                                                                                                                                                                                                         |
 | Dosing             | IV injection for endotracheal intubation: 10-60 mg. Continuous IV infusion: dilute with normal saline or 5% dextrose to 0.1-0.2% solution, with rate of 2.5 mg/min. Infants and children: 1 mg/kg/dose intravenously or 2 to 3 mg/kg/dose intramuscularly. |

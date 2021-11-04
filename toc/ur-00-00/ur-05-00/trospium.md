@@ -4,7 +4,7 @@
 
 ##### 
 
-| TAH Drug Code      | OURA                                                                                                                                                                                 |
+| TAH Drug Code      | [OURA](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OURA)                                                                                                                 |
 |:-------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Antispasmodics of smooth muscle. Overactive bladder.                                                                                                                                 |
 | Dosing             | Bladder hyperactive disorder: 1-2 tablets BID before meals; Smooth muscle spasm & pain: 1-2 tabelts TID before meals.                                                                |

@@ -4,7 +4,7 @@
 
 ##### 
 
-| TAH Drug Code      | IADE                                                                                                                                                                               |
+| TAH Drug Code      | [IADE](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IADE)                                                                                                               |
 |:-------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Treatment of paroxysmal supraventricular tachycardias. Diagnostic in narrow & broad-complex tachycardias                                                                           |
 | Dosing             | Initially 3 mg by rapid IV bolus inj over 2 seconds. If required, a 2nd dose of 6 mg & 3rd dose of 12 mg at 1-2 min intervals may be given.                                        |

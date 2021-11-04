@@ -4,7 +4,7 @@
 
 ##### 
 
-| TAH Drug Code      | OCOF1                                                                                                                                                                                                                                                                      |
+| TAH Drug Code      | [OCOF1](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OCOF1)                                                                                                                                                                                                     |
 |:-------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Treatment & prophylaxis of thromboembolic disorders.                                                                                                                                                                                                                       |
 | Dosing             | Initial dose as 2-5mg once daily, depends on patient's PT/INR. Maintenance dose would be 2-10mg, adjusted by patient's PT/INR. Duration of the treatment should be kept until the risks have been excluded.                                                                |
@@ -19,7 +19,7 @@
 
 ##### 
 
-| TAH Drug Code      | OCOF5                                                                                                                                                                                                                                                                      |
+| TAH Drug Code      | [OCOF5](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OCOF5)                                                                                                                                                                                                     |
 |:-------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Treatment & prophylaxis of thromboembolic disorders.                                                                                                                                                                                                                       |
 | Dosing             | Initial dose as 2-5mg once daily, depends on patient's PT/INR. Maintenance dose would be 2-10mg, adjusted by patient's PT/INR. Duration of the treatment should be kept until the risks have been excluded.                                                                |

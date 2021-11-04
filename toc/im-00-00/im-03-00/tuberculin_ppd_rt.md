@@ -4,7 +4,7 @@
 
 ##### 
 
-| TAH Drug Code      | IPPD1                                                                                                                                                                                                                 |
+| TAH Drug Code      | [IPPD1](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IPPD1)                                                                                                                                                |
 |:-------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Skin test in diagnosis of tuberculosis                                                                                                                                                                                |
 | Dosing             | ID, 0.1 mL, in the middle third of the forearm.                                                                                                                                                                       |

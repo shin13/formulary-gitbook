@@ -4,7 +4,7 @@
 
 ##### 
 
-| TAH Drug Code      | OPLE                                                                                                                                                                                                                                                                                                          |
+| TAH Drug Code      | [OPLE](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OPLE)                                                                                                                                                                                                                                          |
 |:-------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Hypertension, angina pectoris.                                                                                                                                                                                                                                                                                |
 | Dosing             | HTN: Initially 5 mg QD. Maintenance: 5-10 mg QD. Angina pectoris :5 mg QD, may increase to 10 mg QD. Elderly: Initially 2.5 mg daily.                                                                                                                                                                         |

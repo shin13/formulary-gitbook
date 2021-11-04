@@ -4,7 +4,7 @@
 
 ##### 
 
-| TAH Drug Code      | OSINM                                                                                                                                                                                                                                                                          |
+| TAH Drug Code      | [OSINM](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OSINM)                                                                                                                                                                                                         |
 |:-------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Symptomatic treatment of Parkinsonism.                                                                                                                                                                                                                                         |
 | Dosing             | Initial, 1 tablet TID. Maximum : 8 tablets/day.                                                                                                                                                                                                                                |

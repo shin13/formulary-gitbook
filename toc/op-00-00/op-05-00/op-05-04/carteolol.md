@@ -4,7 +4,7 @@
 
 ##### 
 
-| TAH Drug Code      | EMIK                                                                                                                                                                                                                                                                                     |
+| TAH Drug Code      | [EMIK](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EMIK)                                                                                                                                                                                                                     |
 |:-------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Glaucoma & ocular hypertension.                                                                                                                                                                                                                                                          |
 | Dosing             | Instill 1 drop QD into the conjunctival sac.                                                                                                                                                                                                                                             |

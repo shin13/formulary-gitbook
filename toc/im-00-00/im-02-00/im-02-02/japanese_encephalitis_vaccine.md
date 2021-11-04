@@ -4,7 +4,7 @@
 
 ##### 
 
-| TAH Drug Code      | IIMO                                                                                                                                                                                                                                                                                           |
+| TAH Drug Code      | [IIMO](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IIMO)                                                                                                                                                                                                                           |
 |:-------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Active immunisation against encephalitis due to Japanese encephalitis virus                                                                                                                                                                                                                    |
 | Dosing             | IM, 0.5mL, Age > or = 9 months - < 18 years: primary immunization.A booster dose after 12-24 months. Age > or = 18 years: a single dose.                                                                                                                                                       |
@@ -19,7 +19,7 @@
 
 ##### 
 
-| TAH Drug Code      | IJEV0                                                                                                                                                                                                                                                                                          |
+| TAH Drug Code      | [IJEV0](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IJEV0)                                                                                                                                                                                                                         |
 |:-------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Active immunisation against encephalitis due to Japanese encephalitis virus                                                                                                                                                                                                                    |
 | Dosing             | IM, 0.5mL, Age > or = 9 months - < 18 years: primary immunization.A booster dose after 12-24 months. Age > or = 18 years: a single dose.                                                                                                                                                       |

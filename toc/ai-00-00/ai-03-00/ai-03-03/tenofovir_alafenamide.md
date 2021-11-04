@@ -4,7 +4,7 @@
 
 ##### 
 
-| TAH Drug Code      | OVEM                                                                                |
+| TAH Drug Code      | [OVEM](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OVEM)                |
 |:-------------------|:------------------------------------------------------------------------------------|
 | Indications        | Chronic hepatitis B virus (HBV) infection in adults with compensated liver disease. |
 | Dosing             | Adutl: 25 mg orally once daily.                                                     |

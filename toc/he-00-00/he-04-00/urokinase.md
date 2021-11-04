@@ -4,7 +4,7 @@
 
 ##### 
 
-| TAH Drug Code      | IUROK                                                                                                                                                                                                                                                   |
+| TAH Drug Code      | [IUROK](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IUROK)                                                                                                                                                                                  |
 |:-------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Acute coronary embolism, clearance of occluded catheters & shunts, acute pulmonary embolism, peripheral arterial or venous thromboembolism.                                                                                                             |
 | Dosing             | 60000-240000 IU on the first day, then decrease the dose day by day for about 7 days.                                                                                                                                                                   |

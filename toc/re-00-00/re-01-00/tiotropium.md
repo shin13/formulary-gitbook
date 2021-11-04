@@ -4,7 +4,7 @@
 
 ##### 
 
-| TAH Drug Code      | ESPIR                                                                                                                                                                                                                                                                                   |
+| TAH Drug Code      | [ESPIR](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ESPIR)                                                                                                                                                                                                                  |
 |:-------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Maintenance treatment of patients with COPD (including chronic bronchitis & emphysema).                                                                                                                                                                                                 |
 | Dosing             | Adult:Inhale 2 puffs once daily at the same time of day. Age 6-17 years with asthma: 2 puffs once daily at the same time of day. Age <6 years: Limited data available.                                                                                                                  |

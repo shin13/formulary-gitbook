@@ -4,7 +4,7 @@
 
 ##### 
 
-| TAH Drug Code      | OMELE                                                                                                                                                                                                                                                                   |
+| TAH Drug Code      | [OMELE](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OMELE)                                                                                                                                                                                                  |
 |:-------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Ventricular arrhythmia.                                                                                                                                                                                                                                                 |
 | Dosing             | Initially, 400 mg as loading dose. Maintenance dose should be started 2-6 hours after initial dose. Usual daily dosage: 400-800 mg in 2-3 divided doses; maximum: 1200 mg/day.                                                                                          |

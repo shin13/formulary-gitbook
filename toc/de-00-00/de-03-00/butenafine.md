@@ -4,7 +4,7 @@
 
 ##### 
 
-| TAH Drug Code      | EMEN                                                                                                                                                                                                                                                  |
+| TAH Drug Code      | [EMEN](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EMEN)                                                                                                                                                                                  |
 |:-------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Dermatophytoses eg interdigital tinea pedis, tinea corporis, tinea cruris                                                                                                                                                                             |
 | Dosing             | Tinea corporis, tinea cruris: Topical: Apply once daily for 2 weeks Tinea versicolor: Topical: Apply once daily for 2 weeks Tinea pedis: Topical: Apply twice daily for 1 week or once daily for 4 weeks to affected skin between and around the toes |

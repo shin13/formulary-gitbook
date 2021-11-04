@@ -4,7 +4,7 @@
 
 ##### 
 
-| TAH Drug Code      | OMEC                                                                                                    |
+| TAH Drug Code      | [OMEC](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OMEC)                                    |
 |:-------------------|:--------------------------------------------------------------------------------------------------------|
 | Indications        | Prophylaxis & symptomatic relief of nausea, vomiting, vertigo.                                          |
 | Dosing             | Adult and children over 12 years: for motion sickness, take 30-60 minutes before boarding, 50 mg daily. |

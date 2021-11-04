@@ -4,7 +4,7 @@
 
 ##### 
 
-| TAH Drug Code      | OHAR4                                                                                                                                                                                                                                             |
+| TAH Drug Code      | [OHAR4](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OHAR4)                                                                                                                                                                            |
 |:-------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Treatment of signs and symptoms of benign prostatic hyperplasia (BPH)                                                                                                                                                                             |
 | Dosing             | Benign prostatic hyperplasia: Oral, Initial and maintenance: 0.4 mg once daily, may increase to 0.8 mg once daily.                                                                                                                                |

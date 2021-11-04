@@ -4,7 +4,7 @@
 
 ##### 
 
-| TAH Drug Code      | ONLD                                                                                                                                                                                                   |
+| TAH Drug Code      | [ONLD](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ONLD)                                                                                                                                   |
 |:-------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Cramps and pain caused by hyperacidity, gastritis, duodenitis, gastric and duodenal ulcers                                                                                                             |
 | Dosing             | Nolidin 200/2/300mg: Aluminum Hydroxide 200mg + Butinolin 2mg + Calcium carbonate 300mg. usual dose: adult, 1 tab TID.                                                                                 |

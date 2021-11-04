@@ -4,7 +4,7 @@
 
 ##### 
 
-| TAH Drug Code      | OXYZ                                                                                                                                                                                                                                                                                                                      |
+| TAH Drug Code      | [OXYZ](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OXYZ)                                                                                                                                                                                                                                                      |
 |:-------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Treatment of symptoms associated with allergic conditions in adults & children >= 6 years, such as seasonal allergic rhinitis, perennial allergic rhinitis & chronic urticaria.                                                                                                                                           |
 | Dosing             | Adult & children >= 6 years 5 mg once daily.                                                                                                                                                                                                                                                                              |

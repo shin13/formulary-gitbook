@@ -4,7 +4,7 @@
 
 ##### 
 
-| TAH Drug Code      | OMUCA                                                                                                                                                                      |
+| TAH Drug Code      | [OMUCA](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OMUCA)                                                                                                     |
 |:-------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Symptomatic relief of gastric pain & heartburn due to gastric hyperacidity.                                                                                                |
 | Dosing             | 2-4 tab qid.                                                                                                                                                               |

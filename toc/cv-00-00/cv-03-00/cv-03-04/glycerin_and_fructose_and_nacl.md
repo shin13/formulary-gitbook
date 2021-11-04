@@ -4,7 +4,7 @@
 
 ##### 
 
-| TAH Drug Code      | IGLY1                                                                                                                                                                                                                                                                                                                                |
+| TAH Drug Code      | [IGLY1](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IGLY1)                                                                                                                                                                                                                                                               |
 |:-------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Treatment of increased intracranial pressure & intracranial edema, improvement of impaired consciousness & neurologic deficits in cerebral infarct, intracerebral & subarachnoid hemorrhages, head injury, brain tumor, cerebromeningitis. Post-op therapy following brain surgery; reduction of brain vol at time of brain surgery. |
 | Dosing             | Adult usual dosage: 200-500 mL QD-BID IV infusion (rate: 500 mL over 2-3 hours). Duration of treatment usually is about 1-2 weeks, the dosage may be adjusted according to age and symptoms. Reduction of the brain volume during brain surgery: IV bolus of 500 mL over 30 minutes.                                                 |

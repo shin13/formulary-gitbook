@@ -4,7 +4,7 @@
 
 ##### 
 
-| TAH Drug Code      | IBCG0                                                                                                                                       |
+| TAH Drug Code      | [IBCG0](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IBCG0)                                                                      |
 |:-------------------|:--------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Active immunisation against TB.                                                                                                             |
 | Dosing             | By intradermal inj. Adult & children >1 yr 0.1 mL.                                                                                          |

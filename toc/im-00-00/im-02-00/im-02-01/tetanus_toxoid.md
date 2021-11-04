@@ -4,7 +4,7 @@
 
 ##### 
 
-| TAH Drug Code      | ITTA6                                                                                                                                                                                                                                                                                                                     |
+| TAH Drug Code      | [ITTA6](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ITTA6)                                                                                                                                                                                                                                                    |
 |:-------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Active immunization of tetanus.                                                                                                                                                                                                                                                                                           |
 | Dosing             | IM, 0.5 mL, 2 doses primary immunization at an interval of 4 weeks, a booster dose after 6-12 months. Routine booster dose can be given every 5-10 years.                                                                                                                                                                 |

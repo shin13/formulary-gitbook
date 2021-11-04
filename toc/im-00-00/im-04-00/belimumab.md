@@ -4,7 +4,7 @@
 
 ##### 
 
-| TAH Drug Code      | IBEN                                                                                                          |
+| TAH Drug Code      | [IBEN](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IBEN)                                          |
 |:-------------------|:--------------------------------------------------------------------------------------------------------------|
 | Indications        | Reducing disease activity in adult patients with active autoantibody positive SLE receiving standard therapy. |
 | Dosing             | IVD, 10 mg/kg over 1 hour every 2 weeks for the first 3 doses and every 4 weeks thereafter.                   |

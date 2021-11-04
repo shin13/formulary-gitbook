@@ -4,7 +4,7 @@
 
 ##### 
 
-| TAH Drug Code      | ETEA                                                                      |
+| TAH Drug Code      | [ETEA](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ETEA)      |
 |:-------------------|:--------------------------------------------------------------------------|
 | Indications        | Temporary relief of ocular irritation due to eye dryness.                 |
 | Dosing             | Instill 1-2 drops TID-QID.                                                |

@@ -4,7 +4,7 @@
 
 ##### 
 
-| TAH Drug Code      | ODOB                                                                                                                                                                                                                                                                                                |
+| TAH Drug Code      | [ODOB](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ODOB)                                                                                                                                                                                                                                |
 |:-------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Diarrhea, abdominal pain & flatulence due to irritable colon, diverticulitis                                                                                                                                                                                                                        |
 | Dosing             | Adult: The usual oral adult dose of mebeverine hydrochloride for irritable bowel syndrome is one 100 mg tablet 3 times daily taken with fluids 20 minutes before a meal. The dosage of mebeverine may be reduced gradually after a few weeks of treatment, if the desired effect has been achieved. |

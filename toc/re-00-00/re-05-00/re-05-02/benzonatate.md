@@ -4,7 +4,7 @@
 
 ##### 
 
-| TAH Drug Code      | OZCO                                                                                                                            |
+| TAH Drug Code      | [OZCO](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OZCO)                                                            |
 |:-------------------|:--------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Symptomatic relief of nonproductive cough                                                                                       |
 | Dosing             | Adult 1-2 cap tid MAX dose is 600 mg/day                                                                                        |

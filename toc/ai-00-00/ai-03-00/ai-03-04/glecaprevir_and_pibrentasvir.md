@@ -4,7 +4,7 @@
 
 ##### 臨採
 
-| TAH Drug Code      | OMAV                                                                                                                                           |
+| TAH Drug Code      | [OMAV](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OMAV)                                                                           |
 |:-------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | No Data                                                                                                                                        |
 | Dosing             | Adults and children ? 12 years: 3 tablets po once daily with meals (total daily dose: glecaprevir 300 mg, pibrentasvir 120 mg) for 8-16 weeks. |

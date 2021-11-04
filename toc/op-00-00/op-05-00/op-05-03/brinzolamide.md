@@ -4,7 +4,7 @@
 
 ##### 
 
-| TAH Drug Code      | EAZO                                                                                                                                                                                                                               |
+| TAH Drug Code      | [EAZO](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EAZO)                                                                                                                                                               |
 |:-------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Treatment of elevated intraocular pressure in patients with ocular hypertension or open-angle glaucoma.                                                                                                                            |
 | Dosing             | Instill 1 drop BID-TID into the conjunctival sac. Age <18 years: Not recommend use. Shake well before using.                                                                                                                       |

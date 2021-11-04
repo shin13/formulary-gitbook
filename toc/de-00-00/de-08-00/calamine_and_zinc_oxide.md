@@ -4,14 +4,14 @@
 
 ##### 
 
-| TAH Drug Code      | EMENL                                                                |
-|:-------------------|:---------------------------------------------------------------------|
-| Indications        | Symptomatic relief of skin irritation & nappy rash.                  |
-| Dosing             | Skin protectant: Topical: Apply to affected area as often as needed. |
-| Hepatic Impairment | Dose adjustment not necessary                                        |
-| Renal Impairment   | Dose adjustment not necessary                                        |
-| Contraindications  | Hypersensitivity to any component of the formulation                 |
-| Adverse Effects    | Local irritation                                                     |
-| Pregnancy          | Unknown                                                              |
-| Lactation          | Unknown                                                              |
+| TAH Drug Code      | [EMENL](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EMENL)   |
+|:-------------------|:-------------------------------------------------------------------------|
+| Indications        | Symptomatic relief of skin irritation & nappy rash.                      |
+| Dosing             | Skin protectant: Topical: Apply to affected area as often as needed.     |
+| Hepatic Impairment | Dose adjustment not necessary                                            |
+| Renal Impairment   | Dose adjustment not necessary                                            |
+| Contraindications  | Hypersensitivity to any component of the formulation                     |
+| Adverse Effects    | Local irritation                                                         |
+| Pregnancy          | Unknown                                                                  |
+| Lactation          | Unknown                                                                  |
 

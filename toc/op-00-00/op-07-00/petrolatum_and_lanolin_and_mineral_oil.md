@@ -4,7 +4,7 @@
 
 ##### 
 
-| TAH Drug Code      | EDUR                                                                                                                                  |
+| TAH Drug Code      | [EDUR](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EDUR)                                                                  |
 |:-------------------|:--------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Temporary relief of ocular irritation due to eye dryness.                                                                             |
 | Dosing             | Apply a small amount of cream (approximately 1 cm) to the pouch whitch formed by pull the lower eyelid away from the eye when needed. |

@@ -4,7 +4,7 @@
 
 ##### 
 
-| TAH Drug Code      | OLIV                                                                                                                                                                    |
+| TAH Drug Code      | [OLIV](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OLIV)                                                                                                    |
 |:-------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Complaints resulting from natural or surgical menopause.                                                                                                                |
 | Dosing             | 1 tablet QD.                                                                                                                                                            |

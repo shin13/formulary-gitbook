@@ -4,7 +4,7 @@
 
 ##### 
 
-| TAH Drug Code      | ECIV                                                                                    |
+| TAH Drug Code      | [ECIV](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ECIV)                    |
 |:-------------------|:----------------------------------------------------------------------------------------|
 | Indications        | Treatment of superficial thrombophlebitis & relief of superficial bruising & haematoma. |
 | Dosing             | superficial thrombophlebitis & hematoma Use 2-3 times a day, till symptom resolved      |

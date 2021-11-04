@@ -4,7 +4,7 @@
 
 ##### 
 
-| TAH Drug Code      | IAMI2                                                                                                                                                                                                                                                                                                                                                       |
+| TAH Drug Code      | [IAMI2](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IAMI2)                                                                                                                                                                                                                                                                                      |
 |:-------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Nutritional support for patients with hypoproteinemia, malnutrition                                                                                                                                                                                                                                                                                         |
 | Dosing             | Central vein infusion: The usual adult dosage is 400-800 mL per day by drip infusion. Peripheral vein infusion: The usual adult dosage is 200-400 mL per dose by drip infusion. A typical infusion rate in adults is 100 mL over 60 minutes The dosage and the rate may be increased or decreased depending on the patient's age, symptoms and body weight. |
@@ -19,7 +19,7 @@
 
 ##### 
 
-| TAH Drug Code      | IAMII                                                                                                                                                                                                                                                                                 |
+| TAH Drug Code      | [IAMII](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IAMII)                                                                                                                                                                                                                |
 |:-------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Partial parenteral nutrition in premature infants, babies & small children.                                                                                                                                                                                                           |
 | Dosing             | As TPN material. Age of 1 year: 1.5 – 2.5 g amino acids/kg body weight/day. Age of 2-5 years: 1.5 g amino acids/kg body weight/day. Age of 6-14 years: 1.0 g amino acids/kg body weight/day. Maximum infusion rate: 0.1 g amino acids /kg body weight/hr = 1.67 mL/kg body weight/hr. |

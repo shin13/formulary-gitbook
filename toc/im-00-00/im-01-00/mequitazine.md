@@ -4,7 +4,7 @@
 
 ##### 
 
-| TAH Drug Code      | OMEQ                                                                                                         |
+| TAH Drug Code      | [OMEQ](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OMEQ)                                         |
 |:-------------------|:-------------------------------------------------------------------------------------------------------------|
 | Indications        | Allergic & vasomotor rhinitis, hay fever, urticaria, ocular allergies & other allergic reactions.            |
 | Dosing             | Adult: PO 5 mg twice daily. Children 0.25 mg/kg/day.                                                         |

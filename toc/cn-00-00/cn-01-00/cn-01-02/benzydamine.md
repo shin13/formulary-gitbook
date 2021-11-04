@@ -4,7 +4,7 @@
 
 ##### 
 
-| TAH Drug Code      | EDIF                                                                                                                                                                                         |
+| TAH Drug Code      | [EDIF](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EDIF)                                                                                                                         |
 |:-------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Relief of painful conditions of the mouth & throat including tonsillitis, sore throat, radiation mucositis, aphthous ulcers, post orosurgical & periodontal procedures.                      |
 | Dosing             | Adult & children > 12 years: 2-4 sprays onto the affected area. Children 6-12 years: 2 sprays onto the affected area. May be repeated every 1.5-3 hourly. Duration should not exceed 7 days. |

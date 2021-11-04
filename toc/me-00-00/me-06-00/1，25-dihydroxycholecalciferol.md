@@ -4,7 +4,7 @@
 
 ##### 
 
-| TAH Drug Code      | OMACA                                                                                                                                       |
+| TAH Drug Code      | [OMACA](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OMACA)                                                                      |
 |:-------------------|:--------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Management of vit D deficiency states & hypocalcaemia associated with disorders such as hypoparathyroidism & secondary hyperparathyroidism. |
 | Dosing             | Initial 1 capsule daily, dosage may be gradually increased to 2-4 capsule daily.                                                            |

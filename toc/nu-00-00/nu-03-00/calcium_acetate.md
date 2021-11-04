@@ -4,7 +4,7 @@
 
 ##### 
 
-| TAH Drug Code      | OPRO6                                                                                                                                                                                                                                                                                                               |
+| TAH Drug Code      | [OPRO6](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OPRO6)                                                                                                                                                                                                                                              |
 |:-------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Control of hyperphosphatemia in end stage renal failure and does not promote aluminum absorption.                                                                                                                                                                                                                   |
 | Dosing             | Initial dose for the adult dialysis patient is 2 TAB with each meal. The dosage may be increased gradually to bring serum phosphate value below 6 mg/dL, as long as hypercalcemia does not develop. Most patient require 3-4 TAB with each meal. 1 TAB contains: 667 mg calcium acetate = 169 mg elemental calcium. |

@@ -4,7 +4,7 @@
 
 ##### 
 
-| TAH Drug Code      | OSON                                                                                                                                                                                                                                                          |
+| TAH Drug Code      | [OSON](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OSON)                                                                                                                                                                                          |
 |:-------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Peripheral vascular circulation disorders & cerebral insufficiency.                                                                                                                                                                                           |
 | Dosing             | 50-100 mg tid.                                                                                                                                                                                                                                                |

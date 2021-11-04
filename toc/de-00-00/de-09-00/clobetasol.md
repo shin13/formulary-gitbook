@@ -4,7 +4,7 @@
 
 ##### 
 
-| TAH Drug Code      | ECLOB                                                                                                                                                                                                                              |
+| TAH Drug Code      | [ECLOB](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ECLOB)                                                                                                                                                             |
 |:-------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Treatment of moderate to severe forms of scalp psoriasis in patient ≧18 yr.                                                                                                                                                        |
 | Dosing             | Scalp psoriasis (Moderate to Severe) (Shampoo) Apply topically onto dry scalp once daily in a thin film to affected areas only; leave in place 15 minutes before lathering and rinsing; maximum 50 mL/week for 2 consecutive weeks |

@@ -4,7 +4,7 @@
 
 ##### 
 
-| TAH Drug Code      | OTONE                                                                                                                                                                                                                                                                                                                |
+| TAH Drug Code      | [OTONE](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OTONE)                                                                                                                                                                                                                                               |
 |:-------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Relief of pain & inflammation in osteoarthritis, rheumatoid arthritis & ankylosing spondylitis.                                                                                                                                                                                                                      |
 | Dosing             | 100 mg bid                                                                                                                                                                                                                                                                                                           |

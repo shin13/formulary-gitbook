@@ -4,7 +4,7 @@
 
 ##### 
 
-| TAH Drug Code      | EALP                                                                                                                                                                                      |
+| TAH Drug Code      | [EALP](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EALP)                                                                                                                      |
 |:-------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Lowering of ocular pressure in patients with open-angle glaucoma or ocular hypertension.                                                                                                  |
 | Dosing             | Instill 1 drop in the affected eye(s) 3 times daily, about 8 hours apart.                                                                                                                 |

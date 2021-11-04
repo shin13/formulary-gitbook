@@ -4,7 +4,7 @@
 
 ##### 
 
-| TAH Drug Code      | OLOP                                                                                                                                                                                 |
+| TAH Drug Code      | [OLOP](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OLOP)                                                                                                                 |
 |:-------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Acute & chronic diarrhea                                                                                                                                                             |
 | Dosing             | Oral Adult: Initially, 4 mg followed by 2 mg after each loose stool. Max dose: 16 mg daily. Child: Initially, 2 mg followed by 2 mg after each loose stool. Max dose: 8-12 mg daily. |

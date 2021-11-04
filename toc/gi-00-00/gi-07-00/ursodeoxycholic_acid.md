@@ -4,7 +4,7 @@
 
 ##### 
 
-| TAH Drug Code      | OGEN                                                                                                                                                                                           |
+| TAH Drug Code      | [OGEN](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OGEN)                                                                                                                           |
 |:-------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Dissolution of cholesterol-rich gallstones, Primary biliary cirrhosis, Prevention of gallstones in patients undergoing rapid wt loss.                                                          |
 | Dosing             | Adult 13-15mg/kg devided into four times a day.                                                                                                                                                |

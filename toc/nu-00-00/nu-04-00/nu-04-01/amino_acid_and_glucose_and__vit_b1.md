@@ -4,7 +4,7 @@
 
 ##### 
 
-| TAH Drug Code      | IBFL                                                                                                                                                                                                                                                     |
+| TAH Drug Code      | [IBFL](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IBFL)                                                                                                                                                                                     |
 |:-------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Provision of electrolytes, glucose & amino acids in inadequate oral intake before & after surgery.                                                                                                                                                       |
 | Dosing             | Adult Usual dose: 500 mL infused via peripheral vein. Maximum dose: 2500 mL/day. Infusion rate: 500 mL/120 min, slowed in elderly & critically ill patients. The dosage should be adjusted according to the patient’s condition, body weight, and age.   |

@@ -4,7 +4,7 @@
 
 ##### 
 
-| TAH Drug Code      | OGES                                                                                                                                                                                                                          |
+| TAH Drug Code      | [OGES](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OGES)                                                                                                                                                          |
 |:-------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | 子宮內膜異位                                                                                                                                                                                                                  |
 | Dosing             | 2 capsule every week. First capsule must be taken on day 1 of the menstrual cycle, 2nd dose after 3 days. From then, take on the same 2 days per week.                                                                        |

@@ -4,7 +4,7 @@
 
 ##### 
 
-| TAH Drug Code      | EPAR                                                                                                                                   |
+| TAH Drug Code      | [EPAR](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EPAR)                                                                   |
 |:-------------------|:---------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Cleansing & disinfection of mouth infections, eg gingivitis & oral candidiasis.                                                        |
 | Dosing             | Oral infection; Prophylaxis 10-20 mL BID rinse for 30-60 sec then spit it out                                                          |

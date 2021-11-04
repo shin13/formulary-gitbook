@@ -4,7 +4,7 @@
 
 ##### 
 
-| TAH Drug Code      | OSYNS                                                                                                                                                                                                                                                                                         |
+| TAH Drug Code      | [OSYNS](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OSYNS)                                                                                                                                                                                                                        |
 |:-------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | 女性雌激素不足所引起之諸症狀,卵巢切除患者之治療                                                                                                                                                                                                                                               |
 | Dosing             | 1 tablet daily.                                                                                                                                                                                                                                                                               |
@@ -19,7 +19,7 @@
 
 ##### 
 
-| TAH Drug Code      | OVEN2                                                                                                                                                                                                                                                                                                                                                            |
+| TAH Drug Code      | [OVEN2](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OVEN2)                                                                                                                                                                                                                                                                                           |
 |:-------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Hormone replacement therapy (HRT) for estrogen deficiency symptoms & prophylaxis of osteoporosis in women with an intact uterus.                                                                                                                                                                                                                                 |
 | Dosing             | 1 tablet (MPA 2.5mg) daily, Rule out the possibility of endometrial abnormalities may up to 5mg.                                                                                                                                                                                                                                                                 |

@@ -4,7 +4,7 @@
 
 ##### 
 
-| TAH Drug Code      | OINF                                                                                                                                                                                                                                              |
+| TAH Drug Code      | [OINF](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OINF)                                                                                                                                                                              |
 |:-------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Restoration of the eubiotic intestinal flora. Prophylaxis against antibiotic-induced enterocolitis. Acute non-specific enterocolitis after treatment with antibiotics.Digestive disorders in infants on an artificial diet. Chronic constipation. |
 | Dosing             | Adult & children >12 years: PO 1 CAP TID-QID 6-12 years: PO 0.5 CAP TID-QID 3-6 years: PO 0.25 CAP TID-QID                                                                                                                                        |

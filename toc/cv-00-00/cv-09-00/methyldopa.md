@@ -4,7 +4,7 @@
 
 ##### 
 
-| TAH Drug Code      | OMETH                                                                                                                                                                                                        |
+| TAH Drug Code      | [OMETH](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OMETH)                                                                                                                                       |
 |:-------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Hypertension.                                                                                                                                                                                                |
 | Dosing             | HTN Adult: initial 250 mg BID, titrate up to 2-4 tab/day (maximum: 6 tablets/day)                                                                                                                            |

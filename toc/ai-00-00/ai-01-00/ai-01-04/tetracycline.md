@@ -4,7 +4,7 @@
 
 ##### 
 
-| TAH Drug Code      | OTET2                                                                                                      |
+| TAH Drug Code      | [OTET2](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OTET2)                                     |
 |:-------------------|:-----------------------------------------------------------------------------------------------------------|
 | Indications        | Chronic bronchitis. Brucellosis, chlamydia, mycoplasma and rikettsia.                                      |
 | Dosing             | (仿單) Adults: 250-500 mg orally q6h. (熱病) Pediatric: age > 8 years: 25-50 mg/kg/day orally, divided q6h |

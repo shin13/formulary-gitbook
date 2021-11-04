@@ -4,7 +4,7 @@
 
 ##### 
 
-| TAH Drug Code      | IAVE                                                                                                                                                                                                                                                                                                                                 |
+| TAH Drug Code      | [IAVE](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IAVE)                                                                                                                                                                                                                                                                 |
 |:-------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Treatment of adults >= 18 years with upper & lower respiratory tract infections such as acute sinusitis, acute exacerbation of chronic bronchitis, community acquired pneumonia; skin & soft tissue infections; complicated intra-abdominal infection.                                                                               |
 | Dosing             | Adult: 400 IV over 60 minutes q24h.                                                                                                                                                                                                                                                                                                  |

@@ -4,7 +4,7 @@
 
 ##### 
 
-| TAH Drug Code      | IPANT                                                                                                                             |
+| TAH Drug Code      | [IPANT](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IPANT)                                                            |
 |:-------------------|:----------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Prevention & treatment of vit B & vit C deficiency.                                                                               |
 | Dosing             | Individualised dosage. Slow IV only, injection rate: 2 mL/min.                                                                    |

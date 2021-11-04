@@ -4,7 +4,7 @@
 
 ##### 
 
-| TAH Drug Code      | OMIY                                                                                                           |
+| TAH Drug Code      | [OMIY](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OMIY)                                           |
 |:-------------------|:---------------------------------------------------------------------------------------------------------------|
 | Indications        | No Data                                                                                                        |
 | Dosing             | Adult & children >12 years: PO 1 PK TID-QID. 6-12 years: PO 0.5 1 PK TID-QID. 3-6 years: PO 0.25 1 PK TID-QID. |

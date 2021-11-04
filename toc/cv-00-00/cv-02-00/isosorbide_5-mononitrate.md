@@ -4,7 +4,7 @@
 
 ##### 
 
-| TAH Drug Code      | OCOX                                                                                                                                                                                                                      |
+| TAH Drug Code      | [OCOX](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OCOX)                                                                                                                                                      |
 |:-------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Prophylaxis of angina pectoris.                                                                                                                                                                                           |
 | Dosing             | Initial dose: 5-10 mg (1/4-1/2 tablets) BID separate 7 hours apart for day 1 and day 2, then increase to 20 mg BID for 2 days. Maintain dose: 20 mg BID.                                                                  |
@@ -19,7 +19,7 @@
 
 ##### 
 
-| TAH Drug Code      | OIBI                                                                                                                                                                                                                                                                                                                                                                                                |
+| TAH Drug Code      | [OIBI](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OIBI)                                                                                                                                                                                                                                                                                                                                |
 |:-------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Prevention of angina pectoris.                                                                                                                                                                                                                                                                                                                                                                      |
 | Dosing             | 60 mg in the morning, may be increased to 120 mg once daily. Reduce to 0.5 tab when headache occurs.                                                                                                                                                                                                                                                                                                |

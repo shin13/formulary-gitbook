@@ -4,7 +4,7 @@
 
 ##### 
 
-| TAH Drug Code      | ECOLO5                                                                          |
+| TAH Drug Code      | [ECOLO5](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ECOLO5)        |
 |:-------------------|:--------------------------------------------------------------------------------|
 | Indications        | Hyperpigmentation of skin                                                       |
 | Dosing             | Hyperpigmentation of skin apply 1-2 times at night                              |

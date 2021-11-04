@@ -4,7 +4,7 @@
 
 ##### 
 
-| TAH Drug Code      | EFUC2                                                                                                                                                                                           |
+| TAH Drug Code      | [EFUC2](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EFUC2)                                                                                                                          |
 |:-------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Skin infections caused by Staph, Strep & other organisms sensitive to fusidic acid.                                                                                                             |
 | Dosing             | Apply BID-TID                                                                                                                                                                                   |

@@ -4,7 +4,7 @@
 
 ##### 
 
-| TAH Drug Code      | ECLT                                                                                                                                                                                                       |
+| TAH Drug Code      | [ECLT](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ECLT)                                                                                                                                       |
 |:-------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Acne vulgaris.                                                                                                                                                                                             |
 | Dosing             | Apply a thin film of Cleocin T twice daily to affected area. More than one pledget may be used. Each pledget should be used only once and then be discarded.                                               |

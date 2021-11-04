@@ -4,7 +4,7 @@
 
 ##### 
 
-| TAH Drug Code      | OAKI2                                                                                            |
+| TAH Drug Code      | [OAKI2](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OAKI2)                           |
 |:-------------------|:-------------------------------------------------------------------------------------------------|
 | Indications        | Parkinsonism.                                                                                    |
 | Dosing             | 2mg TID-QID. Maximum: 16 mg/day (MicroMedex).                                                    |

@@ -4,7 +4,7 @@
 
 ##### 
 
-| TAH Drug Code      | IRIN4                                                                                                                                                                                                                                                                               |
+| TAH Drug Code      | [IRIN4](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IRIN4)                                                                                                                                                                                                              |
 |:-------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Shock, hypersensitivity disorders, bronchial asthma, severe infection                                                                                                                                                                                                               |
 | Dosing             | IV and IM: 4-12 mg (1-3 mL). IVD: 4-20 mg (1-5 mL). INS: 0.4-1 mL for large joint, 0.2-0.5 mL for middle joint, 0.1-0.2 mL for smaller joint. Intra soft tissue: 0.4-6 mg (0.1-1.5 mL). Subconjectival or retrobulbar injection: 0.4-2 mg (0.1-0.5mL). SPI: 1-4 mg(0.25-1 mL).      |

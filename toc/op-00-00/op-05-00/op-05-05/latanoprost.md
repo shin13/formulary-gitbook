@@ -4,7 +4,7 @@
 
 ##### 
 
-| TAH Drug Code      | EXAL                                                                                                                                       |
+| TAH Drug Code      | [EXAL](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EXAL)                                                                       |
 |:-------------------|:-------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Reduction of elevated intraocular pressure in patients with glaucoma & ocular hypertension.                                                |
 | Dosing             | 1 drop in affected eye once daily in the evening.                                                                                          |

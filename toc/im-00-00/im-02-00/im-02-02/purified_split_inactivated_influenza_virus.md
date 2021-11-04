@@ -4,7 +4,7 @@
 
 ##### 
 
-| TAH Drug Code      | IFLU4                                                                                                                     |
+| TAH Drug Code      | [IFLU4](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IFLU4)                                                    |
 |:-------------------|:--------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Active immunisation against influenza.                                                                                    |
 | Dosing             | IM, 0.5 mL, > or = 6 months (< 9 years who have not been vaccinated previously, the 2nd dose can be given after 4 weeks.) |
@@ -19,7 +19,7 @@
 
 ##### 
 
-| TAH Drug Code      | IFLUCEL                                                                                                                  |
+| TAH Drug Code      | [IFLUCEL](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IFLUCEL)                                               |
 |:-------------------|:-------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Active immunisation against influenza.                                                                                   |
 | Dosing             | IM, 0.5 mL, > or = 3 years (< 9 years who have not been vaccinated previously, the 2nd dose can be given after 4 weeks.) |
@@ -34,7 +34,7 @@
 
 ##### 
 
-| TAH Drug Code      | IFLUV1                                                                                                                    |
+| TAH Drug Code      | [IFLUV1](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IFLUV1)                                                  |
 |:-------------------|:--------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Active immunisation against influenza.                                                                                    |
 | Dosing             | IM, 0.5 mL, > or = 6 months (< 9 years who have not been vaccinated previously, the 2nd dose can be given after 4 weeks.) |
@@ -49,7 +49,7 @@
 
 ##### 
 
-| TAH Drug Code      | IFLUV3                                                                                                                                                         |
+| TAH Drug Code      | [IFLUV3](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IFLUV3)                                                                                       |
 |:-------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Active immunisation against influenza.                                                                                                                         |
 | Dosing             | Adult & Children >= 36 mth 0.5ml IM Chidren(>= 3yr, < 9 yr who have not been vaccinated previously, the 2nd dose can be given at an interval of at least 4 wk. |
@@ -64,7 +64,7 @@
 
 ##### 
 
-| TAH Drug Code      | IFLUV5                                                                                                                    |
+| TAH Drug Code      | [IFLUV5](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IFLUV5)                                                  |
 |:-------------------|:--------------------------------------------------------------------------------------------------------------------------|
 | Indications        | No Data                                                                                                                   |
 | Dosing             | IM, 0.5 mL, > or = 6 months (< 9 years who have not been vaccinated previously, the 2nd dose can be given after 4 weeks.) |
@@ -79,7 +79,7 @@
 
 ##### 
 
-| TAH Drug Code      | IVAXS                                                                                                                                                                                                                           |
+| TAH Drug Code      | [IVAXS](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IVAXS)                                                                                                                                                          |
 |:-------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Active immunisation against influenza.                                                                                                                                                                                          |
 | Dosing             | IM, 0.5 mL, > or = 6 months (< 9 years who have not been vaccinated previously, the 2nd dose can be given after 4 weeks.)                                                                                                       |

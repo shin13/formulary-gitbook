@@ -4,7 +4,7 @@
 
 ##### 
 
-| TAH Drug Code      | OOMA                                                                           |
+| TAH Drug Code      | [OOMA](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OOMA)           |
 |:-------------------|:-------------------------------------------------------------------------------|
 | Indications        | Treatment of hypertriglyceridemia.                                             |
 | Dosing             | Adult: 1-2 capsule orally twice daily after meals.                             |

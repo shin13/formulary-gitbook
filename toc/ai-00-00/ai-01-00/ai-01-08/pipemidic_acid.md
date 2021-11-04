@@ -4,7 +4,7 @@
 
 ##### 
 
-| TAH Drug Code      | ODOLC                                                                                                                                    |
+| TAH Drug Code      | [ODOLC](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ODOLC)                                                                   |
 |:-------------------|:-----------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | 細菌性感染(A020910100) UTI, Bacillary dysentery, enteritis, otitis media & sinusitis                                                     |
 | Dosing             | Adult: 500-2000 mg/day, divided q6-8h.                                                                                                   |

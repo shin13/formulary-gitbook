@@ -4,7 +4,7 @@
 
 ##### 
 
-| TAH Drug Code      | OVBC                                                                                                                                                                                                                                    |
+| TAH Drug Code      | [OVBC](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OVBC)                                                                                                                                                                    |
 |:-------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Prevention & treatment of vit B deficiency.                                                                                                                                                                                             |
 | Dosing             | Adult 2-3 capsules daily. the maxinum dose: 3 capsules/day. Each capsule contains: Thiamine HCl 5mg, Riboflavin 2mg, Nicotinamide 10.1mg, Pyridoxine HCl 0.25mg, Cyanocobalamine 1 mcg, Calcium Pantothenate 2.75mg, Folic Acid 0.1 mg. |

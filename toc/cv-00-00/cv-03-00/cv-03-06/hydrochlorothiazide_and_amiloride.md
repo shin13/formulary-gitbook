@@ -4,7 +4,7 @@
 
 ##### 
 
-| TAH Drug Code      | OAMIZ                                                                                                                                                                                                              |
+| TAH Drug Code      | [OAMIZ](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OAMIZ)                                                                                                                                             |
 |:-------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Hypertension, edema of cardiac origin & hepatic cirrhosis with ascites & edema.                                                                                                                                    |
 | Dosing             | Initially, 1-2 tablets daily. Maximum: 4 tablets/day.                                                                                                                                                              |

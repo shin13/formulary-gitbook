@@ -4,7 +4,7 @@
 
 ##### 
 
-| TAH Drug Code      | ODOF                                                                                                                                                                                                   |
+| TAH Drug Code      | [ODOF](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ODOF)                                                                                                                                   |
 |:-------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | 為肌肉鬆弛劑Muscle spasms                                                                                                                                                                              |
 | Dosing             | Adult: 200-400 mg TID. Maximum: 2000mg daily.Children 6-15 years: 100mg TID.                                                                                                                           |

@@ -4,7 +4,7 @@
 
 ##### 
 
-| TAH Drug Code      | ONORM                                                                                                                                                                                                                  |
+| TAH Drug Code      | [ONORM](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ONORM)                                                                                                                                                 |
 |:-------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Treatment of constipation. The initiating and maintenance of bowel action after rectal surgery and haemorrhoidectomy.                                                                                                  |
 | Dosing             | 1 pack= 7g granules (62% w/w Sterculia and 8% w/w Frangula). Adult: 1-2 sachets QD-BID. After meal. (Put the granules directly into your mouth, do not chew or crush, and swallow with plenty of water or cold drinks) |
