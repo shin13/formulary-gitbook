@@ -1,6 +1,6 @@
 # Succinylated Gelatin
 
-## Gelofusine 500mL， 4%
+## Gelofusine 500mL, 4%
 
 ##### 
 

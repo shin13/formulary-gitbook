@@ -1,6 +1,6 @@
 # Pirfenoxone
 
-## Kary Uni 0.005%， 5mL ophthalmic suspension
+## Kary Uni 0.005%, 5mL ophthalmic suspension
 
 ##### 
 

@@ -1,6 +1,6 @@
 # Betamethasone
 
-## FUSone eye drops 0.1%， 0.5mL
+## FUSone eye drops 0.1%, 0.5mL
 
 ##### 
 

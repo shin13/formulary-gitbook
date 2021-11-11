@@ -12,6 +12,6 @@
 | Renal Impairment   | Dose adjustment not necessary                                                |
 | Contraindications  | Hypersensitivity to Coriolus versicolor                                      |
 | Adverse Effects    | Dark colored stools, nail pigmentation, diarrhea, abnormal liver functions   |
-| Pregnancy          | No Data                                                                      |
-| Lactation          | Contraindicated                                                              |
+| Pregnancy          | Unknown                                                                      |
+| Lactation          | Unknown                                                                      |
 

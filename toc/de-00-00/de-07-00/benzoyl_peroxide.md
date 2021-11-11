@@ -1,6 +1,6 @@
 # Benzoyl Peroxide
 
-## Aczo gel 50mg/gm， 10gm
+## Aczo gel 50mg/gm, 10gm
 
 ##### 
 

@@ -1,6 +1,6 @@
 # Dexamethasone
 
-## Dexa orabase 0.1%， 5gm
+## Dexa orabase 0.1%, 5gm
 
 ##### 
 

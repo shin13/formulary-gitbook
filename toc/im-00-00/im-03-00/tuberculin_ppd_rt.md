@@ -12,6 +12,6 @@
 | Renal Impairment   | Dose adjustment not necessary                                                                                                                                                                                         |
 | Contraindications  | Hypersensitivity to tuberculin purified protein derivative (PPD) or any component of the formulation; previous severe reaction to tuberculin PPD skin test (TST)                                                      |
 | Adverse Effects    | Dermatologic: Rash Local: Injection site reactions: Bleeding, bruising, discomfort, erythematous reaction, hematoma, necrosis, pain, pruritus, redness, scarring, ulceration, vesiculation Miscellaneous: Anaphylaxis |
-| Pregnancy          | No Data                                                                                                                                                                                                               |
-| Lactation          | Contraindicated                                                                                                                                                                                                       |
+| Pregnancy          | Unknown                                                                                                                                                                                                               |
+| Lactation          | Unknown                                                                                                                                                                                                               |
 

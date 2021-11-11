@@ -1,6 +1,6 @@
 # Adapalene
 
-## Differin gel 0.1%， 15gm
+## Differin gel 0.1%, 15gm
 
 ##### 
 

@@ -1,6 +1,6 @@
 # Insulin glargine
 
-## Toujeo inj 300 Unit/mL， 1.5mL Pen
+## Toujeo inj 300 Unit/mL, 1.5mL Pen
 
 ##### 
 

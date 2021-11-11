@@ -1,6 +1,6 @@
 # Ivermectin
 
-## Soolantra cream 1%， 30gm
+## Soolantra cream 1%, 30gm
 
 ##### 
 

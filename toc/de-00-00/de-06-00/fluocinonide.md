@@ -1,6 +1,6 @@
 # Fluocinonide
 
-## Topsym lotion 0.05%， 10gm
+## Topsym lotion 0.05%, 10gm
 
 ##### 
 
@@ -15,7 +15,7 @@
 | Pregnancy          | No (Limited) Human Data – Animal Data Suggest Risk                                                                                                                                                                                         |
 | Lactation          | No (Limited) Human Data - Potential Toxicity                                                                                                                                                                                               |
 
-## Topsym cream 0.05%， 10gm
+## Topsym cream 0.05%, 10gm
 
 ##### 
 

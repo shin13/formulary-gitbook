@@ -1,6 +1,6 @@
 # Magnesium Sulfate
 
-## Mg Sulfate inj 10%， 200mL
+## Mg Sulfate inj 10%, 200mL
 
 ##### 
 

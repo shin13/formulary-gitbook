@@ -12,6 +12,6 @@
 | Renal Impairment   | Dose adjustment required                                                                                                                 |
 | Contraindications  | No Data                                                                                                                                  |
 | Adverse Effects    | GI symptoms. CNS, skin reactions. Muscular weakness, myalgia. CI: Hypersensitivity, children, pregnancy & lactation. infants < 3 months. |
-| Pregnancy          | No Data                                                                                                                                  |
-| Lactation          | Contraindicated                                                                                                                          |
+| Pregnancy          | Unknown                                                                                                                                  |
+| Lactation          | Unknown                                                                                                                                  |
 

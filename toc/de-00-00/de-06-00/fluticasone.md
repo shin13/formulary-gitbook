@@ -1,6 +1,6 @@
 # Fluticasone
 
-## Fluticosone cream 0.05%， 5gm
+## Fluticosone cream 0.05%, 5gm
 
 ##### 
 

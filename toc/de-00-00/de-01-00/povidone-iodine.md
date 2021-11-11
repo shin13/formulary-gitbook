@@ -10,7 +10,7 @@
 | Dosing             | Aqueous soln As directed. Surgical disinfection Use 5 mL undiluted & allow to work for 5 mins, rinse off & repeat. Pre-op antiseptic skin cleanser Use undiluted.                               |
 | Hepatic Impairment | Dose adjustment not necessary                                                                                                                                                                   |
 | Renal Impairment   | Dose adjustment not necessary                                                                                                                                                                   |
-| Contraindications  | No Data                                                                                                                                                                                         |
+| Contraindications  | Hypersensitivity to any component of the formulation.                                                                                                                                           |
 | Adverse Effects    | Local irritation (discontinue).                                                                                                                                                                 |
 | Pregnancy          | Human Data Suggest Risk in 2nd and 3rd Trimesters                                                                                                                                               |
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                                                                                                                   |

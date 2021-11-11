@@ -12,6 +12,6 @@
 | Renal Impairment   | Dose adjustment not necessary                                            |
 | Contraindications  | No Data                                                                  |
 | Adverse Effects    | GI discomfort. Transient rise in serum & uric acid levels.               |
-| Pregnancy          | No Data                                                                  |
-| Lactation          | Contraindicated                                                          |
+| Pregnancy          | Unknown                                                                  |
+| Lactation          | Unknown                                                                  |
 

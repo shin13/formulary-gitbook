@@ -1,6 +1,6 @@
 # Teriparatide
 
-## Forteo 750mcg/3mL， 28dose
+## Forteo 750mcg/3mL, 28dose
 
 ##### 
 

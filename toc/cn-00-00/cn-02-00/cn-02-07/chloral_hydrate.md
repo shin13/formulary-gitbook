@@ -1,6 +1,6 @@
 # Chloral hydrate
 
-## Clodrin 100mg/mL， 30mL oral solution
+## Clodrin 100mg/mL, 30mL oral solution
 
 ##### 
 

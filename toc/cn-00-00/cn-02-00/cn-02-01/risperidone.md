@@ -1,6 +1,6 @@
 # Risperidone
 
-## Risperdal solution 1mg/mL， 30mL
+## Risperdal solution 1mg/mL, 30mL
 
 ##### 
 

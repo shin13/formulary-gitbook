@@ -15,7 +15,7 @@
 | Pregnancy          | Unknown                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 | Lactation          | Unknown                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 
-## Natesto nasal gel 4.5%， 11gm
+## Natesto nasal gel 4.5%, 11gm
 
 ##### 
 

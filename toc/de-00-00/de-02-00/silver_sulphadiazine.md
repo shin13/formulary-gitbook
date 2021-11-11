@@ -1,6 +1,6 @@
 # Silver Sulphadiazine
 
-## Siliverzine cream 1%， 20gm
+## Siliverzine cream 1%, 20gm
 
 ##### 
 

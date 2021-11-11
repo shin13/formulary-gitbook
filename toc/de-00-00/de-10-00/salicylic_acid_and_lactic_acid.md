@@ -1,6 +1,6 @@
 # Salicylic Acid + Lactic Acid
 
-## Decorn solution 10mL， 16.7%
+## Decorn solution 10mL, 16.7%
 
 ##### 
 
@@ -13,5 +13,5 @@
 | Contraindications  | Hypersensitivity to salicylic acid or any component of the formulation. Impaired circulation (eg, diabetes, peripheral vascular disease); moles, birthmarks; warts with hair growth or on face. |
 | Adverse Effects    | Local irritation.                                                                                                                                                                               |
 | Pregnancy          | Unknown                                                                                                                                                                                         |
-| Lactation          | Contraindicated                                                                                                                                                                                 |
+| Lactation          | Unknown                                                                                                                                                                                         |
 

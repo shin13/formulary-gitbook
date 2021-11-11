@@ -1,6 +1,6 @@
 # Acetaminophen
 
-## Anti-phen 24mg/mL， 60mL
+## Anti-phen 24mg/mL, 60mL
 
 ##### 
 

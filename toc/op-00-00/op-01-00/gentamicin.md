@@ -1,6 +1,6 @@
 # Gentamicin
 
-## Gentamicin eye ointment 0.3%， 5gm
+## Gentamicin eye ointment 0.3%, 5gm
 
 ##### 
 

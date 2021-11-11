@@ -10,10 +10,10 @@
 | Dosing             | For irrigation during operations of the eyes, ears, nose and throat.     |
 | Hepatic Impairment | Dose adjustment not necessary                                            |
 | Renal Impairment   | Dose adjustment not necessary                                            |
-| Contraindications  | No Data                                                                  |
+| Contraindications  | Hypersensitivity to any component of the formulation.                    |
 | Adverse Effects    | No Data                                                                  |
 | Pregnancy          | Unknown                                                                  |
-| Lactation          | No Data                                                                  |
+| Lactation          | Unknown                                                                  |
 
 ## BSS sterile irrigation solusion 500ml/Bottle
 
@@ -25,7 +25,7 @@
 | Dosing             | For irrigation during operations of the eyes, ears, nose and throat.                                                                                                                                  |
 | Hepatic Impairment | Dose adjustment not necessary                                                                                                                                                                         |
 | Renal Impairment   | Dose adjustment not necessary                                                                                                                                                                         |
-| Contraindications  | No Data                                                                                                                                                                                               |
+| Contraindications  | Hypersensitivity to any component of the formulation.                                                                                                                                                 |
 | Adverse Effects    | When the corneal endothelium is abnormal, irrigation or any other trauma may result in bullous keratopathy.                                                                                           |
 | Pregnancy          | Unknown                                                                                                                                                                                               |
 | Lactation          | Unknown                                                                                                                                                                                               |

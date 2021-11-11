@@ -1,6 +1,6 @@
 # Tacrolimus
 
-## Protopic ointment 0.1%，10gm
+## Protopic ointment 0.1%,10gm
 
 ##### 
 

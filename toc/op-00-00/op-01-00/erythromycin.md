@@ -1,6 +1,6 @@
 # Erythromycin
 
-## Erythromycin 0.5%， 3.5gm ophthalmic ointment
+## Erythromycin 0.5%, 3.5gm ophthalmic ointment
 
 ##### 
 

@@ -1,6 +1,6 @@
 # Tafluprost
 
-## Taflotan-S 0.0015%，0.3mL ophthalmic solution
+## Taflotan-S 0.0015%,0.3mL ophthalmic solution
 
 ##### 
 

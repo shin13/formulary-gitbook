@@ -27,6 +27,6 @@
 | Renal Impairment   | Dose adjustment not necessary                                                                                                                                                                                                          |
 | Contraindications  | Hypersensitivity to bisacodyl or any component of the formulation; abdominal pain or obstruction, nausea, or vomiting                                                                                                                  |
 | Adverse Effects    | Abdominal cramps (mild), electrolyte disturbance (metabolic acidosis or alkalosis, hypocalcemia), nausea, rectal irritation (burning), vertigo, vomiting                                                                               |
-| Pregnancy          | No Data                                                                                                                                                                                                                                |
+| Pregnancy          | No (Limited) Human Data – Probably Compatible                                                                                                                                                                                          |
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                                                                                                                                                          |
 

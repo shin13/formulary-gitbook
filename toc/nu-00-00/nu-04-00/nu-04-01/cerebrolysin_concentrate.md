@@ -1,6 +1,6 @@
 # Cerebrolysin concentrate
 
-## Cerebrolysin 215.2mg/mL， 10mL
+## Cerebrolysin 215.2mg/mL, 10mL
 
 ##### 
 

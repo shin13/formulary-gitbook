@@ -12,6 +12,6 @@
 | Renal Impairment   | Dose adjustment required                                                                                                                                                                                                                |
 | Contraindications  | Hypersensitivity to cephalosporins.                                                                                                                                                                                                     |
 | Adverse Effects    | Nausea, vomiting, diarrhoea, abdominal discomfort; skin rash, angioedema; elevated liver enzyme values; superinfection with resistant organisms especially candida. Potentially Fatal: Anaphylactic reaction; pseudomembranous colitis. |
-| Pregnancy          | No Data                                                                                                                                                                                                                                 |
+| Pregnancy          | Compatible                                                                                                                                                                                                                              |
 | Lactation          | Compatible                                                                                                                                                                                                                              |
 

@@ -12,6 +12,6 @@
 | Renal Impairment   | Dose adjustment not necessary                                                                                                                         |
 | Contraindications  | No Data                                                                                                                                               |
 | Adverse Effects    | Diarrhea, abdominal cramps, nausea, hypermagnesemia, renal stones                                                                                     |
-| Pregnancy          | No Data                                                                                                                                               |
+| Pregnancy          | Unknown                                                                                                                                               |
 | Lactation          | Unknown                                                                                                                                               |
 

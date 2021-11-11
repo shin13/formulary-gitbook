@@ -1,6 +1,6 @@
 # Enoxolone
 
-## Enoxolone Gingival Paste 1%， 80gm
+## Enoxolone Gingival Paste 1%, 80gm
 
 ##### 
 
@@ -10,8 +10,8 @@
 | Dosing             | Brushing followed by a massage gums after meal for a few minutes, then rinse. |
 | Hepatic Impairment | Dose adjustment not necessary                                                 |
 | Renal Impairment   | Dose adjustment not necessary                                                 |
-| Contraindications  | No Data                                                                       |
+| Contraindications  | Hypersensitivity to any component of the formulation.                         |
 | Adverse Effects    | Hypersensivity.                                                               |
 | Pregnancy          | Unknown                                                                       |
-| Lactation          | Contraindicated                                                               |
+| Lactation          | Unknown                                                                       |
 

@@ -1,6 +1,6 @@
 # Ketorolac
 
-## Acular 0.5%， 5mL ophthalmic solution
+## Acular 0.5%, 5mL ophthalmic solution
 
 ##### 
 

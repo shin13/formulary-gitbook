@@ -12,6 +12,6 @@
 | Renal Impairment   | Dose adjustment not necessary                                                                                                                                              |
 | Contraindications  | Hypophosphatemia; severe renal impairment; symptoms of appendicitis.                                                                                                       |
 | Adverse Effects    | Hypersensitivity reactions, dermatitis, urticaria, pruritus, glossitis, angioedema & collapse. In large doses, dizziness, faintness or drowsiness. Diarrhea, constipation. |
-| Pregnancy          | No Data                                                                                                                                                                    |
-| Lactation          | Contraindicated                                                                                                                                                            |
+| Pregnancy          | Unknown                                                                                                                                                                    |
+| Lactation          | Unknown                                                                                                                                                                    |
 

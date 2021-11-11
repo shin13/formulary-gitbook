@@ -1,6 +1,6 @@
 # Glycerin + Fructose + NaCl
 
-## Glycetose inj 10%， 500mL
+## Glycetose inj 10%, 500mL
 
 ##### 
 

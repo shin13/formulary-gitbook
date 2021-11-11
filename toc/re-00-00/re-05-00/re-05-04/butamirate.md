@@ -1,6 +1,6 @@
 # Butamirate
 
-## Sutussi liquid 0.8mg/mL， 60mL
+## Sutussi liquid 0.8mg/mL, 60mL
 
 ##### 
 

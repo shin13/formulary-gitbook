@@ -1,6 +1,6 @@
 # DTaP-IPV
 
-## Tetraxim (四合一， 政府提供) 0.5mL/dose
+## Tetraxim (四合一, 政府提供) 0.5mL/dose
 
 ##### 
 

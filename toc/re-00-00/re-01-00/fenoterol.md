@@ -1,6 +1,6 @@
 # Fenoterol
 
-## Strolin liquid 0.5mg/mL， 60mL
+## Strolin liquid 0.5mg/mL, 60mL
 
 ##### 
 

@@ -12,6 +12,6 @@
 | Renal Impairment   | Dose adjustment not necessary                                                                                                                                                                                           |
 | Contraindications  | Corrosive substance intoxication.                                                                                                                                                                                       |
 | Adverse Effects    | Diarrhea or constipation (occasionally).                                                                                                                                                                                |
-| Pregnancy          | No Data                                                                                                                                                                                                                 |
-| Lactation          | Contraindicated                                                                                                                                                                                                         |
+| Pregnancy          | Unknown                                                                                                                                                                                                                 |
+| Lactation          | Unknown                                                                                                                                                                                                                 |
 

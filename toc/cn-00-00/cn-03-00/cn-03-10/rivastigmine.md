@@ -15,7 +15,7 @@
 | Pregnancy          | No (Limited) Human Data – Animal Data Suggest Low Risk                                                                                                                                                                                                                                                                                                                                                                       |
 | Lactation          | No (Limited) Human Data - Potential Toxicity                                                                                                                                                                                                                                                                                                                                                                                 |
 
-## Rivast 2mg/mL， 120mL solution
+## Rivast 2mg/mL, 120mL solution
 
 ##### 臨採
 

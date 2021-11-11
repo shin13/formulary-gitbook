@@ -15,7 +15,7 @@
 | Pregnancy          | No (Limited) Human Data – Probably Compatible                                                              |
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                              |
 
-## HAVRIX 1440， 1mL/dose (Private)
+## HAVRIX 1440, 1mL/dose (Private)
 
 ##### 
 
@@ -42,6 +42,6 @@
 | Renal Impairment   | Dose adjustment not necessary                                                                                                                                                                      |
 | Contraindications  | Hypersensitivity.                                                                                                                                                                                  |
 | Adverse Effects    | Inj site soreness, mild redness & swelling, headache, malaise, vomiting, fever, nausea & loss of appetite.                                                                                         |
-| Pregnancy          | No Data                                                                                                                                                                                            |
+| Pregnancy          | No (Limited) Human Data – Probably Compatible                                                                                                                                                      |
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                                                                                                                      |
 

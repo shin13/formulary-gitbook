@@ -1,6 +1,6 @@
 # Carteolol
 
-## Mikelan LA 2%， 2.5mL ophthalmic solution
+## Mikelan LA 2%, 2.5mL ophthalmic solution
 
 ##### 
 

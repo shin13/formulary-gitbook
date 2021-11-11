@@ -1,6 +1,6 @@
 # Travoprost
 
-## Izba 0.003%， 2.5mL eye drops
+## Izba 0.003%, 2.5mL eye drops
 
 ##### 
 

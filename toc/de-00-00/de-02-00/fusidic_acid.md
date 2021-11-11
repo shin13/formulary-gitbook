@@ -1,6 +1,6 @@
 # Fusidic Acid
 
-## Fucidin cream 2%， 15gm
+## Fucidin cream 2%, 15gm
 
 ##### 
 

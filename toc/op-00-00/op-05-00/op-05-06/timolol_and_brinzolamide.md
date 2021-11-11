@@ -1,6 +1,6 @@
 # Timolol + Brinzolamide
 
-## Azarga 0.5/1%， 5mL ophthalmic suspension
+## Azarga 0.5/1%, 5mL ophthalmic suspension
 
 ##### 
 

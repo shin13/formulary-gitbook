@@ -12,6 +12,6 @@
 | Renal Impairment   | Dose adjustment required                                                                                                                                            |
 | Contraindications  | Myasthenia gravis, toxic megacolon, narrow angle glaucoma, tachycardia, prostatic enlargement with urinary retention, pyloric stenosis & paralytic ileus.           |
 | Adverse Effects    | Dry mouth, dyshidrosis, visual accommodation disturbances, tachycardia, dizziness, constipation, urinary retention, hypotension, allergic reactions, inj site pain. |
-| Pregnancy          | No Data                                                                                                                                                             |
+| Pregnancy          | Human Data Suggest Low Risk                                                                                                                                         |
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                                                                                       |
 

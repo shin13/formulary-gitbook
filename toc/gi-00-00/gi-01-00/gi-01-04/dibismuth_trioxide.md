@@ -12,6 +12,6 @@
 | Renal Impairment   | Dose adjustment required                                                                                              |
 | Contraindications  | Hypersensitivity, moderate-severe renal insufficiency.                                                                |
 | Adverse Effects    | Gray stools. Nausea, vomiting.                                                                                        |
-| Pregnancy          | No Data                                                                                                               |
-| Lactation          | Unknown                                                                                                               |
+| Pregnancy          | Human Data Suggest Low Risk                                                                                           |
+| Lactation          | Human Data Suggest Potential Toxicity                                                                                 |
 

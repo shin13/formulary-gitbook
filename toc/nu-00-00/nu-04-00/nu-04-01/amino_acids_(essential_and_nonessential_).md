@@ -1,6 +1,6 @@
 # Amino Acids (Essential & Nonessential )
 
-## Nephrosteril inj 250mL， 7%
+## Nephrosteril inj 250mL, 7%
 
 ##### 
 

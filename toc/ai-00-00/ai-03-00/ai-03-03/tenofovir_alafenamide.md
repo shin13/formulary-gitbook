@@ -12,6 +12,6 @@
 | Renal Impairment   | Dose adjustment required                                                            |
 | Contraindications  | Hypersensitivity to tenofovir alafenamide or any component of the formulation.      |
 | Adverse Effects    | Headache, abdominal pain, fatigue, cough, nausea, back pain.                        |
-| Pregnancy          | No Data                                                                             |
-| Lactation          | No (Limited) Human Data – Potential Toxicity(Mother)                                |
+| Pregnancy          | Compatible – Maternal Benefit >> Embryo-Fetal Risk                                  |
+| Lactation          | Contraindicated                                                                     |
 

@@ -1,6 +1,6 @@
 # Cyproheptadine
 
-## Cypromin solution 0.4mg/mL， 60mL
+## Cypromin solution 0.4mg/mL, 60mL
 
 ##### 
 

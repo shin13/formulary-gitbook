@@ -12,6 +12,6 @@
 | Renal Impairment   | Dose adjustment not necessary                                                                                                                            |
 | Contraindications  | When used for self-medication, do not use if sensitive to milk protein (product specific).                                                               |
 | Adverse Effects    | Bloating (intestinal), flatulence.                                                                                                                       |
-| Pregnancy          | No Data                                                                                                                                                  |
-| Lactation          | Contraindicated                                                                                                                                          |
+| Pregnancy          | Unknown                                                                                                                                                  |
+| Lactation          | Unknown                                                                                                                                                  |
 

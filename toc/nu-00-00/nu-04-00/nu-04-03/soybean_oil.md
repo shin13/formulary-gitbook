@@ -1,6 +1,6 @@
 # Soybean Oil
 
-## Lipofundin (小兒TPN用100mL， 20%)
+## Lipofundin (小兒TPN用100mL, 20%)
 
 ##### 
 

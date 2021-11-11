@@ -1,6 +1,6 @@
 # Cetirizine
 
-## Cetirizine 1mg/mL， 60mL oral solution
+## Cetirizine 1mg/mL, 60mL oral solution
 
 ##### 
 

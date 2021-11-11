@@ -1,6 +1,6 @@
 # Bromhexine
 
-## Bisolvon solution 2mg/mL， 50mL
+## Bisolvon solution 2mg/mL, 50mL
 
 ##### 
 

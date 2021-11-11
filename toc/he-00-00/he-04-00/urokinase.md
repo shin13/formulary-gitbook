@@ -1,6 +1,6 @@
 # Urokinase
 
-## UROKINASE 60，000IU
+## UROKINASE 60,000IU
 
 ##### 
 

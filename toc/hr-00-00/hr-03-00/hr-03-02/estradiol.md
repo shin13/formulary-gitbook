@@ -1,6 +1,6 @@
 # Estradiol
 
-## Ladiol Gel 0.6mg/gm， 30gm
+## Ladiol Gel 0.6mg/gm, 30gm
 
 ##### 
 

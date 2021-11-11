@@ -12,6 +12,6 @@
 | Renal Impairment   | Dose adjustment not necessary                                                     |
 | Contraindications  | Hypersensitivity to any component of the formulation.                             |
 | Adverse Effects    | Diarrhea, constipation.                                                           |
-| Pregnancy          | No Data                                                                           |
-| Lactation          | Compatible                                                                        |
+| Pregnancy          | Unknown                                                                           |
+| Lactation          | Unknown                                                                           |
 

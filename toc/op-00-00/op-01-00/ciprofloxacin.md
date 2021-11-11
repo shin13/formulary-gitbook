@@ -1,6 +1,6 @@
 # Ciprofloxacin
 
-## Ciloxan 0.3%， 5mL ophthalmic solution
+## Ciloxan 0.3%, 5mL ophthalmic solution
 
 ##### 
 

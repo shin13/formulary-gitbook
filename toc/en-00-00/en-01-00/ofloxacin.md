@@ -1,6 +1,6 @@
 # Ofloxacin
 
-## Tarivid otic solution 0.3%， 5mL
+## Tarivid otic solution 0.3%, 5mL
 
 ##### 
 

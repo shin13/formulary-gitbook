@@ -1,6 +1,6 @@
 # Dorzolamide + Timolol
 
-## Cosopt 2/0.5%， 5ml ophthalmic solution
+## Cosopt 2/0.5%, 5ml ophthalmic solution
 
 ##### 
 

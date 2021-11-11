@@ -1,6 +1,6 @@
 # Brimonidine
 
-## Alphagan-P 0.15%， 5mL ophthalmic solution
+## Alphagan-P 0.15%, 5mL ophthalmic solution
 
 ##### 
 

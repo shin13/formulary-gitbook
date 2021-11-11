@@ -1,6 +1,6 @@
 # Ketotifen
 
-## Athmin syrup 0.2mg/mL， 60mL
+## Athmin syrup 0.2mg/mL, 60mL
 
 ##### 
 

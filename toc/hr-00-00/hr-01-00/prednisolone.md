@@ -1,6 +1,6 @@
 # Prednisolone
 
-## Kidsolone solution 1mg/mL， 60mL
+## Kidsolone solution 1mg/mL, 60mL
 
 ##### 
 

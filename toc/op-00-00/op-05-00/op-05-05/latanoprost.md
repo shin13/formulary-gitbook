@@ -1,6 +1,6 @@
 # Latanoprost
 
-## Xalatan 0.005%， 2.5mL ophthalmic solution
+## Xalatan 0.005%, 2.5mL ophthalmic solution
 
 ##### 
 

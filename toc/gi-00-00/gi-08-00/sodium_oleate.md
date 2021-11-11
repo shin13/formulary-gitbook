@@ -10,8 +10,8 @@
 | Dosing             | Insert 1 suppository in the morning, evening and after defecations     |
 | Hepatic Impairment | Dose adjustment not necessary                                          |
 | Renal Impairment   | Dose adjustment not necessary                                          |
-| Contraindications  | No Data                                                                |
+| Contraindications  | Hypersensitivity to any component of the formulation.                  |
 | Adverse Effects    | Local irritation                                                       |
 | Pregnancy          | Unknown                                                                |
-| Lactation          | Contraindicated                                                        |
+| Lactation          | Unknown                                                                |
 

@@ -1,6 +1,6 @@
 # Sertaconazole
 
-## Zalain cream 2%， 15gm
+## Zalain cream 2%, 15gm
 
 ##### 
 

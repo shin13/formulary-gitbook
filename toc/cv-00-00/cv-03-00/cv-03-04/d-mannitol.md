@@ -1,6 +1,6 @@
 # D-Mannitol
 
-## Anol inj 200mg/mL，100mL/bag
+## Anol inj 200mg/mL,100mL/bag
 
 ##### 
 

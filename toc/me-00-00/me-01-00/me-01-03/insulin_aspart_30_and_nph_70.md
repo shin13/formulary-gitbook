@@ -1,6 +1,6 @@
 # Insulin Aspart 30 + NPH 70
 
-## NovoMix 30 FlexPen 100 Unit/mL， 3mL
+## NovoMix 30 FlexPen 100 Unit/mL, 3mL
 
 ##### 
 

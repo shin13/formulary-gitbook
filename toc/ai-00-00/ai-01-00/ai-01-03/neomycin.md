@@ -12,6 +12,6 @@
 | Renal Impairment   | Dose adjustment required                                                                                                                                                                                                      |
 | Contraindications  | Intestinal obstruction; myasthenia gravis.                                                                                                                                                                                    |
 | Adverse Effects    | Vestibular & auditory damage, nephrotoxicity, GI disturbances.                                                                                                                                                                |
-| Pregnancy          | No Data                                                                                                                                                                                                                       |
+| Pregnancy          | Human Data Suggest Low Risk                                                                                                                                                                                                   |
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                                                                                                                                                 |
 

@@ -1,6 +1,6 @@
 # Latanoprostene bunod
 
-## Vyzulta 0.024%， 5mL ophthalmic solution
+## Vyzulta 0.024%, 5mL ophthalmic solution
 
 ##### 
 

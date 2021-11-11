@@ -1,6 +1,6 @@
 # Benzyl benzoate
 
-## Jaline Lotion 25%， 150mL
+## Jaline Lotion 25%, 150mL
 
 ##### 
 

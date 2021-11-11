@@ -66,14 +66,14 @@
 
 | TAH Drug Code      | [IFLUV5](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IFLUV5)                                                  |
 |:-------------------|:--------------------------------------------------------------------------------------------------------------------------|
-| Indications        | No Data                                                                                                                   |
+| Indications        | Active immunisation against influenza.                                                                                    |
 | Dosing             | IM, 0.5 mL, > or = 6 months (< 9 years who have not been vaccinated previously, the 2nd dose can be given after 4 weeks.) |
-| Hepatic Impairment | No Data                                                                                                                   |
-| Renal Impairment   | No Data                                                                                                                   |
-| Contraindications  | No Data                                                                                                                   |
-| Adverse Effects    | No Data                                                                                                                   |
-| Pregnancy          | Unknown                                                                                                                   |
-| Lactation          | Unknown                                                                                                                   |
+| Hepatic Impairment | Dose adjustment not necessary                                                                                             |
+| Renal Impairment   | Dose adjustment not necessary                                                                                             |
+| Contraindications  | Known hypersensitivity to egg products. Anaphylactic reaction to a previous dose containing the same antigens.            |
+| Adverse Effects    | Inj site soreness, fever, malaise, myalgia, headache, GI disturbances, lymphadenitis, oculorespiratory syndrome.          |
+| Pregnancy          | Compatible                                                                                                                |
+| Lactation          | Compatible                                                                                                                |
 
 ## 4價自費流感 (VaxigripTetra)0.5mL/dose
 

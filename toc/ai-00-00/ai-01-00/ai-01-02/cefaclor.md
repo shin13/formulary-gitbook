@@ -1,6 +1,6 @@
 # Cefaclor
 
-## Cefaclor 25mg/mL， 60mL suspension
+## Cefaclor 25mg/mL, 60mL suspension
 
 ##### 
 

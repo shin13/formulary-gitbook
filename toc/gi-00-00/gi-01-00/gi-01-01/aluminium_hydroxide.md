@@ -12,6 +12,6 @@
 | Renal Impairment   | Dose adjustment not necessary                                          |
 | Contraindications  | Hypophosphatemia.                                                      |
 | Adverse Effects    | Constipation.                                                          |
-| Pregnancy          | No Data                                                                |
-| Lactation          | Contraindicated                                                        |
+| Pregnancy          | Unknown                                                                |
+| Lactation          | Unknown                                                                |
 

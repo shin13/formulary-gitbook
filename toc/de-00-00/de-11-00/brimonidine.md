@@ -1,6 +1,6 @@
 # Brimonidine
 
-## Mirvaso 3mg/gm gel， 30gm
+## Mirvaso 3mg/gm gel, 30gm
 
 ##### 
 
@@ -13,5 +13,5 @@
 | Contraindications  | Hypersensitivity. Patients receiving MAOIs (eg, selegeline or moclobemide) & tricyclic (eg, imipramine) or tetracyclic (eg, maprotiline, mianserin or mirtazapin) antidepressants. Do not use in childn or adolescents 2-18 yr or childn <2 yr.                            |
 | Adverse Effects    | Flushing, erythema, pruritus, skin burning sensation.                                                                                                                                                                                                                      |
 | Pregnancy          | No (Limited) Human Data – Probably Compatible                                                                                                                                                                                                                              |
-| Lactation          | Contraindicated                                                                                                                                                                                                                                                            |
+| Lactation          | No (Limited) Human Data - Probably Compatible                                                                                                                                                                                                                              |
 

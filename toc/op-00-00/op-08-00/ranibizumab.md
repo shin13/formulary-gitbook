@@ -1,6 +1,6 @@
 # Ranibizumab
 
-## Lucentis inj 10mg/mL， 0.165mL
+## Lucentis inj 10mg/mL, 0.165mL
 
 ##### 
 

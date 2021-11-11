@@ -1,6 +1,6 @@
 # Crotamiton
 
-## Ulex lotion 10%， 30gm (Topical)
+## Ulex lotion 10%, 30gm (Topical)
 
 ##### 
 
@@ -13,5 +13,5 @@
 | Contraindications  | No Data                                                                           |
 | Adverse Effects    | Local skin irritations.                                                           |
 | Pregnancy          | Unknown                                                                           |
-| Lactation          | Contraindicated                                                                   |
+| Lactation          | Unknown                                                                           |
 

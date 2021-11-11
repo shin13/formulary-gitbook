@@ -1,6 +1,6 @@
 # Sodium Chloride
 
-## Sodium Chloride eye drop 3%， 5mL
+## Sodium Chloride eye drop 3%, 5mL
 
 ##### 
 

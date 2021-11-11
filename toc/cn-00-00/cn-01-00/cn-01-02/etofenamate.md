@@ -1,6 +1,6 @@
 # Etofenamate
 
-## Eto gel 10%， 40gm
+## Eto gel 10%, 40gm
 
 ##### 
 

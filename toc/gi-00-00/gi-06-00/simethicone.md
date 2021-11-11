@@ -15,7 +15,7 @@
 | Pregnancy          | Compatible                                                                                                 |
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                              |
 
-## Wilcon 20mg/mL， 60mL suspension
+## Wilcon 20mg/mL, 60mL suspension
 
 ##### 
 

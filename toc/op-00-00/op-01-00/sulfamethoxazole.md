@@ -1,6 +1,6 @@
 # Sulfamethoxazole
 
-## Kingmin 4%， 10mL opthalmic solution
+## Kingmin 4%, 10mL opthalmic solution
 
 ##### 
 

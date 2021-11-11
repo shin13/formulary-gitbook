@@ -1,6 +1,6 @@
 # Insulin Detemir
 
-## Levemir FlexPen 100 Unit/mL， 3mL
+## Levemir FlexPen 100 Unit/mL, 3mL
 
 ##### 
 

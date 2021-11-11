@@ -12,6 +12,6 @@
 | Renal Impairment   | Dose adjustment not necessary                                                                                                                                                                  |
 | Contraindications  | Calcified and pigment gallstones, radio opaque gallstones. Nonfunctioning gall bladders; chronic liver and peptic ulcer disease. Inflammatory disease of colon and small intestine. Pregnancy. |
 | Adverse Effects    | Diarrhoea, pruritus, nausea, vomiting, gallstone calcification.                                                                                                                                |
-| Pregnancy          | No Data                                                                                                                                                                                        |
+| Pregnancy          | Compatible                                                                                                                                                                                     |
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                                                                                                                  |
 

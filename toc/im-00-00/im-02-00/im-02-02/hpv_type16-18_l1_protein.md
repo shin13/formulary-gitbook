@@ -15,7 +15,7 @@
 | Pregnancy          | No (Limited) Human Data – Probably Compatible                                                                                                                                                                                                                                                                                       |
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                                                                                                                                                                                                                                                       |
 
-## Cervarix (HPV，Government) 0.5mL/dose
+## Cervarix (HPV,Government) 0.5mL/dose
 
 ##### 
 

@@ -1,6 +1,6 @@
 # Gadodiamide + Caldiamide
 
-## OmniSCAN inj 0.5 mmol/mL， 20mL
+## OmniSCAN inj 0.5 mmol/mL, 20mL
 
 ##### 
 

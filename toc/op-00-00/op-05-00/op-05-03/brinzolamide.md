@@ -1,6 +1,6 @@
 # Brinzolamide
 
-## Azopt 1%， 5mL ophthalmic suspension
+## Azopt 1%, 5mL ophthalmic suspension
 
 ##### 
 

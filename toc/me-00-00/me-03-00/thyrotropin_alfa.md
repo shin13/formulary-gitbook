@@ -12,6 +12,6 @@
 | Renal Impairment   | Dose adjustment not necessary                                                                                                                                                                                                                |
 | Contraindications  | Hypersensitivity to thyrotropin alfa or any component of the formulation.                                                                                                                                                                    |
 | Adverse Effects    | Nausea, vomiting, headache, asthenia, chills, fever, flu syndrome, dizziness, paresthesia.                                                                                                                                                   |
-| Pregnancy          | No Data                                                                                                                                                                                                                                      |
+| Pregnancy          | Compatible                                                                                                                                                                                                                                   |
 | Lactation          | Compatible                                                                                                                                                                                                                                   |
 

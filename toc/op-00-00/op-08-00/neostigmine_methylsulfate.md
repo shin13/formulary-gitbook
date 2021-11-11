@@ -1,6 +1,6 @@
 # Neostigmine Methylsulfate
 
-## ONSD 0.01%， 10mL
+## ONSD 0.01%, 10mL
 
 ##### 
 

@@ -1,6 +1,6 @@
 # Atropine
 
-## Antol 0.125%， 5mL
+## Antol 0.125%, 5mL
 
 ##### 
 
@@ -15,7 +15,7 @@
 | Pregnancy          | No (Limited) Human Data – Probably Compatible                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 
-## Atropine Eye Drops 0.01%， 0.5mL/支
+## Atropine Eye Drops 0.01%, 0.5mL/支
 
 ##### 
 

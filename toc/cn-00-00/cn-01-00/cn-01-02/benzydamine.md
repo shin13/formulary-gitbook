@@ -1,6 +1,6 @@
 # Benzydamine
 
-## Difflam forte 3mg/mL， 15mL
+## Difflam forte 3mg/mL, 15mL
 
 ##### 
 

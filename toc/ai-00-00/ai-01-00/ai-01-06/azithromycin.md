@@ -12,8 +12,8 @@
 | Renal Impairment   | Dose adjustment required                                                                                                                                                                                                         |
 | Contraindications  | Hypersensitivity to macrolides.                                                                                                                                                                                                  |
 | Adverse Effects    | Nausea, abdominal discomfort, vomiting, flatulence, diarrhoea & loose stools. Hearing impairment, interstitial nephritis, acute renal failure, abnormal liver function, dizziness/vertigo, convulsions, headache, somnolence.    |
-| Pregnancy          | No Data                                                                                                                                                                                                                          |
-| Lactation          | No (Limited) Human Data - Probably Compatible                                                                                                                                                                                    |
+| Pregnancy          | Compatible                                                                                                                                                                                                                       |
+| Lactation          | Compatible                                                                                                                                                                                                                       |
 
 ## Zithromax 250mg
 

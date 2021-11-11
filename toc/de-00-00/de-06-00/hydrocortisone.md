@@ -1,6 +1,6 @@
 # Hydrocortisone
 
-## Hydrocortisone cream 1%， 10gm
+## Hydrocortisone cream 1%, 10gm
 
 ##### 
 

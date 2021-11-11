@@ -1,6 +1,6 @@
 # Doxepin
 
-## Ichderm cream 50mg/gm， 15gm
+## Ichderm cream 50mg/gm, 15gm
 
 ##### 
 

@@ -12,6 +12,6 @@
 | Renal Impairment   | Dose adjustment not necessary                                          |
 | Contraindications  | Acute herpes simplex, vaccinia, varicella; perforated eardrum.         |
 | Adverse Effects    | No Data                                                                |
-| Pregnancy          | No (Limited) Human Data – Animal Data Suggest Risk                     |
-| Lactation          | No (Limited) Human Data - Probably Compatible                          |
+| Pregnancy          | Unknown                                                                |
+| Lactation          | Unknown                                                                |
 

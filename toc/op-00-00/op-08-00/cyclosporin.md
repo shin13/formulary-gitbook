@@ -1,6 +1,6 @@
 # Cyclosporin
 
-## Restasis 0.05%， 0.4mL eye emulsion
+## Restasis 0.05%, 0.4mL eye emulsion
 
 ##### 
 

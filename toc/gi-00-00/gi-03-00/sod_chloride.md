@@ -13,5 +13,5 @@
 | Contraindications  | GI obstruction, abdominal pain, nausea, vomiting. Children <3 years.                        |
 | Adverse Effects    | Diarrhea, rectal irritation, abdominal discomfort.                                          |
 | Pregnancy          | Unknown                                                                                     |
-| Lactation          | Contraindicated                                                                             |
+| Lactation          | Unknown                                                                                     |
 

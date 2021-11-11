@@ -12,10 +12,10 @@
 | Renal Impairment   | Dose adjustment not necessary                                                                                                                                                                                                                                                                  |
 | Contraindications  | Avoid use in the following unless absolutely necessary: patients with fever or severe malnutrition; CV, renal or hepatic diseases in acute, exacerbating or active phases; history of abnormal adverse reactions caused by this vaccine; history of spasmodic symptoms within 1 yr; pregnancy. |
 | Adverse Effects    | Local reactions eg redness, swelling, tenderness or systemic reactions eg fever, chill, headache, lassitude. Rarely, severe adverse reactions manifesting as generalized urticaria or angioedema may occur.                                                                                    |
-| Pregnancy          | No Data                                                                                                                                                                                                                                                                                        |
-| Lactation          | Contraindicated                                                                                                                                                                                                                                                                                |
+| Pregnancy          | Unknown                                                                                                                                                                                                                                                                                        |
+| Lactation          | Unknown                                                                                                                                                                                                                                                                                        |
 
-## Imojev (減毒日腦，Government) 0.5mL/dose
+## Imojev (減毒日腦,Government) 0.5mL/dose
 
 ##### 
 

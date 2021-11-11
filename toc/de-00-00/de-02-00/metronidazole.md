@@ -1,6 +1,6 @@
 # Metronidazole
 
-## Efucon gel 0.75%， 15gm
+## Efucon gel 0.75%, 15gm
 
 ##### 
 

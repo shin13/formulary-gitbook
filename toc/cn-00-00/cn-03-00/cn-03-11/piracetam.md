@@ -1,6 +1,6 @@
 # Piracetam
 
-## Piracetam soln 200mg/mL， 200mL
+## Piracetam soln 200mg/mL, 200mL
 
 ##### 臨採
 
@@ -12,8 +12,8 @@
 | Renal Impairment   | Dose adjustment required                                                                                                                                                                                                                                            |
 | Contraindications  | CHepatic and severe renal impairment. Cerebral haemorrhage. Pregnancy and lactation.                                                                                                                                                                                |
 | Adverse Effects    | Hyperkinesia, nervousness, depression, diarrhoea, rashes. CNS stimulation, sleep disturbances, dizziness, excitement, insomnia, somnolence, wt gain.                                                                                                                |
-| Pregnancy          | No Data                                                                                                                                                                                                                                                             |
-| Lactation          | Contraindicated                                                                                                                                                                                                                                                     |
+| Pregnancy          | Unknown                                                                                                                                                                                                                                                             |
+| Lactation          | Unknown                                                                                                                                                                                                                                                             |
 
 ## Syntam F.C. 1200mg(欣坦)
 

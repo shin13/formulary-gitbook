@@ -1,6 +1,6 @@
 # Ambroxol
 
-## Musco solution 3mg/mL， 120mL
+## Musco solution 3mg/mL, 120mL
 
 ##### 
 

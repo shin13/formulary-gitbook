@@ -1,6 +1,6 @@
 # Mometasone
 
-## Elomet cream 0.1%， 5gm
+## Elomet cream 0.1%, 5gm
 
 ##### 
 

@@ -1,6 +1,6 @@
 # Perfluorobutane microbubbles
 
-## Sonazoid inj 8 microliter/mL， 2mL
+## Sonazoid inj 8 microliter/mL, 2mL
 
 ##### 
 

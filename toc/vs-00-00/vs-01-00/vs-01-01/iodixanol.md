@@ -1,6 +1,6 @@
 # Iodixanol
 
-## Visipaque inj 320mg I/mL， 100mL
+## Visipaque inj 320mg I/mL, 100mL
 
 ##### 
 

@@ -1,6 +1,6 @@
 # Lidocaine + Prilocaine
 
-## Emla cream 5%， 5gm
+## Emla cream 5%, 5gm
 
 ##### 
 

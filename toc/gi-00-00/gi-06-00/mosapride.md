@@ -12,6 +12,6 @@
 | Renal Impairment   | Dose adjustment not necessary                                                                                                                                                                  |
 | Contraindications  | GI hemorrhage, mechanical obstruction, or perforation.                                                                                                                                         |
 | Adverse Effects    | Hypersensitivity reactions, rash, urticaria, hematological changes, GI disturbances, increased hepatic enzyme levels. Palpitation, dizziness, headache, fatigue, hypertriglyceridemia, tremor. |
-| Pregnancy          | No Data                                                                                                                                                                                        |
-| Lactation          | Contraindicated                                                                                                                                                                                |
+| Pregnancy          | Unknown                                                                                                                                                                                        |
+| Lactation          | Unknown                                                                                                                                                                                        |
 

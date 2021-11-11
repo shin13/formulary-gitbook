@@ -1,6 +1,6 @@
 # Acyclovir
 
-## Virless cream 5%， 5gm
+## Virless cream 5%, 5gm
 
 ##### 
 

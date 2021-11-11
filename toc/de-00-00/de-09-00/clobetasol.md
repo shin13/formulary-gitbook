@@ -1,6 +1,6 @@
 # Clobetasol
 
-## Clobex Shampoo 60mL， 0.05%
+## Clobex Shampoo 60mL, 0.05%
 
 ##### 
 

@@ -12,6 +12,6 @@
 | Renal Impairment   | Dose adjustment required                                                                                                         |
 | Contraindications  | Coadministration with other bisphosphonates.                                                                                     |
 | Adverse Effects    | Mild GI irritation, asymptomatic hypocalcemia, elevations of aminotransferases. Rarely, respiratory disorders, renal impairment. |
-| Pregnancy          | No Data                                                                                                                          |
-| Lactation          | No (Limited) Human Data - Probably Compatible                                                                                    |
+| Pregnancy          | Unknown                                                                                                                          |
+| Lactation          | Unknown                                                                                                                          |
 

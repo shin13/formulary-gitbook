@@ -12,6 +12,6 @@
 | Renal Impairment   | Dose adjustment not necessary                                                                                                                                                        |
 | Contraindications  | Diarrhea associated with organisms which penetrate the mucosa; pseudomembranous colitis or diarrhea associated with broad spectrum antibiotics.                                      |
 | Adverse Effects    | Flatulence, constipation, nausea, abdominal pain, dry mouth; giddiness.                                                                                                              |
-| Pregnancy          | No Data                                                                                                                                                                              |
+| Pregnancy          | No (Limited) Human Data – Animal Data Suggest Low Risk                                                                                                                               |
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                                                                                                        |
 

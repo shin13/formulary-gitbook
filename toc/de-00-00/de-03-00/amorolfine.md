@@ -15,7 +15,7 @@
 | Pregnancy          | Unknown                                                                                                                                                          |
 | Lactation          | Unknown                                                                                                                                                          |
 
-## Loceryl nail 5%， 2.5mL lacquer
+## Loceryl nail 5%, 2.5mL lacquer
 
 ##### 
 

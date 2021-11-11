@@ -1,6 +1,6 @@
 # Megestrol
 
-## Megatus 40mg/mL， 120mL suspension
+## Megatus 40mg/mL, 120mL suspension
 
 ##### 
 

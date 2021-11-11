@@ -12,6 +12,6 @@
 | Renal Impairment   | Dose adjustment not necessary                                                                                                                                       |
 | Contraindications  | Pregnancy (or may potentially be pregnant). Hypersensitivity to any component of this product.                                                                      |
 | Adverse Effects    | Decreased libido (placebo 1.3% vs Propecia 1.8%); erectile dysfunction (placebo 0.7% vs Propecia 1.3%); decreased vol of ejaculate (placebo 0.4% vs Propecia 0.8%). |
-| Pregnancy          | No Data                                                                                                                                                             |
-| Lactation          | Contraindicated                                                                                                                                                     |
+| Pregnancy          | Unknown                                                                                                                                                             |
+| Lactation          | Unknown                                                                                                                                                             |
 

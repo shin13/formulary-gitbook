@@ -42,8 +42,8 @@
 | Renal Impairment   | Dose adjustment not necessary                                                                                                                                                                                                                                                                                                                        |
 | Contraindications  | Hypersensitivity. Revaccination of adults with Pneumovax 23 is contraindicated except for those at highest risk of pneumococcal infections. Patients with Hodgkin's disease immunised < 7 to 10 days prior to or during immunosuppressive therapy & patients with Hodgkin's disease who have received extensive chemotherapy &/or nodal irradiation. |
 | Adverse Effects    | Local inj-site soreness, warmth, erythema & swelling. Fever, headache, malaise, rash, urticaria, arthritis, arthralgia.                                                                                                                                                                                                                              |
-| Pregnancy          | No Data                                                                                                                                                                                                                                                                                                                                              |
-| Lactation          | Contraindicated                                                                                                                                                                                                                                                                                                                                      |
+| Pregnancy          | Compatible                                                                                                                                                                                                                                                                                                                                           |
+| Lactation          | No (Limited) Human Data - Probably Compatible                                                                                                                                                                                                                                                                                                        |
 
 ## Prevenar 13 (Private) 0.5mL/dose
 
@@ -60,7 +60,7 @@
 | Pregnancy          | Compatible                                                                                                                                                                                                                                                                                                                                        |
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                                                                                                                                                                                                                                                                     |
 
-## Prevenar (政府提供，13價肺炎) 0.5mL/dose
+## Prevenar (政府提供,13價肺炎) 0.5mL/dose
 
 ##### 
 

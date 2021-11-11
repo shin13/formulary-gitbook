@@ -1,6 +1,6 @@
 # Beractant
 
-## Survanta 25mg/mL， 8mL
+## Survanta 25mg/mL, 8mL
 
 ##### 
 

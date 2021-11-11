@@ -15,7 +15,7 @@
 | Pregnancy          | Human Data Suggest Low Risk                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | Lactation          | Hold Breast Feeding                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 
-## Sutrol gel-vaginal 7.5mg/gm， 25gm
+## Sutrol gel-vaginal 7.5mg/gm, 25gm
 
 ##### 
 

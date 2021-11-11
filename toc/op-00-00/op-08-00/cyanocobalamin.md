@@ -1,6 +1,6 @@
 # Cyanocobalamin
 
-## Sancoba 0.02%， 5mL ophthalmic solution
+## Sancoba 0.02%, 5mL ophthalmic solution
 
 ##### 
 

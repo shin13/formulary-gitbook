@@ -1,6 +1,6 @@
 # Prednisolone
 
-## Econopred Plus 1%， 5mL ophthalmic suspension
+## Econopred Plus 1%, 5mL ophthalmic suspension
 
 ##### 
 

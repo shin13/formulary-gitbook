@@ -1,6 +1,6 @@
 # Zinc Oxide
 
-## Zin ointment 20%， 1oz (28.4gm)
+## Zin ointment 20%, 1oz (28.4gm)
 
 ##### 
 
@@ -13,5 +13,5 @@
 | Contraindications  | No Data                                                                |
 | Adverse Effects    | No Data                                                                |
 | Pregnancy          | Unknown                                                                |
-| Lactation          | Contraindicated                                                        |
+| Lactation          | Unknown                                                                |
 

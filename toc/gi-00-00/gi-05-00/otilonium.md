@@ -12,6 +12,6 @@
 | Renal Impairment   | Dose adjustment not necessary                                            |
 | Contraindications  | Glaucoma青光眼                                                           |
 | Adverse Effects    | Mild nausea, vomiting, upper abdominal pain, dizziness & headache.       |
-| Pregnancy          | No Data                                                                  |
-| Lactation          | Contraindicated                                                          |
+| Pregnancy          | Unknown                                                                  |
+| Lactation          | Unknown                                                                  |
 

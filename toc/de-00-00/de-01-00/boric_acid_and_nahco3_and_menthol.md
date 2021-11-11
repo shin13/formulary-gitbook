@@ -10,8 +10,8 @@
 | Dosing             | 1pk boric acid + 1pk NaHCO3 + few Methol to some warm water for topical infection. |
 | Hepatic Impairment | Dose adjustment not necessary                                                      |
 | Renal Impairment   | Dose adjustment not necessary                                                      |
-| Contraindications  | No Data                                                                            |
+| Contraindications  | Hypersensitivity to any component of the formulation.                              |
 | Adverse Effects    | No Data                                                                            |
 | Pregnancy          | Unknown                                                                            |
-| Lactation          | Contraindicated                                                                    |
+| Lactation          | Unknown                                                                            |
 

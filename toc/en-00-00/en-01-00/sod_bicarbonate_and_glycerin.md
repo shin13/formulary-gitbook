@@ -1,6 +1,6 @@
 # Sod Bicarbonate + Glycerin
 
-## Cerum water 4%/20%， 20mL
+## Cerum water 4%/20%, 20mL
 
 ##### 
 
@@ -10,8 +10,8 @@
 | Dosing             | No Data                                                                |
 | Hepatic Impairment | Dose adjustment not necessary                                          |
 | Renal Impairment   | Dose adjustment not necessary                                          |
-| Contraindications  | No Data                                                                |
+| Contraindications  | Hypersensitivity to any component of the formulation.                  |
 | Adverse Effects    | No Data                                                                |
 | Pregnancy          | No (Limited) Human Data – Animal Data Suggest Low Risk                 |
-| Lactation          | Contraindicated                                                        |
+| Lactation          | No (Limited) Human Data - Potential Toxicity                           |
 

@@ -12,6 +12,6 @@
 | Renal Impairment   | Dose adjustment not necessary                                                                                       |
 | Contraindications  | Early stages of acute pancreatitis.                                                                                 |
 | Adverse Effects    | Nausea, vomiting, bloating, cramping, constipation or diarrhea.                                                     |
-| Pregnancy          | No Data                                                                                                             |
-| Lactation          | Contraindicated                                                                                                     |
+| Pregnancy          | Unknown                                                                                                             |
+| Lactation          | Unknown                                                                                                             |
 

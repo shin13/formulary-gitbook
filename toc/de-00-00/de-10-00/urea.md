@@ -1,6 +1,6 @@
 # Urea
 
-## Urea cream 10%， 20gm
+## Urea cream 10%, 20gm
 
 ##### 
 

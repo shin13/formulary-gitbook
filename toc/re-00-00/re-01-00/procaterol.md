@@ -1,6 +1,6 @@
 # Procaterol
 
-## Meptin liquid 5mcg/mL， 60mL
+## Meptin liquid 5mcg/mL, 60mL
 
 ##### 
 

@@ -1,6 +1,6 @@
 # Chlorhexidine gluconate
 
-## Parmason gargle 0.2%， 200mL
+## Parmason gargle 0.2%, 200mL
 
 ##### 
 
