@@ -2,8 +2,6 @@
 
 ## SUBAcillin inj 1.5gm
 
-##### 
-
 | TAH Drug Code      | [ISUB](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ISUB)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 |:-------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Infections due to susceptible strains of Streptococcus, S. aureus, Enterococcus, Escherichia coli, Klebsiella spp., Serratia, H. influenza, gm-ve bacteria, Citrobacter & anerobic bacterias (Bacteroides, Fusobacterium & Clostridium difficile), Branhamella catarrhalis.                                                                                                                                                                                                                                                                                         |

@@ -2,8 +2,6 @@
 
 ## Parmason gargle 0.2%, 200mL
 
-##### 
-
 | TAH Drug Code      | [EPAR](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EPAR)                                                                   |
 |:-------------------|:---------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Cleansing & disinfection of mouth infections, eg gingivitis & oral candidiasis.                                                        |

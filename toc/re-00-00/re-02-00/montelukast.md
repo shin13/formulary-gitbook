@@ -2,8 +2,6 @@
 
 ## SINGULAIR Chewable 5mg
 
-##### 
-
 | TAH Drug Code      | [OSIN](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OSIN)                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 |:-------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | SINGULAIR is indicated in adult & pediatric patients 6 months of age & older for the prophylaxis & chronic treatment of asthma, including the prevention of day- & nighttime symptoms, the treatment of aspirin-sensitive asthmatic patients, & the prevention of exercise-induced bronchoconstriction. SINGULAIR is indicated in adults & pediatric patients 2 years of age & older for the relief of day- & nighttime symptoms of seasonal allergic rhinitis.                                                                                  |
@@ -17,8 +15,6 @@
 
 ## SINGULAIR 10mg
 
-##### 
-
 | TAH Drug Code      | [OSIN1](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OSIN1)                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 |:-------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | SINGULAIR is indicated in adult & pediatric patients 6 months of age & older for the prophylaxis & chronic treatment of asthma, including the prevention of day- & nighttime symptoms, the treatment of aspirin-sensitive asthmatic patients, & the prevention of exercise-induced bronchoconstriction. SINGULAIR is indicated in adults & pediatric patients 2 years of age & older for the relief of day- & nighttime symptoms of seasonal allergic rhinitis.                                                                                  |
@@ -31,8 +27,6 @@
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 
 ## Singulair 4mg
-
-##### 
 
 | TAH Drug Code      | [OSIN4](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OSIN4)                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 |:-------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

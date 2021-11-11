@@ -2,8 +2,6 @@
 
 ## Livial 2.5mg (28 tablets/box)
 
-##### 
-
 | TAH Drug Code      | [OLIV](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OLIV)                                                                                                    |
 |:-------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Complaints resulting from natural or surgical menopause.                                                                                                                |

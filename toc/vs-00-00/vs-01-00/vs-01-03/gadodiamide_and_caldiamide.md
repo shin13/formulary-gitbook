@@ -2,8 +2,6 @@
 
 ## OmniSCAN inj 0.5 mmol/mL, 20mL
 
-##### 
-
 | TAH Drug Code      | [IOMNI](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IOMNI)                                                                                                                                                                                                                                                                                     |
 |:-------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | 腦脊髓磁振顯影及全身磁振顯影 Magnetic resonance imaging, Brain, spine and associated tissues; Intrathoracic (noncardiac), abdominal, pelvic, and retroperitoneal regions.                                                                                                                                                                                  |

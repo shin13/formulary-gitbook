@@ -2,8 +2,6 @@
 
 ## Endoxan Asta inj 200mg
 
-##### 
-
 | TAH Drug Code      | [IEND](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IEND)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 |:-------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Treatment of acute lymphoblastic leukemia (ALL), acute myelocytic leukemia (AML), breast cancer, chronic lymphocytic leukemia (CLL), chronic myeloid leukemia (CML), Hodgkin lymphoma, mycosis fungoides, multiple myeloma, neuroblastoma, non-Hodgkin lymphomas (including Burkitt lymphoma), ovarian adenocarcinoma, retinoblastoma, and nephrotic syndrome.                                                                                                                                                                                                        |
@@ -16,8 +14,6 @@
 | Lactation          | Contraindicated                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 
 ## Endoxan 50mg
-
-##### 
 
 | TAH Drug Code      | [OEND](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OEND)                                                                                                                                                                                                                                                                                           |
 |:-------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

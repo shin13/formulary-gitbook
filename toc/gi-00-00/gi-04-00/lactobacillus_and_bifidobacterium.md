@@ -2,8 +2,6 @@
 
 ## Infloran 250mg (20 capsules/box)
 
-##### 
-
 | TAH Drug Code      | [OINF](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OINF)                                                                                                                                                                              |
 |:-------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Restoration of the eubiotic intestinal flora. Prophylaxis against antibiotic-induced enterocolitis. Acute non-specific enterocolitis after treatment with antibiotics.Digestive disorders in infants on an artificial diet. Chronic constipation. |

@@ -2,8 +2,6 @@
 
 ## Mucaine
 
-##### 
-
 | TAH Drug Code      | [OMUCA](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OMUCA)                                                                                                     |
 |:-------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Symptomatic relief of gastric pain & heartburn due to gastric hyperacidity.                                                                                                |

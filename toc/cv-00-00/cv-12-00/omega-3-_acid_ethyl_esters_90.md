@@ -2,8 +2,6 @@
 
 ## Omacor Soft 1000mg
 
-##### 
-
 | TAH Drug Code      | [OOMA](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OOMA)           |
 |:-------------------|:-------------------------------------------------------------------------------|
 | Indications        | Treatment of hypertriglyceridemia.                                             |

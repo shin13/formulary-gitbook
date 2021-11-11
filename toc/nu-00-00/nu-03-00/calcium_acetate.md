@@ -2,8 +2,6 @@
 
 ## Procal 667mg
 
-##### 
-
 | TAH Drug Code      | [OPRO6](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OPRO6)                                                                                                                                                                                                                                              |
 |:-------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Control of hyperphosphatemia in end stage renal failure and does not promote aluminum absorption.                                                                                                                                                                                                                   |

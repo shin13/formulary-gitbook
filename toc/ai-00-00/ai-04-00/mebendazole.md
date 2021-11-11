@@ -2,8 +2,6 @@
 
 ## Conquer 100mg
 
-##### 
-
 | TAH Drug Code      | [OCONQ](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OCONQ)                                                                                                                                                                                        |
 |:-------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Whipworm, pinworm, hookworm, roundworm, tapeworm, strongyloides infestations.                                                                                                                                                                                 |

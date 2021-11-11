@@ -2,8 +2,6 @@
 
 ## Capain 30mg
 
-##### 
-
 | TAH Drug Code      | [OCAPA](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OCAPA)          |
 |:-------------------|:--------------------------------------------------------------------------------|
 | Indications        | Relief of pain                                                                  |

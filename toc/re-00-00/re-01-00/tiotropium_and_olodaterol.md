@@ -2,8 +2,6 @@
 
 ## Spiolto Respimat 2.5/2.5mcg/puff
 
-##### 
-
 | TAH Drug Code      | [ESPOT](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ESPOT)                                                                                                                                                                                                                                                                                                                                   |
 |:-------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | a long term maintenance treatment of patients with Chronic Obstructive Pulmonary Disease, including chronic bronchitis and emphysema.                                                                                                                                                                                                                                                                    |

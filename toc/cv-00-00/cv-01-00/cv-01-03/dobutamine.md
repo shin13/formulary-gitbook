@@ -2,8 +2,6 @@
 
 ## Gendobu inj 250mg/20mL
 
-##### 
-
 | TAH Drug Code      | [IDOB2](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IDOB2)                                                                                                                                                              |
 |:-------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Short-term treatment of cardiac decompensation due to depressed contractility resulting from heart disease or cardiac surgery.                                                                                                      |

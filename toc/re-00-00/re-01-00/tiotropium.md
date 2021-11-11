@@ -2,8 +2,6 @@
 
 ## Spiriva Respimat 2.5mcg/puff
 
-##### 
-
 | TAH Drug Code      | [ESPIR](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ESPIR)                                                                                                                                                                                                                  |
 |:-------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Maintenance treatment of patients with COPD (including chronic bronchitis & emphysema).                                                                                                                                                                                                 |

@@ -2,8 +2,6 @@
 
 ## Mitonco inj 10mg (專案進口)
 
-##### 
-
 | TAH Drug Code      | [IMIT2](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IMIT2)                                                                                                                                                                                                  |
 |:-------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Treatment of disseminated adenocarcinoma of the stomach (in combination with other chemotherapy agents) and disseminated adenocarcinoma of the pancreas (in combination with other chemotherapy agents) and as palliative treatment when other modalities have failed.  |

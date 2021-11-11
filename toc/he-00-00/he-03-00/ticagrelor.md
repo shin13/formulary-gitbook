@@ -2,8 +2,6 @@
 
 ## Brilinta 90mg
 
-##### 
-
 | TAH Drug Code      | [OBRI](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OBRI)                                                                                                                                                                                                                                             |
 |:-------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Prevention of atherothrombotic events in patients w/ acute coronary syndromes (ACS) [unstable angina, non-ST elevation MI (NSTEMI) or ST elevation MI (STEMI)] including patients managed medically & managed w/ percutaneous coronary intervention (PCI) or CABG co-administered w/ acetylsalicylic acid (ASA). |

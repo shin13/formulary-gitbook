@@ -2,8 +2,6 @@
 
 ## Dexilant delay-release 60mg
 
-##### 
-
 | TAH Drug Code      | [ODEXI](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ODEXI)                                                                                                                                                                                                                         |
 |:-------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Healing & maintenance of all grades of erosive esophagitis. Treatment of heartburn associated w/ symptomatic non-erosive GERD.                                                                                                                                                                 |

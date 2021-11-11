@@ -2,8 +2,6 @@
 
 ## ACC 600mg 發泡錠
 
-##### 
-
 | TAH Drug Code      | [OACC6](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OACC6)                                                                                                                                                                     |
 |:-------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Acute & chronic respiratory tract infections with abundant mucous secretions. All forms of bronchitis, emphysema & bronchopulmonary complications with mucostasis; bronchial catarrh associated with pulmonary tubercular forms.           |
@@ -16,8 +14,6 @@
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                                                                                                                                                              |
 
 ## Actein 100mg/2.5gm
-
-##### 
 
 | TAH Drug Code      | [OACT40](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OACT40)                                                                                                                                                                   |
 |:-------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

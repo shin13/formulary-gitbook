@@ -2,8 +2,6 @@
 
 ## Avamys nasal spray 120dose
 
-##### 
-
 | TAH Drug Code      | [EAVA](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EAVA)                                                                                                                                                                                                                                     |
 |:-------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Treatment of the symptoms of seasonal and perennial allergic rhinitis in patients aged 2 years and older.                                                                                                                                                                                                |

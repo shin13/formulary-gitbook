@@ -2,8 +2,6 @@
 
 ## Aggrastat inj 12.5mg/50mL
 
-##### 
-
 | TAH Drug Code      | [IAGG](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IAGG)                                                                                                                                                                                                                                                                                                        |
 |:-------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Unstable angina/non-ST-elevation myocardial infarction: To decrease the rate of thrombotic cardiovascular events (combined end point of death, MI, or refractory ischemia/repeat cardiac procedure) in patients with non-ST-elevation acute coronary syndrome (unstable angina/non-ST-elevation myocardial infarction.                                                      |

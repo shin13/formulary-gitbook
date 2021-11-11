@@ -2,8 +2,6 @@
 
 ## Loperam 2mg (Loperamide)
 
-##### 
-
 | TAH Drug Code      | [OLOP](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OLOP)                                                                                                                 |
 |:-------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Acute & chronic diarrhea                                                                                                                                                             |

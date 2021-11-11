@@ -2,8 +2,6 @@
 
 ## GSK 4價自費流感(Fluarix Tetra)0.5mL/dose
 
-##### 
-
 | TAH Drug Code      | [IFLU4](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IFLU4)                                                    |
 |:-------------------|:--------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Active immunisation against influenza.                                                                                    |
@@ -16,8 +14,6 @@
 | Lactation          | Compatible                                                                                                                |
 
 ## Flucelvax quad (輔流威適流感疫苗) 0.5mL/dose
-
-##### 
 
 | TAH Drug Code      | [IFLUCEL](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IFLUCEL)                                               |
 |:-------------------|:-------------------------------------------------------------------------------------------------------------------------|
@@ -32,8 +28,6 @@
 
 ## Free 4 valent Influenza vaccine (Adult) 0.5mL/dose
 
-##### 
-
 | TAH Drug Code      | [IFLUV1](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IFLUV1)                                                  |
 |:-------------------|:--------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Active immunisation against influenza.                                                                                    |
@@ -46,8 +40,6 @@
 | Lactation          | Compatible                                                                                                                |
 
 ## Free 4 valnet Influenza vaccine(>3y/o) 0.5mL/dose
-
-##### 
 
 | TAH Drug Code      | [IFLUV3](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IFLUV3)                                                                                       |
 |:-------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -62,8 +54,6 @@
 
 ## Free 4 valnet Influenza vaccine (6M~3Y) 0.5mL/dose
 
-##### 
-
 | TAH Drug Code      | [IFLUV5](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IFLUV5)                                                  |
 |:-------------------|:--------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Active immunisation against influenza.                                                                                    |
@@ -76,8 +66,6 @@
 | Lactation          | Compatible                                                                                                                |
 
 ## 4價自費流感 (VaxigripTetra)0.5mL/dose
-
-##### 
 
 | TAH Drug Code      | [IVAXS](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IVAXS)                                                                                                                                                          |
 |:-------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

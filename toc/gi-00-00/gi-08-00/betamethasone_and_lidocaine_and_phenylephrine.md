@@ -2,8 +2,6 @@
 
 ## Calmsit cream 15gm
 
-##### 
-
 | TAH Drug Code      | [ECASI](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ECASI)                                                                                                                                                                          |
 |:-------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | External hemorrhoids, hemorrhoid bleeding, hemorrhoid pain, anal fissure, perianal inflammation, anal itching, anal eczema, anal ulcer                                                                                                          |

@@ -2,8 +2,6 @@
 
 ## Acrinol solution 500mL
 
-##### 
-
 | TAH Drug Code      | [EACR5](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EACR5)   |
 |:-------------------|:-------------------------------------------------------------------------|
 | Indications        | Topical agents and dressings for local wound care.                       |

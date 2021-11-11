@@ -2,8 +2,6 @@
 
 ## Bfluid inj 1000mL
 
-##### 
-
 | TAH Drug Code      | [IBFL](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IBFL)                                                                                                                                                                                     |
 |:-------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Provision of electrolytes, glucose & amino acids in inadequate oral intake before & after surgery.                                                                                                                                                       |

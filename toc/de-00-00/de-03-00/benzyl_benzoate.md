@@ -2,8 +2,6 @@
 
 ## Jaline Lotion 25%, 150mL
 
-##### 
-
 | TAH Drug Code      | [EJAL](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EJAL)                                                                                      |
 |:-------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Treatment of scabies, head lice.                                                                                                                          |

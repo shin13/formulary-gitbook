@@ -2,8 +2,6 @@
 
 ## Flusalic ointment 15gm
 
-##### 
-
 | TAH Drug Code      | [EFLUS](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EFLUS)                                                                                                                         |
 |:-------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Seborrheic eczema, contact eczema, atopic dermatitis, localized neurodermatitis, psoriasis vulgaris, lichen planus, hyperkeratosis of the palms & soles.                                       |

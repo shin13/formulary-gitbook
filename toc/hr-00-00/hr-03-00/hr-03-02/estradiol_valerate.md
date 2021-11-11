@@ -2,8 +2,6 @@
 
 ## Estrade 2mg
 
-##### 
-
 | TAH Drug Code      | [OEST](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OEST)                                                                  |
 |:-------------------|:--------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Relief of menopausal symptoms including patients with ovariectomy                                                                     |

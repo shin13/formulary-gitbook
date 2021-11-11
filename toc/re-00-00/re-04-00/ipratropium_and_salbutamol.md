@@ -2,8 +2,6 @@
 
 ## Combivent UDV 2.5mL
 
-##### 
-
 | TAH Drug Code      | [ECOMU](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ECOMU)                                                                                                                                                                                                                                                                                                                                      |
 |:-------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Management of reversible bronchospasm associated with obstructive airways diseases in patients who require more than a single bronchodilator.                                                                                                                                                                                                                                                               |

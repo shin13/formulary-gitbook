@@ -2,8 +2,6 @@
 
 ## Icomein 100mg
 
-##### 
-
 | TAH Drug Code      | [OICO](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OICO)                                                                                                                                                                                                                                                                                           |
 |:-------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Vulvovag candidiasis, Dermatomycosis, Plantar tinea pedis & palmar tinea manus, Pityriasis versicolor, Oral candidiasis, Fungal keratitis, Onychomycosis, Aspergillosis, Candidosis, Non-meningeal cryptococcosis, Cryptococcal meningitis , Histoplasmosis, Blastomycosis, Lymphocutaneous & cutaneous sporotrichosis, Paracoccidioidomycosis, Chromomycosis. |

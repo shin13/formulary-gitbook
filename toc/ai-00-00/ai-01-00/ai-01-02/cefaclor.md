@@ -2,8 +2,6 @@
 
 ## Cefaclor 25mg/mL, 60mL suspension
 
-##### 
-
 | TAH Drug Code      | [LCEF](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=LCEF)                                                                                                                                                                                   |
 |:-------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | 2nd generation cephalosporin with in vitro activity against Strep. pyogenes, Strep. pneumoniae, H. influenzae, E. coli, Klebsiella sp. and Proteus mirabilis.                                                                                          |
@@ -16,8 +14,6 @@
 | Lactation          | Compatible                                                                                                                                                                                                                                             |
 
 ## Cero 250mg
-
-##### 
 
 | TAH Drug Code      | [OCER](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OCER)                                 |
 |:-------------------|:-----------------------------------------------------------------------------------------------------|

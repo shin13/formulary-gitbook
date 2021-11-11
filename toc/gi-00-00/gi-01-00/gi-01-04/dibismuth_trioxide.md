@@ -2,8 +2,6 @@
 
 ## KCB 120mg
 
-##### 
-
 | TAH Drug Code      | [OKCB](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OKCB)                                                  |
 |:-------------------|:----------------------------------------------------------------------------------------------------------------------|
 | Indications        | gastric and duodenal ulceration.                                                                                      |

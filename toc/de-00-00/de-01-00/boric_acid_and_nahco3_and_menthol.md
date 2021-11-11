@@ -2,8 +2,6 @@
 
 ## Boric acid+NaHCO3+Menthol
 
-##### 
-
 | TAH Drug Code      | [EBSM](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EBSM)               |
 |:-------------------|:-----------------------------------------------------------------------------------|
 | Indications        | Antiseptics                                                                        |

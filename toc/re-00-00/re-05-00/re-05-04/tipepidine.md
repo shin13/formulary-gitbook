@@ -2,8 +2,6 @@
 
 ## Asverin 20mg
 
-##### 
-
 | TAH Drug Code      | [OASV](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OASV)                                                                                                                      |
 |:-------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | 止咳、化痰劑(A008907100) Relief of cough & difficulty in expectoration of sputum accompanying common cold, pharyngitis, laryngitis, acute bronchitis, chronic bronchitis, bronchiectasis. |

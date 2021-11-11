@@ -2,8 +2,6 @@
 
 ## Athmin syrup 0.2mg/mL, 60mL
 
-##### 
-
 | TAH Drug Code      | [LATH](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=LATH)                                                                                                                                                                   |
 |:-------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Bronchial asthma, allergic bronchitis, prevention of asthma and hay fever symptoms, prevention and treatment of allergic rhinitis or allergic skin reactions.                                                                          |

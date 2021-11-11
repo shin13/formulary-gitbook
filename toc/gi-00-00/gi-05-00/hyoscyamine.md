@@ -2,8 +2,6 @@
 
 ## Nuspas 0.125mg
 
-##### 
-
 | TAH Drug Code      | [ONUS](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ONUS)                                                                                                |
 |:-------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Control gastric secretion, visceral spasm & hypermotility in spastic colitis, spastic bladder, cystitis, pylorospasm & associated abdominal cramps                  |

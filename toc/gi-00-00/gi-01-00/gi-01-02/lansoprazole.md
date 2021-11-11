@@ -2,8 +2,6 @@
 
 ## Takepron Intravenous 30mg
 
-##### 
-
 | TAH Drug Code      | [ITAK](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ITAK)                                                                                                                                                |
 |:-------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | As an alternative to oral therapy when oral intake is not appropriate for GERD in patients with esophagitis &/or severe symptoms of reflux & for healing of gastric ulcers associated with NSAID therapy.           |
@@ -16,8 +14,6 @@
 | Lactation          | No (Limited) Human Data – Potential Toxicity(Mother)                                                                                                                                                                |
 
 ## Takepron OD 30mg
-
-##### 
 
 | TAH Drug Code      | [OTAK](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OTAK)                                                                                                                                                                                                                                                                                                                                                                                                                    |
 |:-------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

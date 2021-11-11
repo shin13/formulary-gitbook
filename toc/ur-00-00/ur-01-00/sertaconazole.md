@@ -2,8 +2,6 @@
 
 ## ZALAIN vaginal tablet 500mg
 
-##### 
-
 | TAH Drug Code      | [EZAL5](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EZAL5)                          |
 |:-------------------|:------------------------------------------------------------------------------------------------|
 | Indications        | Vulvovag candidiasis.                                                                           |

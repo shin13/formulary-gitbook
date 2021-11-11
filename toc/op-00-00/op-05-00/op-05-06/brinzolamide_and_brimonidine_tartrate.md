@@ -2,8 +2,6 @@
 
 ## Simbrinza eye drops 1%/0.2%, 5mL
 
-##### 
-
 | TAH Drug Code      | [ESIM](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ESIM)                                                                                                                                               |
 |:-------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Use Reduction of intraocular pressure: Treatment of elevated intraocular pressure (IOP) in patients with ocular hypertension or open-angle glaucoma.                                                               |

@@ -2,8 +2,6 @@
 
 ## EMEND 125mg
 
-##### 
-
 | TAH Drug Code      | [OEM125](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OEM125)                                                                                                                                                                                 |
 |:-------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Prevention of acute & delayed nausea & vomiting associated with initial & repeat courses of highly & moderately emetogenic cancer chemotherapy.                                                                                                          |

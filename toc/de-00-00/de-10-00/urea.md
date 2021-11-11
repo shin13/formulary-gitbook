@@ -2,8 +2,6 @@
 
 ## Urea cream 10%, 20gm
 
-##### 
-
 | TAH Drug Code      | [EURE](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EURE)   |
 |:-------------------|:-----------------------------------------------------------------------|
 | Indications        | Ichthyosis and hyperkeratotic skin disorders.                          |

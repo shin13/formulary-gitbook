@@ -2,8 +2,6 @@
 
 ## Hyalubrix Intra-articular inj
 
-##### 
-
 | TAH Drug Code      | [IHYA](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IHYA)                                                                         |
 |:-------------------|:---------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Treatment of pain in osteoarthritis in knee in patients who have failed simple analgesics (e.g. acetaminophen) & nonpharmacologic treatment. |

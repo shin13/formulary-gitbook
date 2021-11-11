@@ -2,8 +2,6 @@
 
 ## Cisplatin 50mg/50mL
 
-##### 
-
 | TAH Drug Code      | [ICIS](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ICIS)                                                                                                                              |
 |:-------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Bladder cancer, advanced. Ovarian cancer, metastatic. Testicular cancer, metastatic.                                                                                                              |

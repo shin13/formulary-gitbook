@@ -2,8 +2,6 @@
 
 ## Dolcol 250mg
 
-##### 
-
 | TAH Drug Code      | [ODOLC](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ODOLC)                                                                   |
 |:-------------------|:-----------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | 細菌性感染(A020910100) UTI, Bacillary dysentery, enteritis, otitis media & sinusitis                                                     |

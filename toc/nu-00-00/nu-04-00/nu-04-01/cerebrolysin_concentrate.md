@@ -2,8 +2,6 @@
 
 ## Cerebrolysin 215.2mg/mL, 10mL
 
-##### 
-
 | TAH Drug Code      | [ICERE](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ICERE)                                                                                                             |
 |:-------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Amino acid supplement for disturbances of protein digestion & malabsorption due to disorders, heavy protein loss due to wounds, burns, fractures, purulency or operation..         |

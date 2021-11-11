@@ -2,8 +2,6 @@
 
 ## Polinin 90mg vaginal suppository
 
-##### 
-
 | TAH Drug Code      | [EPOLI](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EPOLI)                                                                                                                                                                                                                              |
 |:-------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Local treatment of cervical & vag inflammatory & concomitant discharge. Vaginitis & cervicitis, cervical erosion; trichomoniasis & moniliasis. To stop bleeding after biopsy & removal of cervical polyps. Decubital ulcers caused by pessaries. After electrocoagulation to activate regeneration. |

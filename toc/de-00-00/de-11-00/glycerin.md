@@ -2,8 +2,6 @@
 
 ## Glycerin liquid (mL)
 
-##### 
-
 | TAH Drug Code      | [EGLYC](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EGLYC)   |
 |:-------------------|:-------------------------------------------------------------------------|
 | Indications        | No Data                                                                  |

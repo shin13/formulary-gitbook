@@ -2,8 +2,6 @@
 
 ## Minirin inj 4mcg/1mL (DDAVP)
 
-##### 
-
 | TAH Drug Code      | [IDDA](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IDDA)                                                                                                                                                                                                                                                                                           |
 |:-------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Central Diabetes Insipidus, Primary Nocturnal Enuresis, Renal Concentrating Capacity Test,Symptomatic treatment of nocturia in adults associated with nocturnal polyuria ie, nocturnal urine production exceeding bladder capacity. Hemophilia A and von Willebrand's Disease                                                                                  |
@@ -16,8 +14,6 @@
 | Lactation          | Compatible                                                                                                                                                                                                                                                                                                                                                     |
 
 ## Minirin Melt 60mcg 凍晶口溶錠
-
-##### 
 
 | TAH Drug Code      | [OMIN6](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OMIN6)                                                                                                                                                                                                                                                                                                  |
 |:-------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

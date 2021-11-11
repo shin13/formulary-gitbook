@@ -2,8 +2,6 @@
 
 ## Nimbex inj 10mg/5mL
 
-##### 
-
 | TAH Drug Code      | [INIMB](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=INIMB)                                                                                                                                                                                                                                                                                                 |
 |:-------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Muscle relaxation during surgical procedures eg cardiac surgery, other procedures & in intensive care. Adjunct to general anesth or sedation in the ICU, to relax skeletal muscles & to facilitate tracheal intubation & mechanical ventilation.                                                                                                                       |

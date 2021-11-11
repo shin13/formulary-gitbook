@@ -2,8 +2,6 @@
 
 ## ONSD 0.01%, 10mL
 
-##### 
-
 | TAH Drug Code      | [EONMD](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EONMD)    |
 |:-------------------|:--------------------------------------------------------------------------|
 | Indications        | Relief of fatigue of ocular muscle.                                       |

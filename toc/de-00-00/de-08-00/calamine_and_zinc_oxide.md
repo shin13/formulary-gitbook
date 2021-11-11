@@ -2,8 +2,6 @@
 
 ## Menphencala lotion 100mL
 
-##### 
-
 | TAH Drug Code      | [EMENL](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EMENL)   |
 |:-------------------|:-------------------------------------------------------------------------|
 | Indications        | Symptomatic relief of skin irritation & nappy rash.                      |

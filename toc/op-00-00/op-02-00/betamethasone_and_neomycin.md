@@ -2,8 +2,6 @@
 
 ## Betason-N eye ointment 3gm
 
-##### 
-
 | TAH Drug Code      | [EBET](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EBET)                                                                                                                                                                                                                                                                                                              |
 |:-------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Inflammatory dermatoses responsive to topical corticosteroid therapy, where secondary bacterial infection is present or suspected or likely to occur. Management of insect bites, prickly heat, anal & genital intertrigo & otitis externa.                                                                                                                                       |

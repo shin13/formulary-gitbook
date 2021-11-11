@@ -2,8 +2,6 @@
 
 ## Erythromycin 0.5%, 3.5gm ophthalmic ointment
 
-##### 
-
 | TAH Drug Code      | [EILO1](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EILO1)                                                    |
 |:-------------------|:--------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Treatment of bacterial infections of the eye involving the conjunctiva &/or cornea caused by susceptible organisms.       |

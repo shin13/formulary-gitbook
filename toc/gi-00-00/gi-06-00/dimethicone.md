@@ -2,8 +2,6 @@
 
 ## Kascoal 40mg
 
-##### 
-
 | TAH Drug Code      | [OKAS4](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OKAS4)                                                 |
 |:-------------------|:-----------------------------------------------------------------------------------------------------------------------|
 | Indications        | Relief of pressure, bloating, fullness, and discomfort of gastrointestinal gas.                                        |

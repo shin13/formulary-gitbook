@@ -2,8 +2,6 @@
 
 ## Siliverzine cream 1%, 20gm
 
-##### 
-
 | TAH Drug Code      | [ESIL](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ESIL)                                                                                                                                                                                 |
 |:-------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Adjunct for the prevention & treatment of wound sepsis in patients with 2nd & 3rd degree burns.                                                                                                                                                      |
@@ -12,6 +10,6 @@
 | Renal Impairment   | Dose adjustment not necessary                                                                                                                                                                                                                        |
 | Contraindications  | Pregnancy, premature & newborn infants during 1st months of life.                                                                                                                                                                                    |
 | Adverse Effects    | Burning, rash, itching, interstitial nephritis.                                                                                                                                                                                                      |
-| Pregnancy          | Human Data Suggest Risk in 3Rd Trimester                                                                                                                                                                                                             |
+| Pregnancy          | Human Data Suggest Risk in 3rd Trimester                                                                                                                                                                                                             |
 | Lactation          | No (Limited) Human Data - Potential Toxicity                                                                                                                                                                                                         |
 

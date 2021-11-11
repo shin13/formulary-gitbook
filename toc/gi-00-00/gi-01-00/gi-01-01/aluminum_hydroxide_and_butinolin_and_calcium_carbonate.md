@@ -2,8 +2,6 @@
 
 ## Nolidin 200/2/300mg
 
-##### 
-
 | TAH Drug Code      | [ONLD](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ONLD)                                                                                                                                   |
 |:-------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Cramps and pain caused by hyperacidity, gastritis, duodenitis, gastric and duodenal ulcers                                                                                                             |

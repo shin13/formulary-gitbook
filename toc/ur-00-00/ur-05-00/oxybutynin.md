@@ -2,8 +2,6 @@
 
 ## Oxbu 5mg extended-release
 
-##### 
-
 | TAH Drug Code      | [OOXB](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OOXB)                                                          |
 |:-------------------|:------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Relief of symptoms associated w/ voiding in patients w/ uninhibited neurogenic & reflex neurogenic bladder.                   |

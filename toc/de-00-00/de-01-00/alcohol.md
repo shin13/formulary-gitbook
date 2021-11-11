@@ -2,8 +2,6 @@
 
 ## 75% Alcohol 20mL/bot
 
-##### 
-
 | TAH Drug Code      | [EALC2](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EALC2)   |
 |:-------------------|:-------------------------------------------------------------------------|
 | Indications        | No Data                                                                  |
@@ -16,8 +14,6 @@
 | Lactation          | No (Limited) Human Data – Potential Toxicity(Mother)                     |
 
 ## 95% Alcohol
-
-##### 
 
 | TAH Drug Code      | [EALC9](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EALC9)   |
 |:-------------------|:-------------------------------------------------------------------------|

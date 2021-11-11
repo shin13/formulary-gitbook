@@ -2,8 +2,6 @@
 
 ## Elomet cream 0.1%, 5gm
 
-##### 
-
 | TAH Drug Code      | [EELO](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EELO)                                                                                                                                                                                           |
 |:-------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Relief of the inflammatory and pruritic manifestations of corticosteroid-responsive dermatoses (medium potency topical corticosteroid)                                                                                                                         |

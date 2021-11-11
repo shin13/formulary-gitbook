@@ -2,8 +2,6 @@
 
 ## Human Immunoglobulin 3gm/50mL
 
-##### 
-
 | TAH Drug Code      | [IIG3](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IIG3)                                                                                                                                                                                                                                                                                                                                                     |
 |:-------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Replacement IgG therapy in primary immunodeficiency, myeloma & chronic lymphatic leukamia with severe secondary hypogammaglobulinemia & recurrent infections, congenital or AIDS with recurrent infections. Immunomodulatory therapy in idiopathic thrombocytopenic purpura (ITP) in adults or children at high risk of bleeding or prior to surgery, allogeneic bone marrow transplantation, Kawasaki disease.          |

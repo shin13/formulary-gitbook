@@ -2,8 +2,6 @@
 
 ## Suprane 240mL
 
-##### 
-
 | TAH Drug Code      | [ESUP](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ESUP)                                                                                                                                                                                |
 |:-------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Inhalation agent for induction & maintenance of general anesth.                                                                                                                                                                                     |

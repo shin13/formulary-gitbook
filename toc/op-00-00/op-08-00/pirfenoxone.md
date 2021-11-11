@@ -2,8 +2,6 @@
 
 ## Kary Uni 0.005%, 5mL ophthalmic suspension
 
-##### 
-
 | TAH Drug Code      | [EKARY](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EKARY)                              |
 |:-------------------|:----------------------------------------------------------------------------------------------------|
 | Indications        | Incipient senile cataract.                                                                          |

@@ -2,8 +2,6 @@
 
 ## Naloxone inj 0.4mg/1mL
 
-##### 
-
 | TAH Drug Code      | [INAL](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=INAL)                                                                                                                                                                                  |
 |:-------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Complete or partial reversal of narcotic depression including respiratory depression, induced by opioids including natural & synthetic narcotics & narcotic-antagonist analgesics. Diagnosis of suspected acute opioid overdosage                     |

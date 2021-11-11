@@ -2,8 +2,6 @@
 
 ## Cytotec 200mcg
 
-##### 
-
 | TAH Drug Code      | [OCYT](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OCYT)                                                                                                                                                                                       |
 |:-------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Healing of duodenal & gastric ulcer & NSAID-induced peptic ulcer; Prophylaxis of NSAID-induced peptic ulcer.                                                                                                                                               |

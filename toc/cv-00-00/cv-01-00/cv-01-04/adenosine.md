@@ -2,8 +2,6 @@
 
 ## Adenocor inj 6mg/2mL
 
-##### 
-
 | TAH Drug Code      | [IADE](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IADE)                                                                                                               |
 |:-------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Treatment of paroxysmal supraventricular tachycardias. Diagnostic in narrow & broad-complex tachycardias                                                                           |

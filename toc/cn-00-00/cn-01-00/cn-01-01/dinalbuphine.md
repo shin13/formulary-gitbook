@@ -2,8 +2,6 @@
 
 ## Naldebain ER inj 150mg/2mL
 
-##### 
-
 | TAH Drug Code      | [INALD](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=INALD)                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 |:-------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | ain management: Management of pain severe enough to require an opioid analgesic and for which alternative treatments are inadequate. Surgical anesthesia supplement: Supplement to balanced anesthesia, for preoperative and postoperative analgesia, and for obstetrical analgesia during labor and delivery.                                                                                                                                                                                                      |

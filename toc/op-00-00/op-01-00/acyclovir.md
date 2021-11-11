@@ -2,8 +2,6 @@
 
 ## Devirus 4.5gm ophthalmic ointment
 
-##### 
-
 | TAH Drug Code      | [EDEV](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EDEV)                                                                                                                                                                                                                                                          |
 |:-------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Herpes simplex virus infection of the eyes including initial & recurrent genital herpes & herpes labialis.                                                                                                                                                                                                                    |

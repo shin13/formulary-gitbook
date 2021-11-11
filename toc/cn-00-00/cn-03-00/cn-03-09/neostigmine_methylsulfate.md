@@ -2,8 +2,6 @@
 
 ## Vagostin inj 0.5mg/1mL
 
-##### 
-
 | TAH Drug Code      | [IVAG](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IVAG)                                                                                                                                                        |
 |:-------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Paralytic ileus, myasthenia gravis, vascular spasm, ocular myasthenia gravis.                                                                                                                                               |

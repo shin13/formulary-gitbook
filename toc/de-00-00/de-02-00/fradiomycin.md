@@ -2,8 +2,6 @@
 
 ## Framycin gauze dressing 10x10cm
 
-##### 
-
 | TAH Drug Code      | [EFRA](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EFRA)    |
 |:-------------------|:------------------------------------------------------------------------|
 | Indications        | Wounds, burns, ulcers & other infections skin conditions.               |

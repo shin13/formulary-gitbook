@@ -2,8 +2,6 @@
 
 ## Ketosteril
 
-##### 
-
 | TAH Drug Code      | [OKES](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OKES)                                                                                                                  |
 |:-------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Chronic renal insufficiency amino acid supplement                                                                                                                                     |

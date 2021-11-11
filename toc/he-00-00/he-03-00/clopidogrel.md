@@ -2,8 +2,6 @@
 
 ## Clopidogrel 75mg
 
-##### 
-
 | TAH Drug Code      | [OCLOPD](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OCLOPD)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 |:-------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Prevention of atherothrombotic events in patients suffering from MI, ischemic stroke or established peripheral arterial disease; in patients suffering from non-ST segment elevation acute coronary syndrome (unstable angina or non-Q-wave MI) in combination with aspirin. ST segment elevation acute MI in combination with aspirin in patients eligible for thrombolytic therapy.                                                                                                                                                                                 |

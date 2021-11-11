@@ -2,8 +2,6 @@
 
 ## Ulexin 25mg/mL, 60mL suspension
 
-##### 
-
 | TAH Drug Code      | [LULE](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=LULE)                                                                                                     |
 |:-------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Susceptible infections, Prophylaxis against recurrent UTI.                                                                                                               |
@@ -16,8 +14,6 @@
 | Lactation          | Compatible                                                                                                                                                               |
 
 ## Cephalexin 250mg
-
-##### 
 
 | TAH Drug Code      | [OCEPH](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OCEPH)                                                                                                    |
 |:-------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

@@ -2,8 +2,6 @@
 
 ## BETMIGA 50mg prolonged-release
 
-##### 
-
 | TAH Drug Code      | [OBET5](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OBET5)                                                                                                                                                                                                                                                                                                                                                                     |
 |:-------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Neurogenic detrusor overactivity. Overactive bladder, Monotherapy or in combination with solifenacin, with symptoms of urge urinary incontinence, urgency, and urinary frequency.                                                                                                                                                                                                                                                          |

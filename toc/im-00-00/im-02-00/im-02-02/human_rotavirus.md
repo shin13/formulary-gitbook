@@ -2,8 +2,6 @@
 
 ## Rotarix 1.5mL/dose oral suspension
 
-##### 
-
 | TAH Drug Code      | [LROT2](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=LROT2)                                                                                                                     |
 |:-------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Prevention of gastroenteritis caused by rotavirus, G1 & certain non-G1 serotypes.                                                                                                          |
@@ -16,8 +14,6 @@
 | Lactation          | Unknown                                                                                                                                                                                    |
 
 ## RotaTeq (MSD) 2mL/dose
-
-##### 
 
 | TAH Drug Code      | [LROT3](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=LROT3)                                                                                                                 |
 |:-------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

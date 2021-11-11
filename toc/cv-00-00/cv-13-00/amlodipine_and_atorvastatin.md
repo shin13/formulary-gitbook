@@ -2,8 +2,6 @@
 
 ## Caduet 5/20mg
 
-##### 
-
 | TAH Drug Code      | [OCAD](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OCAD)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 |:-------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Primary prevention of cardiovascular disease (high-risk for cardiovascular disease [CVD]): To reduce the risk of MI, stroke, and revascularization procedures and angina in adults without clinically evident coronary heart disease (CHD).                                                                                                                                                                                                                                                                                                                              |

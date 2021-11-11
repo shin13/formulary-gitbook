@@ -2,8 +2,6 @@
 
 ## Mentax cream 1% 15gm
 
-##### 
-
 | TAH Drug Code      | [EMEN](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EMEN)                                                                                                                                                                                  |
 |:-------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Dermatophytoses eg interdigital tinea pedis, tinea corporis, tinea cruris                                                                                                                                                                             |

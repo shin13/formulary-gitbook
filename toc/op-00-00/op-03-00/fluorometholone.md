@@ -2,8 +2,6 @@
 
 ## 0.1% FOXONE 10mL ophthalmic suspension
 
-##### 
-
 | TAH Drug Code      | [EFOX1](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EFOX1)                                                                                                                                                                       |
 |:-------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Acute & chronic iritis, iridocyclitis, scleritis, episcleritis, conjunctivitis, keratitis, resistant ocular allergy & inflammation following surgery                                                                                         |
@@ -16,8 +14,6 @@
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                                                                                                                                                                |
 
 ## Foxone 0.02% 10mL ophthalmic suspension
-
-##### 
 
 | TAH Drug Code      | [EFOX2](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EFOX2)                                                                                                                                                                       |
 |:-------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

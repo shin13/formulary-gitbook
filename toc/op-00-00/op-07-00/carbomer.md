@@ -2,8 +2,6 @@
 
 ## Vidisic gel 10gm
 
-##### 
-
 | TAH Drug Code      | [EVID](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EVID)                                 |
 |:-------------------|:-----------------------------------------------------------------------------------------------------|
 | Indications        | Substitute for lacrimal fluid in deficiency of tear production or dry eye.                           |

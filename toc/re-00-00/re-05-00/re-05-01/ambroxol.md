@@ -2,8 +2,6 @@
 
 ## Musco solution 3mg/mL, 120mL
 
-##### 
-
 | TAH Drug Code      | [LMUS2](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=LMUS2)                                                                                                                    |
 |:-------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Expectorant.                                                                                                                                                                              |
@@ -16,8 +14,6 @@
 | Lactation          | Unknown                                                                                                                                                                                   |
 
 ## Loxol SR 75mg
-
-##### 
 
 | TAH Drug Code      | [OLOX](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OLOX)   |
 |:-------------------|:-----------------------------------------------------------------------|

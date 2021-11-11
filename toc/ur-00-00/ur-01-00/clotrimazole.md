@@ -2,8 +2,6 @@
 
 ## Clomazole vaginal tablet 500mg
 
-##### 
-
 | TAH Drug Code      | [ECLO5](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ECLO5)                                                                                                                                  |
 |:-------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Vulvovaginal candidiasis                                                                                                                                                                                |

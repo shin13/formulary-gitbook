@@ -2,8 +2,6 @@
 
 ## Tetracycline 250mg
 
-##### 
-
 | TAH Drug Code      | [OTET2](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OTET2)                                     |
 |:-------------------|:-----------------------------------------------------------------------------------------------------------|
 | Indications        | Chronic bronchitis. Brucellosis, chlamydia, mycoplasma and rikettsia.                                      |
@@ -12,6 +10,6 @@
 | Renal Impairment   | Dose adjustment required                                                                                   |
 | Contraindications  | Hypersensitivity to any of the tetracyclines or any component of the formulation.                          |
 | Adverse Effects    | GI upset. Rarely, hypersensitivity reactions, hepatotoxicity, blood disorders.                             |
-| Pregnancy          | Contraindicated – 2nd and 3Rd Trimesters                                                                   |
+| Pregnancy          | Contraindicated – 2nd and 3rd Trimesters                                                                   |
 | Lactation          | Compatible                                                                                                 |
 

@@ -2,8 +2,6 @@
 
 ## BSS sterile irrigation solusion 500ml/Bag
 
-##### 
-
 | TAH Drug Code      | [EBSS1](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EBSS1)   |
 |:-------------------|:-------------------------------------------------------------------------|
 | Indications        | No Data                                                                  |
@@ -16,8 +14,6 @@
 | Lactation          | Unknown                                                                  |
 
 ## BSS sterile irrigation solusion 500ml/Bottle
-
-##### 
 
 | TAH Drug Code      | [EBSS2](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EBSS2)                                                                                                                                |
 |:-------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

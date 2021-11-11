@@ -2,8 +2,6 @@
 
 ## BCG 疫苗 0.5mg/mL (政府提供)
 
-##### 
-
 | TAH Drug Code      | [IBCG0](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IBCG0)                                                                        |
 |:-------------------|:----------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Active immunisation against TB.                                                                                                               |

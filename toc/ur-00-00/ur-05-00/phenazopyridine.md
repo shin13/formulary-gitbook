@@ -2,8 +2,6 @@
 
 ## Urodine 100mg
 
-##### 
-
 | TAH Drug Code      | [OUROD](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OUROD)                                                                                                                     |
 |:-------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Symptomatic relief of pain, burning, urgency, frequency, and other discomforts that arise from irritation of the lower urinary tract mucosa.                                               |

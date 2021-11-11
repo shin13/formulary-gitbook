@@ -2,8 +2,6 @@
 
 ## Lexotan 3mg
 
-##### 
-
 | TAH Drug Code      | [OLEX3](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OLEX3)                                                                                                                                     |
 |:-------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Functional disturbances of the CV & respiratory systems, GIT & GUT. Emotional disturbances & reactions to chronic organic diseases. Psychosomatic disorders & adjuvant to psychotherapy in psychoneurosis. |

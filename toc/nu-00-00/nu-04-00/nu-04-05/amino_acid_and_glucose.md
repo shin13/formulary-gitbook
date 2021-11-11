@@ -2,8 +2,6 @@
 
 ## Clinimix inj 1500mL
 
-##### 
-
 | TAH Drug Code      | [ICLI15](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ICLI15)                                                                                                                                                     |
 |:-------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Parenteral nutrition when oral or enteral alimentation is impossible, insufficient or contraindicated.                                                                                                                       |

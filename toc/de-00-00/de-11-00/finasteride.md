@@ -2,8 +2,6 @@
 
 ## Propecia 1mg (28 tablets/box)
 
-##### 
-
 | TAH Drug Code      | [OPROP](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OPROP)                                                                                              |
 |:-------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Treatment of male pattern hair loss (androgenetic alopecia) in men only. Not indicated in women & children.                                                         |

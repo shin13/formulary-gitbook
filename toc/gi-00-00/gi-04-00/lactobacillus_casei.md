@@ -2,8 +2,6 @@
 
 ## Antibiophilus 250mg
 
-##### 
-
 | TAH Drug Code      | [OANTI](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OANTI)                                                                                   |
 |:-------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | 為高單位活性乳酸菌 (LC菌)(B015456100) Temporary relief of mild diarrhea, abdominal pain, constipation. Regulate bowel movement & soften stool.           |

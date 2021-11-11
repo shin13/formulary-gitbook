@@ -2,8 +2,6 @@
 
 ## Baclospas 5mg
 
-##### 
-
 | TAH Drug Code      | [OBAC5](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OBAC5)                                                                                                                                                                                                                                                                                    |
 |:-------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Alleviation of signs & symptoms of painful spasticity resulting from cerebral & spinal cord injuries, multiple sclerosis, cerebral palsy, trigeminal neuralgia, low back syndrome, flexor spasm, tardive dyskinesia.                                                                                                                                      |

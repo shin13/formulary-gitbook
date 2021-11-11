@@ -2,8 +2,6 @@
 
 ## Benlysta inj 400mg
 
-##### 
-
 | TAH Drug Code      | [IBEN](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IBEN)                                          |
 |:-------------------|:--------------------------------------------------------------------------------------------------------------|
 | Indications        | Reducing disease activity in adult patients with active autoantibody positive SLE receiving standard therapy. |

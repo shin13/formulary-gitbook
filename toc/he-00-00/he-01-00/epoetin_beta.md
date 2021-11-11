@@ -2,8 +2,6 @@
 
 ## Recormon inj 2000IU(限洗腎室用)
 
-##### 
-
 | TAH Drug Code      | [IRECB](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IRECB)                                                                                                                                                                                                                                                                                                                                                                                                                               |
 |:-------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Treatment of anaemia associated w/ chronic renal failure (CRF) in patients on dialysis; treatment of symptomatic renal anaemia in patient not yet undergoing dialysis. Treatment of symptomatic anaemia in adult patients w/ non-myeloid malignancies receving chemotherapy. Increasing the yield of autologous blood from patients in pre-donation programmes. Prevention of anaemia in premature infant (<34 wk; 750-1,500 g birth wt).                                                            |

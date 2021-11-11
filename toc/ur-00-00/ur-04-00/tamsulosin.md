@@ -2,8 +2,6 @@
 
 ## Harnalidge OCAS 0.4mg prolonged release
 
-##### 
-
 | TAH Drug Code      | [OHAR4](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OHAR4)                                                                                                                                                                            |
 |:-------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Treatment of signs and symptoms of benign prostatic hyperplasia (BPH)                                                                                                                                                                             |

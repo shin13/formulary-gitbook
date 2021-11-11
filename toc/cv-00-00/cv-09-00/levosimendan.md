@@ -2,8 +2,6 @@
 
 ## Simdax inj 12.5mg/5mL
 
-##### 
-
 | TAH Drug Code      | [ISIMD](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ISIMD)                                                                                                                                                                                                                                      |
 |:-------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Short-term treatment of acutely decompensated severe chronic heart failure (ADHF) wherein conventional therapy is not sufficient & in cases where inotropic support is appropriate.                                                                                                                         |

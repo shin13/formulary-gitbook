@@ -2,8 +2,6 @@
 
 ## Avelox infusion 400mg/250mL
 
-##### 
-
 | TAH Drug Code      | [IAVE](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IAVE)                                                                                                                                                                                                                                                                 |
 |:-------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Treatment of adults >= 18 years with upper & lower respiratory tract infections such as acute sinusitis, acute exacerbation of chronic bronchitis, community acquired pneumonia; skin & soft tissue infections; complicated intra-abdominal infection.                                                                               |

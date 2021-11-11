@@ -2,8 +2,6 @@
 
 ## Carbomix 61.5gm
 
-##### 
-
 | TAH Drug Code      | [OCAR](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OCAR)                                                                                                                                                    |
 |:-------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Emergency treatment of acute oral poisoning or drug overdose. Also binding of bacteriotoxins & other diarrhea-inducing substances in the gastrointestinal tract. 緊急治療藥物或化學品中毒之病人。                       |

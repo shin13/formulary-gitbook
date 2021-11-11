@@ -2,8 +2,6 @@
 
 ## Tetraxim (四合一, 政府提供) 0.5mL/dose
 
-##### 
-
 | TAH Drug Code      | [ITET](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ITET)                                                                                                                                                                                                                                                                                                                             |
 |:-------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | TETRAXIM is indicated to help protect your child against diphtheria, tetanus, pertussis and poliomyelitis in children from 2 months of age as a primary vaccination and as a booster dose during the second year of life and in children from 5 to 11 years or 11 to 13 years of age, according to national official recommendations.                                                            |

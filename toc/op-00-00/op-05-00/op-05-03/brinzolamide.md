@@ -2,8 +2,6 @@
 
 ## Azopt 1%, 5mL ophthalmic suspension
 
-##### 
-
 | TAH Drug Code      | [EAZO](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EAZO)                                                                                                                                                               |
 |:-------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Treatment of elevated intraocular pressure in patients with ocular hypertension or open-angle glaucoma.                                                                                                                            |

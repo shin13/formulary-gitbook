@@ -2,8 +2,6 @@
 
 ## Econopred Plus 1%, 5mL ophthalmic suspension
 
-##### 
-
 | TAH Drug Code      | [EECO](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EECO)                                                                                                                                                                                                                                                                                |
 |:-------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Steroid-responsive inflammatory conditions of the palpebral & bulbar conjunctiva, cornea & anterior segment of the globe.                                                                                                                                                                                                                           |

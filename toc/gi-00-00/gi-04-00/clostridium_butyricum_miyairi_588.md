@@ -2,8 +2,6 @@
 
 ## Miyarisan BM 1gm
 
-##### 
-
 | TAH Drug Code      | [OMIY](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OMIY)                                           |
 |:-------------------|:---------------------------------------------------------------------------------------------------------------|
 | Indications        | No Data                                                                                                        |

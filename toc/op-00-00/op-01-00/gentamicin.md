@@ -2,8 +2,6 @@
 
 ## Gentamicin eye ointment 0.3%, 5gm
 
-##### 
-
 | TAH Drug Code      | [EGEN3](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EGEN3)            |
 |:-------------------|:----------------------------------------------------------------------------------|
 | Indications        | Treatment of ocular infections due to susceptible organisms.                      |
@@ -16,8 +14,6 @@
 | Lactation          | No (Limited) Human Data - Probably Compatible                                     |
 
 ## Gentamicin eye drops 5mL
-
-##### 
 
 | TAH Drug Code      | [EGENT](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EGENT)                 |
 |:-------------------|:---------------------------------------------------------------------------------------|

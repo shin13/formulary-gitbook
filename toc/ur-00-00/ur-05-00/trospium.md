@@ -2,8 +2,6 @@
 
 ## Uracare 10mg
 
-##### 
-
 | TAH Drug Code      | [OURA](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OURA)                                                                                                                 |
 |:-------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Antispasmodics of smooth muscle. Overactive bladder.                                                                                                                                 |

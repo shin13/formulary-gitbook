@@ -2,8 +2,6 @@
 
 ## Furoxime inj 1.5gm
 
-##### 
-
 | TAH Drug Code      | [IFUR1](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IFUR1)                                                                                                                                                                                                                                                           |
 |:-------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Infections due to Staphylococci, Streptococci, Pneumococci, Meningococci & other susceptible bacteria.                                                                                                                                                                                                                           |

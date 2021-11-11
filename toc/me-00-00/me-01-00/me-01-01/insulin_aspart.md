@@ -2,8 +2,6 @@
 
 ## NovoRapid FlexPen 100 Unit/mL, 3mL
 
-##### 
-
 | TAH Drug Code      | [INOVX](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=INOVX)                                                                              |
 |:-------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Treatment of patients with diabetes mellitus.                                                                                                       |

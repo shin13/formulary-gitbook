@@ -2,8 +2,6 @@
 
 ## Rho (D) Immune Globulin [HyperRHO]
 
-##### 
-
 | TAH Drug Code      | [IRHO](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IRHO)                                                                                                                                                                |
 |:-------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Prevention of Rh haemolytic disease of the newborn by its administration to the Rho (D)-ve mother, within 72 hr after birth of her 1st Rho (D) + ve infant or after an abortion.                                                    |

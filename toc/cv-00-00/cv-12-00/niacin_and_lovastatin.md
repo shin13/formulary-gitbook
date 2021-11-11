@@ -2,8 +2,6 @@
 
 ## Linicor 500/20mg
 
-##### 
-
 | TAH Drug Code      | [OLINI](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OLINI)                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 |:-------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Primary hypercholesterolemia/mixed dyslipidemia: Treatment of primary hypercholesterolemia (heterozygous familial and nonfamilial) and mixed dyslipidemia (Fredrickson types IIa and IIb) in combination with a standard cholesterol-lowering diet.                                                                                                                                                                                                                                                    |

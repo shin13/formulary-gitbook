@@ -2,8 +2,6 @@
 
 ## Sinbeta derm cream 10gm
 
-##### 
-
 | TAH Drug Code      | [EBETA](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EBETA)                                                                                                                                                                     |
 |:-------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Dermatoses complicated by infection in psoriasis, neurodermatitis, lichen planus, eczema, intertrigo, dyshidrosis, seborrhoeic, contact, atopic, exfoliative, solar, stasis dermatitis; anogenital & senile pruritus.                      |

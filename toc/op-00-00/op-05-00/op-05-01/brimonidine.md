@@ -2,8 +2,6 @@
 
 ## Alphagan-P 0.15%, 5mL ophthalmic solution
 
-##### 
-
 | TAH Drug Code      | [EALP](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EALP)                                                                                                                      |
 |:-------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Lowering of ocular pressure in patients with open-angle glaucoma or ocular hypertension.                                                                                                  |

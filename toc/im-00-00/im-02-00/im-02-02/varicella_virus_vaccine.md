@@ -2,8 +2,6 @@
 
 ## Varivax Vaccine 0.5mL/dose (Private)
 
-##### 
-
 | TAH Drug Code      | [IVAR](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IVAR)                                                                                        |
 |:-------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Active immunisation against varicella of healthy infants from 12 months onwards, susceptible high-risk patients & their susceptible healthy close contacts. |
@@ -16,8 +14,6 @@
 | Lactation          | Compatible                                                                                                                                                  |
 
 ## 水痘疫苗Varivax (Government) 0.5mL/dose
-
-##### 
 
 | TAH Drug Code      | [IVAR2](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IVAR2)                                                                                      |
 |:-------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------|

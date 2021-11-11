@@ -2,8 +2,6 @@
 
 ## Lamisil 250mg
 
-##### 
-
 | TAH Drug Code      | [OLAMS](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OLAMS)                                                                                                                    |
 |:-------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Tinea corporis, tinea cruris, tinea pedis & onychomycosis caused by dermatophyte & skin infections caused by Candida albicans.                                                            |

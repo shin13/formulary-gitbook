@@ -2,8 +2,6 @@
 
 ## Tears Naturale 15mL
 
-##### 
-
 | TAH Drug Code      | [ETEA](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ETEA)      |
 |:-------------------|:--------------------------------------------------------------------------|
 | Indications        | Temporary relief of ocular irritation due to eye dryness.                 |

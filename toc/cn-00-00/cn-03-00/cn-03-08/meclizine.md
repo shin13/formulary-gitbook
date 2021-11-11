@@ -2,8 +2,6 @@
 
 ## Meclizine 25mg
 
-##### 
-
 | TAH Drug Code      | [OMEC](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OMEC)                                    |
 |:-------------------|:--------------------------------------------------------------------------------------------------------|
 | Indications        | Prophylaxis & symptomatic relief of nausea, vomiting, vertigo.                                          |

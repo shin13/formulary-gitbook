@@ -2,8 +2,6 @@
 
 ## Vemlidy 25mg
 
-##### 
-
 | TAH Drug Code      | [OVEM](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OVEM)                |
 |:-------------------|:------------------------------------------------------------------------------------|
 | Indications        | Chronic hepatitis B virus (HBV) infection in adults with compensated liver disease. |

@@ -2,8 +2,6 @@
 
 ## Pantogen inj 500mL
 
-##### 
-
 | TAH Drug Code      | [IPANT](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IPANT)                                                            |
 |:-------------------|:----------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Prevention & treatment of vit B & vit C deficiency.                                                                               |

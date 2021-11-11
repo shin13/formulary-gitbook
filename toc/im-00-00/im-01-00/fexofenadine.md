@@ -2,8 +2,6 @@
 
 ## Allegra 60mg
 
-##### 
-
 | TAH Drug Code      | [OALL6](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OALL6)                                                                                                                                                                                                                 |
 |:-------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Symptomatic relief of seasonal allergic rhinitis & uncomplicated skin manifestations of chronic idiopathic urticaria in adult & children over 6 years.                                                                                                                                 |

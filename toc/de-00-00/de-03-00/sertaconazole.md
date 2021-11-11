@@ -2,8 +2,6 @@
 
 ## Zalain cream 2%, 15gm
 
-##### 
-
 | TAH Drug Code      | [EZAL](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EZAL)                                                                                           |
 |:-------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Topical treatment of skin mycoses eg dermophytosis, tinea pedis, tinea cruris, tinea corporis, tinea barbae, tinea manus, candidiasis & Pityriasis versicolor. |

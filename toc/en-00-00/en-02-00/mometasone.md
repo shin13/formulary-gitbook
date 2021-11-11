@@ -2,8 +2,6 @@
 
 ## Nasonex nasal spray 140 dose
 
-##### 
-
 | TAH Drug Code      | [ENAS](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ENAS)                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 |:-------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Treatment of seasonal or perennial rhinitis & associated symptoms in adults, adolescents & children > 3 years. Treatment of mild to severe nasal polyps & associated symptoms in adults > 18 years.                                                                                                                                                                                                                                                                                                            |

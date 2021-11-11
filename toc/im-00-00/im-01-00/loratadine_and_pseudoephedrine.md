@@ -2,8 +2,6 @@
 
 ## Lorapseudo SR 10/240mg
 
-##### 
-
 | TAH Drug Code      | [OLOR](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OLOR)                                                                                                                               |
 |:-------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Relief of symptoms associated with allergic rhinitis & common cold.                                                                                                                                |

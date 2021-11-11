@@ -2,8 +2,6 @@
 
 ## Secorine syrup 120mL
 
-##### 
-
 | TAH Drug Code      | [LSEC](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=LSEC)                                                                                                          |
 |:-------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Relief of cold symptoms (runny nose, nasal congestion, sneezing & phlegm).                                                                                                    |

@@ -2,8 +2,6 @@
 
 ## Romicon-A 20/20/90mg
 
-##### 
-
 | TAH Drug Code      | [OROMA](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OROMA)                                                                                                             |
 |:-------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Cough suppressant, Expectorant.                                                                                                                                                    |

@@ -2,8 +2,6 @@
 
 ## Zcough 100mg
 
-##### 
-
 | TAH Drug Code      | [OZCO](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OZCO)                                                            |
 |:-------------------|:--------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Symptomatic relief of nonproductive cough                                                                                       |

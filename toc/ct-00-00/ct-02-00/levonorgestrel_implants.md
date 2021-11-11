@@ -2,8 +2,6 @@
 
 ## Mirena 20mcg/24hours intrauterine system
 
-##### 
-
 | TAH Drug Code      | [EMIR](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EMIR)                                                                                                                                                                                                                                                                                           |
 |:-------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Contraception, idiopathic menorrhagia, Protection from endometrial hyperplasia during ERT.                                                                                                                                                                                                                                                                     |

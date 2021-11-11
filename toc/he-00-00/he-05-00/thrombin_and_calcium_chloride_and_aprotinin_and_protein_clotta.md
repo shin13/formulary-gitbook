@@ -2,8 +2,6 @@
 
 ## Tisseel solution for sealant 4mL/set
 
-##### 
-
 | TAH Drug Code      | [ETIS4](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ETIS4)                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 |:-------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Adjunct to hemostasis in cardiopulmonary bypass surgery (including fully heparinized patients) and splenic injury (due to blunt or penetrating trauma to the abdomen) when the control of bleeding by conventional surgical techniques is ineffective or impractical; adjunctive sealant for closure of colostomies.                                                                                                                                                                                             |

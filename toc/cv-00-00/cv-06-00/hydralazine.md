@@ -2,8 +2,6 @@
 
 ## Apresoline 50mg
 
-##### 
-
 | TAH Drug Code      | [OAPR5](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OAPR5)                                                                                                                                                                    |
 |:-------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Hypertension,為周邊血管擴張劑(A030879100)                                                                                                                                                                                                 |
@@ -12,6 +10,6 @@
 | Renal Impairment   | Dose adjustment not necessary                                                                                                                                                                                                             |
 | Contraindications  | Idiopathic SLE & related diseases. Severe tachycardia & heart failure with high cardiac output. Myocardial insufficiency due to mechanical obstruction. Right ventricular heart failure due to pulmonary HTN. Dissecting aortic aneurysm. |
 | Adverse Effects    | Tachycardia, palpitation, anginal symptoms, flushing, headache, dizziness, nasal congestion, GI disturbances.                                                                                                                             |
-| Pregnancy          | Human Data Suggest Risk in 3Rd Trimester                                                                                                                                                                                                  |
+| Pregnancy          | Human Data Suggest Risk in 3rd Trimester                                                                                                                                                                                                  |
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                                                                                                                                                             |
 

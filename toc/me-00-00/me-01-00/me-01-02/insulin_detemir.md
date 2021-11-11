@@ -2,8 +2,6 @@
 
 ## Levemir FlexPen 100 Unit/mL, 3mL
 
-##### 
-
 | TAH Drug Code      | [ILEV3](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ILEV3)                                                                  |
 |:-------------------|:----------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Treatment of diabetes mellitus.                                                                                                         |

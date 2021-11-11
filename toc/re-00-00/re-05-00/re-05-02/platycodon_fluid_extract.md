@@ -2,8 +2,6 @@
 
 ## Cough mixture 120mL
 
-##### 
-
 | TAH Drug Code      | [LCOFS](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=LCOFS)   |
 |:-------------------|:-------------------------------------------------------------------------|
 | Indications        | Antitussive, expectorant.                                                |

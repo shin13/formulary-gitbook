@@ -2,8 +2,6 @@
 
 ## Cervarix HPV 0.5mL/dose
 
-##### 
-
 | TAH Drug Code      | [ICER](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ICER)                                                                                                                                                                                                                                                                |
 |:-------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Prevention of cervical cancer in females 10-25 years, by protecting against incident & persistent infections, cytological abnormalities including atypical squamous cells of undetermined significance (ASC-US) & cervical intraepithelial neoplasia (CIN), CIN1 & pre-cancerous lesions (CIN2 & CIN3) caused by HPV Types 16 & 18. |
@@ -16,8 +14,6 @@
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                                                                                                                                                                                                                                                       |
 
 ## Cervarix (HPV,Government) 0.5mL/dose
-
-##### 
 
 | TAH Drug Code      | [ICER0](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ICER0)                                                                                                                                                                                                                                                              |
 |:-------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

@@ -2,8 +2,6 @@
 
 ## Erythromycin 250mg
 
-##### 
-
 | TAH Drug Code      | [OERY](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OERY)                                                                                                                                                                 |
 |:-------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Susceptible infections ,Prophylaxis against pneumococcal infections; Prevention of streptococcal infections in patients w/ rheumatic fever or heart disease.                                                                         |

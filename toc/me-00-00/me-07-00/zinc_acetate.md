@@ -2,8 +2,6 @@
 
 ## Zinca 25mg
 
-##### 
-
 | TAH Drug Code      | [OZIN2](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OZIN2)                                                  |
 |:-------------------|:------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Maintenance treatment of patients with Wilson's disease who have been initially treated with a chelating agent.         |

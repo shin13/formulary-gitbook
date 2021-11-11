@@ -2,8 +2,6 @@
 
 ## (限腸胃中心)Simethicone 20mg/mL suspension
 
-##### 
-
 | TAH Drug Code      | [LSIM](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=LSIM)                                       |
 |:-------------------|:-----------------------------------------------------------------------------------------------------------|
 | Indications        | Relief of flatulence & abdominal discomfort due to excess GI gas.                                          |
@@ -16,8 +14,6 @@
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                              |
 
 ## Wilcon 20mg/mL, 60mL suspension
-
-##### 
 
 | TAH Drug Code      | [LWIL](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=LWIL)                        |
 |:-------------------|:--------------------------------------------------------------------------------------------|

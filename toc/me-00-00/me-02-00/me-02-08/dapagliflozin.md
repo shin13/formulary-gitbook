@@ -2,8 +2,6 @@
 
 ## Forxiga 10mg
 
-##### 
-
 | TAH Drug Code      | [OFOR](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OFOR)                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 |:-------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Chronic kidney disease, (At risk of progression) to reduce the risk of sustained estimated GFR decline, end-stage kidney disease, cardiovascular death, and hospitalization for heart failureView additional information. Disorder of cardiovascular system; Prophylaxis - Type 2 diabetes mellitusView additional information. Heart failure, (NYHA class II to IV, reduced ejection fraction) to reduce risk of cardiovascular death and hospitalizationView additional information. Type 2 diabetes mellitus. |

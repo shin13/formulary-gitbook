@@ -2,8 +2,6 @@
 
 ## Doxymycin 100mg enteric coated
 
-##### 
-
 | TAH Drug Code      | [ODOXY](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ODOXY)                                                                                                                            |
 |:-------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Rickettsial, chlamydial, mycoplasmal infection.                                                                                                                                                   |
@@ -12,6 +10,6 @@
 | Renal Impairment   | Dose adjustment not necessary                                                                                                                                                                     |
 | Contraindications  | Pregnancy. Children <12 years. SLE.                                                                                                                                                               |
 | Adverse Effects    | Gastrointestinal effects; photosensitivity; enamel hypoplasia, tooth discoloration; hypersensitivity reactions. Rarely, bone marrow depression; oesophagitis & oesophageal ulceration.            |
-| Pregnancy          | Contraindicated – 2nd and 3Rd Trimesters                                                                                                                                                          |
+| Pregnancy          | Contraindicated – 2nd and 3rd Trimesters                                                                                                                                                          |
 | Lactation          | Compatible                                                                                                                                                                                        |
 

@@ -2,8 +2,6 @@
 
 ## Virless cream 5%, 5gm
 
-##### 
-
 | TAH Drug Code      | [EVIRL](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EVIRL)                                                                                                                                                                                                                                                        |
 |:-------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Herpes simplex virus infection of the skin including initial & recurrent genital herpes & herpes labialis.                                                                                                                                                                                                                    |

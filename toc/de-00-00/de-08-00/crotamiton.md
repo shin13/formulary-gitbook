@@ -2,8 +2,6 @@
 
 ## Ulex lotion 10%, 30gm (Topical)
 
-##### 
-
 | TAH Drug Code      | [EULE](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EULE)              |
 |:-------------------|:----------------------------------------------------------------------------------|
 | Indications        | Non-atopic allergy, urticaria, eczema.                                            |

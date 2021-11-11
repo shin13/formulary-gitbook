@@ -2,8 +2,6 @@
 
 ## GI Klean Powder
 
-##### 
-
 | TAH Drug Code      | [OGIK](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OGIK)                                                                                                                                                                                                                                                |
 |:-------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Bowel prep before colonoscopy, colonic surgery, radiological exam & other related procedures.                                                                                                                                                                                                                       |

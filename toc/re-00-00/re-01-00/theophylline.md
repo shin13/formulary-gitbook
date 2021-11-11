@@ -2,8 +2,6 @@
 
 ## Centertheo 60mL (5.34mg/mL) liquid
 
-##### 
-
 | TAH Drug Code      | [LCEN](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=LCEN)                                        |
 |:-------------------|:------------------------------------------------------------------------------------------------------------|
 | Indications        | Treatment of reversible airways obstruction associated with asthma, chronic bronchitis & related conditions |
@@ -16,8 +14,6 @@
 | Lactation          | Compatible                                                                                                  |
 
 ## Xanthium 200mg
-
-##### 
 
 | TAH Drug Code      | [OXANT](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OXANT)                                                                                                                                                                                                                                                                                                                 |
 |:-------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

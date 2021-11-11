@@ -2,8 +2,6 @@
 
 ## Alcos-Anal suppository
 
-##### 
-
 | TAH Drug Code      | [EAAS](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EAAS)   |
 |:-------------------|:-----------------------------------------------------------------------|
 | Indications        | Hemorrhoids                                                            |

@@ -2,8 +2,6 @@
 
 ## Gelofusine 500mL, 4%
 
-##### 
-
 | TAH Drug Code      | [IGEL](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IGEL)                                                                                                                                                                                                                                                                                                                                                                                                                      |
 |:-------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Primary vol replacement in hypovolaemia & shock due to acute blood or fluid loss, burns & sepsis; prophylaxis of hypotension during epidural or spinal anaesth; haemodilution & autologous transfusion; extracorporeal circulation (haemodialysis, heart lung machine).                                                                                                                                                                                                                   |

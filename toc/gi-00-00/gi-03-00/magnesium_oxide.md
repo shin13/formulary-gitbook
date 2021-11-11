@@ -2,8 +2,6 @@
 
 ## Magnesium Oxide 250mg
 
-##### 
-
 | TAH Drug Code      | [OMAG](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OMAG)                                                                                  |
 |:-------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Treatment of various GI problems associated with hyperacidity; as a laxative.                                                                         |

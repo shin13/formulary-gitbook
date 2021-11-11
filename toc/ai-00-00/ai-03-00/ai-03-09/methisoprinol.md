@@ -2,8 +2,6 @@
 
 ## Imin 500mg
 
-##### 
-
 | TAH Drug Code      | [OIMIN](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OIMIN)   |
 |:-------------------|:-------------------------------------------------------------------------|
 | Indications        | Viral disease, immunomodulator.                                          |

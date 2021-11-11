@@ -2,8 +2,6 @@
 
 ## Valtrex 500mg
 
-##### 
-
 | TAH Drug Code      | [OVAL](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OVAL)                                                                                                                                                                                                                                                                                                                                                                                                                         |
 |:-------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Treatment of herpes zoster & herpes labialis. Treatment & prevention of recurrent herpes simplex infections of the skin & mucous membranes including initial & recurrent genital herpes. Prophylaxis of cytomegalovirus (CMV) infection & disease, following renal transplantation.                                                                                                                                                                                                          |

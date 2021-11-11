@@ -2,8 +2,6 @@
 
 ## Kidsolone solution 1mg/mL, 60mL
 
-##### 
-
 | TAH Drug Code      | [LKID](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=LKID)                                                                                                             |
 |:-------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Allergic and inflammatory disorders, Rheumatoid arthritis, Multiple sclerosis.                                                                                                   |
@@ -16,8 +14,6 @@
 | Lactation          | Compatible                                                                                                                                                                       |
 
 ## Compesolon 5mg
-
-##### 
 
 | TAH Drug Code      | [OCOMP](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OCOMP)                                                                                                                                                                                         |
 |:-------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

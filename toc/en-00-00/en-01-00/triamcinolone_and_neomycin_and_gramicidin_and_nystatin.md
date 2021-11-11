@@ -2,8 +2,6 @@
 
 ## Mycomb otic drops 5mL
 
-##### 
-
 | TAH Drug Code      | [EMYC](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EMYC)   |
 |:-------------------|:-----------------------------------------------------------------------|
 | Indications        | Inflammation of the outer & middle ear.                                |

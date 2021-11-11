@@ -2,8 +2,6 @@
 
 ## Gincare 9.6mg film coated
 
-##### 
-
 | TAH Drug Code      | [OGIN9](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OGIN9)                                             |
 |:-------------------|:-------------------------------------------------------------------------------------------------------------------|
 | Indications        | Peripheral circulatory disorders                                                                                   |

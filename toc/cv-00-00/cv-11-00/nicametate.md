@@ -2,8 +2,6 @@
 
 ## Songora 50mg
 
-##### 
-
 | TAH Drug Code      | [OSON](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OSON)                                                                                                                                                                                          |
 |:-------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Peripheral vascular circulation disorders & cerebral insufficiency.                                                                                                                                                                                           |

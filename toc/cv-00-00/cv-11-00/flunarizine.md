@@ -2,8 +2,6 @@
 
 ## Suzin 5mg
 
-##### 
-
 | TAH Drug Code      | [OSUZ](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OSUZ)                                                                                                      |
 |:-------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Prophylaxis of migraine, maintenance treatment of cerebral circulation disorders.                                                                                         |

@@ -2,8 +2,6 @@
 
 ## AmiZide 50/5mg
 
-##### 
-
 | TAH Drug Code      | [OAMIZ](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OAMIZ)                                                                                                                                             |
 |:-------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Hypertension, edema of cardiac origin & hepatic cirrhosis with ascites & edema.                                                                                                                                    |

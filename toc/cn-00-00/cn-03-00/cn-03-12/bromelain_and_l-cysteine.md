@@ -2,8 +2,6 @@
 
 ## Broen-C 20000IU/20mg
 
-##### 
-
 | TAH Drug Code      | [OBRO](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OBRO)                                          |
 |:-------------------|:--------------------------------------------------------------------------------------------------------------|
 | Indications        | Inflammation after operation & traumatic injury, inadequate expectoration of sputum in respiratory disease.   |

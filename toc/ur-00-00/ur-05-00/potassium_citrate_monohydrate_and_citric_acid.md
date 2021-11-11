@@ -2,8 +2,6 @@
 
 ## K-citrate granules 5gm
 
-##### 
-
 | TAH Drug Code      | [OKCIT](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OKCIT)                                                                                                         |
 |:-------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Prevention of uric acid nephrolithiasis; prevention of Ca renal stones in patients with hypocitraturia; avoidance of the complication of Ca stone formation in uric lithiasis. |

@@ -2,8 +2,6 @@
 
 ## Diphenhydramine inj 30mg/1mL
 
-##### 
-
 | TAH Drug Code      | [IDIPH](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IDIPH)                                                                                                                                                                                |
 |:-------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Urticaria, dermatologic disease, pruritus, acute rhinitis & hay fever.                                                                                                                                                                                |

@@ -2,8 +2,6 @@
 
 ## Imuran 50mg
 
-##### 
-
 | TAH Drug Code      | [OIMU](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OIMU)                                                                                                                                                                                                                                                                                |
 |:-------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | As an adjunct for the prevention of rejection in renal homotransplantation. Treatment of SLE, severe RA, acute & chronic leukemia.                                                                                                                                                                                                                  |
@@ -12,6 +10,6 @@
 | Renal Impairment   | Dose adjustment required                                                                                                                                                                                                                                                                                                                            |
 | Contraindications  | Hypersensitivity to 6-mercaptopurine. Pregnancy or patients who are likely to become pregnant in the near future.                                                                                                                                                                                                                                   |
 | Adverse Effects    | Hypersensitivity reactions; dose-related, reversible bone marrow depression expressed as leucopenia, anemia or thrombocytopenia. Susceptibility to infection especially in transplant recipients. GI reactions, nausea, colitis, diverticulitis, bowel perforation, cholestasis, deterioration of liver function, reversible pneumonitis. Alopecia. |
-| Pregnancy          | Human Data Suggest Risk in 3Rd Trimester                                                                                                                                                                                                                                                                                                            |
+| Pregnancy          | Human Data Suggest Risk in 3rd Trimester                                                                                                                                                                                                                                                                                                            |
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                                                                                                                                                                                                                                                                       |
 

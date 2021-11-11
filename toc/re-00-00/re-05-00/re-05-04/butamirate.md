@@ -2,8 +2,6 @@
 
 ## Sutussi liquid 0.8mg/mL, 60mL
 
-##### 
-
 | TAH Drug Code      | [LSUT](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=LSUT)    |
 |:-------------------|:------------------------------------------------------------------------|
 | Indications        | Antitussive. Cough caused by cold, bronchitis, or asthmatic bronchitis. |

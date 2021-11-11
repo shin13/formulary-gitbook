@@ -2,8 +2,6 @@
 
 ## Duratears ointment 3.5gm
 
-##### 
-
 | TAH Drug Code      | [EDUR](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EDUR)                                                                  |
 |:-------------------|:--------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Temporary relief of ocular irritation due to eye dryness.                                                                             |

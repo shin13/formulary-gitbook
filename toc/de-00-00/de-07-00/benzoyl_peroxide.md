@@ -2,8 +2,6 @@
 
 ## Aczo gel 50mg/gm, 10gm
 
-##### 
-
 | TAH Drug Code      | [EACZ](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EACZ)                                                         |
 |:-------------------|:-----------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Treatment of acne vulgaris.                                                                                                  |

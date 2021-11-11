@@ -2,8 +2,6 @@
 
 ## Kingmin 4%, 10mL opthalmic solution
 
-##### 
-
 | TAH Drug Code      | [EKING](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EKING)   |
 |:-------------------|:-------------------------------------------------------------------------|
 | Indications        | Trachoma or inclusion conjunctivitis.                                    |

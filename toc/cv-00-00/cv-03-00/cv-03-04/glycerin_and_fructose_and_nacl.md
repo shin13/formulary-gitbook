@@ -2,8 +2,6 @@
 
 ## Glycetose inj 10%, 500mL
 
-##### 
-
 | TAH Drug Code      | [IGLY1](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IGLY1)                                                                                                                                                                                                                                                               |
 |:-------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Treatment of increased intracranial pressure & intracranial edema, improvement of impaired consciousness & neurologic deficits in cerebral infarct, intracerebral & subarachnoid hemorrhages, head injury, brain tumor, cerebromeningitis. Post-op therapy following brain surgery; reduction of brain vol at time of brain surgery. |

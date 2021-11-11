@@ -2,8 +2,6 @@
 
 ## Bricanyl solution 5mg/2mL
 
-##### 
-
 | TAH Drug Code      | [EBRIS](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EBRIS)                                                                                           |
 |:-------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Relief of bronchospasm in bronchial asthma, chronic bronchitis, emphysema & other bronchopulmonary conditions when bronchoconstriction is a complicating factor. |

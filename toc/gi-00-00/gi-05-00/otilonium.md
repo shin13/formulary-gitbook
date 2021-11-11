@@ -2,8 +2,6 @@
 
 ## Catilon 40mg
 
-##### 
-
 | TAH Drug Code      | [OCAT4](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OCAT4)   |
 |:-------------------|:-------------------------------------------------------------------------|
 | Indications        | Relief of abdominal pain due to irritable bowel syndrome.                |

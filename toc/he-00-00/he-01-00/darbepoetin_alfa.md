@@ -2,8 +2,6 @@
 
 ## NESP inj 20mcg(洗腎用)
 
-##### 
-
 | TAH Drug Code      | [INESP](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=INESP)                                                                                                                                                                                                                                                                        |
 |:-------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Anemia: Treatment of anemia due to concurrent myelosuppressive chemotherapy in patients with cancer (nonmyeloid malignancies) receiving chemotherapy (palliative intent) for a planned minimum of 2 additional months of chemotherapy; treatment of anemia due to chronic kidney disease (including patients on dialysis and not on dialysis) |

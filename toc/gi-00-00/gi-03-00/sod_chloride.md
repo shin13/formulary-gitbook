@@ -2,8 +2,6 @@
 
 ## Atomic enema 20mL
 
-##### 
-
 | TAH Drug Code      | [EFLE](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EFLE)                        |
 |:-------------------|:--------------------------------------------------------------------------------------------|
 | Indications        | Constipation.                                                                               |

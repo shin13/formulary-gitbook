@@ -2,8 +2,6 @@
 
 ## Efucon gel 0.75%, 15gm
 
-##### 
-
 | TAH Drug Code      | [EEFU](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EEFU)                                                |
 |:-------------------|:--------------------------------------------------------------------------------------------------------------------|
 | Indications        | Topical treatment of inflammatory papules, pustules & erythema of rosacea.                                          |

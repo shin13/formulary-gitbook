@@ -2,8 +2,6 @@
 
 ## Ceporin 25mg
 
-##### 
-
 | TAH Drug Code      | [OCEPO](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OCEPO)                                                                                                                                 |
 |:-------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Hypertension, chronic heart failure.                                                                                                                                                                   |
@@ -12,6 +10,6 @@
 | Renal Impairment   | Dose adjustment not necessary                                                                                                                                                                          |
 | Contraindications  | Pregnancy                                                                                                                                                                                              |
 | Adverse Effects    | Dysgeusia, skin rash, cough                                                                                                                                                                            |
-| Pregnancy          | Human Data Suggest Risk in 2nd and 3Rd Trimesters                                                                                                                                                      |
+| Pregnancy          | Human Data Suggest Risk in 2nd and 3rd Trimesters                                                                                                                                                      |
 | Lactation          | Compatible                                                                                                                                                                                             |
 

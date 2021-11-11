@@ -2,8 +2,6 @@
 
 ## Clobex Shampoo 60mL, 0.05%
 
-##### 
-
 | TAH Drug Code      | [ECLOB](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ECLOB)                                                                                                                                                             |
 |:-------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Treatment of moderate to severe forms of scalp psoriasis in patient ≧18 yr.                                                                                                                                                        |

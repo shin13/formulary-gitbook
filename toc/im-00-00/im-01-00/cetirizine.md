@@ -2,8 +2,6 @@
 
 ## Cetirizine 1mg/mL, 60mL oral solution
 
-##### 
-
 | TAH Drug Code      | [LCET](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=LCET)                                                                                                                                                                              |
 |:-------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Symptomatic treatment of seasonal rhinitis & conjunctivitis, perennial allergic rhinitis as well as pruritus & urticaria of allergic origin.                                                                                                      |

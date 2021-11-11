@@ -2,8 +2,6 @@
 
 ## Trynol 10mg
 
-##### 
-
 | TAH Drug Code      | [OTRYN](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OTRYN)                                                                                                                                                                                                                                                                                                                                                                                             |
 |:-------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Endogenic depression, manic depressive psychosis, involution melancholia, climacteric & reactive melancholia, melancholia senilis, nervous depression, depressive state, depression due to neurasthenia & psychosis.                                                                                                                                                                                                                                               |

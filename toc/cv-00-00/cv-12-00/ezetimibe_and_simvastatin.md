@@ -2,8 +2,6 @@
 
 ## Vytorin 10/20mg
 
-##### 
-
 | TAH Drug Code      | [OVYT](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OVYT)                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 |:-------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Primary hypercholesterolemia: Adjunctive therapy to diet for the reduction of elevated total-C, LDL-C, Apo B, TG & non-HDL-C, & to increase HDL-C in patients with primary (heterozygous familial & non-familial) hypercholesterolemia or mixed hyperlipidemia. Homozygous familial hypercholesterolemia (HoFH): For the reduction of elevated total-C & LDL-C levels in patients with HoFH, as an adjunct to other lipid-lowering treatments (eg LDL apheresis) or if such treatments are unavailable. |

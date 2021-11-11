@@ -2,8 +2,6 @@
 
 ## Normacol plus granules 7gm/pack
 
-##### 
-
 | TAH Drug Code      | [ONORM](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ONORM)                                                                                                                                                 |
 |:-------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Treatment of constipation. The initiating and maintenance of bowel action after rectal surgery and haemorrhoidectomy.                                                                                                  |

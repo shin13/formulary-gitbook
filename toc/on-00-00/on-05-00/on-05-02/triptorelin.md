@@ -2,8 +2,6 @@
 
 ## Decapeptyl inj 0.1mg/1mL
 
-##### 
-
 | TAH Drug Code      | [IDEC](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IDEC)                                                                                                                                                                                                                                                                                                                              |
 |:-------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Advanced prostate cancer: Palliative treatment of advanced prostate cancer Assisted reproductive technologies: Decapeptyl: Adjunctive therapy in women undergoing controlled ovarian hyperstimulation for assisted reproductive technologies (ART)                                                                                                                                                |

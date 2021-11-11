@@ -2,8 +2,6 @@
 
 ## Bisacodyl suppository 10mg
 
-##### 
-
 | TAH Drug Code      | [EBIS](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EBIS)                                                                                                                                                                                        |
 |:-------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Constipation. Preparation of diagnostic procedures, in pre- & post-examination & in conditions which require defecation to be facilitated.                                                                                                                  |
@@ -16,8 +14,6 @@
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                                                                                                                                                                               |
 
 ## Johnlax 5mg
-
-##### 
 
 | TAH Drug Code      | [OJOH](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OJOH)                                                                                                                                                                   |
 |:-------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

@@ -2,8 +2,6 @@
 
 ## Aluminum 324mg
 
-##### 
-
 | TAH Drug Code      | [OALU](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OALU)   |
 |:-------------------|:-----------------------------------------------------------------------|
 | Indications        | GI upset, hyperacidity & indigestion.                                  |

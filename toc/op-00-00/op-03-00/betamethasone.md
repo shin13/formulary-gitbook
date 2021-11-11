@@ -2,8 +2,6 @@
 
 ## FUSone eye drops 0.1%, 0.5mL
 
-##### 
-
 | TAH Drug Code      | [EFUS](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EFUS)   |
 |:-------------------|:-----------------------------------------------------------------------|
 | Indications        | Inflammatory conditions of the eyes.                                   |

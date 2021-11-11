@@ -2,8 +2,6 @@
 
 ## Ferrous gluco-B 300/10/30
 
-##### 
-
 | TAH Drug Code      | [OFER](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OFER)                         |
 |:-------------------|:---------------------------------------------------------------------------------------------|
 | Indications        | Treatment & prevention of iron deficiency anemia, vit B1 & C deficiency.                     |

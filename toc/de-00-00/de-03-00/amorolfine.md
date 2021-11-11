@@ -2,8 +2,6 @@
 
 ## Amocoat Nail Lacquer 5mL
 
-##### 
-
 | TAH Drug Code      | [EAMO](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EAMO)                                                                                             |
 |:-------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Fungal nail infections.                                                                                                                                          |
@@ -16,8 +14,6 @@
 | Lactation          | Unknown                                                                                                                                                          |
 
 ## Loceryl nail 5%, 2.5mL lacquer
-
-##### 
 
 | TAH Drug Code      | [ELOC2](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ELOC2)                                                         |
 |:-------------------|:-------------------------------------------------------------------------------------------------------------------------------|

@@ -2,8 +2,6 @@
 
 ## Anol inj 200mg/mL,100mL/bag
 
-##### 
-
 | TAH Drug Code      | [IANO](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IANO)                                                                                                                                                                                                                                                                                                                                   |
 |:-------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Treatment of cerebral oedema; to increase urine flow in acute renal failure; reduce raised intracranial pressure; short-term management of glaucoma; promote excretion of toxic substances by forced diuresis.                                                                                                                                                                                         |

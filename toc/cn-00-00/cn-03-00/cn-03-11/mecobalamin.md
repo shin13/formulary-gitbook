@@ -2,8 +2,6 @@
 
 ## Methycobal inj 500mcg/1mL
 
-##### 
-
 | TAH Drug Code      | [IMETY](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IMETY)                                                                                                                                                                                                                     |
 |:-------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Megaloblastic anemia due to vit B12 deficiency & peripheral neuropathies.                                                                                                                                                                                                                  |
@@ -16,8 +14,6 @@
 | Lactation          | Compatible                                                                                                                                                                                                                                                                                 |
 
 ## Methycobal 250mcg
-
-##### 
 
 | TAH Drug Code      | [OMETY](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OMETY)                                                              |
 |:-------------------|:------------------------------------------------------------------------------------------------------------------------------------|

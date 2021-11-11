@@ -2,8 +2,6 @@
 
 ## Hepatitis A vaccine(Government) 0.5mL/dose
 
-##### 
-
 | TAH Drug Code      | [IHAV0](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IHAV0)                                     |
 |:-------------------|:-----------------------------------------------------------------------------------------------------------|
 | Indications        | Active immunisation against infections caused by hepatitis A virus.                                        |
@@ -17,8 +15,6 @@
 
 ## HAVRIX 1440, 1mL/dose (Private)
 
-##### 
-
 | TAH Drug Code      | [IHAV1](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IHAV1)                                     |
 |:-------------------|:-----------------------------------------------------------------------------------------------------------|
 | Indications        | Active immunisation against infections caused by hepatitis A virus.                                        |
@@ -31,8 +27,6 @@
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                              |
 
 ## Havrix 720 Junior 0.5mL/dose (Private)
-
-##### 
 
 | TAH Drug Code      | [IHAV7](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IHAV7)                                                                                                                             |
 |:-------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

@@ -2,8 +2,6 @@
 
 ## Eurodin 2mg
 
-##### 
-
 | TAH Drug Code      | [OEUR](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OEUR)                                                                                                                                                     |
 |:-------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Insomnia.                                                                                                                                                                                                                |
@@ -12,6 +10,6 @@
 | Renal Impairment   | Dose adjustment not necessary                                                                                                                                                                                            |
 | Contraindications  | Myasthenia gravis. Pregnancy, lactation.                                                                                                                                                                                 |
 | Adverse Effects    | Dependence, somnolence, confusion, dizziness, coordination abnormal, headache, dull headache & other psychotic disturbances. Respiratory depression. Anemia, leukopenia. Hypotension. Nausea, dry mouth. Fatigue, edema. |
-| Pregnancy          | Human Data Suggest Risk in 1st and 3Rd Trimesters                                                                                                                                                                        |
+| Pregnancy          | Human Data Suggest Risk in 1st and 3rd Trimesters                                                                                                                                                                        |
 | Lactation          | No (Limited) Human Data - Potential Toxicity                                                                                                                                                                             |
 

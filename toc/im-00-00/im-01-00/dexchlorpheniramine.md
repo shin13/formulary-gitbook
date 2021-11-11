@@ -2,8 +2,6 @@
 
 ## Delamin 2mg
 
-##### 
-
 | TAH Drug Code      | [ODEL](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ODEL)                                                                                                   |
 |:-------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Palliative treatment of allergic reaction.                                                                                                                             |

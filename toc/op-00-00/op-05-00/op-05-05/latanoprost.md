@@ -2,8 +2,6 @@
 
 ## Xalatan 0.005%, 2.5mL ophthalmic solution
 
-##### 
-
 | TAH Drug Code      | [EXAL](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EXAL)                                                                       |
 |:-------------------|:-------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Reduction of elevated intraocular pressure in patients with glaucoma & ocular hypertension.                                                |

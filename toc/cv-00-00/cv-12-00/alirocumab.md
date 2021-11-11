@@ -2,8 +2,6 @@
 
 ## Praluent solution for injection 75mg
 
-##### 
-
 | TAH Drug Code      | [IPRA](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IPRA)                                                                                                                                                                                                                    |
 |:-------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Hyperlipidemia, primary: Adjunct to diet and maximally tolerated statin therapy for the treatment of adults with heterozygous familial hypercholesterolemia or clinical atherosclerotic cardiovascular disease, who require additional lowering of LDL-C. Prevent cardiovascular events |

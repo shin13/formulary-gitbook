@@ -2,8 +2,6 @@
 
 ## Difflam forte 3mg/mL, 15mL
 
-##### 
-
 | TAH Drug Code      | [EDIF](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EDIF)                                                                                                                         |
 |:-------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Relief of painful conditions of the mouth & throat including tonsillitis, sore throat, radiation mucositis, aphthous ulcers, post orosurgical & periodontal procedures.                      |

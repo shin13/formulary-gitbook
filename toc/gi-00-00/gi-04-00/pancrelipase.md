@@ -2,8 +2,6 @@
 
 ## Protase 280mg enteric coated
 
-##### 
-
 | TAH Drug Code      | [OPROT](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OPROT)                                              |
 |:-------------------|:--------------------------------------------------------------------------------------------------------------------|
 | Indications        | Cystic fibrosis, post-pancreatectomy, total gastrectomy, or chronic pancreatitis, ductal obstruction from neoplasm. |

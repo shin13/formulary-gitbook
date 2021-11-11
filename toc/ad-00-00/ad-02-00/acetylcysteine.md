@@ -2,8 +2,6 @@
 
 ## Encore inj 300mg/3mL
 
-##### 
-
 | TAH Drug Code      | [IENC](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IENC)                                                                                                                                                                                                                                                                                                                                                                                      |
 |:-------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Acute & chronic affections of the respiratory tract with abundant mucous secretions in bronchitis, emphysema & bronchiectasis, prophylaxis & treatment of bronchopulmonary complications with mucostasis, bronchial catarrh, acetaminophen overdose.                                                                                                                                                                                                      |

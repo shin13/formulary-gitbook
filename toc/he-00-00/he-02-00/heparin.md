@@ -2,8 +2,6 @@
 
 ## HEPAC inj 25KIU/5mL
 
-##### 
-
 | TAH Drug Code      | [IHEPA](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IHEPA)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 |:-------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Unstable angina; Venous thromboembolism; Peripheral arterial embolism, Prevention of re-occlusion of the coronary arteries following thrombolytic therapy , Venous thromboembolism ,Prophylaxis of post-op venous thromboembolism, Prevention of mural thrombosis                                                                                                                                                                                                                                                                                                                             |
@@ -17,8 +15,6 @@
 
 ## Hepac inj 1KIU/0.2mL
 
-##### 
-
 | TAH Drug Code      | [IHEPA1](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IHEPA1)   |
 |:-------------------|:---------------------------------------------------------------------------|
 | Indications        | No Data                                                                    |
@@ -31,8 +27,6 @@
 | Lactation          | Compatible                                                                 |
 
 ## Hepac Lock Flush 1000 Unit/10mL
-
-##### 
 
 | TAH Drug Code      | [IHLF](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IHLF)                                                                                                                     |
 |:-------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

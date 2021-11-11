@@ -2,8 +2,6 @@
 
 ## Sandimmun Neoral 100mg
 
-##### 
-
 | TAH Drug Code      | [OSAN1](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OSAN1)                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 |:-------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Immunosuppression in organ transplant, psoriasis, severe atopic dermatitis, rheumatoid arthritis, nephrotic syndrome, prevention of graft rejection in bone marrow transplantation.                                                                                                                                                                                                                                                                                                                      |

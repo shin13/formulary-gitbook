@@ -2,8 +2,6 @@
 
 ## Dinidol 25mg
 
-##### 
-
 | TAH Drug Code      | [ODIP](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ODIP)                                                                                                 |
 |:-------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | 為抗眩暈劑,平衡障礙治療劑(A015078100) Vertigo caused by inner ear disturbance.                                                                                       |

@@ -2,8 +2,6 @@
 
 ## Stogamet inj 200mg/2mL
 
-##### 
-
 | TAH Drug Code      | [ISTO](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ISTO)                                                                                                                       |
 |:-------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Gastric ulcer. Ulcer of duodenum. Erosive esophagitis.                                                                                                                                     |

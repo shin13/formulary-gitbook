@@ -2,8 +2,6 @@
 
 ## B-complex inj 1mL
 
-##### 
-
 | TAH Drug Code      | [IBCO2](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IBCO2)                                                                                     |
 |:-------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Vit B-complex deficiency.                                                                                                                                  |

@@ -2,8 +2,6 @@
 
 ## 10% Dextrose inj 500mL
 
-##### 
-
 | TAH Drug Code      | [IGW10](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IGW10)    |
 |:-------------------|:--------------------------------------------------------------------------|
 | Indications        | Treatment of carbohydrate & fluid depletion.                              |
@@ -16,8 +14,6 @@
 | Lactation          | Unknown                                                                   |
 
 ## Glucose inj 5% 100mL
-
-##### 
 
 | TAH Drug Code      | [IGW100](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IGW100)   |
 |:-------------------|:---------------------------------------------------------------------------|
@@ -32,8 +28,6 @@
 
 ## Glucose inj 5% 250mL
 
-##### 
-
 | TAH Drug Code      | [IGW250](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IGW250)   |
 |:-------------------|:---------------------------------------------------------------------------|
 | Indications        | Treatment of carbohydrate & fluid depletion.                               |
@@ -46,8 +40,6 @@
 | Lactation          | Unknown                                                                    |
 
 ## Glucose inj 5% 500mL
-
-##### 
 
 | TAH Drug Code      | [IGW5](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IGW5)   |
 |:-------------------|:-----------------------------------------------------------------------|

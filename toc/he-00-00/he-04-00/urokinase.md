@@ -2,8 +2,6 @@
 
 ## UROKINASE 60,000IU
 
-##### 
-
 | TAH Drug Code      | [IUROK](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IUROK)                                                                                                                                                                                  |
 |:-------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Acute coronary embolism, clearance of occluded catheters & shunts, acute pulmonary embolism, peripheral arterial or venous thromboembolism.                                                                                                             |

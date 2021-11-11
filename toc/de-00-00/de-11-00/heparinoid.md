@@ -2,8 +2,6 @@
 
 ## Cividoid gel 20gm
 
-##### 
-
 | TAH Drug Code      | [ECIV](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ECIV)                    |
 |:-------------------|:----------------------------------------------------------------------------------------|
 | Indications        | Treatment of superficial thrombophlebitis & relief of superficial bruising & haematoma. |

@@ -2,8 +2,6 @@
 
 ## Cypromin solution 0.4mg/mL, 60mL
 
-##### 
-
 | TAH Drug Code      | [LCYP](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=LCYP)                                                                                                                                                                                                                                                                                                                                                                                                         |
 |:-------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Symptomatic relief of allergic conditions, eg urticaria, angioedema, rhinitis, conjunctivitis, pruritic skin disorders. Vascular headaches, migraine.                                                                                                                                                                                                                                                                                                                        |
@@ -16,8 +14,6 @@
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                                                                                                                                                                                                                                                                                                                                                                                                |
 
 ## Pilian 4mg
-
-##### 
 
 | TAH Drug Code      | [OPIL](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OPIL)                                                              |
 |:-------------------|:----------------------------------------------------------------------------------------------------------------------------------|

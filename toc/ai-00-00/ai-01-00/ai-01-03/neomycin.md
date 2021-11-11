@@ -2,8 +2,6 @@
 
 ## Neomycin 250mg
 
-##### 
-
 | TAH Drug Code      | [ONEO](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ONEO)                                                                                                                                                          |
 |:-------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Bowel sterilisation before surgery; to reduce the bacterial population of the colon in hepatic failure.                                                                                                                       |

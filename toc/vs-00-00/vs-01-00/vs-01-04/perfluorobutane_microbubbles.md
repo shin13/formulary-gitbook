@@ -2,8 +2,6 @@
 
 ## Sonazoid inj 8 microliter/mL, 2mL
 
-##### 
-
 | TAH Drug Code      | [ISONA](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ISONA)                                                                                                                                                                                                                                     |
 |:-------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Contrast-enhanced ultrasonography of focal liver lesions and focal breast lesions.                                                                                                                                                                                                                         |

@@ -2,8 +2,6 @@
 
 ## Mequitazine 5mg
 
-##### 
-
 | TAH Drug Code      | [OMEQ](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OMEQ)                                         |
 |:-------------------|:-------------------------------------------------------------------------------------------------------------|
 | Indications        | Allergic & vasomotor rhinitis, hay fever, urticaria, ocular allergies & other allergic reactions.            |

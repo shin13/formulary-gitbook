@@ -2,8 +2,6 @@
 
 ## Dampurine 25mg
 
-##### 
-
 | TAH Drug Code      | [ODAM](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ODAM)                                                                                                                                                                                                                     |
 |:-------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Treatment of acute post-op & postpartum non-obstructive urinary retention & neurogenic atony of the urinary bladder with retention.                                                                                                                                                      |

@@ -2,8 +2,6 @@
 
 ## Cerum water 4%/20%, 20mL
 
-##### 
-
 | TAH Drug Code      | [ECER](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ECER)   |
 |:-------------------|:-----------------------------------------------------------------------|
 | Indications        | No Data                                                                |

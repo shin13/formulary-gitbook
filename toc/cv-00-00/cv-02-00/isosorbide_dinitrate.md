@@ -2,8 +2,6 @@
 
 ## Angidil inj 0.1% 10mL
 
-##### 
-
 | TAH Drug Code      | [IANG](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IANG)                                                                                         |
 |:-------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Treatment of angina.                                                                                                                                         |
