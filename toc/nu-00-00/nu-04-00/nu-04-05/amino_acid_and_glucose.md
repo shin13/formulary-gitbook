@@ -2,7 +2,7 @@
 
 ## Clinimix inj 1500mL
 
-| TAH Drug Code      | [ICLI15](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ICLI15)                                                                                                                                                     |
+| TAH Drug Code      | [**ICLI15**](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ICLI15)                                                                                                                                                 |
 |:-------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Parenteral nutrition when oral or enteral alimentation is impossible, insufficient or contraindicated.                                                                                                                       |
 | Dosing             | Adult: 1-2 g amino acids/kg/day, 25-40 kcal/kg/day. Maximum daily dose: 30 mL/kg body weight. Maximum infusion rate: 1.4mL/kg body weight/hr. Children: 2-3g amino acids/kg/day.                                             |

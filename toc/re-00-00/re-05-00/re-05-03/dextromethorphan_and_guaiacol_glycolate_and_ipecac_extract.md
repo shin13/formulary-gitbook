@@ -2,7 +2,7 @@
 
 ## Sortuss Cough liquid 60mL
 
-| TAH Drug Code      | [LSOR](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=LSOR)                                                                                                                                                                                                                             |
+| TAH Drug Code      | [**LSOR**](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=LSOR)                                                                                                                                                                                                                         |
 |:-------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Cough, expectorant                                                                                                                                                                                                                                                                               |
 | Dosing             | Adults:10-20 mL Q4H. Pediatric: 6-12 yrs: 6-10 mL Q4H, 2-6 yrs: 2-6 mL Q4H.                                                                                                                                                                                                                      |

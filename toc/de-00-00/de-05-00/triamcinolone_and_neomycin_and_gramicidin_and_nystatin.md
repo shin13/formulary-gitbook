@@ -2,7 +2,7 @@
 
 ## Mycomb cream 20gm
 
-| TAH Drug Code      | [EMYC20](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EMYC20)                     |
+| TAH Drug Code      | [**EMYC20**](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EMYC20)                 |
 |:-------------------|:---------------------------------------------------------------------------------------------|
 | Indications        | Treatment of inflammatory skin lesions where bacterial or candidal infections are suspected. |
 | Dosing             | apply bid or tid.                                                                            |

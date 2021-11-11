@@ -2,7 +2,7 @@
 
 ## Vagostin inj 0.5mg/1mL
 
-| TAH Drug Code      | [IVAG](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IVAG)                                                                                                                                                        |
+| TAH Drug Code      | [**IVAG**](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IVAG)                                                                                                                                                    |
 |:-------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Paralytic ileus, myasthenia gravis, vascular spasm, ocular myasthenia gravis.                                                                                                                                               |
 | Dosing             | Adult: 0.5 mg IM QD, may adjust dosage to 1.5mg QD or 0.5mg several times a day, according to patient's age and symptom. Paralytic ileus: 0.5 mg Q4-5H. Ophthalmology: 0.25-1 mg SC.                                        |

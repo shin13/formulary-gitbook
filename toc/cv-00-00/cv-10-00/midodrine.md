@@ -2,7 +2,7 @@
 
 ## Midorine 2.5mg
 
-| TAH Drug Code      | [OMIDO](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OMIDO)                                                   |
+| TAH Drug Code      | [**OMIDO**](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OMIDO)                                               |
 |:-------------------|:-------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Treatment of symptomatic orthostatic hypotension. Adjunct in the management of urinary incontinence.                     |
 | Dosing             | Hypotensive states Adult & children > 12 years: Initially 1 tab BID-TID Urinary incontinence Adult 1-2 tablet BID to TID |

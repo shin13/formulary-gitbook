@@ -2,7 +2,7 @@
 
 ## Blopress 8mg
 
-| TAH Drug Code      | [OBLO](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OBLO)                                                                                                                                                                      |
+| TAH Drug Code      | [**OBLO**](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OBLO)                                                                                                                                                                  |
 |:-------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Heart failure, (NYHA class II to IV, ejection fraction 40% or less) to reduce cardiovascular mortality and hospitalizations. Hypertension.                                                                                                |
 | Dosing             | HTN:initial: 8mg QD, may titrate up to 16mg, maximum 32mg.                                                                                                                                                                                |

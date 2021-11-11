@@ -2,7 +2,7 @@
 
 ## 10mg SERMION
 
-| TAH Drug Code      | [OSERM1](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OSERM1)                                                                                                                                                                                                        |
+| TAH Drug Code      | [**OSERM1**](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OSERM1)                                                                                                                                                                                                    |
 |:-------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Cerebral circulation disorders.                                                                                                                                                                                                                                                 |
 | Dosing             | 5-10 mg three times daily. Take Sermion between meals.                                                                                                                                                                                                                          |

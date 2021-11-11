@@ -2,7 +2,7 @@
 
 ## Brown mixture 120mL
 
-| TAH Drug Code      | [LBM1](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=LBM1)                                                                                    |
+| TAH Drug Code      | [**LBM1**](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=LBM1)                                                                                |
 |:-------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Expectorant & antitussive.                                                                                                                              |
 | Dosing             | Adult: 5 mL TID-QID. Can titrate dose up or down if needed.                                                                                             |

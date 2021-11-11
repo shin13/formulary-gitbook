@@ -2,7 +2,7 @@
 
 ## Topsym lotion 0.05%, 10gm
 
-| TAH Drug Code      | [ETOP](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ETOP)                                                                                                                                                                       |
+| TAH Drug Code      | [**ETOP**](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ETOP)                                                                                                                                                                   |
 |:-------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Eczema; dermatitis; psoriasis; vitiligo; alopecia; pustulosis; prurigo.                                                                                                                                                                    |
 | Dosing             | Apply once-tid.                                                                                                                                                                                                                            |
@@ -15,7 +15,7 @@
 
 ## Topsym cream 0.05%, 10gm
 
-| TAH Drug Code      | [ETOP1](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ETOP1)                                                                                                                                                                    |
+| TAH Drug Code      | [**ETOP1**](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ETOP1)                                                                                                                                                                |
 |:-------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Eczema; dermatitis; psoriasis; vitiligo; alopecia; pustulosis; prurigo.                                                                                                                                                                   |
 | Dosing             | Apply once-tid.                                                                                                                                                                                                                           |

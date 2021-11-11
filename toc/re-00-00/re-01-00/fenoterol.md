@@ -2,7 +2,7 @@
 
 ## Strolin liquid 0.5mg/mL, 60mL
 
-| TAH Drug Code      | [LSTR](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=LSTR)                                                                                                                                                                                                        |
+| TAH Drug Code      | [**LSTR**](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=LSTR)                                                                                                                                                                                                    |
 |:-------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Prophylaxis & treatment of symptoms of reversible obstructive pulmonary disease (including asthma & acute bronchospasm), chronic bronchitis, emphysema.                                                                                                                     |
 | Dosing             | Age >14 years: 5-10 mL TID. Age 6-14 years: 5 mL TID. Age 1-6 years 2.5-5 mL TID. Age <1 year: 2.5 mL BID.                                                                                                                                                                  |

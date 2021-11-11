@@ -2,7 +2,7 @@
 
 ## Solu-Medrol inj 40mg
 
-| TAH Drug Code      | [ISOLM](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ISOLM)                                                                                                                                                                                                                                                  |
+| TAH Drug Code      | [**ISOLM**](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ISOLM)                                                                                                                                                                                                                                              |
 |:-------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Adjunctive therapy in life-threatening conditions ,Rheumatic disorders , Multiple sclerosis ,Glomerulonephritis, lupus nephritis,SLE                                                                                                                                                                                    |
 | Dosing             | For large dose, IV 30mg/kg for 10-20 minutes, could repeat every 4-6 hours in 48 hours. In other indication, 10-40mg for the first dose, adjusted by patient's condition from second dose. For multiple sclerosis, 160mg daily for one week, then 80mg every two days for one month.                                    |
@@ -15,7 +15,7 @@
 
 ## Methylprednisolone 4mg
 
-| TAH Drug Code      | [OMEPR](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OMEPR)                                                                                                                                                                                                                                            |
+| TAH Drug Code      | [**OMEPR**](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OMEPR)                                                                                                                                                                                                                                        |
 |:-------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | RA, acute & subacute bursitis, exfoliative dermatitis, allergic rhinitis, bronchial asthma, contact dermatitis & allergic conjunctivitis.                                                                                                                                                                         |
 | Dosing             | 4-48mg/day                                                                                                                                                                                                                                                                                                        |

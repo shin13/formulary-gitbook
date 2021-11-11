@@ -2,7 +2,7 @@
 
 ## Viartril-S powder 1.5gm (自費)
 
-| TAH Drug Code      | [OVIAS](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OVIAS)                                                                                                                                                                                                                                                 |
+| TAH Drug Code      | [**OVIAS**](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OVIAS)                                                                                                                                                                                                                                             |
 |:-------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | All forms of degenerative osteoarticular disease. Primary & secondary osteoarthrosis such as: cervical arthrosis, coxofemoral arthrosis, gonarthrosis, dorsal arthrosis, lumbosacral arthrosis, scapulohumeral arthrosis, periarthritis, lumbago, fractures, osteoarticular dystrophies, chronic & subacute arthritis. |
 | Dosing             | Sachet: 0.5 sachet once daily for 3 months. Repeat at an interval of 2 months.                                                                                                                                                                                                                                         |

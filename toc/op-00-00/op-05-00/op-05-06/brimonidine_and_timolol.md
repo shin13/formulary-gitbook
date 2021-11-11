@@ -2,7 +2,7 @@
 
 ## Combigan 5mL ophthalmic solution
 
-| TAH Drug Code      | [ECOMB](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ECOMB)                                                                                                                                                                          |
+| TAH Drug Code      | [**ECOMB**](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ECOMB)                                                                                                                                                                      |
 |:-------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Reduction of elevated intraocular pressure in patients with glaucoma or ocular hypertension.                                                                                                                                                    |
 | Dosing             | Instill 1 drop in the affected eye(s) Q12H.                                                                                                                                                                                                     |

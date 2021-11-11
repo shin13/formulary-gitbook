@@ -2,7 +2,7 @@
 
 ## Urief F.C. 8mg
 
-| TAH Drug Code      | [OURI8](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OURI8)                                                                                                                                                                                            |
+| TAH Drug Code      | [**OURI8**](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OURI8)                                                                                                                                                                                        |
 |:-------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Treatment of signs and symptoms of benign prostatic hyperplasia (BPH).                                                                                                                                                                                            |
 | Dosing             | 4 mg BID, after breakfast and evening meal. Or 8mg QD after meal.                                                                                                                                                                                                 |

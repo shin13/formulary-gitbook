@@ -2,7 +2,7 @@
 
 ## Amocoat Nail Lacquer 5mL
 
-| TAH Drug Code      | [EAMO](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EAMO)                                                                                             |
+| TAH Drug Code      | [**EAMO**](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EAMO)                                                                                         |
 |:-------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Fungal nail infections.                                                                                                                                          |
 | Dosing             | Fungal nail infections Adult: Topical As 5% nail lacquer: Apply 1-2 times/week. Usual treatment duration: 6 months for fingernails and 9-12 months for toenails. |
@@ -15,7 +15,7 @@
 
 ## Loceryl nail 5%, 2.5mL lacquer
 
-| TAH Drug Code      | [ELOC2](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ELOC2)                                                         |
+| TAH Drug Code      | [**ELOC2**](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ELOC2)                                                     |
 |:-------------------|:-------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Topical treatment of onychomycosis caused by dermatophytes, yeasts and moulds.                                                 |
 | Dosing             | Fungal nail infections Adult: Topical As 5% nail lacquer: Apply 1-2 times/week.                                                |

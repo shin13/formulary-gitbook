@@ -2,7 +2,7 @@
 
 ## Mocalm 0.5/10mg
 
-| TAH Drug Code      | [OMOC](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OMOC)                                                                                                                                                                                                                                                 |
+| TAH Drug Code      | [**OMOC**](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OMOC)                                                                                                                                                                                                                                             |
 |:-------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Treat mental depressive and anxious symptoms                                                                                                                                                                                                                                                                         |
 | Dosing             | Adults: 0.5/10mg(1 Tablet) in the morning and afternoon. The dose may be increased to 2 TABlets in the morning dose if need. Elderly: 0.5/10mg(1 Tablet) in the morning. Maintenance dosage: 0.5/10mg(1 Tablet) in the morning. If patients who have severe anxiety and insomnia could consider adding on sedatives. |

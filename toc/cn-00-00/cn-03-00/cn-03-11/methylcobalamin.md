@@ -2,7 +2,7 @@
 
 ## Maiyitong 500mcg
 
-| TAH Drug Code      | [OMAI](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OMAI)                        |
+| TAH Drug Code      | [**OMAI**](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OMAI)                    |
 |:-------------------|:--------------------------------------------------------------------------------------------|
 | Indications        | 末稍性神經障礙 Peripheral neuropathies, megaloblastic anaemia caused by vit B12 deficiency. |
 | Dosing             | Adult: 500 mcg TID . May adjust dosage according to patient's age and synptoms.             |

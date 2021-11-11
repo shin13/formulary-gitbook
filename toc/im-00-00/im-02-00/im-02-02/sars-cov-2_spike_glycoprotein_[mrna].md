@@ -2,7 +2,7 @@
 
 ## COVID-19 Vaccine BioNTech 0.3mL/dose (0.45mL/vial)
 
-| TAH Drug Code      | [ICOVBNT](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ICOVBNT)                                                                   |
+| TAH Drug Code      | [**ICOVBNT**](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ICOVBNT)                                                               |
 |:-------------------|:---------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Moderna COVID-19 Vaccine, for active immunization to prevent COVID-19 in individuals 12 years of age and older.                              |
 | Dosing             | IM, 0.3 mL, > or = 18 years 2 doses administered 3 weeks apart. (Taiwan CDC suggests 2 doses administered 4 weeks apart.)                    |

@@ -2,7 +2,7 @@
 
 ## Doxaben XL 4mg
 
-| TAH Drug Code      | [ODOX4](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ODOX4)                                                                                                                                                                                                                            |
+| TAH Drug Code      | [**ODOX4**](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ODOX4)                                                                                                                                                                                                                        |
 |:-------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Hypertension. Benign prostatic hyperplasia.(B023711100)                                                                                                                                                                                                                                           |
 | Dosing             | Extended release tablet should be swallowed whole; do not crush, cut, chew, or divide. Adult usual dosage: 4 mg QD, may increase if necessary at the 4-week interval to a maximum 8 mg QD.                                                                                                        |

@@ -2,7 +2,7 @@
 
 ## Colasa enema 2gm/100mL
 
-| TAH Drug Code      | [ECOL2](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ECOL2)                                                                                           |
+| TAH Drug Code      | [**ECOL2**](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ECOL2)                                                                                       |
 |:-------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Treatment of active mild to moderate distal ulcerative colitis, proctosigmoiditis, or proctitis                                                                  |
 | Dosing             | 2-4 gm (1 to 2 bottles) at night.                                                                                                                                |

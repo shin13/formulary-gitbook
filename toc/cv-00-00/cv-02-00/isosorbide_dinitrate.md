@@ -2,7 +2,7 @@
 
 ## Angidil inj 0.1% 10mL
 
-| TAH Drug Code      | [IANG](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IANG)                                                                                         |
+| TAH Drug Code      | [**IANG**](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IANG)                                                                                     |
 |:-------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Treatment of angina.                                                                                                                                         |
 | Dosing             | Diluted in saline or dextrose solution to 100 mcg/mL before use. Usual adult dosage: 2-7 mg/hour by IV infusion; some patients may require up to 10 mg/hour. |

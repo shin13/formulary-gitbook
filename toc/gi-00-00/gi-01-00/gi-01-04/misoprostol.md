@@ -2,7 +2,7 @@
 
 ## Cytotec 200mcg
 
-| TAH Drug Code      | [OCYT](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OCYT)                                                                                                                                                                                       |
+| TAH Drug Code      | [**OCYT**](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OCYT)                                                                                                                                                                                   |
 |:-------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Healing of duodenal & gastric ulcer & NSAID-induced peptic ulcer; Prophylaxis of NSAID-induced peptic ulcer.                                                                                                                                               |
 | Dosing             | Duodenal ulcer & Gastric ulcer: 800 mcg/day in 2-4 divided doses for 4-8 weeks.Prophylaxis of NSAID-induced ulcer: 200 mcg BID, TID or QID.                                                                                                                |

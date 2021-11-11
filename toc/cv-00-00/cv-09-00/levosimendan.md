@@ -2,7 +2,7 @@
 
 ## Simdax inj 12.5mg/5mL
 
-| TAH Drug Code      | [ISIMD](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ISIMD)                                                                                                                                                                                                                                      |
+| TAH Drug Code      | [**ISIMD**](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ISIMD)                                                                                                                                                                                                                                  |
 |:-------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Short-term treatment of acutely decompensated severe chronic heart failure (ADHF) wherein conventional therapy is not sufficient & in cases where inotropic support is appropriate.                                                                                                                         |
 | Dosing             | For the short-term treatment of patients with acute decompensated heart failure when conventional therapies are insufficient and inotropic support is appropriate Adults: IV: Initial: 6 to 12 mcg/kg infused over 10 minutes. Maintenance: 0.05 to 0.1 mcg/kg/minute by continuous infusion for 24hr only. |

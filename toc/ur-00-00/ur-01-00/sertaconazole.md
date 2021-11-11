@@ -2,7 +2,7 @@
 
 ## ZALAIN vaginal tablet 500mg
 
-| TAH Drug Code      | [EZAL5](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EZAL5)                          |
+| TAH Drug Code      | [**EZAL5**](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EZAL5)                      |
 |:-------------------|:------------------------------------------------------------------------------------------------|
 | Indications        | Vulvovag candidiasis.                                                                           |
 | Dosing             | Insert 1 vaginal tablet at bedtime. Administer 2nd dose 1-2 weeks later if symptoms not reside. |

@@ -2,7 +2,7 @@
 
 ## Rifampicin 300mg (立汎黴素)
 
-| TAH Drug Code      | [ORIF5](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ORIF5)                                                                                                                                                                                                                  |
+| TAH Drug Code      | [**ORIF5**](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ORIF5)                                                                                                                                                                                                              |
 |:-------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | TB & meningococcal carriers.                                                                                                                                                                                                                                                            |
 | Dosing             | Neisseria meningitidis carrier: Adult: 600 mg QD for 4 days. >=5 years old: 10~20 mg/kg QD for 4 days. Tuberculosis: Adult: 600 mg QD. >=5 years old: 10~20 mg/kg QD for 4 days. Elders & weak patient: 10 mg/kg QD. Maximum: 600 mg/day. May use 1.8g/day in some types of infections. |

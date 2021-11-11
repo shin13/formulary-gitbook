@@ -2,7 +2,7 @@
 
 ## Chlordiazepoxide 5mg
 
-| TAH Drug Code      | [OCHL5](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OCHL5)                                                                                                                                                                                              |
+| TAH Drug Code      | [**OCHL5**](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OCHL5)                                                                                                                                                                                          |
 |:-------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Neurosis, anxiety & tension, depression especially agitated depression.                                                                                                                                                                                             |
 | Dosing             | Adult 10mg(2 TABlets) BID-TID, may be increased to 60mg-90mg(12-18 TABlets) daily in 3-4 divided doses.                                                                                                                                                             |

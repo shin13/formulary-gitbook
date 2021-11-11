@@ -4,7 +4,7 @@
 
 ##### 臨採
 
-| TAH Drug Code      | [IVFEN](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IVFEN)                                                                                                                                                                                                                                                      |
+| TAH Drug Code      | [**IVFEN**](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IVFEN)                                                                                                                                                                                                                                                  |
 |:-------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Treatment of invasive aspergillosis, candidemia in non-neutropenic patients, fluconazole-resistant serious invasive Candida infections (including C. krusei), esophageal candidiasis, serious fungal infections caused by Scedosporium spp & Fusarium spp in patients w/ progressive, possibly life-threatening infections. |
 | Dosing             | (仿單 + 熱病) Loading dose is recommended. Adult and children (12-14 years and weighing ? 50 kg, or 15-17 years): 6 mg/kg IV q12h x 2 doses (loading), then 3-4 mg/kg IV q12h. Children (2-12 years, or 12-14 years and weighing < 50 kg): 9 mg/kg IV q12h x 2 doses, then 4-8 mg/kg IV q12h.                               |

@@ -2,20 +2,20 @@
 
 ## BSS sterile irrigation solusion 500ml/Bag
 
-| TAH Drug Code      | [EBSS1](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EBSS1)   |
-|:-------------------|:-------------------------------------------------------------------------|
-| Indications        | No Data                                                                  |
-| Dosing             | For irrigation during operations of the eyes, ears, nose and throat.     |
-| Hepatic Impairment | Dose adjustment not necessary                                            |
-| Renal Impairment   | Dose adjustment not necessary                                            |
-| Contraindications  | Hypersensitivity to any component of the formulation.                    |
-| Adverse Effects    | No Data                                                                  |
-| Pregnancy          | Unknown                                                                  |
-| Lactation          | Unknown                                                                  |
+| TAH Drug Code      | [**EBSS1**](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EBSS1)   |
+|:-------------------|:-----------------------------------------------------------------------------|
+| Indications        | No Data                                                                      |
+| Dosing             | For irrigation during operations of the eyes, ears, nose and throat.         |
+| Hepatic Impairment | Dose adjustment not necessary                                                |
+| Renal Impairment   | Dose adjustment not necessary                                                |
+| Contraindications  | Hypersensitivity to any component of the formulation.                        |
+| Adverse Effects    | No Data                                                                      |
+| Pregnancy          | Unknown                                                                      |
+| Lactation          | Unknown                                                                      |
 
 ## BSS sterile irrigation solusion 500ml/Bottle
 
-| TAH Drug Code      | [EBSS2](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EBSS2)                                                                                                                                |
+| TAH Drug Code      | [**EBSS2**](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EBSS2)                                                                                                                            |
 |:-------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | B.S.S. Irrigation during various surgical procedures of the eyes, ears, nose &/or throat. BSS Plus Intraocular irrigating soln during intraocular surgical procedures involving perfusion of the eye. |
 | Dosing             | For irrigation during operations of the eyes, ears, nose and throat.                                                                                                                                  |

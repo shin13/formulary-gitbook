@@ -2,7 +2,7 @@
 
 ## Erythromycin 250mg
 
-| TAH Drug Code      | [OERY](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OERY)                                                                                                                                                                 |
+| TAH Drug Code      | [**OERY**](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OERY)                                                                                                                                                             |
 |:-------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Susceptible infections ,Prophylaxis against pneumococcal infections; Prevention of streptococcal infections in patients w/ rheumatic fever or heart disease.                                                                         |
 | Dosing             | Adult 250-500 mg orally q6h. Children 20-40 mg/pound/day, divided q6h. (熱病) Pediatric dose: 40-50 mg/kg/day, divided q6h.                                                                                                          |

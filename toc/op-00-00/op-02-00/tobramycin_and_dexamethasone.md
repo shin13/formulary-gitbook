@@ -2,7 +2,7 @@
 
 ## Tobradex 5mL ophthalmic suspension
 
-| TAH Drug Code      | [ETOB](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ETOB)                                                                                                                                                                                              |
+| TAH Drug Code      | [**ETOB**](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ETOB)                                                                                                                                                                                          |
 |:-------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Steroid-responsive inflammatory ocular conditions.                                                                                                                                                                                                                |
 | Dosing             | One to two drops instilled into the conjunctival sac every 4 to 6 hours. During the initial 24 to 48 hours, the dosage may be increased to 1 to 2 drops every 2 hours. Shake well before use.                                                                     |
@@ -15,7 +15,7 @@
 
 ## Tobradex eye ointment 3.5gm
 
-| TAH Drug Code      | [ETOBO](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ETOBO)                                                                                                                                                                                            |
+| TAH Drug Code      | [**ETOBO**](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ETOBO)                                                                                                                                                                                        |
 |:-------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Steroid-responsive inflammatory ocular conditions.                                                                                                                                                                                                                |
 | Dosing             | Apply a 1-1.5 cm into the conjunctival sac up to three or four times daily or may be used adjunctively with drops at bedtime.                                                                                                                                     |

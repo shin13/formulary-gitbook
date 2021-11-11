@@ -2,7 +2,7 @@
 
 ## Stilnox 10mg
 
-| TAH Drug Code      | [OSTI](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OSTI)                                                                                                                                                                                                                                     |
+| TAH Drug Code      | [**OSTI**](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OSTI)                                                                                                                                                                                                                                 |
 |:-------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Insomnia.                                                                                                                                                                                                                                                                                                |
 | Dosing             | Oral Short-term management of insomnia Adult: Initial dose: woman : 5mg; man: 5 or 10mg immediately before bedtime; maximum: 10 mg/day. Elderly: 5mg before bedtime. Hepatic impairment: 5 mg before bedtime. In good tolerance or insufficient clinical response may be 10 mg. Severe: contraindicated. |

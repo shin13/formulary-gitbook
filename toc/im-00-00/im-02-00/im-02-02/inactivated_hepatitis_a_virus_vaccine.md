@@ -2,7 +2,7 @@
 
 ## Hepatitis A vaccine(Government) 0.5mL/dose
 
-| TAH Drug Code      | [IHAV0](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IHAV0)                                     |
+| TAH Drug Code      | [**IHAV0**](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IHAV0)                                 |
 |:-------------------|:-----------------------------------------------------------------------------------------------------------|
 | Indications        | Active immunisation against infections caused by hepatitis A virus.                                        |
 | Dosing             | IM, 0.5mL, 12 months-15 years primary immunization. A booster dose after 6-36 months.                      |
@@ -15,7 +15,7 @@
 
 ## HAVRIX 1440, 1mL/dose (Private)
 
-| TAH Drug Code      | [IHAV1](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IHAV1)                                     |
+| TAH Drug Code      | [**IHAV1**](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IHAV1)                                 |
 |:-------------------|:-----------------------------------------------------------------------------------------------------------|
 | Indications        | Active immunisation against infections caused by hepatitis A virus.                                        |
 | Dosing             | IM, 0.5mL, > or = 19 years primary immunization. A booster dose after 6-12 months.                         |
@@ -28,7 +28,7 @@
 
 ## Havrix 720 Junior 0.5mL/dose (Private)
 
-| TAH Drug Code      | [IHAV7](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IHAV7)                                                                                                                             |
+| TAH Drug Code      | [**IHAV7**](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IHAV7)                                                                                                                         |
 |:-------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Active immunisation against infections caused by hepatitis A virus.                                                                                                                                |
 | Dosing             | Children & adolescents 1-18 yr Primary immunisation: A single IM dose. A booster dose at any time between 6 & 12 mth after the single dose is recommended in order to ensure long-term protection. |

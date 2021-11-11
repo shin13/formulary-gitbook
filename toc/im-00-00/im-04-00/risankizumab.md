@@ -4,7 +4,7 @@
 
 ##### 臨採
 
-| TAH Drug Code      | [ISKY](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ISKY)                                                                                                                                                                                                             |
+| TAH Drug Code      | [**ISKY**](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ISKY)                                                                                                                                                                                                         |
 |:-------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Moderate-to-severe plaque psoriasis in adults who are candidates for systemic therapy.                                                                                                                                                                                           |
 | Dosing             | SC, 150 mg at week 0 and week 4, followed by every 12 weeks.                                                                                                                                                                                                                     |
