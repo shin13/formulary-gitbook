@@ -12,6 +12,6 @@
 | Renal Impairment   | Dose adjustment not necessary                                                                                                                                                                          |
 | Contraindications  | Pregnancy                                                                                                                                                                                              |
 | Adverse Effects    | Dysgeusia, skin rash, cough                                                                                                                                                                            |
-| Pregnancy          | Human Data Suggest Risk in 2nd and 3rd Trimesters                                                                                                                                                      |
+| Pregnancy          | Human Data Suggest Risk in 2nd and 3Rd Trimesters                                                                                                                                                      |
 | Lactation          | Compatible                                                                                                                                                                                             |
 

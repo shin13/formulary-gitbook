@@ -12,6 +12,6 @@
 | Renal Impairment   | Dose adjustment not necessary                                                                                                                                                                     |
 | Contraindications  | Pregnancy. Children <12 years. SLE.                                                                                                                                                               |
 | Adverse Effects    | Gastrointestinal effects; photosensitivity; enamel hypoplasia, tooth discoloration; hypersensitivity reactions. Rarely, bone marrow depression; oesophagitis & oesophageal ulceration.            |
-| Pregnancy          | Contraindicated – 2nd and 3rd Trimesters                                                                                                                                                          |
+| Pregnancy          | Contraindicated – 2nd and 3Rd Trimesters                                                                                                                                                          |
 | Lactation          | Compatible                                                                                                                                                                                        |
 

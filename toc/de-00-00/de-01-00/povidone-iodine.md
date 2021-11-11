@@ -12,6 +12,6 @@
 | Renal Impairment   | Dose adjustment not necessary                                                                                                                                                                   |
 | Contraindications  | Hypersensitivity to any component of the formulation.                                                                                                                                           |
 | Adverse Effects    | Local irritation (discontinue).                                                                                                                                                                 |
-| Pregnancy          | Human Data Suggest Risk in 2nd and 3rd Trimesters                                                                                                                                               |
+| Pregnancy          | Human Data Suggest Risk in 2nd and 3Rd Trimesters                                                                                                                                               |
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                                                                                                                   |
 

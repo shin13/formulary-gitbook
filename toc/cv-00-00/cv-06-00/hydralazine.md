@@ -12,6 +12,6 @@
 | Renal Impairment   | Dose adjustment not necessary                                                                                                                                                                                                             |
 | Contraindications  | Idiopathic SLE & related diseases. Severe tachycardia & heart failure with high cardiac output. Myocardial insufficiency due to mechanical obstruction. Right ventricular heart failure due to pulmonary HTN. Dissecting aortic aneurysm. |
 | Adverse Effects    | Tachycardia, palpitation, anginal symptoms, flushing, headache, dizziness, nasal congestion, GI disturbances.                                                                                                                             |
-| Pregnancy          | Human Data Suggest Risk in 3rd Trimester                                                                                                                                                                                                  |
+| Pregnancy          | Human Data Suggest Risk in 3Rd Trimester                                                                                                                                                                                                  |
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                                                                                                                                                             |
 

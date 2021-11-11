@@ -12,6 +12,6 @@
 | Renal Impairment   | Dose adjustment required                                                                                   |
 | Contraindications  | Hypersensitivity to any of the tetracyclines or any component of the formulation.                          |
 | Adverse Effects    | GI upset. Rarely, hypersensitivity reactions, hepatotoxicity, blood disorders.                             |
-| Pregnancy          | Contraindicated – 2nd and 3rd Trimesters                                                                   |
+| Pregnancy          | Contraindicated – 2nd and 3Rd Trimesters                                                                   |
 | Lactation          | Compatible                                                                                                 |
 

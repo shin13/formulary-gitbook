@@ -12,6 +12,6 @@
 | Renal Impairment   | Dose adjustment required                                                                                                                                                                                                                  |
 | Contraindications  | Concomitant use with aliskiren in diabetic patients. Hypersensitivity to candesartan. Severe hepatic impairment &/or cholestasis. Lactating women and women in the second and third trimesters of pregnancy. Children under one year old. |
 | Adverse Effects    | Common Cardiovascular: Hypotension (18.8% ) Musculoskeletal: Backache (3% .) Neurologic: Dizziness (less than 5% ) Respiratory: Pharyngitis (2% ), Rhinitis (2% ), Upper respiratory infection (6% )                                      |
-| Pregnancy          | Human Data Suggest Risk in 2nd and 3rd Trimesters                                                                                                                                                                                         |
+| Pregnancy          | Human Data Suggest Risk in 2nd and 3Rd Trimesters                                                                                                                                                                                         |
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                                                                                                                                                             |
 

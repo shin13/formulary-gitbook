@@ -12,6 +12,6 @@
 | Renal Impairment   | Dose adjustment not necessary                                                                                                                                                                                  |
 | Contraindications  | Hypersensitivity to flurbiprofen.                                                                                                                                                                              |
 | Adverse Effects    | Local irritation                                                                                                                                                                                               |
-| Pregnancy          | Human Data Suggest Risk in 1st and 3rd Trimesters                                                                                                                                                              |
+| Pregnancy          | Human Data Suggest Risk in 1st and 3Rd Trimesters                                                                                                                                                              |
 | Lactation          | Compatible                                                                                                                                                                                                     |
 
