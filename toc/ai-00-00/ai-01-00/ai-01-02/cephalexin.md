@@ -15,14 +15,14 @@
 
 ## Cephalexin 250mg
 
-| TAH Drug Code      | [**OCEPH**](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OCEPH)                                                                                                |
-|:-------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Indications        | Infections caused by Staph, Strep, pneumococci & other susceptible bacteria.                                                                                              |
-| Dosing             | (仿單) Adults: 250 mg q6h. Children: 25-50 mg/kg/day. (Uptodate + Ulexin仿單) Adults: 0.25-1 g q6h or 500 mg q12h (max. 4 g/day). Children: 25-100 mg/kg/day divided q6h. |
-| Hepatic Impairment | Dose adjustment not necessary                                                                                                                                             |
-| Renal Impairment   | Dose adjustment required                                                                                                                                                  |
-| Contraindications  | Hypersensitivity to cephalosporins.                                                                                                                                       |
-| Adverse Effects    | Diarrhea; superinfection; hypersensitivity reactions; eosinophilia; neutropenia, thrombopenia; rarely erythema multiforme, anaphylaxis; pseudomembranous colitis.         |
-| Pregnancy          | Compatible                                                                                                                                                                |
-| Lactation          | Compatible                                                                                                                                                                |
+| TAH Drug Code      | [**OCEPH**](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OCEPH)                                                                                              |
+|:-------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Indications        | Infections caused by Staph, Strep, pneumococci & other susceptible bacteria.                                                                                            |
+| Dosing             | (仿單) Adults: 250 mg q6h. Children: 25-50 mg/kg/day. (Uptodate+Ulexin仿單) Adults: 0.25-1 g q6h or 500 mg q12h (max. 4 g/day). Children: 25-100 mg/kg/day divided q6h. |
+| Hepatic Impairment | Dose adjustment not necessary                                                                                                                                           |
+| Renal Impairment   | Dose adjustment required                                                                                                                                                |
+| Contraindications  | Hypersensitivity to cephalosporins.                                                                                                                                     |
+| Adverse Effects    | Diarrhea; superinfection; hypersensitivity reactions; eosinophilia; neutropenia, thrombopenia; rarely erythema multiforme, anaphylaxis; pseudomembranous colitis.       |
+| Pregnancy          | Compatible                                                                                                                                                              |
+| Lactation          | Compatible                                                                                                                                                              |
 

@@ -8,7 +8,7 @@
 | Dosing             | Oral infection; Prophylaxis 10-20 mL BID rinse for 30-60 sec then spit it out                                                          |
 | Hepatic Impairment | Dose adjustment not necessary                                                                                                          |
 | Renal Impairment   | Dose adjustment not necessary                                                                                                          |
-| Contraindications  | No Data                                                                                                                                |
+| Contraindications  | Hypersensitivity to any component of the formulation.                                                                                  |
 | Adverse Effects    | Conjunctival irritation. Discolouration of the tongue & teeth. Taste disturbances, burning sensation of the tongue. Oral desquamation. |
 | Pregnancy          | Compatible                                                                                                                             |
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                                                          |

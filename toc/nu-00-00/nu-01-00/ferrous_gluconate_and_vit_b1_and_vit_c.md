@@ -8,7 +8,7 @@
 | Dosing             | 1 TAB contains：Ferrous gluconte 300mg, Vitamin B1 10mg, Vitamin C 30mg. PO dose: 1 TAB TID. |
 | Hepatic Impairment | Dose adjustment not necessary                                                                |
 | Renal Impairment   | Dose adjustment not necessary                                                                |
-| Contraindications  | No Data                                                                                      |
+| Contraindications  | Hypersensitivity to any component of the formulation.                                        |
 | Adverse Effects    | Nausea & GI irritation, tachycardia(5%)                                                      |
 | Pregnancy          | Unknown                                                                                      |
 | Lactation          | Unknown                                                                                      |

@@ -2,8 +2,6 @@
 
 ## Evenity inj 105mg/1.17mL
 
-##### 臨採
-
 | TAH Drug Code      | [**IEVE**](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IEVE)                                                                                                                                                                                                                                                                                                                                             |
 |:-------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | The treatment of osteoporosis in postmenopausal women at high risk for fracture, defined as a history of osteoporotic fracture, or multiple risk factors for fracture; or patients who have failed or are intolerant to other available osteoporosis therapy.                                                                                                                                                        |

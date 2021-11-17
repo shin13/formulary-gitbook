@@ -1,4 +1,4 @@
-# FSH75IU + LH75IU
+# FSH 75 IU + LH 75 IU
 
 ## Menopur 75/75 IU
 

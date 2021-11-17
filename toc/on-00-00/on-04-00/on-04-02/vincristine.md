@@ -2,8 +2,6 @@
 
 ## Vincristine inj 1mg/1mL
 
-##### 臨採
-
 | TAH Drug Code      | [**IVIN1**](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IVIN1)                                                                                                                                                                                                                                                                                                              |
 |:-------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Acute leukemia & for Hodgkin's disease & non-Hodgkin's malignant lymphomas, rhabdomyosarcoma, neuroblastoma. Wilms' tumor, reticulum cell sarcoma, lymphosarcoma.                                                                                                                                                                                                                       |

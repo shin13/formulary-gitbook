@@ -2,8 +2,6 @@
 
 ## Thyrogen inj 1.1mg
 
-##### 臨採
-
 | TAH Drug Code      | [**ITHYR**](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ITHYR)                                                                                                                                                                   |
 |:-------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Adjunctive treatment for radioiodine ablation of thyroid tissue remnants in patients who have undergone thyroidectomy for well-differentiated thyroid cancer. Adjunctive diagnostic tool for serum Tg testing w/ or w/o radioiodine imaging. |

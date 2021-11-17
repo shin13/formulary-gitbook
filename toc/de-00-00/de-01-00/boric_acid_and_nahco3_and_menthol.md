@@ -9,7 +9,7 @@
 | Hepatic Impairment | Dose adjustment not necessary                                                      |
 | Renal Impairment   | Dose adjustment not necessary                                                      |
 | Contraindications  | Hypersensitivity to any component of the formulation.                              |
-| Adverse Effects    | No Data                                                                            |
+| Adverse Effects    | Local irritation                                                                   |
 | Pregnancy          | Unknown                                                                            |
 | Lactation          | Unknown                                                                            |
 

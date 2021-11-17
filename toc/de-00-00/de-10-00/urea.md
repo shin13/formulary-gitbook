@@ -8,8 +8,8 @@
 | Dosing             | Apply qd-tid.                                                              |
 | Hepatic Impairment | Dose adjustment not necessary                                              |
 | Renal Impairment   | Dose adjustment not necessary                                              |
-| Contraindications  | No Data                                                                    |
-| Adverse Effects    | No Data                                                                    |
+| Contraindications  | Hypersensitivity to any component of the formulation.                      |
+| Adverse Effects    | Occasionally local stinging, pain, redness and itch.                       |
 | Pregnancy          | No (Limited) Human Data – No Relevant Animal Data                          |
 | Lactation          | No (Limited) Human Data - Probably Compatible                              |
 

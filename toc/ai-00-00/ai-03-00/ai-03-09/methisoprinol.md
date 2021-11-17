@@ -8,7 +8,7 @@
 | Dosing             | Adult: 500 mg q3-4h. Children: 50 mg/kg/day in divided doses.                |
 | Hepatic Impairment | Dose adjustment not necessary                                                |
 | Renal Impairment   | Dose adjustment not necessary                                                |
-| Contraindications  | No Data                                                                      |
+| Contraindications  | Hypersensitivity to any component of the formulation.                        |
 | Adverse Effects    | GI discomfort. Transient rise in serum & uric acid levels.                   |
 | Pregnancy          | Unknown                                                                      |
 | Lactation          | Unknown                                                                      |

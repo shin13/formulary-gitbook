@@ -2,8 +2,6 @@
 
 ## Emgality inj 120 mg/1mL
 
-##### 臨採
-
 | TAH Drug Code      | [**IEMG**](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IEMG)                                                                                                                                                                                        |
 |:-------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Episodic cluster headacheView additional information. Migraine; Prophylaxis                                                                                                                                                                                     |

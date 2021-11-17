@@ -8,8 +8,8 @@
 | Dosing             | Apply several times as need.                                               |
 | Hepatic Impairment | Dose adjustment not necessary                                              |
 | Renal Impairment   | Dose adjustment not necessary                                              |
-| Contraindications  | No Data                                                                    |
-| Adverse Effects    | No Data                                                                    |
+| Contraindications  | Hypersensitivity to any component of the formulation.                      |
+| Adverse Effects    | Drying or tightening of skin.                                              |
 | Pregnancy          | Unknown                                                                    |
 | Lactation          | Unknown                                                                    |
 

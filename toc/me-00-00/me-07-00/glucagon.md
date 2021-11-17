@@ -2,8 +2,6 @@
 
 ## Glucagen inj 1mg/1mL
 
-##### 臨採
-
 | TAH Drug Code      | [**IGLUC**](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IGLUC)                                                                                                                                                                                                     |
 |:-------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Treatment of severe hypoglycemia. Use as a diagnostic aid. Assessing of beta cell function.                                                                                                                                                                                    |

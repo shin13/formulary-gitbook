@@ -2,8 +2,6 @@
 
 ## Fytosid inj 100mg/5mL
 
-##### 臨採
-
 | TAH Drug Code      | [**IFYT**](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IFYT)                                                                                                                                                                                                                                                                                                              |
 |:-------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Small cell carcinoma of lung, In combination with other approved chemotherapeutic agents as first line, Testicular cancer, In combination with other approved chemotherapeutic agents in patients with refractory testicular tumors who have already received appropriate surgical, chemotherapeutic, and radiotherapeutic therapy                                                    |
@@ -16,8 +14,6 @@
 | Lactation          | Contraindicated                                                                                                                                                                                                                                                                                                                                                                       |
 
 ## Vepesid 50mg (專案進口)
-
-##### 臨採
 
 | TAH Drug Code      | [**OVEP5**](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OVEP5)                                                                                                                                                                                                                                                                                                                                |
 |:-------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

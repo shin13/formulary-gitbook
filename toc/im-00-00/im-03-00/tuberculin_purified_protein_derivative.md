@@ -8,8 +8,8 @@
 | Dosing             | ID, 0.1 mL, in the middle third of the forearm.                            |
 | Hepatic Impairment | Dose adjustment not necessary                                              |
 | Renal Impairment   | Dose adjustment not necessary                                              |
-| Contraindications  | No Data                                                                    |
-| Adverse Effects    | No Data                                                                    |
+| Contraindications  | Hypersensitivity to any component of the formulation.                      |
+| Adverse Effects    | Injection site reactions (pain, pruritus, redness, ulceration, scarring)   |
 | Pregnancy          | Unknown                                                                    |
 | Lactation          | Unknown                                                                    |
 

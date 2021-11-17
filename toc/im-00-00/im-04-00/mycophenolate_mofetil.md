@@ -2,8 +2,6 @@
 
 ## Cellcept 250mg
 
-##### 臨採
-
 | TAH Drug Code      | [**OCELL**](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OCELL)                                                                                                                                                                          |
 |:-------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Prophylaxis of acute organ rejection in patients receiving allogeneic renal, cardiac & hepatic transplants, concomitantly w/ cyclosporin & corticosteroids. Induction & maintenance treatment of lupus nephritis, concomitantly w/ corticosteroids. |

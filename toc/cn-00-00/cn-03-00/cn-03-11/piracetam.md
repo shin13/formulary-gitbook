@@ -2,8 +2,6 @@
 
 ## Piracetam soln 200mg/mL, 200mL
 
-##### 臨採
-
 | TAH Drug Code      | [**LPIR**](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=LPIR)                                                                                                                                                                                            |
 |:-------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Treatment of cerebrovascular insufficiency & age-related cognitive impairment; adjunct in the treatment of myoclonus of cortical origin.                                                                                                                            |

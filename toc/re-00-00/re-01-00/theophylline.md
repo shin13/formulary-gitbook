@@ -8,7 +8,7 @@
 | Dosing             | Theophylline 5.34mg/ml Adult 200-250 mg Children 6-12 years 125-250 mg. To be taken every 6 hr.             |
 | Hepatic Impairment | Dose adjustment required                                                                                    |
 | Renal Impairment   | Dose adjustment not necessary                                                                               |
-| Contraindications  | No Data                                                                                                     |
+| Contraindications  | Allergy to theophylline, aminophylline or other xanthines.                                                  |
 | Adverse Effects    | GI disturbances, nervousness, headache, palpitations, insomnia, agitation, tachycardia, CNS stimulation     |
 | Pregnancy          | Compatible                                                                                                  |
 | Lactation          | Compatible                                                                                                  |

@@ -2,8 +2,6 @@
 
 ## Tremfya inj 100mg/1mL
 
-##### 臨採
-
 | TAH Drug Code      | [**ITREM**](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ITREM)                                                                                                                          |
 |:-------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Plaque psoriasis. Psoriatic arthritis                                                                                                                                                               |

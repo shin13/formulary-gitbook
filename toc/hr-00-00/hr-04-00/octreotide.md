@@ -2,8 +2,6 @@
 
 ## Sandostatin inj 0.1mg/1mL
 
-##### 臨採
-
 | TAH Drug Code      | [**ISAN1**](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ISAN1)                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 |:-------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Symptomatic control & reduction of growth hormone & somatomedin C plasma levels in acromegaly; relief of symptoms associated with gastroenteropancreatic endocrine (GEP) tumors & carcinoid tumors including VIPomas, glucagonomas, gastrinomas/Zollinger-Ellison syndrome, insulinomas, GRFomas. Prevention of complications following pancreatic surgery. Bleeding gastro-oesophageal varices.                                                                                                                           |

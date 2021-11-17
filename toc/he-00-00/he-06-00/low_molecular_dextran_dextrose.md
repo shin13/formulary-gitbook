@@ -2,8 +2,6 @@
 
 ## Dextran dextrose inj 500mL
 
-##### 臨採
-
 | TAH Drug Code      | [**IDEX**](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IDEX)                                                           |
 |:-------------------|:-----------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | As plasma expander in haemorrhage.                                                                                                 |

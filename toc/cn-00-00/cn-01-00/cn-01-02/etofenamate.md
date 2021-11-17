@@ -8,7 +8,7 @@
 | Dosing             | Apply bid-tid to the affected area.                                                                                                                                |
 | Hepatic Impairment | Dose adjustment not necessary                                                                                                                                      |
 | Renal Impairment   | Dose adjustment not necessary                                                                                                                                      |
-| Contraindications  | No Data                                                                                                                                                            |
+| Contraindications  | Hypersensitivity to any component of the formulation.                                                                                                              |
 | Adverse Effects    | Rarely, allergic skin reactions.                                                                                                                                   |
 | Pregnancy          | Unknown                                                                                                                                                            |
 | Lactation          | Unknown                                                                                                                                                            |

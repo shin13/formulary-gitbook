@@ -2,8 +2,6 @@
 
 ## Skyrizi 75mg/0.83mL pre-filled syringe
 
-##### 臨採
-
 | TAH Drug Code      | [**ISKY**](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ISKY)                                                                                                                                                                                                         |
 |:-------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Moderate-to-severe plaque psoriasis in adults who are candidates for systemic therapy.                                                                                                                                                                                           |

@@ -21,7 +21,7 @@
 | Dosing             | No Data                                                                        |
 | Hepatic Impairment | Dose adjustment not necessary                                                  |
 | Renal Impairment   | Dose adjustment not necessary                                                  |
-| Contraindications  | No Data                                                                        |
+| Contraindications  | Hypersensitivity to any component of the formulation.                          |
 | Adverse Effects    | No Data                                                                        |
 | Pregnancy          | Compatible                                                                     |
 | Lactation          | Compatible                                                                     |

@@ -8,7 +8,7 @@
 | Dosing             | Scabies, Apply several times daily for 5 days Pruritus, Apply several times daily |
 | Hepatic Impairment | Dose adjustment not necessary                                                     |
 | Renal Impairment   | Dose adjustment not necessary                                                     |
-| Contraindications  | No Data                                                                           |
+| Contraindications  | Hypersensitivity to any component of the formulation.                             |
 | Adverse Effects    | Local skin irritations.                                                           |
 | Pregnancy          | Unknown                                                                           |
 | Lactation          | Unknown                                                                           |

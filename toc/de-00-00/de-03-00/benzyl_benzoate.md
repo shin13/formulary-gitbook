@@ -8,7 +8,7 @@
 | Dosing             | Scabies Apply over the whole body; repeat without bathing on the following day & wash off 24 hr later. A repeat application may be required in some cases |
 | Hepatic Impairment | Dose adjustment not necessary                                                                                                                             |
 | Renal Impairment   | Dose adjustment not necessary                                                                                                                             |
-| Contraindications  | No Data                                                                                                                                                   |
+| Contraindications  | Hypersensitivity to any component of the formulation.                                                                                                     |
 | Adverse Effects    | Skin irritation, burning sensation.                                                                                                                       |
 | Pregnancy          | Unknown                                                                                                                                                   |
 | Lactation          | Contraindicated                                                                                                                                           |

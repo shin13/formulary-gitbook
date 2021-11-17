@@ -2,8 +2,6 @@
 
 ## Perjeta inj 420mg/14mL
 
-##### 臨採
-
 | TAH Drug Code      | [**IPERJ**](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IPERJ)                                                                                                                                                                                                                                                                                    |
 |:-------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | PERJETA (pertuzumab) is approved for use in combination with Herceptin (trastuzumab) and docetaxel (chemotherapy) in people who have HER2-positive breast cancer that has spread to different parts of the body (metastatic) and who have not received anti-HER2 therapy or chemotherapy for metastatic breast cancer.                                        |

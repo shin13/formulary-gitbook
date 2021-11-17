@@ -2,8 +2,6 @@
 
 ## Krestin 1gm
 
-##### 臨採
-
 | TAH Drug Code      | [**OKRE**](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OKRE)     |
 |:-------------------|:-----------------------------------------------------------------------------|
 | Indications        | Cancer chemotherapy adjunct, used in neoplastic diseases as immunomodulator. |

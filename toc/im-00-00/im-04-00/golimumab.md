@@ -2,8 +2,6 @@
 
 ## Simponi inj 50mg/0.5mL
 
-##### 臨採
-
 | TAH Drug Code      | [**ISIM**](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ISIM)                                                                                                                                                                                                                                                                         |
 |:-------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | In combination w/ methotrexate for the treatment of moderate to severe active RA. Alone or in combination w/ methotrexate for active psoriatic arthritis (PsA). Treatment of active ankylosing spondylitis (AS).                                                                                                                                 |

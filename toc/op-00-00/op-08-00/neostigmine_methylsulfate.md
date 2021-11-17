@@ -8,8 +8,8 @@
 | Dosing             | Instill 2 drops TID .The dosage may be increased or decreased moderately.    |
 | Hepatic Impairment | Dose adjustment not necessary                                                |
 | Renal Impairment   | Dose adjustment not necessary                                                |
-| Contraindications  | No Data                                                                      |
-| Adverse Effects    | No Data                                                                      |
+| Contraindications  | Hypersensitivity to any component of the formulation.                        |
+| Adverse Effects    | Transient stinging                                                           |
 | Pregnancy          | No (Limited) Human Data – Probably Compatible                                |
 | Lactation          | No (Limited) Human Data - Probably Compatible                                |
 

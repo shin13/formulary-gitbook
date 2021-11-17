@@ -9,7 +9,7 @@
 | Hepatic Impairment | Dose adjustment not necessary                                                                                      |
 | Renal Impairment   | Dose adjustment not necessary                                                                                      |
 | Contraindications  | Caution should be exercised with ginkgo in patients with bleeding disorders or those who take anticoagulant drugs. |
-| Adverse Effects    | No Data                                                                                                            |
+| Adverse Effects    | GI disturbance, headache, skin rash, dizzy, palpitation.                                                           |
 | Pregnancy          | No (Limited) Human Data – Animal Data Suggest Low Risk                                                             |
 | Lactation          | No (Limited) Human Data - Potential Toxicity                                                                       |
 

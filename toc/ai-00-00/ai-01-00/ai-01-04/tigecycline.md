@@ -2,8 +2,6 @@
 
 ## Tygacil inj 50mg
 
-##### 臨採
-
 | TAH Drug Code      | [**ITYG**](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ITYG)                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 |:-------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Treatment of complicated skin & skin structure infections, complicated intra-abdominal infections & community-acquired pneumonia caused by susceptible microorganisms sensitive to tigecycline.                                                                                                                                                                                                                                                                                                              |
