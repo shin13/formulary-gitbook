@@ -2,7 +2,9 @@
 
 ## Afinitor 5mg
 
-| TAH Drug Code      | [**OAFI**](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OAFI)                                                                                                                                                                                                                                                                                                                                     |
+##### 臨採
+
+| TAH Drug Code      | [OAFI](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OAFI)                                                                                                                                                                                                                                                                                                                                         |
 |:-------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Treatment of postmenopausal women w/ advanced hormone receptor positive & HER-2 negative breast cancer in combination w/ exemestane after failure of treatment w/ letrozole or anastrozole. Progressive neuroendocrine tumors of pancreatic origin (PNET) w/ unresectable, locally advanced or metastatic disease. Advanced renal cell carcinoma (RCC) after failure of treatment w/ sunitinib or sorafenib. |
 | Dosing             | [Advanced Breast cancer, hormone receptor-positive, HER2-negative; Advanced Neuroendocrine tumors (GI, lung, or pancreatic origin); Advanced Renal cell cancer (RCC)] 10 mg orally once daily, continue treatment until disease progression or unacceptable toxicity                                                                                                                                         |

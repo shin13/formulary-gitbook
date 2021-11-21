@@ -2,7 +2,7 @@
 
 ## Avamys nasal spray 120dose
 
-| TAH Drug Code      | [**EAVA**](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EAVA)                                                                                                                                                                                                                                 |
+| TAH Drug Code      | [EAVA](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EAVA)                                                                                                                                                                                                                                     |
 |:-------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Treatment of the symptoms of seasonal and perennial allergic rhinitis in patients aged 2 years and older.                                                                                                                                                                                                |
 | Dosing             | Allergic rhinitis (fluticasone furoate): Intranasal adult, two sprays (27.5 mcg/spray) per nostril once daily (110 mcg/day). Total daily dosage should not exceed 2 sprays in each nostril (110 mcg/day). Children 2 to 11 years: Initial: 1 spray per nostril once daily (total daily dose: 55 mcg/day) |

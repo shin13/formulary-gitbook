@@ -2,7 +2,7 @@
 
 ## Tedalin 100mg Chewable
 
-| TAH Drug Code      | [**OTED**](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OTED)                                                                                                                                                                     |
+| TAH Drug Code      | [OTED](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OTED)                                                                                                                                                                         |
 |:-------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Fe-deficiency anaemia.                                                                                                                                                                                                                       |
 | Dosing             | PO dose: 100mg QD-BID                                                                                                                                                                                                                        |

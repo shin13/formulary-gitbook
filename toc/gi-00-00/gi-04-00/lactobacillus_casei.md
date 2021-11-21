@@ -2,7 +2,7 @@
 
 ## Antibiophilus 250mg
 
-| TAH Drug Code      | [**OANTI**](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OANTI)                                                                               |
+| TAH Drug Code      | [OANTI](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OANTI)                                                                                   |
 |:-------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Temporary relief of mild diarrhea, abdominal pain, constipation. Regulate bowel movement & soften stool.                                                 |
 | Dosing             | Adult & children >12 years: PO 1~2 CAP TID-QID. (Better to take between meals) 6-12 years: one half dose of Adult. 3-6 years: one quarter dose of Adult. |

@@ -2,7 +2,7 @@
 
 ## Fucon inj 20mg/1mL
 
-| TAH Drug Code      | [**IFUC**](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IFUC)                                                                                            |
+| TAH Drug Code      | [IFUC](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IFUC)                                                                                                |
 |:-------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Spasm & hyperkinesia of the GIT, spasm & dyskinesia of the biliary tract, urinary tract & female genital tracts.                                                    |
 | Dosing             | Adult 20 mg 3-5 times daily IM/IV/SC.                                                                                                                               |

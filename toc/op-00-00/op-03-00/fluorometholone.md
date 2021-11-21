@@ -2,7 +2,7 @@
 
 ## 0.1% FOXONE 10mL ophthalmic suspension
 
-| TAH Drug Code      | [**EFOX1**](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EFOX1)                                                                                                                                                                   |
+| TAH Drug Code      | [EFOX1](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EFOX1)                                                                                                                                                                       |
 |:-------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Acute & chronic iritis, iridocyclitis, scleritis, episcleritis, conjunctivitis, keratitis, resistant ocular allergy & inflammation following surgery                                                                                         |
 | Dosing             | Instill 1 to 2 drops into conjunctival sac 2 to 4 times daily; may instill 2 drops every 2 hours or 1 drop every 4 hours during initial 24 to 48 hours. Shake well before use.                                                               |
@@ -15,7 +15,7 @@
 
 ## Foxone 0.02% 10mL ophthalmic suspension
 
-| TAH Drug Code      | [**EFOX2**](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EFOX2)                                                                                                                                                                   |
+| TAH Drug Code      | [EFOX2](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EFOX2)                                                                                                                                                                       |
 |:-------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Acute & chronic iritis, iridocyclitis, scleritis, episcleritis, conjunctivitis, keratitis, resistant ocular allergy & inflammation following surgery                                                                                         |
 | Dosing             | Instill 1 drop into conjunctival sac 2 to 4 times daily; may instill 1 drop every 4 hours during initial 24 to 48 hours. Shake well before use.                                                                                              |

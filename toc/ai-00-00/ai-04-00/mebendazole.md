@@ -2,7 +2,7 @@
 
 ## Conquer 100mg
 
-| TAH Drug Code      | [**OCONQ**](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OCONQ)                                                                                                                                                                                    |
+| TAH Drug Code      | [OCONQ](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OCONQ)                                                                                                                                                                                        |
 |:-------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Whipworm, pinworm, hookworm, roundworm, tapeworm, strongyloides infestations.                                                                                                                                                                                 |
 | Dosing             | Trichuriasis (whipworm), ascariasis (roundworm), ancylostoma duodenale or necator americanus (hookworm): 100 mg orally twice daily for 3 days; repeat in 3 weeks if not cured with initial treatment. Enterobiasis (pinworm): 100 mg orally as a single dose. |

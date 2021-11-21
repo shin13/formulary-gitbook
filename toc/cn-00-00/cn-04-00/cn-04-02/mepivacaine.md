@@ -2,7 +2,7 @@
 
 ## Scandonest 3%(for Dental) 1.8mL
 
-| TAH Drug Code      | [**ISCA3**](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ISCA3)                                                                                                                                                                                            |
+| TAH Drug Code      | [ISCA3](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ISCA3)                                                                                                                                                                                                |
 |:-------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Dental infiltration and dental nerve block.                                                                                                                                                                                                                           |
 | Dosing             | 3~6 years:max.1.8ml 6~14 years:usual dose:1.35ml; max.2.7ml                                                                                                                                                                                                           |

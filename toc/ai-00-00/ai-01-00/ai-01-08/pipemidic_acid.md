@@ -2,7 +2,7 @@
 
 ## Dolcol 250mg
 
-| TAH Drug Code      | [**ODOLC**](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ODOLC)                                                                 |
+| TAH Drug Code      | [ODOLC](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ODOLC)                                                                     |
 |:-------------------|:-------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | UTI, Bacillary dysentery, enteritis, otitis media and sinusitis                                                                            |
 | Dosing             | Adult: 500-2000 mg/day, divided q6-8h.                                                                                                     |

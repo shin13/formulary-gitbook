@@ -2,7 +2,7 @@
 
 ## Mopride 5mg
 
-| TAH Drug Code      | [**OMOP**](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OMOP)                                                                                                                       |
+| TAH Drug Code      | [OMOP](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OMOP)                                                                                                                           |
 |:-------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Treatment of GI motility disorders e.g. heartburn, nausea &/or vomiting.                                                                                                                       |
 | Dosing             | Adult 15 mg/day in 3 divided doses.                                                                                                                                                            |

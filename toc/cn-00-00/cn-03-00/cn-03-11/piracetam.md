@@ -2,7 +2,9 @@
 
 ## Piracetam soln 200mg/mL, 200mL
 
-| TAH Drug Code      | [**LPIR**](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=LPIR)                                                                                                                                                                                            |
+##### 臨採
+
+| TAH Drug Code      | [LPIR](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=LPIR)                                                                                                                                                                                                |
 |:-------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Treatment of cerebrovascular insufficiency & age-related cognitive impairment; adjunct in the treatment of myoclonus of cortical origin.                                                                                                                            |
 | Dosing             | Oral Cognitive enhancer in cerebrocortical insufficiency Adult: 1.2~2.4 g daily. Up to 4.8 g daily may be used in severe cases. Adjunct in cortical myoclonus Adult: 7.2 g daily in 2-3 divided doses, increased by 4.8 g/day every 3-4 days. Max dose: 24 g daily. |
@@ -15,7 +17,7 @@
 
 ## Syntam F.C. 1200mg(欣坦)
 
-| TAH Drug Code      | [**OSYN1**](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OSYN1)                                                                                                                                                                                                                                                                                        |
+| TAH Drug Code      | [OSYN1](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OSYN1)                                                                                                                                                                                                                                                                                            |
 |:-------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Cognitive disorders. Cortical myoclonus, adjunctive.                                                                                                                                                                                                                                                                                                              |
 | Dosing             | Cognitive disorders: 1.2 to 4.8 g daily in 2 to 4 divided doses Cortical myoclonus, adjunctive: Initial: 7.2 g daily administered in 2 to 3 divided doses; may increase total daily dose by 4.8 g every 3 to 4 days if needed (maximum daily dose: 24 g)                                                                                                          |
@@ -28,7 +30,7 @@
 
 ## Syntam granules 1200mg
 
-| TAH Drug Code      | [**OSYNG**](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OSYNG)                                                                                                                                                                                                                             |
+| TAH Drug Code      | [OSYNG](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OSYNG)                                                                                                                                                                                                                                 |
 |:-------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Treatment of cerebrovascular insufficiency & age-related cognitive impairment; adjunct in the treatment of myoclonus of cortical origin.                                                                                                                                                               |
 | Dosing             | Cerebrovascular insufficiency & age-related cognitive impairment Loading dose: 4.8 g daily during initial weeks of treatment. Maintenance: 1.2-2.4 g daily. max: 4.8g/day. Cortical myoclonus Initially 7.2 g daily, increasing by 4.8 g/day every 3-4 days to a max of 24 g/day in divided 2-3 doses. |

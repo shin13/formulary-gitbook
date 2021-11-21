@@ -2,7 +2,7 @@
 
 ## Tarivid otic solution 0.3%, 5mL
 
-| TAH Drug Code      | [**ETAR**](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ETAR)                                                                                                                                                                                        |
+| TAH Drug Code      | [ETAR](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ETAR)                                                                                                                                                                                            |
 |:-------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Otitis media, otitis externa caused by ofloxacin-susceptible pathogen: Staph, Strep, Proteus sp, Pseudomonas aeruginosa, & haemophilus influenzae.                                                                                                              |
 | Dosing             | Otitis media, chronic suppurative (with perforated tympanic membranes): Otic: Instill 6-10 drops into affected ear(s) twice daily for 14 days                                                                                                                   |

@@ -2,7 +2,7 @@
 
 ## Cefaclor 25mg/mL, 60mL suspension
 
-| TAH Drug Code      | [**LCEF**](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=LCEF)                                                                                                                                                                               |
+| TAH Drug Code      | [LCEF](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=LCEF)                                                                                                                                                                                   |
 |:-------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | 2nd generation cephalosporin with in vitro activity against Strep. pyogenes, Strep. pneumoniae, H. influenzae, E. coli, Klebsiella sp. and Proteus mirabilis.                                                                                          |
 | Dosing             | Children: 20-40 mg/kg/day in 2-3 divided doses (maximum dose 1 g/day).                                                                                                                                                                                 |
@@ -15,7 +15,7 @@
 
 ## Cero 250mg
 
-| TAH Drug Code      | [**OCER**](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OCER)                    |
+| TAH Drug Code      | [OCER](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OCER)                        |
 |:-------------------|:--------------------------------------------------------------------------------------------|
 | Indications        | Otitis media, lower and upper respiratory tract infection, UTI, skin infection.             |
 | Dosing             | Adults: 250-500 mg orally every 8-12 hours. Children: 20-40 mg/kg/day in 2-3 divided doses. |

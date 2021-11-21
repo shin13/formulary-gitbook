@@ -2,7 +2,7 @@
 
 ## Protase 280mg enteric coated
 
-| TAH Drug Code      | [**OPROT**](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OPROT)                                          |
+| TAH Drug Code      | [OPROT](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OPROT)                                              |
 |:-------------------|:--------------------------------------------------------------------------------------------------------------------|
 | Indications        | Cystic fibrosis, post-pancreatectomy, total gastrectomy, or chronic pancreatitis, ductal obstruction from neoplasm. |
 | Dosing             | Adult & children >6 years: Initially 1 CAP with meals. Fibrocyst:1500-3000 USP Lipase Units/kg, with every meals.   |

@@ -2,7 +2,7 @@
 
 ## Edarbi 40mg
 
-| TAH Drug Code      | [**OEDA**](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OEDA)                                                                                                                                                                                 |
+| TAH Drug Code      | [OEDA](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OEDA)                                                                                                                                                                                     |
 |:-------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Treatment of hypertension; may be used alone or in combination with other antihypertensives.                                                                                                                                                             |
 | Dosing             | HTN Initial: 20-40 mg QD; titrate up to maximum 80 mg QD                                                                                                                                                                                                 |

@@ -2,7 +2,9 @@
 
 ## FIRMAGON inj 120mg/3mL
 
-| TAH Drug Code      | [**IFIR**](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IFIR)                                                                                                                                                                                                                                                  |
+##### 臨採
+
+| TAH Drug Code      | [IFIR](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IFIR)                                                                                                                                                                                                                                                      |
 |:-------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Advanced hormone-dependent prostate cancer in adult male patients.                                                                                                                                                                                                                                                        |
 | Dosing             | Loading dose: 240 mg administered as two 120 mg (3 mL) injections; Maintenance dose: 80 mg administered as one 4 mL injection every 28 days (beginning 28 days after initial loading dose)                                                                                                                                |
@@ -15,7 +17,7 @@
 
 ## Firmagon inj 80mg/4mL
 
-| TAH Drug Code      | [**IFIR8**](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IFIR8)                                                                                                                                                                                                                                                |
+| TAH Drug Code      | [IFIR8](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IFIR8)                                                                                                                                                                                                                                                    |
 |:-------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Advanced hormone-dependent prostate cancer in adult male patients.                                                                                                                                                                                                                                                        |
 | Dosing             | Loading dose: 240 mg administered as two 120 mg (3 mL) injections; Maintenance dose: 80 mg administered as one 4 mL injection every 28 days (beginning 28 days after initial loading dose)                                                                                                                                |

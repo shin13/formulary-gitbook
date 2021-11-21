@@ -2,7 +2,7 @@
 
 ## Oxbu 5mg extended-release
 
-| TAH Drug Code      | [**OOXB**](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OOXB)                                                      |
+| TAH Drug Code      | [OOXB](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OOXB)                                                          |
 |:-------------------|:------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Relief of symptoms associated w/ voiding in patients w/ uninhibited neurogenic & reflex neurogenic bladder.                   |
 | Dosing             | Initially, 5 mg once daily increased by 5 mg every week if necessary to the maximum 30 mg daily.                              |

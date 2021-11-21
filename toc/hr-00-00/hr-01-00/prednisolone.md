@@ -2,7 +2,7 @@
 
 ## Kidsolone solution 1mg/mL, 60mL
 
-| TAH Drug Code      | [**LKID**](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=LKID)                                                                                                         |
+| TAH Drug Code      | [LKID](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=LKID)                                                                                                             |
 |:-------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Allergic and inflammatory disorders, Rheumatoid arthritis, Multiple sclerosis.                                                                                                   |
 | Dosing             | Adult: 5-60mL daily. Child: 0.14-2mg/kg/day devided into 3-4 times.                                                                                                              |
@@ -15,7 +15,7 @@
 
 ## Compesolon 5mg
 
-| TAH Drug Code      | [**OCOMP**](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OCOMP)                                                                                                                                                                                     |
+| TAH Drug Code      | [OCOMP](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OCOMP)                                                                                                                                                                                         |
 |:-------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | RA, lupus erythematosus, periarthritis nodosum, allergic & inflammatory skin disorders.                                                                                                                                                                        |
 | Dosing             | Asthma: 30-60mg daily in one week, from then decrease dosage to maintain as 10-30mg daily. Arthritis: 20mg daily, or 30mg daily in severe patient.                                                                                                             |

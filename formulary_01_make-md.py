@@ -6,15 +6,13 @@
 
 import pandas as pd
 import numpy as np
-import os
-import shutil
 
 
 # In[2]:
 
 
 # read drug basic data
-df1 = pd.read_excel('1.藥品基本檔.xlsx')
+df1 = pd.read_excel('1.藥品基本檔.xlsx')  # 請先開EXCEL把全形逗號換成半形逗號！
 df2 = pd.read_excel('2.藥物諮詢.xlsx')  # 請先開EXCEL把全形逗號換成半形逗號！
 exclude = pd.read_excel('exclude.xlsx')
 
@@ -33,7 +31,7 @@ df1 = df1[~df1['DC註記'].isin(exclude_list)]
 
 # exclude drugs in exclusion list
 # 之後用 [Rx_x] 取代
-exclude_list = exclude.iloc[:, 0].tolist()
+exclude_list = exclude.iloc[:,0].tolist()
 df1 = df1[~df1['藥品代碼'].isin(exclude_list)]
 
 # exclude empty & weird category 2
@@ -46,19 +44,17 @@ df1 = df1[~df1['藥理分類2'].isin(exclude_list2)]
 
 
 df1 = df1[['藥品代碼', '商品英文名稱', '商品學名', '藥理分類1', '藥理分類2', 'DC註記']]
-df2 = df2[['藥品代碼', '適應症', '用法用量',
-           '肝功能異常(Y/N)', '腎功能異常(Y/N)', '禁忌', '副作用', '孕期用藥建議', '哺乳期用藥建議']]
+df2 = df2[['藥品代碼', '適應症', '用法用量', '肝功能異常(Y/N)', '腎功能異常(Y/N)', '禁忌', '副作用', '孕期用藥建議', '哺乳期用藥建議']]
 df = df1.merge(df2, on='藥品代碼', how='left')
 
 
 # In[5]:
 
 
-df = df.rename(columns={'藥品代碼': 'TAH Drug Code', '適應症': 'Indications', '用法用量': 'Dosing', '禁忌': 'Contraindications', '副作用': 'Adverse Effects',
-                        '肝功能異常(Y/N)': 'Hepatic Impairment', '腎功能異常(Y/N)': 'Renal Impairment', '孕期用藥建議': 'Pregnancy', '哺乳期用藥建議': 'Lactation'})
+df = df.rename(columns={'藥品代碼': 'TAH Drug Code', '適應症': 'Indications', '用法用量': 'Dosing', '禁忌': 'Contraindications', '副作用': 'Adverse Effects', '肝功能異常(Y/N)': 'Hepatic Impairment', '腎功能異常(Y/N)': 'Renal Impairment', '孕期用藥建議': 'Pregnancy', '哺乳期用藥建議': 'Lactation'})
 df = df.replace(np.nan, 'No Data')
 df['DC註記'] = df['DC註記'].replace('No Data', '')
-df['DC註記'] = df['DC註記'].replace('臨採藥，請通知藥局外購', '臨採')
+df['DC註記'] = df['DC註記'].replace('臨採藥,請通知藥局外購', '臨採')
 
 
 # In[6]:
@@ -69,12 +65,9 @@ df = df.replace('需調整劑量', 'Dose adjustment required')
 df = df.replace('Uknown 沒有資料', 'Unknown')
 df = df.replace('Unknown 沒有資料', 'Unknown')
 df = df.replace('Contraindicated 哺乳期使用禁忌', 'Contraindicated')
-df = df.replace('No (Limited) Human Data - Probably Compatible 無(很少)資料 - 可使用',
-                'No (Limited) Human Data - Probably Compatible')
-df = df.replace('No (Limited) Human Data – Potential Toxicity(Mother) 無(很少)資料 – 避免使用(母體)',
-                'No (Limited) Human Data – Potential Toxicity(Mother)')
-df = df.replace('No (Limited) Human Data - Potential Toxicity 無(很少)資料 - 避免使用',
-                'No (Limited) Human Data - Potential Toxicity')
+df = df.replace('No (Limited) Human Data - Probably Compatible 無(很少)資料 - 可使用', 'No (Limited) Human Data - Probably Compatible')
+df = df.replace('No (Limited) Human Data – Potential Toxicity(Mother) 無(很少)資料 – 避免使用(母體)', 'No (Limited) Human Data – Potential Toxicity(Mother)')
+df = df.replace('No (Limited) Human Data - Potential Toxicity 無(很少)資料 - 避免使用', 'No (Limited) Human Data - Potential Toxicity')
 df = df.replace('Compatible 哺乳時可使用', 'Compatible')
 df = df.replace('Hold Breast Feeding 暫停哺乳', 'Hold Breast Feeding')
 
@@ -106,8 +99,12 @@ df.to_excel('formulary.xlsx', index=0)
 
 # remove toc folder
 
+import os
+import sys
+import shutil
+
 # Get directory name
-mydir = 'C:\\Users\\152551\\formulary-gitbook\\toc'
+mydir= 'C:\\Users\\152551\\formulary-gitbook\\toc'
 
 try:
     shutil.rmtree(mydir)
@@ -135,8 +132,7 @@ cat2_li = df['藥理分類2'].unique().tolist()
 for cat in cat2_li:
     if cat[-3] == '-':
         try:
-            path = 'C:\\Users\\152551\\formulary-gitbook\\toc\\' + \
-                cat[:3].lower() + '00-00\\'
+            path = 'C:\\Users\\152551\\formulary-gitbook\\toc\\' +             cat[:3].lower() + '00-00\\'
             # path = '/Users/shin/formulary/toc/' + cat[:3].lower() + '00-00/'
             os.mkdir(path)
             mdpath = path + 'README.md'
@@ -153,8 +149,7 @@ for cat in cat2_li:
 for cat in cat2_li:
     if cat[-2:] == "00":
         try:
-            path = 'C:\\Users\\152551\\formulary-gitbook\\toc\\' + \
-                cat[:3].lower() + '00-00\\' + cat.lower() + '\\'
+            path = 'C:\\Users\\152551\\formulary-gitbook\\toc\\' +             cat[:3].lower() + '00-00\\' + cat.lower() + '\\'
             # path = '/Users/shin/formulary/toc/' + cat[:3].lower() + '00-00/' + cat.lower() + '/'
             os.mkdir(path)
             mdpath = path + 'README.md'
@@ -167,8 +162,7 @@ for cat in cat2_li:
             pass
     elif (cat[-2:] != "00") & (len(cat) == 8):
         try:
-            path = 'C:\\Users\\152551\\formulary-gitbook\\toc\\' + \
-                cat[:3].lower() + '00-00\\' + cat[:6].lower() + '00\\'
+            path = 'C:\\Users\\152551\\formulary-gitbook\\toc\\' +             cat[:3].lower() + '00-00\\' + cat[:6].lower() + '00\\'
             os.mkdir(path)
             mdpath = path + 'README.md'
             try:
@@ -179,9 +173,7 @@ for cat in cat2_li:
         except:
             pass
         try:
-            path = 'C:\\Users\\152551\\formulary-gitbook\\toc\\' + \
-                cat[:3].lower() + '00-00\\' + cat[:6].lower() + \
-                '00\\' + cat.lower() + '\\'
+            path = 'C:\\Users\\152551\\formulary-gitbook\\toc\\' +             cat[:3].lower() + '00-00\\' + cat[:6].lower() + '00\\' + cat.lower() + '\\'
             # path = '/Users/shin/formulary/toc/' + cat[:3].lower() + '00-00/' + cat[:6].lower() + '00/'+ cat.lower() + '/'
             os.mkdir(path)
             mdpath = path + 'README.md'
@@ -285,13 +277,12 @@ cat2_li = df['藥理分類2'].unique().tolist()
 # go through Category 2
 for cat2 in cat2_li:
     df_cat2 = df[df['藥理分類2'] == cat2]
-
+    
     # go through drug names under each Category 2
     names = df_cat2['商品學名'].unique().tolist()
     for name in names:
         df_name = df_cat2[df_cat2['商品學名'] == name]
-        df_name = df_name.sort_values(
-            by=['TAH Drug Code'], ascending=True).reset_index(drop=True)
+        df_name = df_name.sort_values(by=['TAH Drug Code'], ascending=True).reset_index(drop=True)
         # find drug codes with a same drug name, and go through codes with a same drug name
         code_list = df_name['TAH Drug Code'].tolist()
         df_name.set_index('TAH Drug Code', inplace=True)
@@ -300,7 +291,7 @@ for cat2 in cat2_li:
         with open(filepath, "w", encoding='utf-8') as f:
             title1 = '# ' + name + '\n\n'
             f.write(title1)
-
+            
             for code in code_list:
                 prodname = df_name.loc[code, '商品英文名稱']
                 title2 = '## ' + prodname + '\n\n'
@@ -313,12 +304,23 @@ for cat2 in cat2_li:
                 else:
                     pass
 
-                df_tb = df_name.loc[code,
-                                    'Indications':'Lactation'].reset_index()
-                col_name = '[**' + code + \
-                    '**](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=' + code + ')'
+                df_tb = df_name.loc[code,'Indications':'Lactation'].reset_index()
+                col_name = '[' + code + '](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=' + code + ')' 
                 df_tb.columns = ['TAH Drug Code', col_name]
                 content = df_tb.to_markdown(index=0)
                 f.write(content)
 
                 f.write('\n\n')
+
+
+# In[ ]:
+
+
+
+
+
+# In[ ]:
+
+
+
+

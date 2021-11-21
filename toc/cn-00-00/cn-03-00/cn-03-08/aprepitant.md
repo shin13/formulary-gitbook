@@ -2,7 +2,7 @@
 
 ## EMEND 125mg
 
-| TAH Drug Code      | [**OEM125**](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OEM125)                                                                                                                                                                             |
+| TAH Drug Code      | [OEM125](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OEM125)                                                                                                                                                                                 |
 |:-------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Prevention of acute & delayed nausea & vomiting associated with initial & repeat courses of highly & moderately emetogenic cancer chemotherapy.                                                                                                          |
 | Dosing             | Given as part of a 3-day regimen that includes a corticosteroid and a 5-HT3 antagonist. Recommended dose: 125 mg orally 1 hour prior to chemotherapy (day 1) and 80 mg once daily in the morning on day 2 and day 3.                                     |

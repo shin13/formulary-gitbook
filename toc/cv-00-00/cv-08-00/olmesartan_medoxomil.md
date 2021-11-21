@@ -2,7 +2,7 @@
 
 ## Olmetec 40mg
 
-| TAH Drug Code      | [**OOLM**](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OOLM)                                                                                                                                                                                                                                                      |
+| TAH Drug Code      | [OOLM](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OOLM)                                                                                                                                                                                                                                                          |
 |:-------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Hypertension: Treatment of hypertension with or without concurrent use of other antihypertensive agents                                                                                                                                                                                                                       |
 | Dosing             | HTN: initial 20mg QD, after 2weeks may titrate up to 40mg QD.                                                                                                                                                                                                                                                                 |

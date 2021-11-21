@@ -2,7 +2,7 @@
 
 ## Cerum water 4%/20%, 20mL
 
-| TAH Drug Code      | [**ECER**](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ECER)                           |
+| TAH Drug Code      | [ECER](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ECER)                               |
 |:-------------------|:---------------------------------------------------------------------------------------------------|
 | Indications        | To soften earwax                                                                                   |
 | Dosing             | Ear Drop: 3-4 drops twice a day for 5 days for each affected ear to soften dry or hardened earwax. |

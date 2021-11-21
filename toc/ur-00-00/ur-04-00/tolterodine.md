@@ -2,7 +2,7 @@
 
 ## Detrusitol SR 4mg prolonged-release
 
-| TAH Drug Code      | [**ODET4**](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ODET4)                                                                                                                                                                                                                                  |
+| TAH Drug Code      | [ODET4](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ODET4)                                                                                                                                                                                                                                      |
 |:-------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Treatment of overactive bladder with symptoms of urinary urgency, frequency,or urge incontinence.                                                                                                                                                                                                           |
 | Dosing             | 2-4 mg once daily depending on response & tolerability.                                                                                                                                                                                                                                                     |

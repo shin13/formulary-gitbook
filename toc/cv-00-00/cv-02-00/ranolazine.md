@@ -2,7 +2,7 @@
 
 ## Rancad 500mg extended release
 
-| TAH Drug Code      | [**ORANC**](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ORANC)                                                                                                                                                                                                                                             |
+| TAH Drug Code      | [ORANC](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ORANC)                                                                                                                                                                                                                                                 |
 |:-------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Stable angina.                                                                                                                                                                                                                                                                                                         |
 | Dosing             | Oral: Initial: 500 mg twice daily; may increase to 1000 mg twice daily as needed (based on symptoms); maximum recommended dose: 1000 mg twice daily.                                                                                                                                                                   |

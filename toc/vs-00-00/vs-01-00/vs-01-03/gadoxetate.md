@@ -2,7 +2,9 @@
 
 ## Primovist inj 2.5mmol/10mL
 
-| TAH Drug Code      | [**IPRIM**](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IPRIM)                                                                                                                                                                  |
+##### 臨採
+
+| TAH Drug Code      | [IPRIM](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IPRIM)                                                                                                                                                                      |
 |:-------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | MRI of liver                                                                                                                                                                                                                                |
 | Dosing             | Adults: 0.1 mL / kg body weight. [Micromedex 2021/08/05] Usual dose: 0.1 mL/kg (0.025 millimoles/kg) given undiluted as a single IV bolus injection at a flow rate of approximately 2 mL/sec                                                |

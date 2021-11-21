@@ -2,7 +2,9 @@
 
 ## Bonefos 400mg
 
-| TAH Drug Code      | [**OBONE**](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OBONE)                                                       |
+##### 臨採
+
+| TAH Drug Code      | [OBONE](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OBONE)                                                           |
 |:-------------------|:---------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Treatment of osteolysis due to malignancy and malignant hypercalcemia.                                                           |
 | Dosing             | 1600 mg daily, max 3200 mg daily.                                                                                                |

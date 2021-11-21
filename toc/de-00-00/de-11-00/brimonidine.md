@@ -2,7 +2,7 @@
 
 ## Mirvaso 3mg/gm gel, 30gm
 
-| TAH Drug Code      | [**EMIR3**](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EMIR3)                                                                                                                                                                                                 |
+| TAH Drug Code      | [EMIR3](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EMIR3)                                                                                                                                                                                                     |
 |:-------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Symptomatic treatment of facial erythema of rosacea in adult patients.                                                                                                                                                                                                     |
 | Dosing             | Rosacea, Persistent (nontransient) facial erythema Apply once daily as long as facial erythema is present. Max daily recommended dose: 1 g gel, divided into 5 pea size amounts on forehead, cheeks, nose & 2- chin smooth evenly over entire face avoiding lips and eyes. |

@@ -2,7 +2,9 @@
 
 ## Vincristine inj 1mg/1mL
 
-| TAH Drug Code      | [**IVIN1**](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IVIN1)                                                                                                                                                                                                                                                                                                              |
+##### 臨採
+
+| TAH Drug Code      | [IVIN1](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IVIN1)                                                                                                                                                                                                                                                                                                                  |
 |:-------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Acute leukemia & for Hodgkin's disease & non-Hodgkin's malignant lymphomas, rhabdomyosarcoma, neuroblastoma. Wilms' tumor, reticulum cell sarcoma, lymphosarcoma.                                                                                                                                                                                                                       |
 | Dosing             | (Micromedex) [Acute leukemia] 1.4-2 mg/m2/week IVD. [AIDS-related Kaposi's sarcoma] 0.03-1.4 mg/m2/week. Maximum: 2 mg/m2. Dosing and frequency may vary by protocol and/or treatment phase.                                                                                                                                                                                            |

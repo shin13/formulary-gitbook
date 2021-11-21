@@ -2,7 +2,7 @@
 
 ## B-complex inj 1mL
 
-| TAH Drug Code      | [**IBCO2**](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IBCO2)                                                                                 |
+| TAH Drug Code      | [IBCO2](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IBCO2)                                                                                     |
 |:-------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Vit B-complex deficiency.                                                                                                                                  |
 | Dosing             | Adult: IV/IM 1 mL once or few times a week. Each mL contains: Thiamine HCl 60mg, Riboflavin-5 Phosphate Sodium 3mg, Nicotinamide 30mg, Pyridoxine HCl 3mg. |

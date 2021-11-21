@@ -2,7 +2,7 @@
 
 ## Mitonco inj 10mg (專案進口)
 
-| TAH Drug Code      | [**IMIT2**](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IMIT2)                                                                                                                                                                                              |
+| TAH Drug Code      | [IMIT2](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IMIT2)                                                                                                                                                                                                  |
 |:-------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Treatment of disseminated adenocarcinoma of the stomach (in combination with other chemotherapy agents) and disseminated adenocarcinoma of the pancreas (in combination with other chemotherapy agents) and as palliative treatment when other modalities have failed.  |
 | Dosing             | (Micromedex) Carcinoma of bladder: 20-40 mg intravesically every week in 20-100 mL of normal saline or in 20-40 mL water. For gastric cancer and pancreatic cancer, 20 mg/m2/dose IV every 6-8 weeks in combination with other agents.                                  |

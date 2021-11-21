@@ -2,7 +2,7 @@
 
 ## Lipitor 20mg
 
-| TAH Drug Code      | [**OLIP20**](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OLIP20)                                                                                                                                                                                                                                                        |
+| TAH Drug Code      | [OLIP20](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OLIP20)                                                                                                                                                                                                                                                            |
 |:-------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Hyperlipidemia.                                                                                                                                                                                                                                                                                                                     |
 | Dosing             | Adults: Initial 10 mg once daily at any time of the day, with or without food; dosage range: 10-80 mg/day. Children aged 10-17 years: 10-20 mg/day.                                                                                                                                                                                 |

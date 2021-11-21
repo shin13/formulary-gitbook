@@ -2,7 +2,7 @@
 
 ## Ultracet 37.5/325mg
 
-| TAH Drug Code      | [**OULT**](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OULT)                                                                                                                             |
+| TAH Drug Code      | [OULT](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OULT)                                                                                                                                 |
 |:-------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Management of moderate to severe pain                                                                                                                                                                |
 | Dosing             | Adult & children > 16 years 1-2 tab every 4-6 hr. Max: 8 tab/day.                                                                                                                                    |

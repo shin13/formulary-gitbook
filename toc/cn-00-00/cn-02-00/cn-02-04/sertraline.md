@@ -2,7 +2,7 @@
 
 ## Zoloft 50mg
 
-| TAH Drug Code      | [**OZOL**](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OZOL)                                                                                                                                                                                          |
+| TAH Drug Code      | [OZOL](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OZOL)                                                                                                                                                                                              |
 |:-------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Depression, obsessive-compulsive disorder (OCD), panic disorder, post traumatic stress disorder (PTSD), social phobia, premenstrual dysphoric disorder (PMDD).                                                                                                    |
 | Dosing             | 50-200 mg daily. Dosage may be increased in 50 mg increments to max 200 mg over a period of weeks.                                                                                                                                                                |

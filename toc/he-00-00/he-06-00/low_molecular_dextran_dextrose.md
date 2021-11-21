@@ -2,7 +2,9 @@
 
 ## Dextran dextrose inj 500mL
 
-| TAH Drug Code      | [**IDEX**](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IDEX)                                                           |
+##### 臨採
+
+| TAH Drug Code      | [IDEX](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IDEX)                                                               |
 |:-------------------|:-----------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | As plasma expander in haemorrhage.                                                                                                 |
 | Dosing             | Normally IV 500mL one time. IV 20 mL/kg on the first 24 hours. For treatment or prevention of thrombosis, 10mL/kg daily in 5 days. |

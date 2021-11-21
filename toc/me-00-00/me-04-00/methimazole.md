@@ -2,7 +2,7 @@
 
 ## Lica 5mg
 
-| TAH Drug Code      | [**OLICA**](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OLICA)                                                                                                                           |
+| TAH Drug Code      | [OLICA](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OLICA)                                                                                                                               |
 |:-------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Hyperthyroidism.                                                                                                                                                                                     |
 | Dosing             | Mild hyperthyroidism 15mg daily, moderate hyperthyroidism 30-40 mg daily, severe hyperthyroidism 60 mg daily, > 60 mg should be taken in 3 divided doses.Maintenance dose 5-15 mg in3 divided doses. |

@@ -2,7 +2,7 @@
 
 ## Dogmatyl 50mg
 
-| TAH Drug Code      | [**ODOG5**](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ODOG5)                                                                                                                                                                                                                                  |
+| TAH Drug Code      | [ODOG5](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ODOG5)                                                                                                                                                                                                                                      |
 |:-------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Treatment of psychotic disorders. Management of gastric and duodenal ulcers.                                                                                                                                                                                                                                |
 | Dosing             | Adults: Schizophrenia: 300-600mg/day oral in divided doses. Adjust according to age and symptoms. maximum: 1200mg/day. Depression: 150-300mg/day oral in divided doses. Adjust according to age and symptoms. maximum: 600mg/day. Gastric ulcer: 150/day, in 3 divided doses. Adjust according to symptoms. |

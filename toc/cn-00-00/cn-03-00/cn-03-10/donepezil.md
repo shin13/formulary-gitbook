@@ -2,20 +2,20 @@
 
 ## Aricept 5mg
 
-| TAH Drug Code      | [**OARI**](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OARI)   |
-|:-------------------|:---------------------------------------------------------------------------|
-| Indications        | Mild to moderate Alzheimer's disease.                                      |
-| Dosing             | 1 tab daily.                                                               |
-| Hepatic Impairment | Dose adjustment not necessary                                              |
-| Renal Impairment   | Dose adjustment not necessary                                              |
-| Contraindications  | No Data                                                                    |
-| Adverse Effects    | No Data                                                                    |
-| Pregnancy          | No Data                                                                    |
-| Lactation          | No Data                                                                    |
+| TAH Drug Code      | [OARI](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OARI)   |
+|:-------------------|:-----------------------------------------------------------------------|
+| Indications        | Mild to moderate Alzheimer's disease.                                  |
+| Dosing             | 1 tab daily.                                                           |
+| Hepatic Impairment | Dose adjustment not necessary                                          |
+| Renal Impairment   | Dose adjustment not necessary                                          |
+| Contraindications  | No Data                                                                |
+| Adverse Effects    | No Data                                                                |
+| Pregnancy          | No Data                                                                |
+| Lactation          | No Data                                                                |
 
 ## Aricept 10mg orodispersible
 
-| TAH Drug Code      | [**OARIE**](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OARIE)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| TAH Drug Code      | [OARIE](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OARIE)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 |:-------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Treatment of mild to moderate dementia of the Alzheimer's type.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 | Dosing             | Initial, 5 mg orally once daily at bedtime; if suboptimal clinical response, may titrate to 10 mg orally once daily at 4 to 6 weeks.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
