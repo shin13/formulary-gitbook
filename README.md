@@ -10,7 +10,7 @@
 
 ### 臨採藥品
 
-處方集中藥品名稱後面標示有「臨採」之藥品，非本院常備藥品。 醫師臨床上若需處方臨採藥品時，可使用院內醫療資訊系統\(Health Information System, HIS\)提出臨採使用申請。 如申請單審核通過，七個工作天後得開立處方。
+處方集中藥品名稱後面標示有「臨採」之藥品，非本院常備藥品。醫師臨床上若需處方臨採藥品時，可使用院內醫療資訊系統\(Health Information System, HIS\)提出臨採使用申請。如申請單審核通過，七個工作天後得開立處方。
 
 ### 藥品異動
 
@@ -25,7 +25,7 @@
 
 * [KM藥品資訊公告\(含藥品異動\)](http://km.domain.tahsda.org.tw/KM/listfolders.aspx?uid=2429)
 * [臺安資訊入口網\(EIP\)](http://portal.tahsda.org.tw/TaianPortal/)
-  * 右側 臨床常用公告 --&gt; [藥品資訊公告\(含藥品異動\)](http://km.domain.tahsda.org.tw/KM/listfolders.aspx?uid=2429)
+  * 右側訊息公告區 --&gt; 置頂臨床公告：臺安醫院處方集
 * [臺安醫院處方集網頁](https://shin13.gitbook.io/formulary/)
 
 ### 主要參考資料
@@ -39,4 +39,5 @@
 ## 聯繫我們
 
 * **電話**：02-27718151 分機 `2743` or `2742`
+* **院內信箱**：adr@tahsda.org.tw
 
