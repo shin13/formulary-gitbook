@@ -5,7 +5,7 @@
 | TAH Drug Code      | [EURE](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EURE)   |
 |:-------------------|:-----------------------------------------------------------------------|
 | Indications        | Ichthyosis and hyperkeratotic skin disorders.                          |
-| Dosing             | Apply qd-tid.                                                          |
+| Dosing             | Apply QD-TID.                                                          |
 | Hepatic Impairment | Dose adjustment not necessary                                          |
 | Renal Impairment   | Dose adjustment not necessary                                          |
 | Contraindications  | Hypersensitivity to any component of the formulation.                  |

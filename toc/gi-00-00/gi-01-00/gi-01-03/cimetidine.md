@@ -5,7 +5,7 @@
 | TAH Drug Code      | [ISTO](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ISTO)                                                                                                                       |
 |:-------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Gastric ulcer. Ulcer of duodenum. Erosive esophagitis.                                                                                                                                     |
-| Dosing             | usual dose: IM: 300mg q6-8 hr IV: 300mg in 100ml D5W for 15-20 min, q6- 8hr. maximum 2.4 g/day children: limitied data, usual dose 20-40mg/kg/day IV                                       |
+| Dosing             | usual dose: IM: 300mg Q6-8H IV: 300mg in 100mL D5W for 15-20 min, Q6- 8H. maximum 2.4 g/day children: limitied data, usual dose 20-40mg/kg/day IV                                          |
 | Hepatic Impairment | Dose adjustment not necessary                                                                                                                                                              |
 | Renal Impairment   | Dose adjustment required                                                                                                                                                                   |
 | Contraindications  | Hypersensitivity to cimetidine or any component of this product.                                                                                                                           |

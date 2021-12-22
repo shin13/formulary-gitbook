@@ -26,3 +26,16 @@
 | Pregnancy          | Unknown                                                                                                                                                                                                                                                                               |
 | Lactation          | Unknown                                                                                                                                                                                                                                                                               |
 
+## Aminosteril infant 10% 100mL
+
+| TAH Drug Code      | [IAMII1](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IAMII1)   |
+|:-------------------|:---------------------------------------------------------------------------|
+| Indications        | No Data                                                                    |
+| Dosing             | No Data                                                                    |
+| Hepatic Impairment | No Data                                                                    |
+| Renal Impairment   | No Data                                                                    |
+| Contraindications  | No Data                                                                    |
+| Adverse Effects    | No Data                                                                    |
+| Pregnancy          | No Data                                                                    |
+| Lactation          | No Data                                                                    |
+

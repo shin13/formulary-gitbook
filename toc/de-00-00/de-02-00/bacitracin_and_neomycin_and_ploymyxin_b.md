@@ -5,7 +5,7 @@
 | TAH Drug Code      | [ESPEO](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ESPEO)       |
 |:-------------------|:-----------------------------------------------------------------------------|
 | Indications        | Infections caused by neomycin &/or bacitracin-susceptible organisms.         |
-| Dosing             | Apply bid-qid.                                                               |
+| Dosing             | Apply BID-QID.                                                               |
 | Hepatic Impairment | Dose adjustment not necessary                                                |
 | Renal Impairment   | Dose adjustment not necessary                                                |
 | Contraindications  | Hypersensitivity to any component of the formulation.                        |

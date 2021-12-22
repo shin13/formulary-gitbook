@@ -5,7 +5,7 @@
 | TAH Drug Code      | [IBCG0](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IBCG0)                                                                      |
 |:-------------------|:--------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Active immunisation against TB.                                                                                                             |
-| Dosing             | By intradermal inj. Adult & children >1 yr 0.1 mL.                                                                                          |
+| Dosing             | By intradermal inj. Adult & children >1 year 0.1 mL.                                                                                        |
 | Hepatic Impairment | Dose adjustment not necessary                                                                                                               |
 | Renal Impairment   | Dose adjustment not necessary                                                                                                               |
 | Contraindications  | Individuals who are tuberculin +ve. Congenital or acquired immunodeficiencies, including treatment w/ immunosuppressive drugs or radiation. |

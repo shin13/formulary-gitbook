@@ -12,6 +12,4 @@
 | Adverse Effects    | Diarrhea or constipation (occasionally).                                                                                                                                                                                |
 | Pregnancy          | Unknown                                                                                                                                                                                                                 |
 | Lactation          | Unknown                                                                                                                                                                                                                 |
-| UpToDate Search    | [LINK](https://www.uptodate.com/contents/search?search=Activated%20Charcoal)                                                                                                                                              |
-
 
