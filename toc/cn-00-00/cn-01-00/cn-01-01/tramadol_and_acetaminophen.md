@@ -5,7 +5,7 @@
 | TAH Drug Code      | [OULT](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OULT)                                                                                                                                 |
 |:-------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Management of moderate to severe pain                                                                                                                                                                |
-| Dosing             | Adult & children > 16 years 1-2 tab every 4-6 hr. Max: 8 tab/day.                                                                                                                                    |
+| Dosing             | Adult & children > 16 years 1-2 TAB every 4-6 hr. Maximum: 8 TAB /day.                                                                                                                               |
 | Hepatic Impairment | Dose adjustment not necessary                                                                                                                                                                        |
 | Renal Impairment   | Dose adjustment required                                                                                                                                                                             |
 | Contraindications  | Acute intoxication with alcohol, hypnotics, narcotics, centrally acting analgesics, opioids or psychotropic drugs.                                                                                   |

@@ -5,7 +5,7 @@
 | TAH Drug Code      | [OZCO](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OZCO)                                                            |
 |:-------------------|:--------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Symptomatic relief of nonproductive cough                                                                                       |
-| Dosing             | Adult 1-2 cap tid MAX dose is 600 mg/day                                                                                        |
+| Dosing             | Adult 1-2 cap TID Maximum dose is 600 mg/day                                                                                    |
 | Hepatic Impairment | Dose adjustment not necessary                                                                                                   |
 | Renal Impairment   | Dose adjustment not necessary                                                                                                   |
 | Contraindications  | Hypersensitivity to benzonatate, related compounds (such as tetracaine), or any component of the formulation, age < 14yr.       |

@@ -5,7 +5,7 @@
 | TAH Drug Code      | [OCER4](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OCER4)   |
 |:-------------------|:-------------------------------------------------------------------------|
 | Indications        | Peripheral circulatory disorders, chronic occlusive arterial disease.    |
-| Dosing             | 1 tab TID with meal.                                                     |
+| Dosing             | 1 TAB TID with meal.                                                     |
 | Hepatic Impairment | Dose adjustment not necessary                                            |
 | Renal Impairment   | Dose adjustment not necessary                                            |
 | Contraindications  | Cerebral or retinal hemorrhage, intolerance to xanthine derivatives.     |

@@ -2,16 +2,16 @@
 
 ## Zithromax 200mg/5mL suspension
 
-| TAH Drug Code      | [LZIT](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=LZIT)                                                                                                                                                             |
-|:-------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Indications        | Upper & lower respiratory tract infections; skin & soft tissue infections; otitis media; uncomplicated genital infections due to Chlamydia trachomatis & Neisseria gonorrheae.                                                   |
-| Dosing             | Adults and children weighing ? 45 kg: 500 mg orally once daily with or without food for 3 days. Sexually transmitted diseases caused by Chlamydia trachomatis: 1 g as single oral dose. Children 10 mg/kg once daily for 3 days. |
-| Hepatic Impairment | Dose adjustment not necessary                                                                                                                                                                                                    |
-| Renal Impairment   | Dose adjustment required                                                                                                                                                                                                         |
-| Contraindications  | Hypersensitivity to macrolides.                                                                                                                                                                                                  |
-| Adverse Effects    | Nausea, abdominal discomfort, vomiting, flatulence, diarrhoea & loose stools. Hearing impairment, interstitial nephritis, acute renal failure, abnormal liver function, dizziness/vertigo, convulsions, headache, somnolence.    |
-| Pregnancy          | Compatible                                                                                                                                                                                                                       |
-| Lactation          | Compatible                                                                                                                                                                                                                       |
+| TAH Drug Code      | [LZIT](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=LZIT)                                                                                                                                                                  |
+|:-------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Indications        | Upper & lower respiratory tract infections; skin & soft tissue infections; otitis media; uncomplicated genital infections due to Chlamydia trachomatis & Neisseria gonorrheae.                                                        |
+| Dosing             | Adults and children weighing > or = 45 kg: 500 mg orally once daily with or without food for 3 days. Sexually transmitted diseases caused by Chlamydia trachomatis: 1 g as single oral dose. Children 10 mg/kg once daily for 3 days. |
+| Hepatic Impairment | Dose adjustment not necessary                                                                                                                                                                                                         |
+| Renal Impairment   | Dose adjustment required                                                                                                                                                                                                              |
+| Contraindications  | Hypersensitivity to macrolides.                                                                                                                                                                                                       |
+| Adverse Effects    | Nausea, abdominal discomfort, vomiting, flatulence, diarrhoea & loose stools. Hearing impairment, interstitial nephritis, acute renal failure, abnormal liver function, dizziness/vertigo, convulsions, headache, somnolence.         |
+| Pregnancy          | Compatible                                                                                                                                                                                                                            |
+| Lactation          | Compatible                                                                                                                                                                                                                            |
 
 ## Zithromax 250mg
 

@@ -18,7 +18,7 @@
 | TAH Drug Code      | [OLOX](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OLOX)   |
 |:-------------------|:-----------------------------------------------------------------------|
 | Indications        | Expectorant.                                                           |
-| Dosing             | Adult 1 tab once daily.                                                |
+| Dosing             | Adult 1 TAB once daily.                                                |
 | Hepatic Impairment | Dose adjustment not necessary                                          |
 | Renal Impairment   | Dose adjustment not necessary                                          |
 | Contraindications  | Hypersensitivity to any component of the formulation.                  |

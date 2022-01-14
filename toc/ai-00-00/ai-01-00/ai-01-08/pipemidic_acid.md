@@ -5,7 +5,7 @@
 | TAH Drug Code      | [ODOLC](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ODOLC)                                                                     |
 |:-------------------|:-------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | UTI, Bacillary dysentery, enteritis, otitis media and sinusitis                                                                            |
-| Dosing             | Adult: 500-2000 mg/day, divided q6-8h.                                                                                                     |
+| Dosing             | Adult: 500-2000 mg/day, divided Q6-8H.                                                                                                     |
 | Hepatic Impairment | Dose adjustment not necessary                                                                                                              |
 | Renal Impairment   | Dose adjustment required                                                                                                                   |
 | Contraindications  | Hypersensitivity to any component of the formulation.                                                                                      |

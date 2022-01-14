@@ -5,7 +5,7 @@
 | TAH Drug Code      | [OGIN9](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OGIN9)                                             |
 |:-------------------|:-------------------------------------------------------------------------------------------------------------------|
 | Indications        | Peripheral circulatory disorders                                                                                   |
-| Dosing             | 1 tab tid.                                                                                                         |
+| Dosing             | 1 TAB TID.                                                                                                         |
 | Hepatic Impairment | Dose adjustment not necessary                                                                                      |
 | Renal Impairment   | Dose adjustment not necessary                                                                                      |
 | Contraindications  | Caution should be exercised with ginkgo in patients with bleeding disorders or those who take anticoagulant drugs. |

@@ -5,7 +5,7 @@
 | TAH Drug Code      | [OCAT4](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OCAT4)   |
 |:-------------------|:-------------------------------------------------------------------------|
 | Indications        | Relief of abdominal pain due to irritable bowel syndrome.                |
-| Dosing             | Oral, 40 mg bid-tid. Adult: Up to 120 mg daily.                          |
+| Dosing             | Oral, 40 mg BID-TID. Adult: Up to 120 mg daily.                          |
 | Hepatic Impairment | Dose adjustment not necessary                                            |
 | Renal Impairment   | Dose adjustment not necessary                                            |
 | Contraindications  | Glaucoma                                                                 |

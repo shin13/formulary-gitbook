@@ -5,7 +5,7 @@
 | TAH Drug Code      | [LCOFS](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=LCOFS)   |
 |:-------------------|:-------------------------------------------------------------------------|
 | Indications        | Antitussive, expectorant.                                                |
-| Dosing             | May be taken with or without food 5-15 mL tid.                           |
+| Dosing             | May be taken with or without food 5-15 mL TID.                           |
 | Hepatic Impairment | Dose adjustment not necessary                                            |
 | Renal Impairment   | Dose adjustment not necessary                                            |
 | Contraindications  | Hypersensitivity to any component of the formulation.                    |
