@@ -20,13 +20,18 @@ exclude = pd.read_excel('exclude.xlsx')
 # In[3]:
 
 
+# keep [Rx_o]
+df1['藥局內部溝通MEMO'] = df1['藥局內部溝通MEMO'].fillna('xx')
+df1_concate = df1[df1['藥局內部溝通MEMO'].str.contains('Rx_o')]
+
+# exclude [Rx_x]
+df1 = df1[~df1['藥局內部溝通MEMO'].str.contains('Rx_x')]
+
 # drug selection
 df1 = df1[(df1['藥品狀態'] == '可用')]
 
-# 之後要挑出 [Rx_o] 的品項，最後再append
-
 # exclude DC comments
-exclude_list = ['廠商缺貨，可查類似藥', '停用', '廠商缺貨', '停用，可查類似藥']
+exclude_list = ['廠商缺貨,可查類似藥', '停用', '廠商缺貨', '停用,可查類似藥']
 df1 = df1[~df1['DC註記'].isin(exclude_list)]
 
 # exclude drugs in exclusion list
@@ -43,12 +48,20 @@ df1 = df1[~df1['藥理分類2'].isin(exclude_list2)]
 # In[4]:
 
 
+# concate [Rx_o] and drop duplicates
+df1 = pd.concat([df1, df1_concate], ignore_index=True, sort=False)
+df1 = df1.drop_duplicates(subset=['藥品代碼'])
+
+
+# In[5]:
+
+
 df1 = df1[['藥品代碼', '商品英文名稱', '商品學名', '藥理分類1', '藥理分類2', 'DC註記']]
 df2 = df2[['藥品代碼', '適應症', '用法用量', '肝功能異常(Y/N)', '腎功能異常(Y/N)', '禁忌', '副作用', '孕期用藥建議', '哺乳期用藥建議']]
 df = df1.merge(df2, on='藥品代碼', how='left')
 
 
-# In[5]:
+# In[6]:
 
 
 df = df.rename(columns={'藥品代碼': 'TAH Drug Code', '適應症': 'Indications', '用法用量': 'Dosing', '禁忌': 'Contraindications', '副作用': 'Adverse Effects', '肝功能異常(Y/N)': 'Hepatic Impairment', '腎功能異常(Y/N)': 'Renal Impairment', '孕期用藥建議': 'Pregnancy', '哺乳期用藥建議': 'Lactation'})
@@ -57,7 +70,7 @@ df['DC註記'] = df['DC註記'].replace('No Data', '')
 df['DC註記'] = df['DC註記'].replace('臨採藥,請通知藥局外購', '臨採')
 
 
-# In[6]:
+# In[7]:
 
 
 df = df.replace('無需調整劑量', 'Dose adjustment not necessary')
@@ -72,13 +85,13 @@ df = df.replace('Compatible 哺乳時可使用', 'Compatible')
 df = df.replace('Hold Breast Feeding 暫停哺乳', 'Hold Breast Feeding')
 
 
-# In[7]:
+# In[8]:
 
 
 df['Pregnancy'] = df['Pregnancy'].str.title()
 
 
-# In[8]:
+# In[9]:
 
 
 df['Pregnancy'] = df['Pregnancy'].str.replace('3 Rd', '3rd')
@@ -88,13 +101,13 @@ df['Pregnancy'] = df['Pregnancy'].str.replace('In', 'in')
 df['Pregnancy'] = df['Pregnancy'].str.replace('And', 'and')
 
 
-# In[9]:
+# In[10]:
 
 
 df.to_excel('formulary.xlsx', index=0)
 
 
-# In[10]:
+# In[11]:
 
 
 # remove toc folder
@@ -112,7 +125,7 @@ except OSError as e:
     print("Error: %s - %s." % (e.filename, e.strerror))
 
 
-# In[11]:
+# In[12]:
 
 
 # make file directories
@@ -199,7 +212,7 @@ for cat in cat2_li:
             pass
 
 
-# In[12]:
+# In[13]:
 
 
 # add path to each drug (to save markdown files)
@@ -237,7 +250,7 @@ df['drug_name'] = new_li
 df['name_md'] = df['drug_name'] + '.md'
 
 
-# In[13]:
+# In[14]:
 
 
 def combine_str(row):
@@ -262,13 +275,13 @@ df['url'] = df.apply(combine_str, axis=1)
 df = df.sort_values(by=['藥理分類2'])
 
 
-# In[14]:
+# In[15]:
 
 
 df.to_excel('formulary2.xlsx', index=0)
 
 
-# In[15]:
+# In[16]:
 
 
 # write markdown files and save

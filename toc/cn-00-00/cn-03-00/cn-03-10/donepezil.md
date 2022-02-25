@@ -1,18 +1,5 @@
 # Donepezil
 
-## Aricept 5mg
-
-| TAH Drug Code      | [OARI](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OARI)   |
-|:-------------------|:-----------------------------------------------------------------------|
-| Indications        | Mild to moderate Alzheimer's disease.                                  |
-| Dosing             | 1 TAB daily.                                                           |
-| Hepatic Impairment | Dose adjustment not necessary                                          |
-| Renal Impairment   | Dose adjustment not necessary                                          |
-| Contraindications  | No Data                                                                |
-| Adverse Effects    | No Data                                                                |
-| Pregnancy          | No Data                                                                |
-| Lactation          | No Data                                                                |
-
 ## Aricept 10mg orodispersible
 
 | TAH Drug Code      | [OARIE](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OARIE)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |

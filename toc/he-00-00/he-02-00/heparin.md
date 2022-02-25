@@ -13,19 +13,6 @@
 | Pregnancy          | Compatible                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | Lactation          | Compatible                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 
-## Hepac inj 1KIU/0.2mL
-
-| TAH Drug Code      | [IHEPA1](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IHEPA1)   |
-|:-------------------|:---------------------------------------------------------------------------|
-| Indications        | No Data                                                                    |
-| Dosing             | No Data                                                                    |
-| Hepatic Impairment | Dose adjustment not necessary                                              |
-| Renal Impairment   | Dose adjustment not necessary                                              |
-| Contraindications  | Hypersensitivity to any component of the formulation.                      |
-| Adverse Effects    | No Data                                                                    |
-| Pregnancy          | Compatible                                                                 |
-| Lactation          | Compatible                                                                 |
-
 ## Hepac Lock Flush 1000 Unit/10mL
 
 | TAH Drug Code      | [IHLF](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IHLF)                                                                                                                     |

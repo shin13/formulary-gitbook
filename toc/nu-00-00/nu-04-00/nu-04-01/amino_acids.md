@@ -13,19 +13,6 @@
 | Pregnancy          | Unknown                                                                                                                                                                                                                                                                                                                                                     |
 | Lactation          | Unknown                                                                                                                                                                                                                                                                                                                                                     |
 
-## Aminosteril infant 6% 100mL
-
-| TAH Drug Code      | [IAMII](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IAMII)                                                                                                                                                                                                                |
-|:-------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Indications        | Partial parenteral nutrition in premature infants, babies and small children.                                                                                                                                                                                                         |
-| Dosing             | As TPN material. Age of 1 year: 1.5 – 2.5 g amino acids/kg body weight/day. Age of 2-5 years: 1.5 g amino acids/kg body weight/day. Age of 6-14 years: 1.0 g amino acids/kg body weight/day. Maximum infusion rate: 0.1 g amino acids /kg body weight/hr = 1.67 mL/kg body weight/hr. |
-| Hepatic Impairment | Dose adjustment required                                                                                                                                                                                                                                                              |
-| Renal Impairment   | Dose adjustment required                                                                                                                                                                                                                                                              |
-| Contraindications  | Disturbances in amino acid metabolism, acidosis, hyperhydration, hypokalemia. Insufficient renal or hepatic function. Hyponatremia.                                                                                                                                                   |
-| Adverse Effects    | Fluid, electrolyte imbalance                                                                                                                                                                                                                                                          |
-| Pregnancy          | Unknown                                                                                                                                                                                                                                                                               |
-| Lactation          | Unknown                                                                                                                                                                                                                                                                               |
-
 ## Aminosteril infant 10% 100mL
 
 | TAH Drug Code      | [IAMII1](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IAMII1)   |
