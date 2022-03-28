@@ -4,7 +4,7 @@
 
 | 編號     | 名稱                              | 下載    |
 | -------- | --------------------------------- | --- |
-| 附錄一   | 顯影劑藥品清單                    | [download this](.gitbook/assets/appx01.docx)  |
+| 附錄一   | 顯影劑藥品清單                    | [download](https://github.com/shin13/formulary-gitbook/raw/master/.gitbook/assets/appx01.docx)  |
 | 附錄二   | 孕婦用藥安全評估                  | {% file src=".gitbook/assets/appx02.docx" %}    |
 | 附錄三   | 鉀離子補充的輸注液品項            | {% file src=".gitbook/assets/appx03.docx" %}    |
 | 附錄四   | 新進藥品之申請規定                | {% file src=".gitbook/assets/appx04.docx" %}    |
