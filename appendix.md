@@ -2,7 +2,7 @@
 
 ## 處方集附錄清單
 
-| 編號     | 名稱                                                                                                 |
+| 編號     | 名稱 (點擊名稱下載)                                                                                                 |
 | -------- | ---------------------------------------------------------------------------------------------------- |
 | 附錄一   | [顯影劑藥品清單](https://github.com/shin13/formulary-gitbook/raw/master/.gitbook/assets/appx01.docx) |
 | 附錄二   | [孕婦用藥安全評估](https://github.com/shin13/formulary-gitbook/raw/master/.gitbook/assets/appx02.docx)                                                                                     |
@@ -18,7 +18,7 @@
 | 附錄十二 | [臺安輸注藥物給藥指引](https://github.com/shin13/formulary-gitbook/raw/master/.gitbook/assets/appx12.docx)                                                                                 |
 | 附錄十三 | [預防跌倒_藥品清單](https://github.com/shin13/formulary-gitbook/raw/master/.gitbook/assets/appx13.docx)                                                                                    |
 | 附錄十四 | [新生兒抗生素劑量表](https://github.com/shin13/formulary-gitbook/raw/master/.gitbook/assets/appx14.docx)                                                                                   |
-| 附錄十五 | [兒科靜脈營養建議](https://github.com/shin13/formulary-gitbook/raw/master/.gitbook/assets/appx15.docx)                                                                                     |
+| 附錄十五 | [兒科靜脈營養建議](https://github.com/shin13/formulary-gitbook/raw/master/.gitbook/assets/appx15.pdf)                                                                                     |
 | 附錄十六 | [ICU常見藥物Y-site藥物相容性對照表](https://github.com/shin13/formulary-gitbook/raw/master/.gitbook/assets/appx16.xlsx)                                                                    |
 
 
