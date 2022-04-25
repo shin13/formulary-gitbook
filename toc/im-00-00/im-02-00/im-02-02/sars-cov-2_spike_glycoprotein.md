@@ -1,8 +1,6 @@
 # SARS-CoV-2 Spike glycoprotein
 
-## COVID-19 Vaccine Medigen 0.5mL/dose
-
-##### 停用
+## COVID-19 Vaccine Medigen 0.5mL/dose(10 dose/vial)
 
 | TAH Drug Code      | [ICOVMVC](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ICOVMVC)                                                                                                                                      |
 |:-------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
