@@ -1,6 +1,6 @@
 # Inactivated Hepatitis A Virus Vaccine
 
-## Hepatitis A vaccine(Government) 0.5mL/dose
+## Havrix 720(Government) 0.5mL/dose
 
 | TAH Drug Code      | [IHAV0](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IHAV0)                                     |
 |:-------------------|:-----------------------------------------------------------------------------------------------------------|

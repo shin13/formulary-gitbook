@@ -1,6 +1,6 @@
 # Hydroquinone + Tretinoin + Dexamethasone
 
-## Color cream 5g
+## Color cream 5gm
 
 | TAH Drug Code      | [ECOLO5](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ECOLO5)        |
 |:-------------------|:--------------------------------------------------------------------------------|
