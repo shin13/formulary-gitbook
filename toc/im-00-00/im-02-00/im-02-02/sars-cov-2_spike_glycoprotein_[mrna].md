@@ -2,8 +2,6 @@
 
 ## Pfizer-BioNTech (5-11y/o) 0.2mL/dose (1.3mL/vial)
 
-##### 停用
-
 | TAH Drug Code      | [IBNT1](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IBNT1)                                                                       |
 |:-------------------|:---------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | The Pfizer-BioNTech COVID-19 Vaccine Standing Orders for Administering Vaccine to Persons 5 through 11 Years of Age                          |

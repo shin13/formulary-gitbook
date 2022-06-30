@@ -1,4 +1,4 @@
-# Dapagliflozin + Saxagliptin
+# Saxagliptin + Dapagliflozin
 
 ## Qtern 5/10mg
 
