@@ -1,6 +1,6 @@
 # Zinc Oxide
 
-## Zin ointment 20%, 1oz (28.4gm)
+## Zin ointment 20%, 28.4gm
 
 | TAH Drug Code      | [EZIN](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EZIN)   |
 |:-------------------|:-----------------------------------------------------------------------|

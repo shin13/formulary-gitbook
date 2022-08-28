@@ -13,6 +13,19 @@
 | Pregnancy          | Unknown                                                                                                                                      |
 | Lactation          | Unknown                                                                                                                                      |
 
+## Pfizer-BioNTech (6M-4歲) 0.2mL/dose (0.4mL/vial)
+
+| TAH Drug Code      | [IBNT6M](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IBNT6M)                                                                                                                                                                                                                     |
+|:-------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Indications        | The Pfizer-BioNTech COVID-19 Vaccine Standing Orders for Administering Vaccine to Persons 6 months to 4 Years of Age                                                                                                                                                                         |
+| Dosing             | 6 months to 4 years: Primary series, 0.2 mL IM for 2 doses, administered 3 weeks apart, followed by a third dose (0.2 mL) administered at least 8 weeks after the second dose.                                                                                                               |
+| Hepatic Impairment | Dose adjustment not necessary                                                                                                                                                                                                                                                                |
+| Renal Impairment   | Dose adjustment not necessary                                                                                                                                                                                                                                                                |
+| Contraindications  | Hypersensitivity to the active substance or to any of the excipients.                                                                                                                                                                                                                        |
+| Adverse Effects    | Common Dermatologic: Erythema at injection site, Injection site pain, Swelling at injection site. Musculoskeletal: Arthralgia, Myalgia. Neurologic: Headache. Other: Fatigue, Fever, Shivering. Serious Gastrointestinal: Appendicitis. Immunologic: Anaphylaxis, Hypersensitivity reaction. |
+| Pregnancy          | Unknown                                                                                                                                                                                                                                                                                      |
+| Lactation          | Unknown                                                                                                                                                                                                                                                                                      |
+
 ## COVID-19 Vaccine BioNTech 0.3mL/dose (0.45mL/vial)
 
 | TAH Drug Code      | [ICOVBNT](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ICOVBNT)                                                                   |

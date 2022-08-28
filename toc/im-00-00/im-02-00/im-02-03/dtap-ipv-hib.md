@@ -1,6 +1,6 @@
 # DTaP-IPV-HIB
 
-## Pentaxim 5in1 vaccine (Government)
+## Infanrix 5in1 vaccine (Government)
 
 | TAH Drug Code      | [IPED0](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IPED0)                                                                                                  |
 |:-------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
