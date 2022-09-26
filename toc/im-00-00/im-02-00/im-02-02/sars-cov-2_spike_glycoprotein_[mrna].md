@@ -26,6 +26,21 @@
 | Pregnancy          | Unknown                                                                                                                                                                                                                                                                                      |
 | Lactation          | Unknown                                                                                                                                                                                                                                                                                      |
 
+## 雙價Moderna(Covid19) 0.5mL/dose(2.5mL/vial)
+
+##### 停用
+
+| TAH Drug Code      | [ICOMDBA1](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ICOMDBA1)                                                                                                                                                   |
+|:-------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Indications        | Moderna COVID-19 Vaccine, for active immunization to prevent COVID-19 in individuals 18 years of age and older.                                                                                                                |
+| Dosing             | IM, 0.5 mL, > or = 18 years, As booster vaccination. At least 3 months after the second or last booster dose. As a Covid-19 vaccine, bivalent Original/Omicron BA.1 which contains elasomeran and an additional mRNA molecule. |
+| Hepatic Impairment | Dose adjustment not necessary                                                                                                                                                                                                  |
+| Renal Impairment   | Dose adjustment not necessary                                                                                                                                                                                                  |
+| Contraindications  | Do not administer the Moderna COVID-19 Vaccine to individuals with a known history of a severe allergic reaction (e.g., anaphylaxis) to any component of the Moderna COVID-19 Vaccine.                                         |
+| Adverse Effects    | erythema at injection site, pain at injection site, and swelling at injection site. asthenia, fatigue, fever, headache, myalgia, and nausea.                                                                                   |
+| Pregnancy          | Unknown                                                                                                                                                                                                                        |
+| Lactation          | Unknown                                                                                                                                                                                                                        |
+
 ## COVID-19 Vaccine BioNTech 0.3mL/dose (0.45mL/vial)
 
 | TAH Drug Code      | [ICOVBNT](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ICOVBNT)                                                                   |
