@@ -115,7 +115,6 @@
         * [Remdesivir](toc/ai-00-00/ai-03-00/ai-03-09/remdesivir.md)
     * [Antiparasitics](toc/ai-00-00/ai-04-00/README.md)
       * [Hydroxychloroquine](toc/ai-00-00/ai-04-00/hydroxychloroquine.md)
-      * [Mebendazole](toc/ai-00-00/ai-04-00/mebendazole.md)
   * [Neuro-Muscular System](toc/cn-00-00/README.md)
     * [Analgesics, Antipyretics and Anti-Inflammatory Agents](toc/cn-00-00/cn-01-00/README.md)
       * [Narcotic Analgesics](toc/cn-00-00/cn-01-00/cn-01-01/README.md)
