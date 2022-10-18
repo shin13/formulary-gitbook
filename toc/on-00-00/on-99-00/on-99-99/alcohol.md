@@ -1,0 +1,17 @@
+# Alcohol
+
+## 99.5% Alcohol inj 5mL
+
+##### 停用
+
+| TAH Drug Code      | [IALC](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IALC)                                                                                                                                                                                                                                                 |
+|:-------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Indications        | Percutaneous ehtanol injection therapy for hepatocellular carcinoma.                                                                                                                                                                                                                                                 |
+| Dosing             | Anhydrous alcohol injection was performed under the guidance of ultrasound imaging.Tumor number less than or equal to 3 numbers, and tumor smaller than 3 cm in diameter: 1-10mL 99.5% Alcohol is injected directly to the liver tumors via percutaneous injection, once or twice a week. Maximum: 4-6 times a week. |
+| Hepatic Impairment | Dose adjustment not necessary                                                                                                                                                                                                                                                                                        |
+| Renal Impairment   | Dose adjustment not necessary                                                                                                                                                                                                                                                                                        |
+| Contraindications  | Hypersensitivity to ethyl alcohol or any component of the formulation; seizure disorder and diabetic coma; subarachnoid injection of dehydrated alcohol in patients receiving anticoagulants                                                                                                                         |
+| Adverse Effects    | Increased serum transaminases, fever, gastric ulcer, throboembolism                                                                                                                                                                                                                                                  |
+| Pregnancy          | Contraindicated                                                                                                                                                                                                                                                                                                      |
+| Lactation          | Hold Breast Feeding                                                                                                                                                                                                                                                                                                  |
+

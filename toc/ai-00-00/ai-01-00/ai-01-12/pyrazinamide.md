@@ -1,0 +1,15 @@
+# Pyrazinamide
+
+## Pyrazinamide 500mg
+
+| TAH Drug Code      | [OPYRZ](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OPYRZ)                                                                                                                                                                                                               |
+|:-------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Indications        | Treatment of pulmonary & extrapulmonary TB.                                                                                                                                                                                                                                          |
+| Dosing             | (仿單) 1500-2000 mg/day (3-4 tablets) divided into 1-3 doses. (熱病) Adult: 25 mg/kg po Q24H (maximum: 2.5 g/day). Pediatric: 15-30 mg/kg/day (once daily, maximum: 2 g/day) or 50 mg/kg twice weekly (maximum: 2 g/day).                                                                |
+| Hepatic Impairment | Dose adjustment not necessary                                                                                                                                                                                                                                                        |
+| Renal Impairment   | Dose adjustment required                                                                                                                                                                                                                                                             |
+| Contraindications  | Hypersensitivity to pyrazinamide or any component of the formulation; acute gout; severe hepatic damage                                                                                                                                                                              |
+| Adverse Effects    | Hepatotoxicity, jaundice, hyperuricemia leading to attacks of gout, anorexia, nausea, vomiting, arthralgia, malaise, fever, sideroblastic anemia, difficulty in micturition. Endocrine metabolic: Hyperuricemia Gastrointestinal: Nausea, Vomiting Musculoskeletal: Arthralgia (40%) |
+| Pregnancy          | Compatible – Maternal Benefit >> Embryo-Fetal Risk                                                                                                                                                                                                                                   |
+| Lactation          | No (Limited) Human Data - Probably Compatible                                                                                                                                                                                                                                        |
+

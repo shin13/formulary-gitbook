@@ -1,0 +1,15 @@
+# FSH 450IU + LH 225IU
+
+## Pergoveris 450 IU + 225 IU
+
+| TAH Drug Code      | [IPER4](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IPER4)                                                                                                                                                                                                           |
+|:-------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Indications        | Infertility in male & female.                                                                                                                                                                                                                                                    |
+| Dosing             | FSH 150 IU + LH 75 IU daily, adjusted dosage after start treatment 7-14 days, each treatment cycle can be extended up to 5 weeks depending on the clinical condition. 5000-10000 IU of hCG or 250 mcg of r-hCG should be given after 24-48 hours of the last dose of Pergoveris. |
+| Hepatic Impairment | Dose adjustment not necessary                                                                                                                                                                                                                                                    |
+| Renal Impairment   | Dose adjustment not necessary                                                                                                                                                                                                                                                    |
+| Contraindications  | Pregnancy & lactation; enlargement of the ovaries or cysts not due to polycystic ovarian syndrome; gynaecological bleeding of unknown origin; tumors in the uterus, ovaries & breasts.                                                                                           |
+| Adverse Effects    | Ovarian hyperstimulation, ascites, hydrothorax, oliguria, hypotension, thromboembolism, hypersensitivity reactions, fever, nausea & vomiting, inj site reactions, unintentional multiple pregnancies.                                                                            |
+| Pregnancy          | No Data                                                                                                                                                                                                                                                                          |
+| Lactation          | Contraindicated                                                                                                                                                                                                                                                                  |
+

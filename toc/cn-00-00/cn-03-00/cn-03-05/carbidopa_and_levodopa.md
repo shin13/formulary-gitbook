@@ -1,0 +1,15 @@
+# Carbidopa + Levodopa
+
+## Sinemet 25/100mg
+
+| TAH Drug Code      | [OSINM](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OSINM)                                                                                                                                                                                                         |
+|:-------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Indications        | Symptomatic treatment of Parkinsonism.                                                                                                                                                                                                                                         |
+| Dosing             | Initial, 1 tablet TID. Maximum : 8 tablets/day.                                                                                                                                                                                                                                |
+| Hepatic Impairment | Dose adjustment not necessary                                                                                                                                                                                                                                                  |
+| Renal Impairment   | Dose adjustment not necessary                                                                                                                                                                                                                                                  |
+| Contraindications  | Narrow-angle glaucoma. Undiagnosed skin lesions or history of melanoma. Hypersensitivity to any component of this product.                                                                                                                                                     |
+| Adverse Effects    | Dyskinesia including choreiform, dystonic & other involuntary movements. Mental changes including paranoid ideation & psychotic episodes; depression with or without development of suicidal tendencies; dementia; & GI disturbances. Gastrointestinal: Nausea (5.5% to 5.7% ) |
+| Pregnancy          | No (Limited) Human Data – Animal Data Suggest Low Risk                                                                                                                                                                                                                         |
+| Lactation          | No (Limited) Human Data - Probably Compatible                                                                                                                                                                                                                                  |
+

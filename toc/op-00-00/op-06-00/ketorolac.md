@@ -1,0 +1,15 @@
+# Ketorolac
+
+## Kelac 0.5%, 5mL ophthalmic solution
+
+| TAH Drug Code      | [EKEL](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EKEL)                                                                                                                                                                                                                          |
+|:-------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Indications        | Temporary relief of ocular itching due to seasonal allergic conjunctivitis. Treatment of post-operational inflammation in patients who have undergone cataract extraction.                                                                                                                    |
+| Dosing             | Relief of ocular itching due to seasonal allergic conjunctivitis: Instill 1 drop QID. Treatment of inflammation in patients who have undergone cataract extraction: Instill 1 drop QID (above 24 hrs post-operation), and use constantly until 2 weeks after surgery.                         |
+| Hepatic Impairment | Dose adjustment not necessary                                                                                                                                                                                                                                                                 |
+| Renal Impairment   | Dose adjustment not necessary                                                                                                                                                                                                                                                                 |
+| Contraindications  | Patients who have previously demonstrated hypersensitivity to any of the ingredients of Kelac ophthalmic solution.                                                                                                                                                                            |
+| Adverse Effects    | Common Ophthalmic: Burning sensation in eye (20% to 40% ), Corneal edema (1% to 10% ), Eye infection (1% to 10% ), Eye irritation (1% to 10% ), Iritis (1% to 10% ), Pain in eye (1% to 10% ), Superficial keratitis (1% to 10% ) Serious Ophthalmic: Corneal thinning, Perforation of cornea |
+| Pregnancy          | No (Limited) Human Data – Probably Compatible                                                                                                                                                                                                                                                 |
+| Lactation          | No (Limited) Human Data - Probably Compatible                                                                                                                                                                                                                                                 |
+

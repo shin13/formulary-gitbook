@@ -1,0 +1,15 @@
+# Adenosine
+
+## Adenocor inj 6mg/2mL
+
+| TAH Drug Code      | [IADE](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IADE)                                                                                                                                                                                                            |
+|:-------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Indications        | Treatment of paroxysmal supraventricular tachycardias. Diagnostic in narrow & broad-complex tachycardias                                                                                                                                                                        |
+| Dosing             | Paroxysmal supraventricular tachycardia: IV (rapid, over 1 to 2 seconds, via peripheral line): Initial: 6 mg; if not effective within 1 to 2 minutes, 12 mg may be given; may repeat 12 mg bolus if needed (maximum single dose: 12 mg). Follow each dose with 20 mL N/S flush. |
+| Hepatic Impairment | Dose adjustment not necessary                                                                                                                                                                                                                                                   |
+| Renal Impairment   | Dose adjustment not necessary                                                                                                                                                                                                                                                   |
+| Contraindications  | 2nd or 3rd degree AV block (except in patients with a functioning artificial pacemaker). Sick sinus syndrome (except in patients with a functioning artificial pacemaker). Asthma.                                                                                              |
+| Adverse Effects    | Atrial fibrillation/flutter & an accessory bypass tract. Rapid saline flush needed if drug is injected into IV line                                                                                                                                                             |
+| Pregnancy          | Compatible – Maternal Benefit >> Embryo-Fetal Risk                                                                                                                                                                                                                              |
+| Lactation          | No (Limited) Human Data - Probably Compatible                                                                                                                                                                                                                                   |
+
