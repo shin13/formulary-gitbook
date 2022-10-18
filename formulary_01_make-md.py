@@ -321,12 +321,12 @@ for cat2 in cat2_li:
                 col_name = '[' + code + '](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=' + code + ')' 
                 df_tb.columns = ['TAH Drug Code', col_name]
                 
-                search_name = name.replace(' ', '-').lower()
-                print(search_name)
-                keyword = search_name + '-drug-information'
-                print(keyword)
-                col_name_2 = '[' + UpToDate + '](https://www.uptodate.com/contents/' + keyword + ')' 
-                df_tb.columns = ['More Info', col_name_2]
+#                 search_name = name.replace(' ', '-').lower()
+#                 print(search_name)
+#                 keyword = search_name + '-drug-information'
+#                 print(keyword)
+#                 col_name_2 = '[' + UpToDate + '](https://www.uptodate.com/contents/' + keyword + ')' 
+#                 df_tb.columns = ['More Info', col_name_2]
                 
                 content = df_tb.to_markdown(index=0)
                 f.write(content)
