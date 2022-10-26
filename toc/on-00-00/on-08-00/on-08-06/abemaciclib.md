@@ -15,18 +15,3 @@
 | Pregnancy          | Unknown                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | Lactation          | Unknown                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 
-## Verzenio 150mg (sample) (28 tablets/box)
-
-##### 臨採
-
-| TAH Drug Code      | [OVERZ0](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OVERZ0)   |
-|:-------------------|:---------------------------------------------------------------------------|
-| Indications        | No Data                                                                    |
-| Dosing             | No Data                                                                    |
-| Hepatic Impairment | No Data                                                                    |
-| Renal Impairment   | No Data                                                                    |
-| Contraindications  | No Data                                                                    |
-| Adverse Effects    | No Data                                                                    |
-| Pregnancy          | No Data                                                                    |
-| Lactation          | No Data                                                                    |
-

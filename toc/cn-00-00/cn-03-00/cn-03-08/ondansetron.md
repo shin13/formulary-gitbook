@@ -2,14 +2,14 @@
 
 ## Supren inj 8mg/4mL(限麻醉組套)
 
-| TAH Drug Code      | [ISUP](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ISUP)   |
-|:-------------------|:-----------------------------------------------------------------------|
-| Indications        | No Data                                                                |
-| Dosing             | No Data                                                                |
-| Hepatic Impairment | No Data                                                                |
-| Renal Impairment   | No Data                                                                |
-| Contraindications  | No Data                                                                |
-| Adverse Effects    | No Data                                                                |
-| Pregnancy          | No Data                                                                |
-| Lactation          | No Data                                                                |
+| TAH Drug Code      | [ISUP](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ISUP)                                                                                                                                                                                                                                                                                                            |
+|:-------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Indications        | Prevention or treatment of nausea and vomiting caused by surgery, chemotherapy or radiation therapy.                                                                                                                                                                                                                                                                            |
+| Dosing             | No Data                                                                                                                                                                                                                                                                                                                                                                         |
+| Hepatic Impairment | No Data                                                                                                                                                                                                                                                                                                                                                                         |
+| Renal Impairment   | No Data                                                                                                                                                                                                                                                                                                                                                                         |
+| Contraindications  | Hypersensitivity to ondansetron or any component of the formulation; concomitant use with apomorphine                                                                                                                                                                                                                                                                           |
+| Adverse Effects    | Common Gastrointestinal: Constipation (11% ), Diarrhea (adults, 16%; pediatrics, 2%), Xerostomia (5% ) Hepatic: Increased liver enzymes (17% ) Neurologic: Headache (17% ) Other: Fever (2% to 8% ) Serious Cardiovascular: Atrial fibrillation, Electrocardiogram abnormal, Prolonged QT interval, Torsades de pointes Neurologic: Oculogyric crisis Other: Serotonin syndrome |
+| Pregnancy          | No Data                                                                                                                                                                                                                                                                                                                                                                         |
+| Lactation          | No Data                                                                                                                                                                                                                                                                                                                                                                         |
 

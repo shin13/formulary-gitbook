@@ -318,7 +318,7 @@ for cat2 in cat2_li:
                     pass
 
                 df_tb = df_name.loc[code,'Indications':'Lactation'].reset_index()
-                col_name = '[' + code + '](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=' + code + ')' 
+                col_name = '[' + code + '](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=' + code + ')'
                 df_tb.columns = ['TAH Drug Code', col_name]
                 
 #                 search_name = name.replace(' ', '-').lower()

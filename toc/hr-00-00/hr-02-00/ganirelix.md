@@ -2,8 +2,6 @@
 
 ## Orgalutran inj 0.25mg/0.5mL
 
-##### 臨採
-
 | TAH Drug Code      | [IORG](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IORG)                                                                                                                                                                                                   |
 |:-------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | For the inhibition of premature LH surges in women undergoing controlled ovarian hyperstimulation.                                                                                                                                                                     |
