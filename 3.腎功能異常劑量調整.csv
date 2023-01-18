@@ -39,8 +39,8 @@ IBON,¦¨¤H,Clcr,50.00,80.00,mL/min,mL/min,¾¯¶q´î¤Ö25%,,201804112356,
 IBONV,¦¨¤H,Clcr,0,30.00,mL/min,mL/min,¤£«ØÄ³¨Ï¥Î,,201804112358,201804112358
 IBRID,¦¨¤H,Clcr,0,30.00,mL/min,mL/min,¤£«ØÄ³¨Ï¥Î,,201804191446,201804191446
 ICAG,¦¨¤H,eGFR,0,50.00,mL/min/1.73m2,mL/min/1.73m2,Initiate with the lower limit of the dosage range (accumulation may occur with renal impairment and subsequent doses may require adjustment based on serum calcium concentrations).,,201804231738,201804231738
-ICEF1,¦¨¤H,Clcr,0,0,mL/min,mL/min,Hemodialysis: 1 -2 gm Q24-48H (+ extra 0.5-1 gm after dialysis),,,
 ICEF1,¦¨¤H,Clcr,0,10.00,mL/min,mL/min,1 -2 gm Q24-48H,,,
+ICEF1,¦¨¤H,Clcr,0,0,mL/min,mL/min,Hemodialysis: 1 -2 gm Q24-48H (+ extra 0.5-1 gm after dialysis),,,
 ICEF1,¦¨¤H,Clcr,10.00,50.00,mL/min,mL/min,1 -2 gm Q12H,,,
 ICEF1,¦¨¤H,Clcr,50.00,90.00,mL/min,mL/min,1 -2 gm Q8H,,,
 ICEF1,¨àµ£,Clcr,5.00,20.00,mL/min,mL/min,10% of the normal daily dose given every 24 hr,,201803261632,201803261632
@@ -62,9 +62,9 @@ ICIP2,¦¨¤H,Clcr,5.00,29.00,mL/min,mL/min,200 to 400 mg IV every 18 to 24 hours,4
 ICIP2,¦¨¤H,Clcr,30.00,120.00,mL/min,mL/min,µL¶·½Õ¾ã¾¯¶q,800mg/day,,
 ICIT3,¦¨¤H,Clcr,0,0,mL/min,mL/min,ÄY­«µÇ¥\¯à»ÙÃªªÌÀ³ÂÔ·V¨Ï¥Î,,201804191527,201804191527
 ICLA1,¦¨¤H,eGFR,0,20.00,mL/min/1.73m2,mL/min/1.73m2,Dose should be reduced by 50%,MICROMEDEX (2020-05-26),202005261654,202005261649
+ICLA1,¦¨¤H,Clcr,0,9.99,mL/min,mL/min,Loading dose: 1g; Maintenance dose: 50% of normal dose with same freqency,¥é³æ,202005261644,
 ICLA1,¦¨¤H,Clcr,0,0,mL/min,mL/min,H/D: 1 ~ 2g q24h AD CAPD: 1 ~ 2g q24h,¥é³æ,202005261647,202005261649
 ICLA1,¦¨¤H,Clcr,0,10.00,mL/min,mL/min,1 - 2gm q24h,Sanford Guide(Web) (2020-05-26),202005261658,202005261649
-ICLA1,¦¨¤H,Clcr,0,9.99,mL/min,mL/min,Loading dose: 1g; Maintenance dose: 50% of normal dose with same freqency,¥é³æ,202005261644,
 ICLA1,¦¨¤H,Clcr,10.00,50.00,mL/min,mL/min,1 - 2gm q12-24h,Sanford Guide(Web) (2020-05-26),202005261657,202005261649
 ICLAR2,¦¨¤H,Clcr,0,30.00,mL/min,mL/min,[¥é³æ]­««×µÇ¥\¯à¤£¥þ¡]GFR<30mL/min/1.73m2¡^¡AÀ³¥ýÂÔ·Vµû¦ô¡A¦pªG¥²¶·¨Ï¥Î¡A¨C¤½¤çÅé­«ªºª`®g¾¯¶q¤£¥i¶W¹L 0.1 mmol/kg¡C¨C¦¸±½´y¤§ª`®g¤£¥i¶W¹L¤@¦¸¡C,,202001121050,202001121053
 ICLEX,¦¨¤H,Clcr,0,30.00,mL/min,mL/min,DVT prophylaxis in abdominal surgery¡A hip replacement¡A knee replacement¡A or in medical patients during acute illness: SubQ: 30 mg once daily.,,201804191144,
@@ -143,17 +143,17 @@ IKEP,¦¨¤H,Clcr,50.00,80.00,mL/min,mL/min,500 to 1000 mg IV every 12 hours,,20180
 IKETO,¦¨¤H,Clcr,0,30.00,mL/min,mL/min,µÇ¥\¯à¤£¥þªÌ¡A«ØÄ³µ¹ÃÄ¶¡¹j¬° ¨C6¤p®É ¨C¦¸15mg,³Ì°ª¨C¤é¾¯¶q¬°60 mg/day,201804141541,201912091116
 ILEV,¦¨¤H,eGFR,0,0,mL/min/1.73m2,mL/min/1.73m2,¦Ñ¦~¯f¤H·|«ØÄ³±q¤@¯ë«ØÄ³¾¯¶q¤§½d³ò¤¤ªº³Ì§C¾¯¶q¨Ó¶}©l¨Ï¥Î,,201808231126,
 ILEV2,¦¨¤H,Clcr,0,0,mL/min,mL/min,¦Ñ¦~¯f¤H·|«ØÄ³±q¤@¯ë«ØÄ³¾¯¶q¤§½d³ò¤¤ªº³Ì§C¾¯¶q¨Ó¶}©l¨Ï¥Î,,201804120029,201804120029
-ILEVET,¦¨¤H,Clcr,0,30.00,mL/min,mL/min,250 to 500 mg IVD every 12 hours,,201903240936,201903241015
 ILEVET,¦¨¤H,Clcr,0,0,mL/min,mL/min,End-stage renal disease (ESRD) requiring hemodialysis: 500 to 1000 mg IVD QD (ªvÀø­º¤é«ØÄ³¾¯¶q¬°750 mg¡A¬~µÇ«á«ØÄ³¸É¥R¾¯¶q¬°250¦Ü500 mg),,201903241015,201903241022
+ILEVET,¦¨¤H,Clcr,0,30.00,mL/min,mL/min,250 to 500 mg IVD every 12 hours,,201903240936,201903241015
 ILEVET,¦¨¤H,Clcr,30.00,50.00,mL/min,mL/min,250 to 750 mg IVD every 12 hours,,201903240936,201903241015
 ILEVET,¦¨¤H,Clcr,50.00,80.00,mL/min,mL/min,500 to 1000 mg IVD every 12 hours,,201903240936,201903241015
-ILFT,¦¨¤H,Clcr,0,4.99,mL/min,mL/min,Loading dose 1-2g¡A followed by 0.5-1g Q24-48H,UpToDate 2023-01-12,202301121140,202301121139
-ILFT,¦¨¤H,Clcr,0,9.99,mL/min,mL/min,2 gm q24-48h,Sanford Guide 2023-01-15,202301150907,202301121148
-ILFT,¦¨¤H,Clcr,0,0,mL/min,mL/min,Loading dose 1-2 g after each hemodialysis; maintenance dose as noted above based on ClCr,Hemodialysis. UpToDate 2023-01-12,202301121148,202301121148
 ILFT,¦¨¤H,Clcr,0,0.01,mL/min,mL/min,2 gm q24h-48h; extra 1 gm after hemodialysis,Hemodialysis. Sanford Guide 2023-01-15,202301150911,202301121148
+ILFT,¦¨¤H,Clcr,0,0,mL/min,mL/min,Loading dose 1-2 g after each hemodialysis; maintenance dose as noted above based on ClCr,Hemodialysis. UpToDate 2023-01-12,202301121148,202301121148
+ILFT,¦¨¤H,Clcr,0,9.99,mL/min,mL/min,2 gm q24-48h,Sanford Guide 2023-01-15,202301150907,202301121148
+ILFT,¦¨¤H,Clcr,0,4.99,mL/min,mL/min,Loading dose 1-2g¡A followed by 0.5-1g Q24-48H,UpToDate 2023-01-12,202301121140,202301121139
 ILFT,¦¨¤H,Clcr,5.00,9.00,mL/min,mL/min,Loading dose 1-2g¡A followed by 0.5-1g Q12-24H,UpToDate 2023-01-12,202301121140,202301121139
-ILFT,¦¨¤H,Clcr,10.00,29.00,mL/min,mL/min,Loading dose 1-2g¡A followed by 1-2g Q12-24H,UpToDate 2023-01-12,202301121139,202301121139
 ILFT,¦¨¤H,Clcr,10.00,50.00,mL/min,mL/min,2 gm q8-12h,Sanford Guide 2023-01-15,202301150907,202301150909
+ILFT,¦¨¤H,Clcr,10.00,29.00,mL/min,mL/min,Loading dose 1-2g¡A followed by 1-2g Q12-24H,UpToDate 2023-01-12,202301121139,202301121139
 ILFT,¦¨¤H,Clcr,30.00,50.00,mL/min,mL/min,Loading dose 1-2g¡A followed by 1-2g Q8-12H,UpToDate 2023-01-12,202301121138,202301121138
 ILIG2,¦¨¤H,Clcr,0,30.00,mL/min,mL/min,Administer maintenance infusion at lower rate with close monitoring,Micromedex 20210217,202102171142,202102171143
 ILIP20,¦¨¤H,Clcr,0,0,mL/min,mL/min,¥¼±µ¨ü³zªRªvÀø¤§ÄY­«µÇ¥\¯à¤£¥þªÌ¤£«ØÄ³¨Ï¥Î,,201804261436,201804261436
@@ -161,8 +161,8 @@ IMAG2,¦¨¤H,Clcr,0,0,mL/min,mL/min,¦³µÇ¥\¯à»ÙÃª¤§±wªÌ¡A°ªÁâ¦å¯g±wªÌ¥²¶·¼f·V§ë»P,,
 IMAN1,¦¨¤H,Clcr,0,0,mL/min,mL/min,ÄY­«µÇÅ¦¯e¯f©Î¶i¦æ©ÊµÇ·l®`©ÎµÇ¥\¯à»ÙÃª¤§§¹¥þµL§¿¯f±w¤£«ØÄ³¨Ï¥Î,,201804121420,
 IMAR4,¦¨¤H,Clcr,0,0,mL/min,mL/min,ÄY­«µÇ¥\¯à¤£¥þ¯f±wÀ³¤p¤ß¨Ï¥Î¡A¥H´î§Cµo¥Í¦MÀI°Æ§@¥Îªº­·ÀI,,201804191601,201804191601
 IMARS,¦¨¤H,Clcr,0,0,mL/min,mL/min,ÄY­«µÇ¥\¯à¤£¥þ±wªÌÀ³¤p¤ß¨Ï¥Î¡A¥H´î§Cµo¥Í¦MÀI°Æ§@¥Îªº­·ÀI,,201804191602,201804191602
-IMAXI,¦¨¤H,Clcr,0,0,mL/min,mL/min,»´¦Ü¤¤«×ªc§¿¹D·P¬V(UTI):0.5g Q24h;»´¦Ü¤¤«×«Dªc§¿¹D·P¬V:0.5g Q24h;ÄY­«·P¬V:0.5g Q24h;«D±`ÄY­«©Î¦³¥Í©R«Â¯Ù¤§·P¬V:0.5g Q24h,¦å²G³zªR±wªÌ,201803261647,
 IMAXI,¦¨¤H,Clcr,0,10.00,mL/min,mL/min,»´¦Ü¤¤«×ªc§¿¹D·P¬V(UTI):0.25g Q24h;»´¦Ü¤¤«×«Dªc§¿¹D·P¬V:0.25g Q24h;ÄY­«·P¬V:0.5g Q24h;«D±`ÄY­«©Î¦³¥Í©R«Â¯Ù¤§·P¬V:1g Q24h,,201803261647,
+IMAXI,¦¨¤H,Clcr,0,0,mL/min,mL/min,»´¦Ü¤¤«×ªc§¿¹D·P¬V(UTI):0.5g Q24h;»´¦Ü¤¤«×«Dªc§¿¹D·P¬V:0.5g Q24h;ÄY­«·P¬V:0.5g Q24h;«D±`ÄY­«©Î¦³¥Í©R«Â¯Ù¤§·P¬V:0.5g Q24h,¦å²G³zªR±wªÌ,201803261647,
 IMAXI,¦¨¤H,Clcr,11.00,29.00,mL/min,mL/min,»´¦Ü¤¤«×ªc§¿¹D·P¬V(UTI):0.5g Q24h;»´¦Ü¤¤«×«Dªc§¿¹D·P¬V:0.5g Q24h;ÄY­«·P¬V:1g Q24h;«D±`ÄY­«©Î¦³¥Í©R«Â¯Ù¤§·P¬V:2g Q24h,,201803261647,
 IMAXI,¦¨¤H,Clcr,30.00,50.00,mL/min,mL/min,»´¦Ü¤¤«×ªc§¿¹D·P¬V(UTI):0.5g Q24h;»´¦Ü¤¤«×«Dªc§¿¹D·P¬V:1g Q24h;ÄY­«·P¬V:2g Q24h;«D±`ÄY­«©Î¦³¥Í©R«Â¯Ù¤§·P¬V:2g Q12h,,201803261646,
 IMAXI,¦¨¤H,Clcr,50.00,199.00,mL/min,mL/min,»´¦Ü¤¤«×ªc§¿¹D·P¬V(UTI):0.5g Q12h;»´¦Ü¤¤«×«Dªc§¿¹D·P¬V:1g Q12h;ÄY­«·P¬V:2g Q12h;«D±`ÄY­«©Î¦³¥Í©R«Â¯Ù¤§·P¬V:2g Q8h,,201803261646,
@@ -216,20 +216,20 @@ ISIMD,¦¨¤H,Clcr,30.10,50.00,mL/min,mL/min,Simdax must be used with caution in pa
 ISOBI,¦¨¤H,Clcr,0,0,mL/min,mL/min,µÇ¥\¯à»ÙÃªªº±wªÌÀ³ÂÔ·V§ë»P,,201804261507,201804261507
 ISOLM,¦¨¤H,Clcr,0,0,mL/min,mL/min,µÇ¥\¯à¤£¥þ±wªÌÀ³ÂÔ·V¨Ï¥Î,,201804231408,201804231408
 ISOO,¦¨¤H,Clcr,0,0.01,mL/min,mL/min,Patients on hemodialysis should receive a maintenance dose of 250 or 500 mg amoxicillin/125 mg clavulanic acid every 24 hours¡A with a supplemental dose given both during and at the end of dialysis,Micromedex 20210318,202103181208,202103181206
-ISOO,¦¨¤H,Clcr,0.10,9.99,mL/min,mL/min,¥ýÀR¯ßª`®g1¾¯1.2gm¡AµM«á¦A¨C24¤p®É0.6gm. ¬~µÇ«á¥i¯à¥²¶·ÃB¥~¼W¥[1¾¯0.6gm.,¥é³æ,202103181144,202103181210
 ISOO,¦¨¤H,Clcr,0.10,10.00,mL/min,mL/min,The suggested dose is 250 or 500 mg amoxicillin/125 mg clavulanic acid every 24 hours.,Micromedex 20210318,201803051616,202103181210
-ISOO,¦¨¤H,Clcr,10.00,30.00,mL/min,mL/min,The suggested dose is 250 mg to 500 mg amoxicillin/125 mg clavulanic acid every 12 hours.,Micromedex 20210318,201803051616,202103181205
+ISOO,¦¨¤H,Clcr,0.10,9.99,mL/min,mL/min,¥ýÀR¯ßª`®g1¾¯1.2gm¡AµM«á¦A¨C24¤p®É0.6gm. ¬~µÇ«á¥i¯à¥²¶·ÃB¥~¼W¥[1¾¯0.6gm.,¥é³æ,202103181144,202103181210
 ISOO,¦¨¤H,Clcr,10.00,29.99,mL/min,mL/min,¥ýÀR¯ßª`®g1¾¯1.2gm¡AµM«á¦A¨C12¤p®É0.6gm.,¥é³æ,202103181142,202103181146
+ISOO,¦¨¤H,Clcr,10.00,30.00,mL/min,mL/min,The suggested dose is 250 mg to 500 mg amoxicillin/125 mg clavulanic acid every 12 hours.,Micromedex 20210318,201803051616,202103181205
 ISOO,¦¨¤H,Clcr,30.00,60.00,mL/min,mL/min,µL¶·§ïÅÜ¾¯¶q,¥é³æ,202103181140,
-ISTO,¦¨¤H,Clcr,0,0.01,mL/min,mL/min,´`Àô¤¤Cimetidine¿@«×·|¦]¦å²G³zªR¦Ó­°§C¡A¦]¦¹¥»«~¶·©ó³zªR³Ì«á¶¥¬qµ¹ÃÄ¡C,¥é³æ,202012031652,202012031655
 ISTO,¦¨¤H,Clcr,0,15.00,mL/min,mL/min,¨C¤é¤G¦¸¡A¨C¦¸§ë»P 200 ²@§J,¥é³æ,202012031653,
+ISTO,¦¨¤H,Clcr,0,0.01,mL/min,mL/min,´`Àô¤¤Cimetidine¿@«×·|¦]¦å²G³zªR¦Ó­°§C¡A¦]¦¹¥»«~¶·©ó³zªR³Ì«á¶¥¬qµ¹ÃÄ¡C,¥é³æ,202012031652,202012031655
 ISTO,¦¨¤H,Clcr,15.00,30.00,mL/min,mL/min,¨C¤é¤T¦¸¡A¨C¦¸ 200 ²@§J,¥é³æ,202012031654,
 ISTO,¦¨¤H,Clcr,30.00,50.00,mL/min,mL/min,¨C¤é¥|¦¸¡A¨C¦¸ 200 ²@§J,¥é³æ,202012031655,
 ISUB,¦¨¤H,Clcr,5.00,14.00,mL/min,mL/min,1.5-3g every 24 hours,,201803261539,
 ISUB,¦¨¤H,Clcr,15.00,29.00,mL/min,mL/min,1.5-3g every 12 hours,,201803261538,
 ISUB,¦¨¤H,Clcr,30.00,199.00,mL/min,mL/min,1.5-3g every 6 to 8 hours,,201803261538,201803261603
-ITAP,¦¨¤H,Clcr,0,0,mL/min,mL/min,2.25g every 12 hours plus 0.75 g after each dialysis session ;°|¤º·P¬V©ÊªÍª¢2.25g every 8 hours plus 0.75 g after each dialysis session,¦å²G³zªR±wªÌ,201803261550,
 ITAP,¦¨¤H,Clcr,0,20.00,mL/min,mL/min,2.25g every 8 hours;°|¤º·P¬V©ÊªÍª¢2.25g every 6 hours,,201803261549,
+ITAP,¦¨¤H,Clcr,0,0,mL/min,mL/min,2.25g every 12 hours plus 0.75 g after each dialysis session ;°|¤º·P¬V©ÊªÍª¢2.25g every 8 hours plus 0.75 g after each dialysis session,¦å²G³zªR±wªÌ,201803261550,
 ITAP,¦¨¤H,Clcr,20.00,40.00,mL/min,mL/min,2.25g every 6 hours; °|¤º·P¬V©ÊªÍª¢3.375g every 6 hours,,201803261544,
 ITAR,¦¨¤H,Clcr,0,40.00,mL/min,mL/min,(§t¦å²G³zªR¯f¤H)ªvÀø²Ä¥|¤Ñ°_¨C¤éµ¹¤©¤T¤À¤§¤@ªººû«ù¾¯¶q¡A©Î¨C¤T¤éµ¹¤©°_©l¾¯¶q¡A©Î¨C¤éµ¹¤©¤T¤À¤§¤@ªº°_©l¾¯¶q,4mg/kg/day,,
 ITAR,¦¨¤H,Clcr,40.00,60.00,mL/min,mL/min,ªvÀø²Ä¥|¤Ñ°_¥i¨C¤éµ¹¤©´î¥bªººû«ù¾¯¶q¡A©Î¨C¨â¤éµ¹¤©°_©l¾¯¶q¡A©Î¨C¤éµ¹¤©´î¥bªº°_©l¾¯¶q,6mg/kg/day,,
@@ -257,22 +257,22 @@ ITRAN,¦¨¤H,Scr,5.66,99.00,mg/dL,mg/dL,Maintenance dose of 10 mg/kg/dose every 48
 IVAN1,¦¨¤H,Clcr,0,0,mL/min,mL/min,Hemodialysis: Less than 70 kg¡A 1000-mg loading dose and then 500-mg maintenance dose infused over last 30 minutes of dialysis; 70 to 100 kg¡A 1250-mg loading dose and then 750-mg maintenance dose infused over last 60 minutes of dialysis; greater than 100 kg¡A 1500-mg loading dose and then 1000-mg maintenance dose infused over last 90 minutes of dialysis,Micromedex 20201123,202011231000,202011231001
 IVAN1,¦¨¤H,Clcr,60.00,0,mL/min,mL/min,Renal impairment (adult and pediatric): 15 mg/kg initially and then optimize dose and interval based on serum drug concentrations,Micromedex 20201123,202011230958,202011231001
 IVAN1,¦¨¤H,Clcr,100.00,0,mL/min,mL/min,¾¯¶q¬O¨C¤Ñmg¤§µÇµ·²y¹LÂo³t²vml/min ªº15­¿¡A½Ð¨Ì¦¹°Ñ·Ó100mL/min:1545mg/24hr; 90mL/min:1390mg/24hr; 80mL/min:1235mg/24hr; 70mL/min:1080mg/24hr; 60mL/min:925mg/24hr; 50mL/min:770mg/24hr; 40mL/min:620mg/24hr; 30mL/min:465mg/24hr; 20mL/min:310mg/24hr; 10mL/min:155mg/24hr;³Ìªì¾¯¶q¤£¥i¤Ö©ó15mg/kg¡A¹ï¤¤«×¦Ü­««×µÇ¤£¥þ±wªÌ¥ç¦P¡C,¥é³æ,202011230948,202011231001
-IVANS,¦¨¤H,eGFR,0,15.00,mL/min/1.73m2,mL/min/1.73m2,<60kg:750mg; 60-80kg:1000mg; 81-100kg:1250mg; >100kg:1500mg.Check a random vancomycin level in 24 hours after the dose. If random level is =<20 mcg/mL¡A repeat the dose. If random level is >20 mcg/mL¡A do not redose; repeat random level in 12 hours.,[UpToDate on 2020-05-07],202005071141,202005071142
 IVANS,¦¨¤H,eGFR,0,0,mL/min/1.73m2,mL/min/1.73m2,End-stage renal disease on intermittent hemodialysis (administer after hemodialysis on dialysis days): Following loading dose of 15 to 25 mg/kg¡A give either 500 to 1¡A000 mg or 5 to 10 mg/kg after each dialysis session. Note: Dosing dependent on the assumption of 3 times/week¡A complete IHD sessions.,[UpToDate on 2020-05-07],202005071143,202005071145
+IVANS,¦¨¤H,eGFR,0,15.00,mL/min/1.73m2,mL/min/1.73m2,<60kg:750mg; 60-80kg:1000mg; 81-100kg:1250mg; >100kg:1500mg.Check a random vancomycin level in 24 hours after the dose. If random level is =<20 mcg/mL¡A repeat the dose. If random level is >20 mcg/mL¡A do not redose; repeat random level in 12 hours.,[UpToDate on 2020-05-07],202005071141,202005071142
 IVANS,¦¨¤H,eGFR,15.00,49.00,mL/min/1.73m2,mL/min/1.73m2,<60kg:750mg Q24H; 60-80kg:1000mg Q24H; 81-100kg:1250mg Q24H; >100kg:1500mg Q24H,[UpToDate on 2020-05-07],202005071138,
 IVANS,¦¨¤H,eGFR,50.00,90.00,mL/min/1.73m2,mL/min/1.73m2,<60kg:750mg Q12H; 60-80kg:1000mg Q12H; 81-100kg:1250mg Q12H; >100kg:1000mg Q8H,[UpToDate on 2020-05-07],202005071137,202005071140
 IVANS,¦¨¤H,eGFR,90.00,999.00,mL/min/1.73m2,mL/min/1.73m2,<60kg:750mg Q8H; 60-80kg:1000mg Q8H; 81-100kg:1250mg Q8H; >100kg:1500mg Q8H,[UpToDate on 2020-05-07],202005071134,202005071139
-IVANS,¦¨¤H,Clcr,0,10.00,mL/min,mL/min,7.5mg/kg Q2D-Q3D,[Sanford Guide - Antimicrobial on 2020-05-07],202005071202,202005071200
 IVANS,¦¨¤H,Clcr,0,0,mL/min,mL/min,7.5mg/kg Q2D-Q3D; at end of hemodialysis on dialysis days: next hemodialysis in 1 day: 15mg/kg; 2 day: 25mg/kg; 3days: 35mg/kg,[Sanford Guide - Antimicrobial on 2020-05-07],202005071208,202005071200
-IVANS,¦¨¤H,Clcr,10.00,100.00,mL/min,mL/min,¨C¤é¾¯¶q¡]mg¡^¬ù¬°µÇµ·²yÂo¹L²v¡]ml/min¡^ªº15­¿(Ã­©wª¬ªp¤UªºµÇ¥\¯à),[¥é³æ],,202005071209
+IVANS,¦¨¤H,Clcr,0,10.00,mL/min,mL/min,7.5mg/kg Q2D-Q3D,[Sanford Guide - Antimicrobial on 2020-05-07],202005071202,202005071200
 IVANS,¦¨¤H,Clcr,10.00,50.00,mL/min,mL/min,15mg/kg Q24-96h,[Sanford Guide - Antimicrobial on 2020-05-07],202005071201,202005071200
-IVANS,¦¨¤H,Clcr,50.00,120.00,mL/min,mL/min,15mg/KG Q12H,[¥é³æ],,202005071210
+IVANS,¦¨¤H,Clcr,10.00,100.00,mL/min,mL/min,¨C¤é¾¯¶q¡]mg¡^¬ù¬°µÇµ·²yÂo¹L²v¡]ml/min¡^ªº15­¿(Ã­©wª¬ªp¤UªºµÇ¥\¯à),[¥é³æ],,202005071209
 IVANS,¦¨¤H,Clcr,50.00,90.00,mL/min,mL/min,15-30mg/kg Q12h,[Sanford Guide - Antimicrobial on 2020-05-07],202005071200,202005071200
+IVANS,¦¨¤H,Clcr,50.00,120.00,mL/min,mL/min,15mg/KG Q12H,[¥é³æ],,202005071210
 IVC5,¦¨¤H,eGFR,0,30.00,mL/min/1.73m2,mL/min/1.73m2,ESRD (requiring hemodialysis): Adults: IV¡A Oral: 60 to 100 mg once daily is sufficient to prevent serious ascorbate deficiency due to loss from dialysis; doses >100 mg daily may lead to secondary oxalosis and renal oxalate stone formation.,,201804231727,
-IVEK,¦¨¤H,eGFR,0,30.00,mL/min/1.73m2,mL/min/1.73m2,¦¨¤H¡BÀ¦¨à¡B¨àµ£¤Î¸û¤j¨àµ£: ¤£«ØÄ³¨Ï¥Î¡C¥u¦³¦b¼ç¦b®Ä¯q¶W¶V¼ç¦b­·ÀIªº±¡ªp¤U¤~¥i¦Ò¼{§ë¤©,¥é³æ,202106091140,202301041112
 IVEK,¦¨¤H,eGFR,0,29.99,mL/min/1.73m2,mL/min/1.73m2,Use not recommended. Remdesivir pharmacokinetics have not been evaluated in patients with renal impairment; possible accumulation of the excipient betadex sulfobutyl ether sodium may occur in patients with decreased renal function.,Micromedex 20210609,202106091143,202301041111
-IVEKS,¦¨¤H,eGFR,0,29.99,mL/min/1.73m2,mL/min/1.73m2,Use not recommended. Remdesivir pharmacokinetics have not been evaluated in patients with renal impairment; possible accumulation of the excipient betadex sulfobutyl ether sodium may occur in patients with decreased renal function.,Micromedex 20210609,202301041111,
+IVEK,¦¨¤H,eGFR,0,30.00,mL/min/1.73m2,mL/min/1.73m2,¦¨¤H¡BÀ¦¨à¡B¨àµ£¤Î¸û¤j¨àµ£: ¤£«ØÄ³¨Ï¥Î¡C¥u¦³¦b¼ç¦b®Ä¯q¶W¶V¼ç¦b­·ÀIªº±¡ªp¤U¤~¥i¦Ò¼{§ë¤©,¥é³æ,202106091140,202301041112
 IVEKS,¦¨¤H,eGFR,0,30.00,mL/min/1.73m2,mL/min/1.73m2,¦¨¤H¡BÀ¦¨à¡B¨àµ£¤Î¸û¤j¨àµ£: ¤£«ØÄ³¨Ï¥Î¡C¥u¦³¦b¼ç¦b®Ä¯q¶W¶V¼ç¦b­·ÀIªº±¡ªp¤U¤~¥i¦Ò¼{§ë¤©¡C,¥é³æ,202301041111,
+IVEKS,¦¨¤H,eGFR,0,29.99,mL/min/1.73m2,mL/min/1.73m2,Use not recommended. Remdesivir pharmacokinetics have not been evaluated in patients with renal impairment; possible accumulation of the excipient betadex sulfobutyl ether sodium may occur in patients with decreased renal function.,Micromedex 20210609,202301041111,
 IVER,¦¨¤H,Clcr,0,0,mL/min,mL/min,If repeated IV doses are necessary¡A give smaller doses and closely monitor PR interval and blood pressure,,201804121510,201804121510
 IVFEN,¦¨¤H,Clcr,0,49.99,mL/min,mL/min,·|«ØÄ³§ï¦¨¤fªA¤è¦¡ªvÀø(¤fªA¤£·|¨üµÇ¥\¯à»ÙÃª¼vÅT),,,
 IVIM,¦¨¤H,Clcr,0,0,mL/min,mL/min,¦å²G³zªR¥i¦³®Ä²M°£¦å¼ß¤¤ªº Lacosamide¡C4 ¤p®Éªº¦å²G³zªRªvÀø«á¡AÀ³¦Ò¼{¸É¥R³Ì¦h 50%ªº¾¯¶q¡C,¥é³æ,202008031608,202008031607
@@ -285,14 +285,14 @@ IVOR,¦¨¤H,Clcr,0,30.00,mL/min,mL/min,Moderate to severe impairment: Use is not r
 IXOL,¦¨¤H,eGFR,0,50.00,mL/min/1.73m2,mL/min/1.73m2,There are no dosage adjustments provided in the manufacturer¡¦s labeling.,,201804191020,
 IXOL0,¦¨¤H,eGFR,0,50.00,mL/min/1.73m2,mL/min/1.73m2,There are no dosage adjustments provided in the manufacturer¡¦s labeling.,,201804191019,
 IXYL2V,¦¨¤H,Clcr,0,0,mL/min,mL/min,ÄY­«µÇ¥\¯à±wªÌ·|¦]¥NÁÂ¿ð½w¦Ó¤Þ°_¦å¼ß¤¤¿@«×¤W¤É¡A¬GÂÔ·V¨Ï¥Î¤§,,201804191548,201804191548
-IZOV,¦¨¤H,Clcr,0,9.99,mL/min,mL/min,50%¥¿±`¾¯¶q¡Aµ¹ÃÄ¶¡¹j24¤p®É,,,
 IZOV,¦¨¤H,Clcr,0,0,mL/min,mL/min,¦å²G³zªR¯f¤H:an additional dose is recommended after each dialysis,,,
+IZOV,¦¨¤H,Clcr,0,9.99,mL/min,mL/min,50%¥¿±`¾¯¶q¡Aµ¹ÃÄ¶¡¹j24¤p®É,,,
 IZOV,¦¨¤H,Clcr,10.00,25.00,mL/min,mL/min,¥¿±`¾¯¶q¡Aµ¹ÃÄ¶¡¹j24¤p®É,,,
 IZOV,¦¨¤H,Clcr,26.00,50.00,mL/min,mL/min,¥¿±`¾¯¶q¡Aµ¹ÃÄ¶¡¹j12¤p®É,,,
 LAMO5,¨àµ£,eGFR,0,10.00,mL/min/1.73m2,mL/min/1.73m2,Mild to moderate infection(based on 25-50mg/kg/day¡AQ8H): 8-20mg/kg/dose¡AQ24H. Severe infection or high dose(based on 80-90mg/kg/day¡AQ12H): 20mg/kg/dose¡AQ24H; do not use the 875mg tablet.,Lexicomp(UpToDate). 2022/10/12,202210121531,202210121534
 LAMO5,¨àµ£,eGFR,10.00,29.00,mL/min/1.73m2,mL/min/1.73m2,Mild to moderate infection(based on 25-50mg/kg/day¡AQ8H): 8-20mg/kg/dose¡AQ12H. Severe infection or high dose(based on 80-90mg/kg/day¡AQ12H): 20mg/kg/dose¡AQ12H; do not use the 875mg tablet.,Lexicomp(UpToDate). 2022/10/12,202210121524,202210121534
-LAMO6,¦¨¤H,eGFR,0,0,mL/min,mL/min,250 to 500 mg every 24 hours; administer after dialysis on dialysis day,¦å²G³zªR±wªÌ (Aronoff 2007),201803261607,202004021622
 LAMO6,¦¨¤H,eGFR,0,10.00,mL/min,mL/min,GFR <10 mL/min: 250 to 500 mg every 24 hours,Lexi-Drugs. Lexicomp.,201803261606,202004021622
+LAMO6,¦¨¤H,eGFR,0,0,mL/min,mL/min,250 to 500 mg every 24 hours; administer after dialysis on dialysis day,¦å²G³zªR±wªÌ (Aronoff 2007),201803261607,202004021622
 LAMO6,¦¨¤H,eGFR,10.00,30.00,mL/min,mL/min,GFR 10-30 mL/min: 250 to 500 mg every 12 hours,Lexi-Drugs. Lexicomp.,201803261606,202004021622
 LAUG3,¨àµ£,eGFR,0.01,29.99,mL/min/1.73m2,mL/min/1.73m2,¤£«ØÄ³¨Ï¥Î,,201803261610,201803261610
 LAZI,¦¨¤H,eGFR,0,10.00,mL/min/1.73m2,mL/min/1.73m2,¶·ÂÔ·V¨Ï¥Î,¥é³æ,202210061458,202210131504
@@ -301,8 +301,8 @@ LBIS,¦¨¤H,eGFR,0,50.00,mL/min/1.73m2,mL/min/1.73m2,There are no dosage adjustmen
 LCAR,¦¨¤H,Clcr,0,0,mL/min,mL/min,µÇ¥\¯à»ÙÃª¤ÎµL§¿±Æªn¯f¤H¡A¥b°I´Á¥i¯à©µªø¦Ü100¤p®É¡A¦]¦¹¥i¯à»Ý­n´î¤Öºû«ù¾¯¶q¡C,,201804120035,201804120035
 LCEF,¦¨¤H,Clcr,0,10.00,mL/min,mL/min,creatinine clearance less than 10 mL/minute¡A 50% of the normal dose,Micromedex 20210105,202101051508,
 LCEF,¦¨¤H,Clcr,10.00,50.00,mL/min,mL/min,creatinine clearance 10 to 50 mL/minute¡A 50% to 100% of the normal dose,Micromedex 20210105,202101051507,
-LCET,¦¨¤H,eGFR,0,49.90,mL/min/1.73m2,mL/min/1.73m2,5 mg once daily,,201804231453,
 LCET,¦¨¤H,eGFR,0,0,mL/min/1.73m2,mL/min/1.73m2,Intermittent hemodialysis: 5 mg once daily; 5 mg 3 times per week may also be effective.,,201804231454,
+LCET,¦¨¤H,eGFR,0,49.90,mL/min/1.73m2,mL/min/1.73m2,5 mg once daily,,201804231453,
 LCET,¨àµ£,eGFR,0,0,mL/min/1.73m2,mL/min/1.73m2,µÇ¥\¯à¤£¥þªº±wªÌªA¥Î¥»ÃÄ®É¡A¨ä¾¯¶qÀ³´î¥b,,201804250002,201804250002
 LCLO,¨àµ£,eGFR,0,0,mL/min/1.73m2,mL/min/1.73m2,©úÅãµÇ¥\¯à·l®`ªÌ¸T¥Î,[¥é³æ],202006161022,202006161022
 LCOFS,¦¨¤H,eGFR,0,50.00,mL/min/1.73m2,mL/min/1.73m2,There are no dosage adjustments provided in the manufacturer's labeling.,,201804191045,
@@ -351,8 +351,8 @@ OACH,¨àµ£,eGFR,50.00,10.00,mL/min/1.73m2,mL/min/1.73m2,Acetaminophen: pediatric¡
 OAGT,¦¨¤H,Clcr,0,30.00,mL/min,mL/min,¸T¤î¨Ï¥Î©ó­««×µÇ¥\¯à¤£¥þ¯f¤H¡C,¥é³æ,202206271428,
 OAGT,¦¨¤H,Clcr,30.00,50.00,mL/min,mL/min,«ØÄ³°_©l¾¯¶q¬°¨C¤é¤T¦¸¡A¨C¦¸ªA¥Î¤@¿õ333²@§JÃÄ¿õ¡C,¥é³æ,202206271427,
 OAKY,¦¨¤H,eGFR,1.00,0,mL/min/1.73m2,mL/min/1.73m2,Renal impairment¡A severe or ESRD: Avoid use,Micromedex 20201007,202010071059,
-OALL6,¦¨¤H,eGFR,0,0,mL/min/1.73m2,mL/min/1.73m2,Intermittent hemodialysis or peritoneal dialysis: Recommended dose every 24 hours.,,201804231510,
 OALL6,¦¨¤H,eGFR,0,9.99,mL/min/1.73m2,mL/min/1.73m2,Recommended dose every 24 hours.,,201804231500,
+OALL6,¦¨¤H,eGFR,0,0,mL/min/1.73m2,mL/min/1.73m2,Intermittent hemodialysis or peritoneal dialysis: Recommended dose every 24 hours.,,201804231510,
 OALL6,¦¨¤H,eGFR,10.00,50.00,mL/min/1.73m2,mL/min/1.73m2,Recommended dose every 12 to 24 hours.,,201804231500,
 OAMA,¦¨¤H,Clcr,0,0,mL/min,mL/min,µÇ¥\¯à·l¶ËªÌ¤Î¦å²G³zªR±wªÌ¡A«ØÄ³°_©l¾¯¶q¬°1mg/¤Ñ,,201804111613,201804112332
 OAMIZ,¦¨¤H,Clcr,0,0,mL/min,mL/min,³¬§¿.«æ©ÊµÇ°IºÜ.ÄY­«¶i¦æ©ÊµÇ¯f±w¤£«ØÄ³¨Ï¥Î,,201804121432,201804121432
@@ -370,8 +370,8 @@ OAPA,¦¨¤H,eGFR,0,50.00,mL/min/1.73m2,mL/min/1.73m2,Hyperglycemia in patients wit
 OAPR5,¦¨¤H,Clcr,0,0,mL/min,mL/min,µÇ¥\¯à¨ü·lªº¯f¤H¡A¾¯¶q»Ý­n´î§C,,201804121535,201804121536
 OARC,¦¨¤H,Clcr,0,30.00,mL/min,mL/min,¤£«ØÄ³¨Ï¥Î,,201804141616,
 OARH1,¦¨¤H,eGFR,0,59.99,mL/min/1.73m2,mL/min/1.73m2,Moderate to severe impairment: Use is contraindicated.,,201804231652,
-OARIM,¦¨¤H,Clcr,0,60.00,mL/min,mL/min,Renal impairment: No dosage adjustment necessary,Micromedex 20210504,202105040928,202105040931
 OARIM,¦¨¤H,Clcr,0,30.00,mL/min,mL/min,ÄY­«µÇÅ¦·l¶Ë¯f±w(creatinine¹ø²M²v¤p©ó30)¸T§Ò¨Ï¥Î,¥é³æ,202105040930,202105040925
+OARIM,¦¨¤H,Clcr,0,60.00,mL/min,mL/min,Renal impairment: No dosage adjustment necessary,Micromedex 20210504,202105040928,202105040931
 OASP,¦¨¤H,Clcr,0,9.90,mL/min,mL/min,The manufacturer recommends avoiding in patients with CrCl <10 mL/minute.,,201804191222,
 OASV,¦¨¤H,eGFR,0,50.00,mL/min/1.73m2,mL/min/1.73m2,There are no dosage adjustments provided in the manufacturer's,,201804191049,
 OAUG1,¦¨¤H,Clcr,0,9.99,mL/min,mL/min,usual dose every 24 hours,,201803261630,
@@ -387,8 +387,8 @@ OBAR,¦¨¤H,Clcr,49.00,30.00,mL/min,mL/min,Administer 50% of usual dose daily or a
 OBAR1,¦¨¤H,Clcr,10.00,0,mL/min,mL/min,Administer 10% of usual dose daily or administer the normal dose every 7 days; administer after hemodialysis,UpToDate,202004021455,202004021457
 OBAR1,¦¨¤H,Clcr,29.00,10.00,mL/min,mL/min,Administer 30% of usual dose daily or administer the normal dose every 72 hours,UpToDate,202004021456,202004021457
 OBAR1,¦¨¤H,Clcr,49.00,30.00,mL/min,mL/min,Administer 50% of usual dose daily or administer the normal dose every 48 hours,UpToDate,202004021456,202004021457
-OBECA,¦¨¤H,Clcr,0,9.99,mL/min,mL/min,0.05 mg ORALLY once daily (preferred) or 0.5 mg ORALLY once every 7 days; lamivudine-refractory or decompensated liver disease¡A 0.1 mg ORALLY once daily (preferred) or 1 mg ORALLY once every 7 days.,,,
 OBECA,¦¨¤H,Clcr,0,0,mL/min,mL/min,¦å²G³zªR¯f¤H:0.05 mg ORALLY once daily (preferred) or 0.5 mg ORALLY once every 7 days; lamivudine-refractory or decompensated liver disease¡A 0.1 mg ORALLY once daily (preferred) or 1 mg ORALLY once every 7 days; on hemodialysis days¡A administer after hemodialysis.,,,
+OBECA,¦¨¤H,Clcr,0,9.99,mL/min,mL/min,0.05 mg ORALLY once daily (preferred) or 0.5 mg ORALLY once every 7 days; lamivudine-refractory or decompensated liver disease¡A 0.1 mg ORALLY once daily (preferred) or 1 mg ORALLY once every 7 days.,,,
 OBECA,¦¨¤H,Clcr,10.00,29.99,mL/min,mL/min,0.15 mg ORALLY once daily (preferred) or 0.5 mg ORALLY every 72 hours; lamivudine-refractory or decompensated liver disease¡A 0.3 mg ORALLY once daily (preferred) or 1 mg ORALLY once every 72 hours.,,,
 OBECA,¦¨¤H,Clcr,30.00,49.99,mL/min,mL/min,0.25 mg ORALLY once daily (preferred) or 0.5 mg ORALLY once every 48 hours; lamivudine-refractory or decompensated liver disease¡A 0.5 mg ORALLY once daily (preferred) or 1 mg ORALLY once every 48 hours.,,,
 OBET2,¦¨¤H,eGFR,15.00,29.00,mL/min/1.73m2,mL/min/1.73m2,­««×µÇ¥\¯à¤£¥þ¯f±w¨C¤é¾¯¶q¤£¥i¶W¹L 25mg ¤@¤Ñ¤@¦¸,,201804212243,201804212243
@@ -412,15 +412,15 @@ OCAL5,¦¨¤H,Clcr,0,24.99,mL/min,mL/min,Dosage adjustments may be necessary depend
 OCAN,¦¨¤H,eGFR,0,30.00,mL/min/1.73m2,mL/min/1.73m2,Contraindications: severe renal impairment(eGFR <30 mL/minute/1.73 m2); end-stage renal disease or patients on dialysis.,¥é³æ&Micromedex«ØÄ³,201907091101,201907290914
 OCAN,¦¨¤H,eGFR,30.00,45.00,mL/min/1.73m2,mL/min/1.73m2,¤£«ØÄ³¨Ï¥Î,¥é³æ«ØÄ³,201907290913,201907091102
 OCAND8,¦¨¤H,Clcr,0,15.00,mL/min,mL/min,¹ï©ó«D±`ÄY­«©ÎªÌ¬O¥½´ÁªºµÇÅ¦¥\¯à¤£¨}ªÌ ( ¦Ù»ÄÓþ¹ø²M²vClcreatinine<15 mL/min)¡AÁ{§É¨Ï¥Î¸gÅç¦³­­,¥é³æ,202011231047,202011130834
-OCAND8,¦¨¤H,Clcr,15.00,59.99,mL/min,mL/min,Renal impairment¡A adult (moderate to severe¡A CrCl 15 to 60 mL/min/1.73 m(2)): 8 mg daily may be a sufficient dose,Micromedex 20201123,202011231040,202011231048
 OCAND8,¦¨¤H,Clcr,15.00,60.00,mL/min,mL/min,¹ï©óµÇ¥\¯à¤£¥þªÌ¡A¥]¬A¥¿¦b¶i¦æ¦å²G³zªRªº±wªÌ¡A°_©l¾¯¶q¬°4mg¡A¦A®Ú¾Ú±wªÌ¤ÏÀ³³v¦¸½Õ¾ã¾¯¶q¡C,¥é³æ,202011130850,202011130834
+OCAND8,¦¨¤H,Clcr,15.00,59.99,mL/min,mL/min,Renal impairment¡A adult (moderate to severe¡A CrCl 15 to 60 mL/min/1.73 m(2)): 8 mg daily may be a sufficient dose,Micromedex 20201123,202011231040,202011231048
 OCAND8,¨àµ£,eGFR,0,30.00,mL/min/1.73m2,mL/min/1.73m2,Renal impairment¡A pediatric (GFR less than 30 mL/min/1.73 m(2)): Use not recommended,Micromedex 20201123,202011231140,202011231048
 OCAP5,¦¨¤H,Clcr,0,29.90,mL/min,mL/min,Use is contraindicated.,,201803191622,
 OCAP5,¦¨¤H,Clcr,30.00,50.00,mL/min,mL/min,Reduce dose to 75% of usual dose,,201803191621,
 OCAT,¦¨¤H,Clcr,0,0,mL/min,mL/min,µÇ¥\¯à¤£¥þ¯f¤H¨Ì¯f±w­°À£¤ÏÀ³½Õ¾ã¾¯¶q¡A»Ý¤p¤ßºÊµ¦´ú,,201804130627,201804130627
 OCAT2,¦¨¤H,Clcr,0,30.00,mL/min,mL/min,Significant impairment or advanced renal disease: Use is not recommended.,,201912091133,201912091133
-OCEFA,¦¨¤H,Clcr,0,9.99,mL/min,mL/min,Initial: 1g as single dose; maintenance: 500mg Q36H,Ref: Lexicomp Accessed: 2020-05-03,,202005030956
 OCEFA,¦¨¤H,Clcr,0,0,mL/min,mL/min,Hemodialysis: 1g then 1g AD CAPD: 500 mg q24h CRRT: No data,Ref: Sanford Guide Web Ed. Accessed: 2020-05-03,,202005030959
+OCEFA,¦¨¤H,Clcr,0,9.99,mL/min,mL/min,Initial: 1g as single dose; maintenance: 500mg Q36H,Ref: Lexicomp Accessed: 2020-05-03,,202005030956
 OCEFA,¦¨¤H,Clcr,10.00,24.99,mL/min,mL/min,Initial: 1g as single dose; maintenance: 500mg QD,Ref: Lexicomp Accessed: 2020-05-03,,202005030955
 OCEFA,¦¨¤H,Clcr,25.00,49.99,mL/min,mL/min,Initial: 1g as single dose; maintenance: 500mg Q12H,Ref: Lexicomp Accessed: 2020-05-03,,202005030955
 OCEL2,¦¨¤H,Clcr,0,0,mL/min,mL/min,ÄY­«µÇ¥\¯à»ÙÃª¯f±w¤£«ØÄ³¨Ï¥Î,,201804141619,201804141619
@@ -454,8 +454,8 @@ OCOR5,¦¨¤H,Clcr,0,15.00,mL/min,mL/min,À³ÂÔ·V¨Ï¥Î,,201804120042,201804120042
 OCRA5,¦¨¤H,Clcr,0,10.00,mL/min,mL/min,(¥]§t¦å²G³zªR¤Î¸¡½¤³zªR) ­ìµ¹ÃÄ¤è¦¡:500mg Q12H:­º¦¸¾¯¶q500mg¡A¤§«á125mg Q24H;  ­ìµ¹ÃÄ¤è¦¡:500mg Q24H:­º¦¸¾¯¶q500mg¡A¤§«á125mg Q24H;  ­ìµ¹ÃÄ¤è¦¡:250mg Q24H:­º¦¸¾¯¶q250mg¡A¤§«á125mg Q48H;,¥é³æ,202112141058,202112141051
 OCRA5,¦¨¤H,Clcr,10.00,19.00,mL/min,mL/min,if normal adult dose is 750 mg every 24 hours change to 750 mg initially then 500 mg every 48 hours; 500 mg every 24 hours change to 500 mg initially then 250 mg every 48 hours; 250 mg every 24 hours change to 250 mg every 48 hours (no dose adjustment necessary if treating uncomplicated UTI).,Micromedexs 20211214,202112141042,202112141050
 OCRA5,¦¨¤H,Clcr,10.01,19.00,mL/min,mL/min,­ìµ¹ÃÄ¤è¦¡:500mg Q12H:­º¦¸¾¯¶q500mg¡A¤§«á125mg Q12H;  ­ìµ¹ÃÄ¤è¦¡:500mg Q24H:­º¦¸¾¯¶q500mg¡A¤§«á125mg Q24H;  ­ìµ¹ÃÄ¤è¦¡:250mg Q24H:­º¦¸¾¯¶q250mg¡A¤§«á125mg Q48H;,¥é³æ,202112141056,202112141051
-OCRA5,¦¨¤H,Clcr,20.00,50.00,mL/min,mL/min,­ìµ¹ÃÄ¤è¦¡:500mg Q12H:­º¦¸¾¯¶q500mg¡A¤§«á250mg Q12H;  ­ìµ¹ÃÄ¤è¦¡:500mg Q24H:­º¦¸¾¯¶q500mg¡A¤§«á250mg Q24H;  ­ìµ¹ÃÄ¤è¦¡:250mg Q24H:­º¦¸¾¯¶q250mg¡A¤§«á125mg Q24H;,¥é³æ,,202112141051
 OCRA5,¦¨¤H,Clcr,20.00,49.00,mL/min,mL/min,if normal adult dose is 750 mg every 24 hours change to every 48 hours; 500 mg every 24 hours change to 500 mg initially then 250 mg every 24 hours; 250 mg every 24 hours is no adjustment necessary.,Micromedexs 20211214,202112141036,
+OCRA5,¦¨¤H,Clcr,20.00,50.00,mL/min,mL/min,­ìµ¹ÃÄ¤è¦¡:500mg Q12H:­º¦¸¾¯¶q500mg¡A¤§«á250mg Q12H;  ­ìµ¹ÃÄ¤è¦¡:500mg Q24H:­º¦¸¾¯¶q500mg¡A¤§«á250mg Q24H;  ­ìµ¹ÃÄ¤è¦¡:250mg Q24H:­º¦¸¾¯¶q250mg¡A¤§«á125mg Q24H;,¥é³æ,,202112141051
 OCRE,¦¨¤H,Clcr,0,30.00,mL/min,mL/min,°_©l¾¯¶q:5 mg orally once daily,³Ì°ª¾¯¶q:10 mg orally once daily,201804130712,201804130712
 OCUR,¦¨¤H,eGFR,30.00,0,mL/min/1.73m2,mL/min/1.73m2,¥»ÃÄ¥u¯à¥Î©óµÇµ·²y¹LÂo²v¤j©ó30²@¤É/¤ÀÄÁªº¯f±w,¥é³æ,202007290942,202007291116
 OCUR,¦¨¤H,Clcr,0,0,mL/min,mL/min,Hemodialysis: Usual dose every 24 hours; additional dose both during and after each hemodialysis session,Micromedex 20200729,202007291118,202007291114
@@ -502,8 +502,8 @@ ODOP,¦¨¤H,Clcr,30.00,50.00,mL/min,mL/min,200 mg orally on first day then 100 mg/
 ODOR4,¦¨¤H,Clcr,0,0,mL/min,mL/min,¦]¥D­n°Æ§@¥Î¬°¤Þ°_¯B¸~.¦åÀ£¤W¶Ë¡AµÇÅ¦¯e¯f±wªÌÀ³ª`·N,,201804231421,201804231421
 ODUO,¦¨¤H,Clcr,0,10.00,mL/min,mL/min,¥¼´ÁµÇ¯f±wªÌ¥¼¶i¦æ¬ã¨s,,201804212309,201804212309
 ODUO,¦¨¤H,Clcr,10.00,30.00,mL/min,mL/min,¤¤«×¨ì­««×µÇ¥\¯à¨ü·l±wªÌµL¶·½Õ¾ã¾¯¶q,,201804212309,
-OEBI,¦¨¤H,Clcr,5.00,29.00,mL/min,mL/min,reduce dosage to 5 mg ORALLY twice daily,Micromedex 20220209,201804160555,202202091116
 OEBI,¦¨¤H,Clcr,5.00,49.00,mL/min,mL/min,¤¤«×¨ü·l(Clcr:30-49)¤Î­««×¨ü·l(Clcr:5-29)±wªÌ¨C¤é¾¯¶qÀ³¬°10mg,¥é³æ,202202091133,202202091116
+OEBI,¦¨¤H,Clcr,5.00,29.00,mL/min,mL/min,reduce dosage to 5 mg ORALLY twice daily,Micromedex 20220209,201804160555,202202091116
 OEFE7,¦¨¤H,eGFR,10.00,70.00,mL/min/1.73m2,mL/min/1.73m2,«ØÄ³­°§C25-50%¥Î¶q¶}©lªvÀø¡C,¦å²G³zªRªkªvÀø¤§±wªÌ¡A«ØÄ³¥H­°§C50%¤§¥Î¶q¶}©lªvÀø¡A¥Bµ¥¦å²G³zªR(¥|¤p®É)§¹¦¨«á¦AªA¥ÎÃÄª«,201804150053,
 OEFI3,¦¨¤H,Clcr,0,50.00,mL/min,mL/min,No dosage adjustment is necessary for patients with renal impairment; however¡A there is limited information in patients with end-stage renal disease,,202004021107,
 OELI,¦¨¤H,Scr,1.50,7.00,mg/dL,mg/dL,¦å²M¦Ù»ÄÓþ¤j©ó©Îµ¥©ó1.5mg/dL¡A¥B¨Ö¦³¦~ÄÖ¤j©óµ¥©ó80·³©ÎÅé­«¤p©óµ¥©ó60¤½¤ç¡A«ØÄ³¾¯¶q¬°2.5mg¡A¤@¤Ñ¨â¦¸¡C,¥é³æ,202201251635,202201251637
@@ -537,11 +537,11 @@ OFEB,¦¨¤H,Clcr,15.00,29.00,mL/min,mL/min,Limit dose to 40 mg once daily,,2018041
 OFLU,¦¨¤H,Scr,2.50,0,mg/dL,mg/dL,À³Á×§K¨Ï¥Î,,201804120103,201804120104
 OFLUC,¦¨¤H,eGFR,0,50.00,mL/min/1.73m2,mL/min/1.73m2,There are no dosage adjustments provided in the manufacturer's,,201804191057,
 OFOL,¦¨¤H,Clcr,0,0,mL/min,mL/min,¯f¤H­Y¦³¸¡¤ô¡A¯Ý½¤º¯³z²G¡AµÇ¥\¯à»ÙÃª©ÎHydration¤£°÷®É·|©µ¿ðmethotrexate±Æ¥X¡AÀ³¦Ò¼{¼W¥[Folina¾¯¶q©Î©µªøªvÀø®É¶¡,­Y«ØÄ³¾¯¶q°ª©ó¤fªA¨Ï¥Î³\¥i¾¯¶q¡AÀ³§ï¥HÀR¯ßª`®gµ¹ÃÄ,201804191520,201804191520
-OFOR,¦¨¤H,eGFR,0,25.00,mL/min/1.73m2,mL/min/1.73m2,°w¹ï¦¹Ãþ¯f¤H¤£«ØÄ³¶}©lªvÀø¡AµM¦ÓForxigaªvÀø«á¡AeGFR­°§C¦Ü¤p©ó25 mL/min/1.73 m2ªº¯f¤H¡A¥i«ùÄò¨Ï¥Î¥H­°§CeGFR¤U­°¡BESKD¡B¤ß¦åºÞ¦º¤`©M¤ß°IºÜ¦í°|ªº­·ÀI¡C,¥é³æ,202109140952,202111301201
-OFOR,¦¨¤H,eGFR,0,0,mL/min/1.73m2,mL/min/1.73m2,³zªR¯f±w¸T¤î¨Ï¥ÎForxiga.,¥é³æ,202109140957,202111301203
-OFOR,¦¨¤H,eGFR,0,0.01,mL/min/1.73m2,mL/min/1.73m2,Renal impairment (ESRD or dialysis) in any population: Use is contraindicated.,Micromedex 20210914,202109141105,202109141106
-OFOR,¦¨¤H,eGFR,0,45.00,mL/min/1.73m2,mL/min/1.73m2,used for glycemic control: Use not recommended. type 2 diabetes when used to reduce risk of hospitalization for heart failure: Insufficient data to support dose adjustment recommendation.,Micromedex 20210914,202109141055,202109141100
 OFOR,¦¨¤H,eGFR,0,30.00,mL/min/1.73m2,mL/min/1.73m2,used for glycemic control: Use is contraindicated. heart failure with reduced ejection fraction (with or without type 2 diabetes) when used to reduce risk of cardiovascular death/hospitalization: Insufficient data to support dose adjustment recommendation.,Micromedex 20210914,202109141057,202109141059
+OFOR,¦¨¤H,eGFR,0,45.00,mL/min/1.73m2,mL/min/1.73m2,used for glycemic control: Use not recommended. type 2 diabetes when used to reduce risk of hospitalization for heart failure: Insufficient data to support dose adjustment recommendation.,Micromedex 20210914,202109141055,202109141100
+OFOR,¦¨¤H,eGFR,0,0.01,mL/min/1.73m2,mL/min/1.73m2,Renal impairment (ESRD or dialysis) in any population: Use is contraindicated.,Micromedex 20210914,202109141105,202109141106
+OFOR,¦¨¤H,eGFR,0,0,mL/min/1.73m2,mL/min/1.73m2,³zªR¯f±w¸T¤î¨Ï¥ÎForxiga.,¥é³æ,202109140957,202111301203
+OFOR,¦¨¤H,eGFR,0,25.00,mL/min/1.73m2,mL/min/1.73m2,°w¹ï¦¹Ãþ¯f¤H¤£«ØÄ³¶}©lªvÀø¡AµM¦ÓForxigaªvÀø«á¡AeGFR­°§C¦Ü¤p©ó25 mL/min/1.73 m2ªº¯f¤H¡A¥i«ùÄò¨Ï¥Î¥H­°§CeGFR¤U­°¡BESKD¡B¤ß¦åºÞ¦º¤`©M¤ß°IºÜ¦í°|ªº­·ÀI¡C,¥é³æ,202109140952,202111301201
 OFOR,¦¨¤H,eGFR,25.00,45.00,mL/min/1.73m2,mL/min/1.73m2,¨C¤Ñ¤fªA1¦¸10²@§J¡C¤£«ØÄ³¨Ï¥ÎForxiga§@¬°eGFR§C©ó45 mL/min/1.73 m2ªº²Ä¤G«¬¿}§¿¯f¯f¤Hªº¦å¿}±±¨î¡AForxiga°ò©ó¨ä§@¥Î¾÷¨î¡A¦b¦¹±¡ªp¤U¥i¯àµL®Ä¡C,¥é³æ,201804112343,202111301201
 OFOR,¦¨¤H,eGFR,45.00,99.00,mL/min/1.73m2,mL/min/1.73m2,¬°§ïµ½¦å¿}±±¨î¡AForxigaªº«ØÄ³°_©l¾¯¶q¬O5²@§J¨C¤Ñ¤fªA1¦¸¡C¦b­@¨üForxiga 5²@§J¨C¤Ñ1¦¸ªº¯f¤H¡A»Ý­n¹ï©óÃB¥~¦å¿}±±¨î®É¡A¾¯¶q¥i¼W¦Ü10²@§J¨C¤Ñ¤fªA1¦¸¡C¹ï©ó©Ò¦³¨ä¥L¾AÀ³¯gªº«ØÄ³°_©l¾¯¶q¬O¨C¤Ñ¤fªA1¦¸10²@§J¡C,¥é³æ,202111301159,202109141054
 OFOSP,¦¨¤H,Clcr,0,35.00,mL/min,mL/min,¤£«ØÄ³¨Ï¥Î,,201804120003,201804120008
@@ -563,15 +563,15 @@ OGLUF,¦¨¤H,Clcr,0,0,mL/min,mL/min,µÇ°IºÜ±wªÌªAÃÄ«á­n°È¤§¥b°I´Á©µªø¡A¥i¯à¾É­P§C¦å
 OGLUM,¦¨¤H,Scr,1.40,0,mg/dL,mg/dL,¤£«ØÄ³¨Ï¥Î,¤k©Ê,201804112348,201804112348
 OGLUM,¦¨¤H,Scr,1.50,0,mg/dL,mg/dL,¤£«ØÄ³¨Ï¥Î,¨k©Ê,201804112347,201804112347
 OGOU,¦¨¤H,Clcr,0,0,mL/min,mL/min,µÇ¥\¯à¤£¥þªÌ»ÝÀ³·r°u´î§C¾¯¶q¡AÄY­«µÇ¥\¯à¤£¥þªÌ¤£«ØÄ³¨Ï¥Î,,201804142313,
-OGXB,¦¨¤H,eGFR,0,30.00,mL/min/1.73m2,mL/min/1.73m2,§C©ó30 mL/min/1.73 m2¤£À³¨Ï¥Î,[¥é³æ],202007051226,202109011108
 OGXB,¦¨¤H,eGFR,0,29.99,mL/min/1.73m2,mL/min/1.73m2,Renal impairment¡A eGFR less than 30 mL/min/1.73 m(2)¡A including ESRD: Use not recommended,[Micromedex 20210901],202007061544,202109011110
+OGXB,¦¨¤H,eGFR,0,30.00,mL/min/1.73m2,mL/min/1.73m2,§C©ó30 mL/min/1.73 m2¤£À³¨Ï¥Î,[¥é³æ],202007051226,202109011108
 OHAR4,¦¨¤H,Clcr,0,0,mL/min,mL/min,¹ïµÇ¥\¯à§C¤UªÌ©y¥Ñ0.1mg ¶}©l§ë»P¡A¸g¹L¥R¤ÀªºÆ[¹î¤~¼W¶q¦Ü0.2 mg¡C¥Ñ©ó¥»ÃÄªº³æ¦ì§t¶q¸û°ª¡A¦]¦¹¤£«ØÄ³¨Ï¥Î©ó¤W­z¯f±w,,201804212318,201804212318
 OHARV,¦¨¤H,eGFR,0,29.99,mL/min/1.73m2,mL/min/1.73m2,µLªk´£¨Ñ¥ô¦ó¾¯¶q«ØÄ³,,,
-OHYD,¦¨¤H,Clcr,0,10.00,mL/min,mL/min,Reduce initial dose by 50% (administer after dialysis on dialysis days); titrate to response/avoidance of toxicity,,201804301511,
 OHYD,¦¨¤H,Clcr,0,60.00,mL/min,mL/min,Reduce initial dose by 50%; titrate to response/avoidance of toxicity,,201804301510,
+OHYD,¦¨¤H,Clcr,0,10.00,mL/min,mL/min,Reduce initial dose by 50% (administer after dialysis on dialysis days); titrate to response/avoidance of toxicity,,201804301511,
 OHYXQ,¦¨¤H,Clcr,50.00,0,mL/min,mL/min,There are no dosage adjustments provided in the manufacturer¡¦s labeling; use with caution.,,202004071046,
-OIMU,¦¨¤H,Clcr,0,0,mL/min,mL/min,Hemodialysis (partially dialyzable; ~45% removed in 8 hours): Administer 50% of normal dose; supplement: 0.25 mg/kg.,,201804231640,
 OIMU,¦¨¤H,Clcr,0,9.99,mL/min,mL/min,Administer 50% of normal dose.,,201804231640,
+OIMU,¦¨¤H,Clcr,0,0,mL/min,mL/min,Hemodialysis (partially dialyzable; ~45% removed in 8 hours): Administer 50% of normal dose; supplement: 0.25 mg/kg.,,201804231640,
 OIMU,¦¨¤H,Clcr,10.00,50.00,mL/min,mL/min,Administer 75% of normal dose.,,201804231639,
 OINDO2,¦¨¤H,eGFR,0,30.00,mL/min/1.73m2,mL/min/1.73m2,Avoid use.,KDIGO 2012 guidelines provide the following recommendations for NSAIDs,201910031032,
 OINDO2,¦¨¤H,eGFR,30.00,60.00,mL/min/1.73m2,mL/min/1.73m2,Temporarily discontinue in patients with intercurrent disease that increases risk of acute kidney injury.,KDIGO 2012 guidelines provide the following recommendations for NSAIDs,201910031032,
@@ -582,10 +582,10 @@ OISO2,¦¨¤H,Clcr,0,0,mL/min,mL/min,µÇ¥\¯à¤£¥þ¯f¤HÀ³ÂÔ·V¨Ï¥Î(¬ù70%ªº§ë»PÃÄª«¥NÁÂ²£
 OJAN,¦¨¤H,eGFR,0,29.99,mL/min/1.73m2,mL/min/1.73m2,¨C¤é¤@¦¸25mg,¥é³æ«ØÄ³,201805301116,
 OJAN,¦¨¤H,eGFR,30.00,44.99,mL/min/1.73m2,mL/min/1.73m2,¨C¤é¤@¦¸50mg,¥é³æ«ØÄ³,201805301115,201805301125
 OJAR,¦¨¤H,eGFR,0,45.00,mL/min/1.73m2,mL/min/1.73m2,¤£«ØÄ³¨Ï¥Î,,201804112344,201804112344
-OJAR2,¦¨¤H,eGFR,0,29.99,mL/min/1.73m2,mL/min/1.73m2,Renal impairment (severe)¡A ESRD¡A or receiving dialysis: Use contraindicated.,Micromedex 20200710,201806251352,202007101024
 OJAR2,¦¨¤H,eGFR,0,30.00,mL/min/1.73m2,mL/min/1.73m2,µÇµ·²y¹LÂo²v¦ô­p­È§C©ó30mL/min/1.73m2©Î¬~µÇªº¯f¤H¤£«ØÄ³¨Ï¥Î.,¥é³æ,202007101025,202212011530
-OJAR2,¦¨¤H,eGFR,30.00,45.00,mL/min/1.73m2,mL/min/1.73m2,Do not initiate therapy; discontinue use if eGFR drops and remains below 45 mL/min/1.73m(2),Micromedex 20200710,201806251351,202007101023
+OJAR2,¦¨¤H,eGFR,0,29.99,mL/min/1.73m2,mL/min/1.73m2,Renal impairment (severe)¡A ESRD¡A or receiving dialysis: Use contraindicated.,Micromedex 20200710,201806251352,202007101024
 OJAR2,¦¨¤H,eGFR,30.00,99.00,mL/min/1.73m2,mL/min/1.73m2,µÇµ·²y¹LÂo²v¦ô­p­È¤j©óµ¥©ó30mL/min/1.73m2ªº¯f¤HµL»Ý½Õ¾ã¾¯¶q.,¥é³æ,202007101026,202007101025
+OJAR2,¦¨¤H,eGFR,30.00,45.00,mL/min/1.73m2,mL/min/1.73m2,Do not initiate therapy; discontinue use if eGFR drops and remains below 45 mL/min/1.73m(2),Micromedex 20200710,201806251351,202007101023
 OKCB,¦¨¤H,eGFR,0,50.00,mL/min/1.73m2,mL/min/1.73m2,Moderate-severe impairment: Avoid use.,,201803191053,201803191053
 OKCIT,¦¨¤H,Clcr,0,0,mL/min,mL/min,µÇ¥\¯à¤£¥þªÌ¥i¯à·|¤Þ°_°ª¦å¹[©ÎÆP¤¤¬r¯gª¬¡AÀ³©w´Á´ú©w¦å¤¤¹q¸Ñ½è§t¶q¡A¥HÁ×§K°Æ§@¥Îµo¥Í,,201804212343,201804212343
 OKEP,¦¨¤H,Clcr,0,30.00,mL/min,mL/min,250 to 500 mg orally every 12 hours,,201804160414,201804160416
@@ -595,11 +595,11 @@ OKET,¦¨¤H,Clcr,0,30.00,mL/min,mL/min,Advanced impairment or patients at risk for
 OKIS,¦¨¤H,eGFR,15.00,29.99,mL/min/1.73m2,mL/min/1.73m2,eGFR 15 to <30 mL/minute/1.73 m2: Reduce initial dose to 200 mg once daily.,,201912230934,
 OKIS0,¦¨¤H,eGFR,15.00,29.99,mL/min/1.73m2,mL/min/1.73m2,eGFR 15 to <30 mL/minute/1.73 m2: Reduce initial dose to 200 mg once daily.,,202107281639,
 OKLA5,¦¨¤H,Clcr,0,30.00,mL/min,mL/min,dose should be reduced 50%,,,
-OKLA5X,¦¨¤H,Clcr,0,30.00,mL/min,mL/min,¦Ù»ÄÓþ¹ø²M²v§C©ó 30 mL/min¤§ÄY­«µÇ¥\¯à¤£¥þ¯f¤H¡A¾¯¶q»Ý´î¥b¡A¤@¯ë«ØÄ³¾¯¶q¬° 250 mg¨C¤Ñ¤@¦¸¡A¦]KlaricidXL¤£¥i­é¥b¡A¬G¤£¥i¥Î©óÄY­«µÇ¥\¯à¤£¥þ¯f¤H¡A¶·§ï¥ÎKlaricidªº³t©ñ¾¯«¬¡C ¦b¸ûÄY­«ªº·P¬V«ØÄ³¾¯¶q¬°250mg¨C¤Ñ¨â¦¸¡A³o¨Ç¯f¤H¤£±o³sÄò¨Ï¥Î¶W¹L14¤Ñ¡C,¥é³æ,202211301030,202211301030
 OKLA5X,¦¨¤H,Clcr,0,29.99,mL/min,mL/min,severe renal impairment: CrCl less than 30 mL/min¡A dose should be reduced 50%,Micromedex 2022/11/30,202211301021,202211301023
-OKLAR,¦¨¤H,Clcr,0,30.00,mL/min,mL/min,In combination with atazanavir or ritonavir:Decrease clarithromycin dose by 75%.,,201807111149,201807111150
-OKLAR,¦¨¤H,Clcr,0,9.99,mL/min,mL/min,Hemodialysis: Administer after HD session is completed.,,201807111147,201807111147
+OKLA5X,¦¨¤H,Clcr,0,30.00,mL/min,mL/min,¦Ù»ÄÓþ¹ø²M²v§C©ó 30 mL/min¤§ÄY­«µÇ¥\¯à¤£¥þ¯f¤H¡A¾¯¶q»Ý´î¥b¡A¤@¯ë«ØÄ³¾¯¶q¬° 250 mg¨C¤Ñ¤@¦¸¡A¦]KlaricidXL¤£¥i­é¥b¡A¬G¤£¥i¥Î©óÄY­«µÇ¥\¯à¤£¥þ¯f¤H¡A¶·§ï¥ÎKlaricidªº³t©ñ¾¯«¬¡C ¦b¸ûÄY­«ªº·P¬V«ØÄ³¾¯¶q¬°250mg¨C¤Ñ¨â¦¸¡A³o¨Ç¯f¤H¤£±o³sÄò¨Ï¥Î¶W¹L14¤Ñ¡C,¥é³æ,202211301030,202211301030
 OKLAR,¦¨¤H,Clcr,0,29.99,mL/min,mL/min,Decrease clarithromycin dose by 50%.,,201807111142,
+OKLAR,¦¨¤H,Clcr,0,9.99,mL/min,mL/min,Hemodialysis: Administer after HD session is completed.,,201807111147,201807111147
+OKLAR,¦¨¤H,Clcr,0,30.00,mL/min,mL/min,In combination with atazanavir or ritonavir:Decrease clarithromycin dose by 75%.,,201807111149,201807111150
 OKLAR,¦¨¤H,Clcr,30.00,60.00,mL/min,mL/min,In combination with atazanavir or ritonavir: Decrease clarithromycin dose by 50%.,,201807111148,201807111147
 OLACS,¦¨¤H,Clcr,0,30.00,mL/min,mL/min,Avoid use. (KDIGO 2012 guideline),,201912091130,
 OLACS,¦¨¤H,Clcr,30.00,60.00,mL/min,mL/min,Temporarily discontinue in patients with intercurrent disease that increases risk of acute kidney injury. (KDIGO 2012 guideline),,201912091130,
@@ -623,8 +623,8 @@ OLIX,¦¨¤H,Clcr,15.00,50.00,mL/min,mL/min,30 mg once daily.,,201804191153,
 OLON,¨àµ£,Clcr,60.00,0,mL/min,mL/min,No dosage adjustment of etodolac is necessary in patients with mild-to-moderate renal failure. However¡A etodolac should be used with caution because it may cause cumulative effects on renal function especially in patients with pre-existing mild-to-moderate renal dysfunction,Micromedex 2020/11/27,202011271213,202011271213
 OLONS,¦¨¤H,Clcr,30.00,0,mL/min,mL/min,There are no dosage adjustments provided in the manufacturer's labeling,,201908051522,
 OLOX,¦¨¤H,eGFR,0,50.00,mL/min/1.73m2,mL/min/1.73m2,There are no dosage adjustment provided in manufacturer's labeling.,,201804191056,
-OLYR,¦¨¤H,Clcr,0,14.99,mL/min,mL/min,Adults: 25 to 75 mg once daily,Micromedex 20200803,202008031440,202008031441
 OLYR,¦¨¤H,Clcr,0,15.00,mL/min,mL/min,­ì¨Ï¥Î600mg BID or TID: 75mg QD. ­ì¨Ï¥Î450mg BID or TID: 50-75mg QD. ­ì¨Ï¥Î300mg BID or TID: 25-50mg QD. ­ì¨Ï¥Î150mg BID or TID: 25mg QD.,¥é³æ,202008031433,202008031432
+OLYR,¦¨¤H,Clcr,0,14.99,mL/min,mL/min,Adults: 25 to 75 mg once daily,Micromedex 20200803,202008031440,202008031441
 OLYR,¦¨¤H,Clcr,14.99,30.00,mL/min,mL/min,Adults: 25 to 150 mg/day given once daily or in 2 divided doses,Micromedex 20200803,202008031439,202008031440
 OLYR,¦¨¤H,Clcr,15.00,30.00,mL/min,mL/min,­ì¨Ï¥Î600mg BID or TID: 150mg QD or BID. ­ì¨Ï¥Î450mg BID or TID: 100-150mg QD or BID. ­ì¨Ï¥Î300mg BID or TID: 75mg QD or BID. ­ì¨Ï¥Î150mg BID or TID: 25-50mg QD or BID.,¥é³æ,201804160453,202008031432
 OLYR,¦¨¤H,Clcr,29.99,60.00,mL/min,mL/min,Adults: 75 to 300 mg/day in 2 to 3 divided doses,Micromedex 20200803,202008031438,202008031438
@@ -708,14 +708,14 @@ ORIBA,¦¨¤H,Clcr,0,29.99,mL/min,mL/min,decrease ribavirin to 200 mg ORALLY once d
 ORIBA,¦¨¤H,Clcr,30.00,50.00,mL/min,mL/min,decrease ribavirin to alternating daily doses of 200 mg and 400 mg ORALLY every other day,,,
 ORIF3,¦¨¤H,Clcr,0,10.00,mL/min,mL/min,50% of the normal daily dose,,,
 ORIF3,¦¨¤H,Clcr,10.00,50.00,mL/min,mL/min,50% to 100% of the normal dose,,,
-ORIF5,¦¨¤H,Clcr,0,0.99,mL/min,mL/min,chronic kidney disease or ESRD and HIV: peritoneal dialysis¡A 50% to 100% of the full dose¡A with an extra 50% to 100% of the full dose after peritoneal dialysis.,Micromedex 20210301,202103010859,
-ORIF5,¦¨¤H,Clcr,0,1.00,mL/min,mL/min,chronic kidney disease or ESRD and HIV: hemodialysis¡A 50% to 100% of the full dose with no supplement following hemodialysis.,Micromedex 20210301,202103010858,
 ORIF5,¦¨¤H,Clcr,0,50.00,mL/min,mL/min,chronic kidney disease or ESRD and HIV: CrCl 50 mL/min or less¡A 50% to 100% of the full dose,Micromedex 20210301,202103010857,
-ORIFA,¦¨¤H,Clcr,0,30.00,mL/min,mL/min,Pyrazinamide: 25 to 35 mg/kg orally 3 times a week,,201803230959,201803231006
+ORIF5,¦¨¤H,Clcr,0,1.00,mL/min,mL/min,chronic kidney disease or ESRD and HIV: hemodialysis¡A 50% to 100% of the full dose with no supplement following hemodialysis.,Micromedex 20210301,202103010858,
+ORIF5,¦¨¤H,Clcr,0,0.99,mL/min,mL/min,chronic kidney disease or ESRD and HIV: peritoneal dialysis¡A 50% to 100% of the full dose¡A with an extra 50% to 100% of the full dose after peritoneal dialysis.,Micromedex 20210301,202103010859,
 ORIFA,¦¨¤H,Clcr,0,9.99,mL/min,mL/min,Rifampin: 50% of the full dose,,201803230958,201803231006
+ORIFA,¦¨¤H,Clcr,0,30.00,mL/min,mL/min,Pyrazinamide: 25 to 35 mg/kg orally 3 times a week,,201803230959,201803231006
 ORIFA,¦¨¤H,Clcr,10.00,50.00,mL/min,mL/min,Rifampin: 50% to 100% of the full dose,,201803230958,201803231006
-ORIFI,¦¨¤H,Clcr,0,9.99,mL/min,mL/min,Rifampin: 50% of the full dose,,201803231003,201803231004
 ORIFI,¦¨¤H,Clcr,0,30.00,mL/min,mL/min,Pyrazinamide: 25 to 35 mg/kg orally 3 times a week,,201803231004,201803231004
+ORIFI,¦¨¤H,Clcr,0,9.99,mL/min,mL/min,Rifampin: 50% of the full dose,,201803231003,201803231004
 ORIFI,¦¨¤H,Clcr,10.00,50.00,mL/min,mL/min,Rifampin: 50% to 100% of the full dose,,201803231003,201803231005
 ORISD,¦¨¤H,Clcr,0,30.00,mL/min,mL/min,Initial¡A 0.5 mg orally twice daily; increase dose in increments of no more than 0.5 mg twice a day¡A with increases to dosages above 1.5 mg twice a day occurring at intervals of at least 1 week,,201804142345,201804142345
 OSAB,¦¨¤H,Clcr,10.00,30.00,mL/min,mL/min,Decrease dose by 75%,,201804160500,201804160500
@@ -723,8 +723,8 @@ OSAB,¦¨¤H,Clcr,30.00,50.00,mL/min,mL/min,Decrease dose by 50%,,201804160500,
 OSAB,¦¨¤H,Clcr,50.00,80.00,mL/min,mL/min,Decrease dose by 25%,,201804160500,
 OSAM,¦¨¤H,Clcr,0,10.00,mL/min,mL/min,¤£«ØÄ³¨Ï¥Î,,201804121434,201804121434
 OSAN1,¦¨¤H,eGFR,0,59.99,mL/min/1.73m2,mL/min/1.73m2,µÇ¯f¯g­Ô¸s ¬°»¤¾É½w¸Ñ§@¥Î¡A«ØÄ³¾¯¶q¬°¦¨¤H¨C¤é¨C¤½¤çÅé­« 5 ²@§J¡C°_©l¾¯¶q¤£À³¶W¹L¨C¤é¨C¤½¤çÅé­«2.5 ²@§J¡C Ãþ­·Àã©ÊÃö¸`ª¢ «e6 ¶g¤§ªvÀøªº«ØÄ³¾¯¶q¬°¨C¤é¨C¤½¤çÅé­« 3 ²@§J¡A¤À¦¨¨â¦¸¡C¤£À³¸Ó¶W¹L¨C¤½¤çÅé­«5 ²@§J¡C­n¹F¨ì³Ì¤jªºÀø®Ä¡B·s Åé·üÀøµ{»Ý­n«ùÄòªø¹F12 ¶g¡C·sÅé·ü°_©l¾¯¶q¬°¨C¤é¨C¤½¤çÅé­«2.5 ²@§J¡B¤À¦¨¨â¦¸µ¹ÃÄ¡A¨Ã¨Ì·Ó¯f±w­@¨ü©Ê¤¹³\¨Ó¼W¥[ªvÀø¾¯¶q¡C °®Å~ «ØÄ³°_©l¾¯¶q¬°¨C¤é¨C¤½¤çÅé­«2.5 ²@§J¤À¦¨¨â¦¸¡C¤£À³¶W¹L¨C¤½¤çÅé­«5 ²@§J¡C,,201804231705,
-OSEB,¦¨¤H,Clcr,0,0,mL/min,mL/min,¦å²G³zªR¯f¤H:600 mg ORALLY every 96 hours¡Agive after hemodialysis,,,
 OSEB,¦¨¤H,Clcr,0,29.99,mL/min,mL/min,600 mg ORALLY every 72 hours,,,
+OSEB,¦¨¤H,Clcr,0,0,mL/min,mL/min,¦å²G³zªR¯f¤H:600 mg ORALLY every 96 hours¡Agive after hemodialysis,,,
 OSEB,¦¨¤H,Clcr,30.00,49.99,mL/min,mL/min,600 mg ORALLY every 48 hours,,,
 OSEF,¦¨¤H,Clcr,0,5.00,mL/min,mL/min,single dose of 400 mg or 9 mg/kg at the end of each hemodialysis session,¦å²G³zªR¯f¤H,,
 OSEF,¦¨¤H,Clcr,5.00,29.00,mL/min,mL/min,100 mg every 24 hours or 2.25 mg/kg every 24 hours,,,
@@ -738,8 +738,8 @@ OSPI,¦¨¤H,eGFR,50.00,0,mL/min/1.73m2,mL/min/1.73m2,°_©l¾¯¶q:12.5 mg to 25 mg ora
 OSUL,¦¨¤H,eGFR,0,30.00,mL/min/1.73m2,mL/min/1.73m2,Avoid use.(KDIGO 2012 guidelines),,201912091238,201912091238
 OSUL,¦¨¤H,eGFR,30.00,60.00,mL/min/1.73m2,mL/min/1.73m2,Temporarily discontinue in patients with intercurrent disease that increases risk of acute kidney injury.(KDIGO 2012 guidelines),,201912091237,201912091237
 OSUL,¦¨¤H,Clcr,0,0,mL/min,mL/min,©úÅãµÇ¥\¯à¤£¥þ¤§¯f±w¡A¥i´î¤Ö¨C¤é¾¯¶q¡AÁ×§KÃÄª«¿n»W,,201804141600,
-OSUN,¦¨¤H,Clcr,0,0,mL/min,mL/min,¦å²G³zªR¯f¤H:µL¶·½Õ¾ã¾¯¶q,,,
 OSUN,¦¨¤H,Clcr,0,29.99,mL/min,mL/min,¨C¤é¤@¦¸100mg,,,
+OSUN,¦¨¤H,Clcr,0,0,mL/min,mL/min,¦å²G³zªR¯f¤H:µL¶·½Õ¾ã¾¯¶q,,,
 OSUT,¦¨¤H,eGFR,0,10.00,mL/min/1.73m2,mL/min/1.73m2,ESRD on hemodialysis: No initial adjustment required; subsequent dosage increases (up to twofold) may be required due to reduced (47%) exposure.,,201804301505,
 OSYN1,¦¨¤H,Clcr,0,20.00,mL/min,mL/min,¸T¥Î,¥é³æ,202012021554,201804160606
 OSYN1,¦¨¤H,Clcr,20.00,30.00,mL/min,mL/min,¥¿±`¾¯¶qªº1/6¡A¨C¤é¤@¦¸ªA¥Î,¥é³æ,202012021554,201804160606
@@ -769,11 +769,11 @@ OTOP5,¦¨¤H,Clcr,0,70.00,mL/min,mL/min,Use 50% of the usual adult dosage,,2018041
 OTRA2,¦¨¤H,Scr,1.36,2.83,mg/dL,mg/dL,Maintenance dose of 10 mg/kg/dose twice daily,,201804231440,
 OTRA2,¦¨¤H,Scr,2.83,5.66,mg/dL,mg/dL,Maintenance dose of 10 mg/kg/dose once daily,,201804231440,
 OTRA2,¦¨¤H,Scr,5.67,99.00,mg/dL,mg/dL,Maintenance dose of 10 mg/kg/dose every 48 hours or 5 mg/kg/dose once daily,,201804231441,
-OTRCT,¦¨¤H,Clcr,0,30.00,mL/min,mL/min,¼W¥[¥»«~ªºµ¹ÃÄ¶¡¹j¡A¨C12¤p®É¤£­n¶W¹L¨â¿õ¡C,¥é³æ,202201111150,202201111151
 OTRCT,¦¨¤H,Clcr,0,30.01,mL/min,mL/min,Do not exceed 2 tablets every 12 hours,Micromedex 20220111,202201111149,202201111150
+OTRCT,¦¨¤H,Clcr,0,30.00,mL/min,mL/min,¼W¥[¥»«~ªºµ¹ÃÄ¶¡¹j¡A¨C12¤p®É¤£­n¶W¹L¨â¿õ¡C,¥é³æ,202201111150,202201111151
 OTRIL,¦¨¤H,Clcr,0,30.00,mL/min,mL/min,ªvÀø¾¯¶qÀ³¬°¤@¯ë°_©l¾¯¶qÀ³¬°¤@¥b(¨C¤Ñ300mg)¡A¦A³vº¥¼W¥[¾¯¶q¥H¹F¨ì²z·QªºÁ{§É®ÄªG,,201804160425,201804160425
-OTRO,¦¨¤H,Clcr,0,70.00,mL/min,mL/min,Use 50% of the usual adult dosage,[Micromedex 20200703],202007051227,202007051230
 OTRO,¦¨¤H,Clcr,0,69.99,mL/min,mL/min,¦bµÇ¥\¯à¤£¥þ¡]¦Ù»ÄÓþ²M°£²v§C©ó 70 mL/min/1.73 m2¡^±wªÌ¤¤¡A«ØÄ³¨Ï¥Î¤@¯ë¦¨¤H¥Î¾¯¶qªº¤@¥b¡C,[¥é³æ],202007011643,202007051229
+OTRO,¦¨¤H,Clcr,0,70.00,mL/min,mL/min,Use 50% of the usual adult dosage,[Micromedex 20200703],202007051227,202007051230
 OTS1,¦¨¤H,Clcr,0,0,mL/min,mL/min,µÇ¥\¯à»ÙÃª¯×±wªÌÀ³Äµ·V§ë»P (¦]5-FU¥NÁÂžJ§í¨î¾¯gimeracil©ó§¿²G¤¤¤§±Æ°£´î¤Ö¡A¨Ï5-FU¦å¤¤¿@«×¤W¤É),ÄY­«µÇ¥\¯à»ÙÃª±wªÌ¤£«ØÄ³¨Ï¥Î,201804261602,201804261605
 OUFR,¦¨¤H,Clcr,0,30.00,mL/min,mL/min,500 to 1000 mg orally every 24 hours (extended-release tablet),,201804160415,201804160415
 OUFR,¦¨¤H,Clcr,30.00,50.00,mL/min,mL/min,500 to 1500 mg orally every 24 hours (extended-release tablet),,201804160415,
@@ -791,8 +791,8 @@ OUROD,¦¨¤H,eGFR,0,50.00,mL/min/1.73m2,mL/min/1.73m2,do not use if GFR less than 
 OUROD,¦¨¤H,eGFR,50.00,99.00,mL/min/1.73m2,mL/min/1.73m2,increase dosing interval to every 8 to 16 hours.,Micromedex 20210913,202109131600,202109131610
 OUROP,¦¨¤H,eGFR,0,50.00,mL/min/1.73m2,mL/min/1.73m2,Avoid use,Micromedex 20200703,201804212354,202007030854
 OUROP,¦¨¤H,eGFR,50.00,99.00,mL/min/1.73m2,mL/min/1.73m2,increase dosing interval to every 8 to 16 hours (Micromedex 20200703) 100 to 200 mg every 8 to 12 hours (UpToDate 20200703),,201804212353,202007030856
-OVAL,¦¨¤H,Clcr,0,0,mL/min,mL/min,¦å²G³zªR¯f¤H:±aª¬¯p¯l:¤@¤Ñ¤@¦¸¡A¨C¦¸1000mg;³æ¯Â¯p¯l:¤@¤Ñ¤@¦¸¡A¨C¦¸500mg;³æ¯Â¯p¯l¤§¹w¨¾:¤@¤Ñ¤@¦¸¡A¨C¦¸250mg(§K¬Ì°·¥þ)¡A¤@¤Ñ¤@¦¸¡A¨C¦¸500mg(§K¬Ì¤£¥þ);¶·¦b¦å²G³zªR§¹µ¹ÃÄ,,,
 OVAL,¦¨¤H,Clcr,0,15.00,mL/min,mL/min,±aª¬¯p¯l:¤@¤Ñ¤@¦¸¡A¨C¦¸1000mg;³æ¯Â¯p¯l:¤@¤Ñ¤@¦¸¡A¨C¦¸500mg;³æ¯Â¯p¯l¤§¹w¨¾:¤@¤Ñ¤@¦¸¡A¨C¦¸250mg(§K¬Ì°·¥þ)¡A¤@¤Ñ¤@¦¸¡A¨C¦¸500mg(§K¬Ì¤£¥þ),,,
+OVAL,¦¨¤H,Clcr,0,0,mL/min,mL/min,¦å²G³zªR¯f¤H:±aª¬¯p¯l:¤@¤Ñ¤@¦¸¡A¨C¦¸1000mg;³æ¯Â¯p¯l:¤@¤Ñ¤@¦¸¡A¨C¦¸500mg;³æ¯Â¯p¯l¤§¹w¨¾:¤@¤Ñ¤@¦¸¡A¨C¦¸250mg(§K¬Ì°·¥þ)¡A¤@¤Ñ¤@¦¸¡A¨C¦¸500mg(§K¬Ì¤£¥þ);¶·¦b¦å²G³zªR§¹µ¹ÃÄ,,,
 OVAL,¦¨¤H,Clcr,15.00,30.00,mL/min,mL/min,±aª¬¯p¯l:¤@¤Ñ¨â¦¸¡A¨C¦¸1000mg;³æ¯Â¯p¯l:¤@¤Ñ¨â¦¸¡A¨C¦¸500mg;³æ¯Â¯p¯l¤§¹w¨¾:¤@¤Ñ¨â¦¸¡A¨C¦¸250mg(§K¬Ì°·¥þ)¡A¤@¤Ñ¨â¦¸¡A¨C¦¸500mg(§K¬Ì¤£¥þ),,,
 OVEM,¦¨¤H,Clcr,0,14.99,mL/min,mL/min,Use is not recommended.,,201812200952,
 OVEP,¦¨¤H,Clcr,0,14.99,mL/min,mL/min,Data not available; consider further dose reductions,,201804301530,
@@ -824,8 +824,8 @@ OWELX,¦¨¤H,eGFR,0,90.00,mL/min/1.73m2,mL/min/1.73m2,Consider reducing dose and/o
 OWIT1,¦¨¤H,Clcr,5.00,29.00,mL/min,mL/min,reduce dosage to 5 mg orally twice daily,Micromedex 2020.06.18,202006181220,202006181222
 OWIT1,¦¨¤H,Clcr,30.00,80.00,mL/min,mL/min,No adjustment necessary,Micromedex 2020.06.18,202006181221,202006181222
 OXAR,¦¨¤H,Clcr,0,15.00,mL/min,mL/min,Avoid use.,,201804191202,
-OXAR,¦¨¤H,Clcr,15.00,30.00,mL/min,mL/min,Nonvalvular atrial fibrillation:15 mg once daily with the evening meal,¥é³æ«ØÄ³Á×§K¨Ï¥Î,201911251230,201911251234
 OXAR,¦¨¤H,Clcr,15.00,50.00,mL/min,mL/min,Nonvalvular atrial fibrillation:15 mg once daily with the evening meal,,201804191203,
+OXAR,¦¨¤H,Clcr,15.00,30.00,mL/min,mL/min,Nonvalvular atrial fibrillation:15 mg once daily with the evening meal,¥é³æ«ØÄ³Á×§K¨Ï¥Î,201911251230,201911251234
 OXAR1,¦¨¤H,Clcr,0,15.00,mL/min,mL/min,Avoid use.,,201804191211,
 OXAR1,¦¨¤H,Clcr,15.00,50.00,mL/min,mL/min,Nonvalvular atrial fibrillation:15 mg once daily with the evening meal.,,201804191211,
 OXAR25,¦¨¤H,Clcr,14.99,0,mL/min,mL/min,CrCl less than 15 mL/min: Avoid use,Micromedex 20201217,202012171447,202012180919
@@ -844,8 +844,8 @@ OXYZ,¦¨¤H,Clcr,10.00,30.00,mL/min,mL/min,2.5 mg twice weekly (every 3 or 4 days)
 OXYZ,¦¨¤H,Clcr,30.00,50.00,mL/min,mL/min,2.5 mg once every other day,,201804231520,
 OXYZ,¦¨¤H,Clcr,50.00,80.00,mL/min,mL/min,2.5 mg once daily,,201804231519,
 OYAZ,¦¨¤H,Clcr,0,0,mL/min,mL/min,µÇ¥\¯à·l¶Ë±wªÌ¤£«ØÄ³¨Ï¥Î,,201804231351,201804231351
-OZAN,¦¨¤H,eGFR,0,30.00,mL/min/1.73m2,mL/min/1.73m2,¸T¥Î©ó¦³­««×¤§¨x¥\¯à¤£¥þ¯f¤H©Î­««×µÇ¥\¯à¤£¥þ¯f¤H(GFR < 30 ml/min)¡A¥]¬A¥¿¦b±µ¨ü¦å²G³zªR©Î¸¡½¤³zªRªº¯f¤H,¥é³æ,201804121532,202007290924
 OZAN,¦¨¤H,eGFR,0,0,mL/min/1.73m2,mL/min/1.73m2,¥»ÃÄ´¿¦b¸¡½¤³zªR¯f¤H¨­¤W¥X²{²V¿Bªº¸¡½¤³zªR¬y¥X²G¡C¦¹²V¿B²{¶H»F¦]©ó¸¡½¤³zªR¬y¥X²G¤¤¸û°ªªº¤T»Ä¥Ìªoà­¿@«×¡C¾÷¨î¤£©ú¡A¦ý¦¹°±¥Îlercanidipne«á¨³³t®ø¥¢¡C¦³¥i¯à±N²V¿Bªº¸¡½¤³zªR¬y¥X²G»~»{¬°·P¬V©Ê¸¡½¤ª¢¡A¶i¦Ó³y¦¨¤£¥²­nªº¦í°|¤Î¸gÅç©Ê§Ü¥Í¯À¬I¥Î¡C,¥é³æ,202007290931,202007290934
+OZAN,¦¨¤H,eGFR,0,30.00,mL/min/1.73m2,mL/min/1.73m2,¸T¥Î©ó¦³­««×¤§¨x¥\¯à¤£¥þ¯f¤H©Î­««×µÇ¥\¯à¤£¥þ¯f¤H(GFR < 30 ml/min)¡A¥]¬A¥¿¦b±µ¨ü¦å²G³zªR©Î¸¡½¤³zªRªº¯f¤H,¥é³æ,201804121532,202007290924
 OZCO,¦¨¤H,eGFR,0,50.00,mL/min/1.73m2,mL/min/1.73m2,There are no dosage adjustments provided in the manufacturer's labeling.,,201804191026,
 OZES,¦¨¤H,Clcr,0,10.00,mL/min,mL/min,°_©l¾¯¶q¬°2.5 mg/¤Ñ,¥]§t³zªR¯f¤H,201804121600,201804121601
 OZES,¦¨¤H,Clcr,10.00,30.00,mL/min,mL/min,°_©l¾¯¶q¬°2.5~5 mg/¤Ñ,,201804121600,

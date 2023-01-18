@@ -2,8 +2,6 @@
 
 ## COVID-19 Vaccine Medigen 0.5mL/dose(10 dose/vial)
 
-##### 停用
-
 | TAH Drug Code      | [ICOVMVC](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ICOVMVC)                                                                                                                                      |
 |:-------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Medigen COVID-19 Vaccine is indicated for active immunization of individuals 20 years of age and older for the prevention of coronavirus disease 2019 (COVID-19).                                               |
@@ -16,8 +14,6 @@
 | Lactation          | Unknown                                                                                                                                                                                                         |
 
 ## COVID-19 Vaccine Novavax 0.5mL/dose (5mL/vial)
-
-##### 停用
 
 | TAH Drug Code      | [ICOVNVV](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ICOVNVV)                                                                                                                                      |
 |:-------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

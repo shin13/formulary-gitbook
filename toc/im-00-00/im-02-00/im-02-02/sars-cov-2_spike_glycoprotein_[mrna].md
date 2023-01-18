@@ -28,8 +28,6 @@
 
 ## BA1雙價Moderna(Covid19) 0.5mL/dose(2.5mL/vial)
 
-##### 停用
-
 | TAH Drug Code      | [ICOMDBA1](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ICOMDBA1)                                                                                                                                                   |
 |:-------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Moderna COVID-19 Vaccine, for active immunization to prevent COVID-19 in individuals 18 years of age and older.                                                                                                                |
@@ -56,8 +54,6 @@
 
 ## COVID-19 Vaccine BioNTech 0.3mL/dose (0.45mL/vial)
 
-##### 停用
-
 | TAH Drug Code      | [ICOVBNT](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ICOVBNT)                                                                   |
 |:-------------------|:---------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | BioNTech COVID-19 Vaccine, for active immunization to prevent COVID-19 in individuals 12 years of age and older.                             |
@@ -70,8 +66,6 @@
 | Lactation          | Unknown                                                                                                                                      |
 
 ## COVID-19 Vaccine Moderna 0.5mL/dose (5mL/vial)
-
-##### 停用
 
 | TAH Drug Code      | [ICOVMDN](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ICOVMDN)                                                                                                             |
 |:-------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

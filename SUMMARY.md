@@ -1050,6 +1050,8 @@
         * [Fluorescein](toc/vs-00-00/vs-01-00/vs-01-05/fluorescein.md)
         * [Indocyanine Green](toc/vs-00-00/vs-01-00/vs-01-05/indocyanine_green.md)
         * [Iodine, Combined Ethyl Ester Of Fatty Acid Oil](toc/vs-00-00/vs-01-00/vs-01-05/iodine,_combined_ethyl_ester_of_fatty_acid_oil.md)
+        * [Methacholine](toc/vs-00-00/vs-01-00/vs-01-05/methacholine.md)
+        * [Patent Blue V](toc/vs-00-00/vs-01-00/vs-01-05/patent_blue_v.md)
 * [附錄](appendix.md)
 * [索引](index.md)
 * [常用連結](links.md)
