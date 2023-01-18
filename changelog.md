@@ -1,5 +1,14 @@
 # 更新歷程
 
+## 0.2.19 - 2023-01-18
+
+* 完成處方集藥品頁面審核。
+* 修復：修改程式碼以正確顯示處方集應包含的藥品。
+* 修復：根據Markdown語法修改HIS藥物諮詢內容，移除了因__~~__造成的刪除線。
+* 變更：調整更新歷程(Change Log)內文呈現方式。
+* 變更：將首頁`參考資料`中 __Drugs in pregnancy and lactation : a reference guide to fetal and neonatal risk, 11th ed.__ 更改為 __Briggs drugs in pregnancy and lactation : a reference guide to fetal and neonatal risk, 12th ed.__。
+* 變更：更新藥品資料庫。
+
 ## 0.2.18 - 2022-11-22
 
 * 更新藥品資料庫。

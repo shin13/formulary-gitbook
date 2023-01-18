@@ -32,11 +32,10 @@
 * [藥品仿單](https://info.fda.gov.tw/MLMS/H0001.aspx)
 * [Micromedex](https://www.micromedexsolutions.com/micromedex2/librarian/ssl/true)
 * [UpToDate \(Lexicomp\)](https://www.uptodate.com/contents/search)
-* [Drugs in pregnancy and lactation: a reference guide to fetal and neonatal risk, 11th ed.](https://erm.tahsda.org.tw/taerm/sendurl_api_v3.jsp?type=0&journal_id=10147)
+* [Briggs drugs in pregnancy and lactation : a reference guide to fetal and neonatal risk, 12th ed.](https://erm.tahsda.org.tw/taerm/sendurl_api_v3.jsp?type=0&journal_id=13092)
 * [Sanford Guide Web Edition](https://webedition.sanfordguide.com/acl_users/credentials_cookie_auth/require_login?came_from=https%3A//webedition.sanfordguide.com/en)
 
 ## 聯繫我們
 
 * **電話**：02-27718151 分機 `2743` or `2742`
 * **院內信箱**：adr@tahsda.org.tw
-

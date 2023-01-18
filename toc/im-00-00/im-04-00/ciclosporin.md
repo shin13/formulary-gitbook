@@ -1,4 +1,4 @@
-# Cyclosporin
+# Ciclosporin
 
 ## Sandimmun Neoral 100mg
 

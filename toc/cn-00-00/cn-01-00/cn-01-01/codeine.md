@@ -13,3 +13,16 @@
 | Pregnancy          | Human (and Animal) Data Suggest Risk                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | Lactation          | Human Data Suggest Potential Toxicity                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 
+## Codeine 30mg 殘餘銷燬
+
+| TAH Drug Code      | [OCODIBAD](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OCODIBAD)   |
+|:-------------------|:-------------------------------------------------------------------------------|
+| Indications        | No Data                                                                        |
+| Dosing             | No Data                                                                        |
+| Hepatic Impairment | No Data                                                                        |
+| Renal Impairment   | No Data                                                                        |
+| Contraindications  | No Data                                                                        |
+| Adverse Effects    | No Data                                                                        |
+| Pregnancy          | No Data                                                                        |
+| Lactation          | No Data                                                                        |
+

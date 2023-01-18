@@ -14,7 +14,7 @@ import numpy as np
 # read drug basic data
 df1 = pd.read_excel('1.藥品基本檔.xlsx')  # 請先開EXCEL把全形逗號換成半形逗號！
 df2 = pd.read_excel('2.藥物諮詢.xlsx')  # 請先開EXCEL把全形逗號換成半形逗號！
-exclude = pd.read_excel('exclude.xlsx')
+# exclude = pd.read_excel('exclude.xlsx')
 
 
 # In[3]:
@@ -24,20 +24,40 @@ exclude = pd.read_excel('exclude.xlsx')
 df1['藥局內部溝通MEMO'] = df1['藥局內部溝通MEMO'].fillna('xx')
 df1_concate = df1[df1['藥局內部溝通MEMO'].str.contains('Rx_o')]
 
+
+# In[4]:
+
+
 # exclude [Rx_x]
 df1 = df1[~df1['藥局內部溝通MEMO'].str.contains('Rx_x')]
 
+
+# In[5]:
+
+
 # drug selection
 df1 = df1[(df1['藥品狀態'] == '可用')]
+
+
+# In[6]:
+
 
 # exclude DC comments
 exclude_list = ['廠商缺貨,可查類似藥', '停用', '廠商缺貨', '停用,可查類似藥']
 df1 = df1[~df1['DC註記'].isin(exclude_list)]
 
-# exclude drugs in exclusion list
-# 之後用 [Rx_x] 取代
-exclude_list = exclude.iloc[:,0].tolist()
-df1 = df1[~df1['藥品代碼'].isin(exclude_list)]
+
+# In[7]:
+
+
+# # exclude drugs in exclusion list
+# # 之後用 [Rx_x] 取代
+# exclude_list = exclude.iloc[:,0].tolist()
+# df1 = df1[~df1['藥品代碼'].isin(exclude_list)]
+
+
+# In[8]:
+
 
 # exclude empty & weird category 2
 df1 = df1.dropna(subset=['藥理分類2'])
@@ -45,7 +65,7 @@ exclude_list2 = ['MEDD', 'ZOTH', 'PHR']
 df1 = df1[~df1['藥理分類2'].isin(exclude_list2)]
 
 
-# In[4]:
+# In[9]:
 
 
 # concate [Rx_o] and drop duplicates
@@ -53,7 +73,7 @@ df1 = pd.concat([df1, df1_concate], ignore_index=True, sort=False)
 df1 = df1.drop_duplicates(subset=['藥品代碼'])
 
 
-# In[5]:
+# In[10]:
 
 
 df1 = df1[['藥品代碼', '商品英文名稱', '商品學名', '藥理分類1', '藥理分類2', 'DC註記']]
@@ -61,7 +81,7 @@ df2 = df2[['藥品代碼', '適應症', '用法用量', '肝功能異常(Y/N)', 
 df = df1.merge(df2, on='藥品代碼', how='left')
 
 
-# In[6]:
+# In[11]:
 
 
 df = df.rename(columns={'藥品代碼': 'TAH Drug Code', '適應症': 'Indications', '用法用量': 'Dosing', '禁忌': 'Contraindications', '副作用': 'Adverse Effects', '肝功能異常(Y/N)': 'Hepatic Impairment', '腎功能異常(Y/N)': 'Renal Impairment', '孕期用藥建議': 'Pregnancy', '哺乳期用藥建議': 'Lactation'})
@@ -70,7 +90,7 @@ df['DC註記'] = df['DC註記'].replace('No Data', '')
 df['DC註記'] = df['DC註記'].replace('臨採藥,請通知藥局外購', '臨採')
 
 
-# In[7]:
+# In[12]:
 
 
 df = df.replace('無需調整劑量', 'Dose adjustment not necessary')
@@ -85,13 +105,13 @@ df = df.replace('Compatible 哺乳時可使用', 'Compatible')
 df = df.replace('Hold Breast Feeding 暫停哺乳', 'Hold Breast Feeding')
 
 
-# In[8]:
+# In[13]:
 
 
 df['Pregnancy'] = df['Pregnancy'].str.title()
 
 
-# In[9]:
+# In[14]:
 
 
 df['Pregnancy'] = df['Pregnancy'].str.replace('3 Rd', '3rd')
@@ -101,13 +121,13 @@ df['Pregnancy'] = df['Pregnancy'].str.replace('In', 'in')
 df['Pregnancy'] = df['Pregnancy'].str.replace('And', 'and')
 
 
-# In[10]:
+# In[15]:
 
 
 df.to_excel('formulary.xlsx', index=0)
 
 
-# In[11]:
+# In[16]:
 
 
 # remove toc folder
@@ -125,7 +145,7 @@ except OSError as e:
     print("Error: %s - %s." % (e.filename, e.strerror))
 
 
-# In[12]:
+# In[17]:
 
 
 # make file directories
@@ -212,7 +232,7 @@ for cat in cat2_li:
             pass
 
 
-# In[13]:
+# In[18]:
 
 
 # add path to each drug (to save markdown files)
@@ -250,7 +270,7 @@ df['drug_name'] = new_li
 df['name_md'] = df['drug_name'] + '.md'
 
 
-# In[14]:
+# In[19]:
 
 
 def combine_str(row):
@@ -275,17 +295,21 @@ df['url'] = df.apply(combine_str, axis=1)
 df = df.sort_values(by=['藥理分類2'])
 
 
-# In[15]:
+# In[20]:
 
 
 df.to_excel('formulary2.xlsx', index=0)
 
 
-# In[16]:
+# In[21]:
 
 
 # write markdown files and save
 cat2_li = df['藥理分類2'].unique().tolist()
+
+
+# In[22]:
+
 
 # go through Category 2
 for cat2 in cat2_li:
@@ -318,7 +342,7 @@ for cat2 in cat2_li:
                     pass
 
                 df_tb = df_name.loc[code,'Indications':'Lactation'].reset_index()
-                col_name = '[' + code + '](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=' + code + ')'
+                col_name = '[' + code + '](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=' + code + ')' 
                 df_tb.columns = ['TAH Drug Code', col_name]
                 
 #                 search_name = name.replace(' ', '-').lower()

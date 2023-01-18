@@ -9,7 +9,7 @@
 | Hepatic Impairment | Dose adjustment not necessary                                                                                                                         |
 | Renal Impairment   | Dose adjustment not necessary                                                                                                                         |
 | Contraindications  | Women & paediatric patients.                                                                                                                          |
-| Adverse Effects    | Impotence, decreased libido & vol of ejaculate.                                                                                                       |
+| Adverse Effects    | Impotence, decreased libido & volume of ejaculate.                                                                                                    |
 | Pregnancy          | Unknown                                                                                                                                               |
 | Lactation          | Unknown                                                                                                                                               |
 

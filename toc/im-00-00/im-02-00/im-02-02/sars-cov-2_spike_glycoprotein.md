@@ -17,6 +17,8 @@
 
 ## COVID-19 Vaccine Novavax 0.5mL/dose (5mL/vial)
 
+##### 停用
+
 | TAH Drug Code      | [ICOVNVV](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ICOVNVV)                                                                                                                                      |
 |:-------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | COVID-19 Vaccine is indicated for active immunization of individuals 18 years of age and older for the prevention of coronavirus disease 2019 (COVID-19).                                                       |
