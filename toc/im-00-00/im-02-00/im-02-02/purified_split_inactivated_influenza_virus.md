@@ -1,18 +1,5 @@
 # Purified Split Inactivated Influenza Virus
 
-## Flucelvax quad (輔流威適流感疫苗) 0.5mL/dose
-
-| TAH Drug Code      | [IFLUCEL](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IFLUCEL)                                                   |
-|:-------------------|:-----------------------------------------------------------------------------------------------------------------------------|
-| Indications        | Active immunisation against influenza.                                                                                       |
-| Dosing             | IM, 0.5 mL, > or = 6 months (< 9 years who have not been vaccinated previously, the second dose can be given after 4 weeks.) |
-| Hepatic Impairment | Dose adjustment not necessary                                                                                                |
-| Renal Impairment   | Dose adjustment not necessary                                                                                                |
-| Contraindications  | History of severe allergic reactions (e.g., anaphylaxis) to any component of the vaccine.                                    |
-| Adverse Effects    | Inj site soreness, fever, malaise, myalgia, headache, GI disturbances, lymphadenitis, oculorespiratory syndrome.             |
-| Pregnancy          | Compatible                                                                                                                   |
-| Lactation          | Compatible                                                                                                                   |
-
 ## 4價自費流感 (VaxigripTetra)0.5mL/dose
 
 | TAH Drug Code      | [IVAXS](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IVAXS)                                                                                                                                                          |

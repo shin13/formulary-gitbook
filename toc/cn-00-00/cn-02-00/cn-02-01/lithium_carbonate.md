@@ -1,4 +1,4 @@
-# Lithium
+# Lithium Carbonate
 
 ## Ligilin 300mg
 

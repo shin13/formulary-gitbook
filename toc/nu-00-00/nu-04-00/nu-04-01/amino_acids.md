@@ -15,14 +15,14 @@
 
 ## Aminosteril infant 10% 100mL
 
-| TAH Drug Code      | [IAMII1](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IAMII1)   |
-|:-------------------|:---------------------------------------------------------------------------|
-| Indications        | No Data                                                                    |
-| Dosing             | No Data                                                                    |
-| Hepatic Impairment | No Data                                                                    |
-| Renal Impairment   | No Data                                                                    |
-| Contraindications  | No Data                                                                    |
-| Adverse Effects    | No Data                                                                    |
-| Pregnancy          | No Data                                                                    |
-| Lactation          | No Data                                                                    |
+| TAH Drug Code      | [IAMII1](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IAMII1)                                                                                                                                                                        |
+|:-------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Indications        | For partial parenteral nutrition in premature infants, babies and small children. Together with corresponding amounts of electrolytes, carbohydrates and fat emulsions as energy donors, the solution may serve for total parenteral nutrition. |
+| Dosing             | Maximum Daily Dosage: 1st year of living: 1.5-2.5 g amino acids/kg body weight; 2nd year of living: 1.5 g amino acids/kg body weight; 3rd-5th year of living: 1.5 g amino acids/kg body weight.                                                 |
+| Hepatic Impairment | Dose adjustment required                                                                                                                                                                                                                        |
+| Renal Impairment   | Dose adjustment required                                                                                                                                                                                                                        |
+| Contraindications  | Disturbances in amino acid metabolism, acidosis, hyperhydration, hypokalemia.                                                                                                                                                                   |
+| Adverse Effects    | Fluid, electrolyte, amino acid imbalance.                                                                                                                                                                                                       |
+| Pregnancy          | Unknown                                                                                                                                                                                                                                         |
+| Lactation          | Unknown                                                                                                                                                                                                                                         |
 
