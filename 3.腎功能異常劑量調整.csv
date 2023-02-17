@@ -63,8 +63,8 @@ ICIP2,成人,Clcr,30.00,120.00,mL/min,mL/min,無須調整劑量,800mg/day,,
 ICIT3,成人,Clcr,0,0,mL/min,mL/min,嚴重腎功能障礙者應謹慎使用,,201804191527,201804191527
 ICLA1,成人,eGFR,0,20.00,mL/min/1.73m2,mL/min/1.73m2,Dose should be reduced by 50%,MICROMEDEX (2020-05-26),202005261654,202005261649
 ICLA1,成人,Clcr,0,0,mL/min,mL/min,H/D: 1 ~ 2g q24h AD CAPD: 1 ~ 2g q24h,仿單,202005261647,202005261649
-ICLA1,成人,Clcr,0,10.00,mL/min,mL/min,1 - 2gm q24h,Sanford Guide(Web) (2020-05-26),202005261658,202005261649
 ICLA1,成人,Clcr,0,9.99,mL/min,mL/min,Loading dose: 1g; Maintenance dose: 50% of normal dose with same freqency,仿單,202005261644,
+ICLA1,成人,Clcr,0,10.00,mL/min,mL/min,1 - 2gm q24h,Sanford Guide(Web) (2020-05-26),202005261658,202005261649
 ICLA1,成人,Clcr,10.00,50.00,mL/min,mL/min,1 - 2gm q12-24h,Sanford Guide(Web) (2020-05-26),202005261657,202005261649
 ICLAR2,成人,Clcr,0,30.00,mL/min,mL/min,[仿單]重度腎功能不全（GFR<30mL/min/1.73m2），應先謹慎評估，如果必須使用，每公斤體重的注射劑量不可超過 0.1 mmol/kg。每次掃描之注射不可超過一次。,,202001121050,202001121053
 ICLEX,成人,Clcr,0,30.00,mL/min,mL/min,DVT prophylaxis in abdominal surgery， hip replacement， knee replacement， or in medical patients during acute illness: SubQ: 30 mg once daily.,,201804191144,
@@ -148,12 +148,12 @@ ILEVET,成人,Clcr,0,0,mL/min,mL/min,End-stage renal disease (ESRD) requiring hemo
 ILEVET,成人,Clcr,30.00,50.00,mL/min,mL/min,250 to 750 mg IVD every 12 hours,,201903240936,201903241015
 ILEVET,成人,Clcr,50.00,80.00,mL/min,mL/min,500 to 1000 mg IVD every 12 hours,,201903240936,201903241015
 ILFT,成人,Clcr,0,4.99,mL/min,mL/min,Loading dose 1-2g， followed by 0.5-1g Q24-48H,UpToDate 2023-01-12,202301121140,202301121139
-ILFT,成人,Clcr,0,9.99,mL/min,mL/min,2 gm q24-48h,Sanford Guide 2023-01-15,202301150907,202301121148
 ILFT,成人,Clcr,0,0,mL/min,mL/min,Loading dose 1-2 g after each hemodialysis; maintenance dose as noted above based on ClCr,Hemodialysis. UpToDate 2023-01-12,202301121148,202301121148
 ILFT,成人,Clcr,0,0.01,mL/min,mL/min,2 gm q24h-48h; extra 1 gm after hemodialysis,Hemodialysis. Sanford Guide 2023-01-15,202301150911,202301121148
+ILFT,成人,Clcr,0,9.99,mL/min,mL/min,2 gm q24-48h,Sanford Guide 2023-01-15,202301150907,202301121148
 ILFT,成人,Clcr,5.00,9.00,mL/min,mL/min,Loading dose 1-2g， followed by 0.5-1g Q12-24H,UpToDate 2023-01-12,202301121140,202301121139
-ILFT,成人,Clcr,10.00,29.00,mL/min,mL/min,Loading dose 1-2g， followed by 1-2g Q12-24H,UpToDate 2023-01-12,202301121139,202301121139
 ILFT,成人,Clcr,10.00,50.00,mL/min,mL/min,2 gm q8-12h,Sanford Guide 2023-01-15,202301150907,202301150909
+ILFT,成人,Clcr,10.00,29.00,mL/min,mL/min,Loading dose 1-2g， followed by 1-2g Q12-24H,UpToDate 2023-01-12,202301121139,202301121139
 ILFT,成人,Clcr,30.00,50.00,mL/min,mL/min,Loading dose 1-2g， followed by 1-2g Q8-12H,UpToDate 2023-01-12,202301121138,202301121138
 ILIG2,成人,Clcr,0,30.00,mL/min,mL/min,Administer maintenance infusion at lower rate with close monitoring,Micromedex 20210217,202102171142,202102171143
 ILIP20,成人,Clcr,0,0,mL/min,mL/min,未接受透析治療之嚴重腎功能不全者不建議使用,,201804261436,201804261436
@@ -221,8 +221,8 @@ ISOO,成人,Clcr,0.10,10.00,mL/min,mL/min,The suggested dose is 250 or 500 mg amox
 ISOO,成人,Clcr,10.00,30.00,mL/min,mL/min,The suggested dose is 250 mg to 500 mg amoxicillin/125 mg clavulanic acid every 12 hours.,Micromedex 20210318,201803051616,202103181205
 ISOO,成人,Clcr,10.00,29.99,mL/min,mL/min,先靜脈注射1劑1.2gm，然後再每12小時0.6gm.,仿單,202103181142,202103181146
 ISOO,成人,Clcr,30.00,60.00,mL/min,mL/min,無須改變劑量,仿單,202103181140,
-ISTO,成人,Clcr,0,0.01,mL/min,mL/min,循環中Cimetidine濃度會因血液透析而降低，因此本品須於透析最後階段給藥。,仿單,202012031652,202012031655
 ISTO,成人,Clcr,0,15.00,mL/min,mL/min,每日二次，每次投與 200 毫克,仿單,202012031653,
+ISTO,成人,Clcr,0,0.01,mL/min,mL/min,循環中Cimetidine濃度會因血液透析而降低，因此本品須於透析最後階段給藥。,仿單,202012031652,202012031655
 ISTO,成人,Clcr,15.00,30.00,mL/min,mL/min,每日三次，每次 200 毫克,仿單,202012031654,
 ISTO,成人,Clcr,30.00,50.00,mL/min,mL/min,每日四次，每次 200 毫克,仿單,202012031655,
 ISUB,成人,Clcr,5.00,14.00,mL/min,mL/min,1.5-3g every 24 hours,,201803261539,
@@ -257,20 +257,20 @@ ITRAN,成人,Scr,5.66,99.00,mg/dL,mg/dL,Maintenance dose of 10 mg/kg/dose every 48
 IVAN1,成人,Clcr,0,0,mL/min,mL/min,Hemodialysis: Less than 70 kg， 1000-mg loading dose and then 500-mg maintenance dose infused over last 30 minutes of dialysis; 70 to 100 kg， 1250-mg loading dose and then 750-mg maintenance dose infused over last 60 minutes of dialysis; greater than 100 kg， 1500-mg loading dose and then 1000-mg maintenance dose infused over last 90 minutes of dialysis,Micromedex 20201123,202011231000,202011231001
 IVAN1,成人,Clcr,60.00,0,mL/min,mL/min,Renal impairment (adult and pediatric): 15 mg/kg initially and then optimize dose and interval based on serum drug concentrations,Micromedex 20201123,202011230958,202011231001
 IVAN1,成人,Clcr,100.00,0,mL/min,mL/min,劑量是每天mg之腎絲球過濾速率ml/min 的15倍，請依此參照100mL/min:1545mg/24hr; 90mL/min:1390mg/24hr; 80mL/min:1235mg/24hr; 70mL/min:1080mg/24hr; 60mL/min:925mg/24hr; 50mL/min:770mg/24hr; 40mL/min:620mg/24hr; 30mL/min:465mg/24hr; 20mL/min:310mg/24hr; 10mL/min:155mg/24hr;最初劑量不可少於15mg/kg，對中度至重度腎不全患者亦同。,仿單,202011230948,202011231001
-IVANS,成人,eGFR,0,15.00,mL/min/1.73m2,mL/min/1.73m2,<60kg:750mg; 60-80kg:1000mg; 81-100kg:1250mg; >100kg:1500mg.Check a random vancomycin level in 24 hours after the dose. If random level is =<20 mcg/mL， repeat the dose. If random level is >20 mcg/mL， do not redose; repeat random level in 12 hours.,[UpToDate on 2020-05-07],202005071141,202005071142
 IVANS,成人,eGFR,0,0,mL/min/1.73m2,mL/min/1.73m2,End-stage renal disease on intermittent hemodialysis (administer after hemodialysis on dialysis days): Following loading dose of 15 to 25 mg/kg， give either 500 to 1，000 mg or 5 to 10 mg/kg after each dialysis session. Note: Dosing dependent on the assumption of 3 times/week， complete IHD sessions.,[UpToDate on 2020-05-07],202005071143,202005071145
+IVANS,成人,eGFR,0,15.00,mL/min/1.73m2,mL/min/1.73m2,<60kg:750mg; 60-80kg:1000mg; 81-100kg:1250mg; >100kg:1500mg.Check a random vancomycin level in 24 hours after the dose. If random level is =<20 mcg/mL， repeat the dose. If random level is >20 mcg/mL， do not redose; repeat random level in 12 hours.,[UpToDate on 2020-05-07],202005071141,202005071142
 IVANS,成人,eGFR,15.00,49.00,mL/min/1.73m2,mL/min/1.73m2,<60kg:750mg Q24H; 60-80kg:1000mg Q24H; 81-100kg:1250mg Q24H; >100kg:1500mg Q24H,[UpToDate on 2020-05-07],202005071138,
 IVANS,成人,eGFR,50.00,90.00,mL/min/1.73m2,mL/min/1.73m2,<60kg:750mg Q12H; 60-80kg:1000mg Q12H; 81-100kg:1250mg Q12H; >100kg:1000mg Q8H,[UpToDate on 2020-05-07],202005071137,202005071140
 IVANS,成人,eGFR,90.00,999.00,mL/min/1.73m2,mL/min/1.73m2,<60kg:750mg Q8H; 60-80kg:1000mg Q8H; 81-100kg:1250mg Q8H; >100kg:1500mg Q8H,[UpToDate on 2020-05-07],202005071134,202005071139
-IVANS,成人,Clcr,0,10.00,mL/min,mL/min,7.5mg/kg Q2D-Q3D,[Sanford Guide - Antimicrobial on 2020-05-07],202005071202,202005071200
 IVANS,成人,Clcr,0,0,mL/min,mL/min,7.5mg/kg Q2D-Q3D; at end of hemodialysis on dialysis days: next hemodialysis in 1 day: 15mg/kg; 2 day: 25mg/kg; 3days: 35mg/kg,[Sanford Guide - Antimicrobial on 2020-05-07],202005071208,202005071200
+IVANS,成人,Clcr,0,10.00,mL/min,mL/min,7.5mg/kg Q2D-Q3D,[Sanford Guide - Antimicrobial on 2020-05-07],202005071202,202005071200
 IVANS,成人,Clcr,10.00,100.00,mL/min,mL/min,每日劑量（mg）約為腎絲球濾過率（ml/min）的15倍(穩定狀況下的腎功能),[仿單],,202005071209
 IVANS,成人,Clcr,10.00,50.00,mL/min,mL/min,15mg/kg Q24-96h,[Sanford Guide - Antimicrobial on 2020-05-07],202005071201,202005071200
 IVANS,成人,Clcr,50.00,120.00,mL/min,mL/min,15mg/KG Q12H,[仿單],,202005071210
 IVANS,成人,Clcr,50.00,90.00,mL/min,mL/min,15-30mg/kg Q12h,[Sanford Guide - Antimicrobial on 2020-05-07],202005071200,202005071200
 IVC5,成人,eGFR,0,30.00,mL/min/1.73m2,mL/min/1.73m2,ESRD (requiring hemodialysis): Adults: IV， Oral: 60 to 100 mg once daily is sufficient to prevent serious ascorbate deficiency due to loss from dialysis; doses >100 mg daily may lead to secondary oxalosis and renal oxalate stone formation.,,201804231727,
-IVEK,成人,eGFR,0,30.00,mL/min/1.73m2,mL/min/1.73m2,成人、嬰兒、兒童及較大兒童: 不建議使用。只有在潛在效益超越潛在風險的情況下才可考慮投予,仿單,202106091140,202301041112
 IVEK,成人,eGFR,0,29.99,mL/min/1.73m2,mL/min/1.73m2,Use not recommended. Remdesivir pharmacokinetics have not been evaluated in patients with renal impairment; possible accumulation of the excipient betadex sulfobutyl ether sodium may occur in patients with decreased renal function.,Micromedex 20210609,202106091143,202301041111
+IVEK,成人,eGFR,0,30.00,mL/min/1.73m2,mL/min/1.73m2,成人、嬰兒、兒童及較大兒童: 不建議使用。只有在潛在效益超越潛在風險的情況下才可考慮投予,仿單,202106091140,202301041112
 IVEKS,成人,eGFR,0,29.99,mL/min/1.73m2,mL/min/1.73m2,Use not recommended. Remdesivir pharmacokinetics have not been evaluated in patients with renal impairment; possible accumulation of the excipient betadex sulfobutyl ether sodium may occur in patients with decreased renal function.,Micromedex 20210609,202301041111,
 IVEKS,成人,eGFR,0,30.00,mL/min/1.73m2,mL/min/1.73m2,成人、嬰兒、兒童及較大兒童: 不建議使用。只有在潛在效益超越潛在風險的情況下才可考慮投予。,仿單,202301041111,
 IVER,成人,Clcr,0,0,mL/min,mL/min,If repeated IV doses are necessary， give smaller doses and closely monitor PR interval and blood pressure,,201804121510,201804121510
@@ -301,8 +301,8 @@ LBIS,成人,eGFR,0,50.00,mL/min/1.73m2,mL/min/1.73m2,There are no dosage adjustmen
 LCAR,成人,Clcr,0,0,mL/min,mL/min,腎功能障礙及無尿排泄病人，半衰期可能延長至100小時，因此可能需要減少維持劑量。,,201804120035,201804120035
 LCEF,成人,Clcr,0,10.00,mL/min,mL/min,creatinine clearance less than 10 mL/minute， 50% of the normal dose,Micromedex 20210105,202101051508,
 LCEF,成人,Clcr,10.00,50.00,mL/min,mL/min,creatinine clearance 10 to 50 mL/minute， 50% to 100% of the normal dose,Micromedex 20210105,202101051507,
-LCET,成人,eGFR,0,49.90,mL/min/1.73m2,mL/min/1.73m2,5 mg once daily,,201804231453,
 LCET,成人,eGFR,0,0,mL/min/1.73m2,mL/min/1.73m2,Intermittent hemodialysis: 5 mg once daily; 5 mg 3 times per week may also be effective.,,201804231454,
+LCET,成人,eGFR,0,49.90,mL/min/1.73m2,mL/min/1.73m2,5 mg once daily,,201804231453,
 LCET,兒童,eGFR,0,0,mL/min/1.73m2,mL/min/1.73m2,腎功能不全的患者服用本藥時，其劑量應減半,,201804250002,201804250002
 LCLO,兒童,eGFR,0,0,mL/min/1.73m2,mL/min/1.73m2,明顯腎功能損害者禁用,[仿單],202006161022,202006161022
 LCOFS,成人,eGFR,0,50.00,mL/min/1.73m2,mL/min/1.73m2,There are no dosage adjustments provided in the manufacturer's labeling.,,201804191045,
@@ -387,8 +387,8 @@ OBAR,成人,Clcr,49.00,30.00,mL/min,mL/min,Administer 50% of usual dose daily or a
 OBAR1,成人,Clcr,10.00,0,mL/min,mL/min,Administer 10% of usual dose daily or administer the normal dose every 7 days; administer after hemodialysis,UpToDate,202004021455,202004021457
 OBAR1,成人,Clcr,29.00,10.00,mL/min,mL/min,Administer 30% of usual dose daily or administer the normal dose every 72 hours,UpToDate,202004021456,202004021457
 OBAR1,成人,Clcr,49.00,30.00,mL/min,mL/min,Administer 50% of usual dose daily or administer the normal dose every 48 hours,UpToDate,202004021456,202004021457
-OBECA,成人,Clcr,0,9.99,mL/min,mL/min,0.05 mg ORALLY once daily (preferred) or 0.5 mg ORALLY once every 7 days; lamivudine-refractory or decompensated liver disease， 0.1 mg ORALLY once daily (preferred) or 1 mg ORALLY once every 7 days.,,,
 OBECA,成人,Clcr,0,0,mL/min,mL/min,血液透析病人:0.05 mg ORALLY once daily (preferred) or 0.5 mg ORALLY once every 7 days; lamivudine-refractory or decompensated liver disease， 0.1 mg ORALLY once daily (preferred) or 1 mg ORALLY once every 7 days; on hemodialysis days， administer after hemodialysis.,,,
+OBECA,成人,Clcr,0,9.99,mL/min,mL/min,0.05 mg ORALLY once daily (preferred) or 0.5 mg ORALLY once every 7 days; lamivudine-refractory or decompensated liver disease， 0.1 mg ORALLY once daily (preferred) or 1 mg ORALLY once every 7 days.,,,
 OBECA,成人,Clcr,10.00,29.99,mL/min,mL/min,0.15 mg ORALLY once daily (preferred) or 0.5 mg ORALLY every 72 hours; lamivudine-refractory or decompensated liver disease， 0.3 mg ORALLY once daily (preferred) or 1 mg ORALLY once every 72 hours.,,,
 OBECA,成人,Clcr,30.00,49.99,mL/min,mL/min,0.25 mg ORALLY once daily (preferred) or 0.5 mg ORALLY once every 48 hours; lamivudine-refractory or decompensated liver disease， 0.5 mg ORALLY once daily (preferred) or 1 mg ORALLY once every 48 hours.,,,
 OBET2,成人,eGFR,15.00,29.00,mL/min/1.73m2,mL/min/1.73m2,重度腎功能不全病患每日劑量不可超過 25mg 一天一次,,201804212243,201804212243
@@ -401,6 +401,7 @@ OBET5,成人,Clcr,15.00,29.00,mL/min,mL/min,每日劑量不可超過25 mg一天一次。,仿單,2
 OBIN,成人,Clcr,0,35.00,mL/min,mL/min,不建議使用,,201804120000,201804120000
 OBLO,成人,Clcr,0,15.00,mL/min,mL/min,對於重度或末期腎功能不全者(肌酸酐廓清率＜15mL/min)之臨床使用經驗有限。對於這些病患， 應該根據觀察血壓的監測小心逐次調整劑量。,仿單,202011130831,202011130834
 OBLO,成人,Clcr,15.00,60.00,mL/min,mL/min,對於腎功能不全者，包括正在進行血液透析的患者，起始劑量為4mg，再根據患者反應逐次調整劑量。,仿單,202011130835,202011130834
+OBMZ,成人,Clcr,0,0,mL/min,mL/min,Renal impairment: initiate therapy at a very low dose,Micromedex 20230209,202302091749,202302091749
 OBOK,成人,Clcr,0,9.90,mL/min,mL/min,The manufacturer recommends avoiding in patients with CrCl <10 mL/minute.,,201804191223,
 OBONE,成人,Clcr,0,30.00,mL/min,mL/min,每天800mg,,201804120002,201804120002
 OBONE,成人,Clcr,30.00,50.00,mL/min,mL/min,每天1200mg,,201804120002,
@@ -507,11 +508,11 @@ OEBI,成人,Clcr,5.00,49.00,mL/min,mL/min,中度受損(Clcr:30-49)及重度受損(Clcr:5-29
 OEFE7,成人,eGFR,10.00,70.00,mL/min/1.73m2,mL/min/1.73m2,建議降低25-50%用量開始治療。,血液透析法治療之患者，建議以降低50%之用量開始治療，且等血液透析(四小時)完成後再服用藥物,201804150053,
 OEFI3,成人,Clcr,0,50.00,mL/min,mL/min,No dosage adjustment is necessary for patients with renal impairment; however， there is limited information in patients with end-stage renal disease,,202004021107,
 OELI,成人,Scr,1.50,7.00,mg/dL,mg/dL,血清肌酸酐大於或等於1.5mg/dL，且併有年齡大於等於80歲或體重小於等於60公斤，建議劑量為2.5mg，一天兩次。,仿單,202201251635,202201251637
-OELI,成人,Clcr,0,14.99,mL/min,mL/min,Avoid use in severe renal impairment.,,201807011130,
-OELI,成人,Clcr,15.00,29.99,mL/min,mL/min,2.5 mg twice daily.,,201807011129,
+OELI,成人,Clcr,0,14.99,mL/min,mL/min,Avoid use in severe renal impairment.,仿單,201807011130,202302161158
+OELI,成人,Clcr,15.00,29.99,mL/min,mL/min,用於中風預防:2.5 mg twice daily. 用於DVT/PE:謹慎使用。,仿單,201807011129,202302161158
 OELI2,成人,Scr,1.50,7.00,mg/dL,mg/dL,血清肌酸酐大於或等於1.5mg/dL，且併有年齡大於等於80歲或體重小於等於60公斤，建議劑量為2.5mg，一天兩次。,仿單,202201251640,202201251637
-OELI2,成人,Clcr,0,14.99,mL/min,mL/min,Avoid use in severe renal impairment.,,201908071537,
-OELI2,成人,Clcr,15.00,29.99,mL/min,mL/min,2.5 mg twice daily.,,201908071537,
+OELI2,成人,Clcr,0,14.99,mL/min,mL/min,Avoid use in severe renal impairment.,仿單,201908071537,202302161200
+OELI2,成人,Clcr,15.00,29.99,mL/min,mL/min,用於中風預防:2.5 mg twice daily. 用於DVT/PE:謹慎使用。,仿單,201908071537,202302161200
 OEND,成人,Clcr,0,10.00,mL/min,mL/min,嚴重腎功能不全者，則降低50%的劑量,,201804261547,202106181414
 OENTR,成人,eGFR,0,30.00,mL/min/1.73m2,mL/min/1.73m2,建議起始劑量為每日2次50mg,依患者耐受情況，每2至4周加倍Entresto的劑量，達到每日2次200mg的目標維持劑量,201804130633,201804130633
 OENZI,成人,Clcr,0,15.00,mL/min,mL/min,200 mg orally every 7 days,,201806141747,201806141747

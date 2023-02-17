@@ -5,7 +5,7 @@
 | TAH Drug Code      | [OSUZ](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OSUZ)                                                                                                      |
 |:-------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Prophylaxis of migraine, maintenance treatment of cerebral circulation disorders.                                                                                         |
-| Dosing             | 10 mg BID for 4 weeks.                                                                                                                                                    |
+| Dosing             | 5-10 mg once daily in the evening (at bedtime)                                                                                                                            |
 | Hepatic Impairment | Dose adjustment not necessary                                                                                                                                             |
 | Renal Impairment   | Dose adjustment not necessary                                                                                                                                             |
 | Contraindications  | Hypersensitivity to flunarizine or any component of the formulation; history of depression; preexisting symptoms of Parkinson disease, or other extrapyramidal disorders. |

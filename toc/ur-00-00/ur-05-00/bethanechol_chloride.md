@@ -1,4 +1,4 @@
-# Bethanechol
+# Bethanechol Chloride
 
 ## Dampurine 25mg
 
