@@ -1,15 +1,15 @@
 # Mebeverine
 
-## Dobecon 100mg
+## Padalin 100mg
 
-| TAH Drug Code      | [ODOB](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ODOB)                                                                                                                                                                                                                                |
-|:-------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Indications        | Diarrhea, abdominal pain & flatulence due to irritable colon, diverticulitis                                                                                                                                                                                                                        |
-| Dosing             | Adult: The usual oral adult dose of mebeverine hydrochloride for irritable bowel syndrome is one 100 mg tablet 3 times daily taken with fluids 20 minutes before a meal. The dosage of mebeverine may be reduced gradually after a few weeks of treatment, if the desired effect has been achieved. |
-| Hepatic Impairment | Dose adjustment not necessary                                                                                                                                                                                                                                                                       |
-| Renal Impairment   | Dose adjustment not necessary                                                                                                                                                                                                                                                                       |
-| Contraindications  | 1. Hypersensitivity to mebeverine 2.Severe hepatic impairment 3.Cystic fibrosis                                                                                                                                                                                                                     |
-| Adverse Effects    | Skin rash, hives, dizziness, headache                                                                                                                                                                                                                                                               |
-| Pregnancy          | Unknown                                                                                                                                                                                                                                                                                             |
-| Lactation          | Unknown                                                                                                                                                                                                                                                                                             |
+| TAH Drug Code      | [OPAD](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OPAD)                                                                                  |
+|:-------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Indications        | Gastrointestinal tract spasm, enteritis, gastritis, irritable bowel syndrome.                                                                         |
+| Dosing             | Adult: 200 mg bid, before meals.                                                                                                                      |
+| Hepatic Impairment | Dose adjustment not necessary                                                                                                                         |
+| Renal Impairment   | Dose adjustment not necessary                                                                                                                         |
+| Contraindications  | Hypersensitivity to mebeverine. Paralytic ileus. Severe hepatic impairment.                                                                           |
+| Adverse Effects    | Dizziness, drowsiness, headache, constipation, nausea, loss of appetite, allergies, hypersensitivity (e.g. urticaria, erythematous rash, angioedema). |
+| Pregnancy          | Unknown                                                                                                                                               |
+| Lactation          | Unknown                                                                                                                                               |
 
