@@ -1,15 +1,15 @@
 # Clindamycin
 
-## Cleocin T gel 1% 30gm
+## Royalsense acne gel 1% 20gm
 
-| TAH Drug Code      | [ECLT](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ECLT)                                                                                                                                       |
-|:-------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Indications        | Acne vulgaris.                                                                                                                                                                                             |
-| Dosing             | Apply a thin film of Cleocin T twice daily to affected area. More than one pledget may be used. Each pledget should be used only once and then be discarded.                                               |
-| Hepatic Impairment | Dose adjustment not necessary                                                                                                                                                                              |
-| Renal Impairment   | Dose adjustment not necessary                                                                                                                                                                              |
-| Contraindications  | Individuals with a history of hypersensitivity to preparations containing clindamycin or lincomycin, a history of regional enteritis or ulcerative colitis, or a history of antibiotic-associated colitis. |
-| Adverse Effects    | Skin dryness, skin irritation, oiliness, contact dermatitis, gm-ve folliculitis, stinging of the eye.                                                                                                      |
-| Pregnancy          | Compatible                                                                                                                                                                                                 |
-| Lactation          | Compatible                                                                                                                                                                                                 |
+| TAH Drug Code      | [EROY](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EROY)                                                                        |
+|:-------------------|:--------------------------------------------------------------------------------------------------------------------------------------------|
+| Indications        | Acne vulgaris.                                                                                                                              |
+| Dosing             | Apply twice daily to affected area.                                                                                                         |
+| Hepatic Impairment | Dose adjustment not necessary                                                                                                               |
+| Renal Impairment   | Dose adjustment not necessary                                                                                                               |
+| Contraindications  | Allergic to Clindamycin or Lincomycin. Patients with a history of regional enteritis, ulcerative colitis, or antibiotic-associated colitis. |
+| Adverse Effects    | Skin rash, itching, redness, swelling dryness, scaliness, peeling of skin.                                                                  |
+| Pregnancy          | Compatible                                                                                                                                  |
+| Lactation          | Compatible                                                                                                                                  |
 
