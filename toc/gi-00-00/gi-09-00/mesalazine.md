@@ -17,16 +17,16 @@
 
 ## Colasa enema 2gm/100mL
 
-| TAH Drug Code      | [ECOL2](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ECOL2)                                                                                           |
-|:-------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Indications        | Treatment of active mild to moderate distal ulcerative colitis, proctosigmoiditis, or proctitis                                                                  |
-| Dosing             | 2-4 gm (1 to 2 bottles) at night.                                                                                                                                |
-| Hepatic Impairment | Dose adjustment not necessary                                                                                                                                    |
-| Renal Impairment   | Dose adjustment not necessary                                                                                                                                    |
-| Contraindications  | Hypersensitivity to mesalamine, salicylates, or any component of the formulation; severe renal impairment (GFR <30 mL/minute/1.73 m2); severe hepatic impairment |
-| Adverse Effects    | Nausea, diarrhea, abdominal pain, headache                                                                                                                       |
-| Pregnancy          | Compatible                                                                                                                                                       |
-| Lactation          | No (Limited) Human Data - Probably Compatible                                                                                                                    |
+| TAH Drug Code      | [ECOL2](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ECOL2)                                                                                                                                            |
+|:-------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Indications        | Treatment of active mild to moderate distal ulcerative colitis, proctosigmoiditis, or proctitis                                                                                                                   |
+| Dosing             | Adults: 2gm-4gm once at night. Children: Dose is not determined.                                                                                                                                                  |
+| Hepatic Impairment | Dose adjustment required                                                                                                                                                                                          |
+| Renal Impairment   | Dose adjustment required                                                                                                                                                                                          |
+| Contraindications  | Hypersensitivity to mesalazine or any component in the preparation. History of hypersensitivity to salicylate preparations. Severe liver impairment. Severe renal impairment (GFR less than 30 ml/minute/1.73m2). |
+| Adverse Effects    | Nausea, diarrhea, abdominal pain, headache                                                                                                                                                                        |
+| Pregnancy          | Compatible                                                                                                                                                                                                        |
+| Lactation          | No (Limited) Human Data - Probably Compatible                                                                                                                                                                     |
 
 ## MezaVant XL 1200mg prolonged release
 

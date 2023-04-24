@@ -4,7 +4,7 @@
 
 | TAH Drug Code      | [INS1](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=INS1)   |
 |:-------------------|:-----------------------------------------------------------------------|
-| Indications        | 為食鹽水沖洗液(A001085209)                                                    |
+| Indications        | 為食鹽水沖洗液(A001085209)                                             |
 | Dosing             | Individualized dosage.                                                 |
 | Hepatic Impairment | Dose adjustment not necessary                                          |
 | Renal Impairment   | Dose adjustment not necessary                                          |
@@ -17,7 +17,7 @@
 
 | TAH Drug Code      | [INS2](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=INS2)   |
 |:-------------------|:-----------------------------------------------------------------------|
-| Indications        | 為生理食鹽水(N009997238)                                                     |
+| Indications        | 為生理食鹽水(N009997238)                                               |
 | Dosing             | 20-1000 mL SC/IV/IV infusion. May use as diluent.                      |
 | Hepatic Impairment | Dose adjustment not necessary                                          |
 | Renal Impairment   | Dose adjustment not necessary                                          |
@@ -30,7 +30,7 @@
 
 | TAH Drug Code      | [INS250](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=INS250)   |
 |:-------------------|:---------------------------------------------------------------------------|
-| Indications        | 為生理食鹽水注射液(A001085265)                                                      |
+| Indications        | 為生理食鹽水注射液(A001085265)                                             |
 | Dosing             | Individualized dosage.                                                     |
 | Hepatic Impairment | Dose adjustment not necessary                                              |
 | Renal Impairment   | Dose adjustment not necessary                                              |
@@ -56,7 +56,7 @@
 
 | TAH Drug Code      | [INS45](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=INS45)   |
 |:-------------------|:-------------------------------------------------------------------------|
-| Indications        | 為0.45 % 食鹽水注射液(A036014277)                                               |
+| Indications        | 為0.45 % 食鹽水注射液(A036014277)                                        |
 | Dosing             | IV infusion as needed.                                                   |
 | Hepatic Impairment | Dose adjustment not necessary                                            |
 | Renal Impairment   | Dose adjustment required                                                 |
@@ -82,7 +82,7 @@
 
 | TAH Drug Code      | [INS5](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=INS5)   |
 |:-------------------|:-----------------------------------------------------------------------|
-| Indications        | 為生理食鹽水注射液(A001085277)                                                  |
+| Indications        | 為生理食鹽水注射液(A001085277)                                         |
 | Dosing             | IV infusion as needed.                                                 |
 | Hepatic Impairment | Dose adjustment not necessary                                          |
 | Renal Impairment   | Dose adjustment not necessary                                          |
