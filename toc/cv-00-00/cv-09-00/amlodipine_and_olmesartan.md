@@ -1,15 +1,15 @@
 # Amlodipine + Olmesartan
 
-## Sevikar 5/20mg
+## SEVIKAR 5/40mg (大劑量)
 
-| TAH Drug Code      | [OSEV](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OSEV)                    |
-|:-------------------|:----------------------------------------------------------------------------------------|
-| Indications        | Treatment of HTN. Not indicated for the initial therapy.                                |
-| Dosing             | HTN initial: 1 tablet QD, after 2 weeks may titrate up to 2 tablet QD (maximum 10/40mg) |
-| Hepatic Impairment | Dose adjustment required                                                                |
-| Renal Impairment   | Dose adjustment not necessary                                                           |
-| Contraindications  | Pregnancy.                                                                              |
-| Adverse Effects    | Edema, dizziness, flushing, palpitation, somnolence.                                    |
-| Pregnancy          | Human Data Suggest Risk in 2nd and 3rd Trimesters                                       |
-| Lactation          | No (Limited) Human Data - Probably Compatible                                           |
+| TAH Drug Code      | [OSEV3](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OSEV3)                                                                                                                                                                                                 |
+|:-------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Indications        | Management of hypertension, not recommended for initial therapy.                                                                                                                                                                                                       |
+| Dosing             | Initial: 5/20 mg q24h. After 2 weeks of treatment, the dose can be increased to 10/40 mg q24h as needed (Max: 10/40mg). If blood pressure control is still not ideal, alternative treatments can be considered, such as increasing the dose of one or both components. |
+| Hepatic Impairment | Dose adjustment required                                                                                                                                                                                                                                               |
+| Renal Impairment   | Dose adjustment not necessary                                                                                                                                                                                                                                          |
+| Contraindications  | Combined use of Sevikar and drugs containing aliskiren in patients with diabetes or renal insufficiency (GFR<60ml/min/1.73 m2). Known hypersensitivity to Sevikar or any of its components.                                                                            |
+| Adverse Effects    | Peripheral edema (dose related: 18-26%), anaphylaxis, hypotension, nocturia, orthostatic hypotension, palpitations, pruritus, skin rash, urinary frequency.                                                                                                            |
+| Pregnancy          | Unknown                                                                                                                                                                                                                                                                |
+| Lactation          | Unknown                                                                                                                                                                                                                                                                |
 
