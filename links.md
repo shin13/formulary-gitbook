@@ -7,4 +7,6 @@
 * [健保藥品給付規定](https://www.nhi.gov.tw/Content_List.aspx?n=E70D4F1BD029DC37&topn=5FE8C9FEAE863B46)📑 
 
 
+### 電子書
 
+* [Brigg's Drugs in Pregnancy and Lactation: A Reference Guide to Fetal and Neonatal Risk 12th](https://wolterskluwer.vitalsource.com/reader/books/9781975162405/epubcfi/6/2%5b%3Bvnd.vst.idref%3Dcover%5d!/4/2/2/2%4091:40)
