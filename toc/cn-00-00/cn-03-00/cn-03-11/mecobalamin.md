@@ -26,3 +26,16 @@
 | Pregnancy          | Unknown                                                                                                                             |
 | Lactation          | Unknown                                                                                                                             |
 
+## METHYCOBAL 500mcg
+
+| TAH Drug Code      | [OMTCB](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OMTCB)                                                                                                                                                  |
+|:-------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Indications        | Peripheral neuropathies, megaloblastic anaemia caused by vit B12 deficiency.                                                                                                                                            |
+| Dosing             | Adult: 500mcg TID PO. May adjust dosage according to patient's age and synptoms.                                                                                                                                        |
+| Hepatic Impairment | Dose adjustment not necessary                                                                                                                                                                                           |
+| Renal Impairment   | Dose adjustment not necessary                                                                                                                                                                                           |
+| Contraindications  | Hypersensitivity to mecobalamin, cobalt, vitamin B12, or any component of the product.                                                                                                                                  |
+| Adverse Effects    | Common: Asthenia (4-16%), Headache (4-20%), Paresthesia (4%), Stomach discomfort, Loss of appetite, Nausea, Diarrhea, Rash. Serious: Congestive heart failure, Pulmonary edema, Thrombosis, Anaphylaxis, Optic atrophy. |
+| Pregnancy          | Compatible                                                                                                                                                                                                              |
+| Lactation          | Compatible                                                                                                                                                                                                              |
+
