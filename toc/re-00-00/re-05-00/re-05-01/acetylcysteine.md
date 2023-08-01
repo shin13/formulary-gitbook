@@ -1,18 +1,5 @@
 # Acetylcysteine
 
-## ACC 600mg 發泡錠
-
-| TAH Drug Code      | [OACC6](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OACC6)                                                                                                                                                                     |
-|:-------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Indications        | Acute & chronic respiratory tract infections with abundant mucous secretions. All forms of bronchitis, emphysema & bronchopulmonary complications with mucostasis; bronchial catarrh associated with pulmonary tubercular forms.           |
-| Dosing             | Effervescent tab Adult & children > 6 years 1 effervescent TAB QD- BID.                                                                                                                                                                    |
-| Hepatic Impairment | Dose adjustment not necessary                                                                                                                                                                                                              |
-| Renal Impairment   | Dose adjustment not necessary                                                                                                                                                                                                              |
-| Contraindications  | Effervescent tab Phenylketonuria.                                                                                                                                                                                                          |
-| Adverse Effects    | Bronchospasm, GI upsets, stomatitis; rhinorrhea, fever, hemoptysis; rarely anaphylactic reactions. Dermatologic: Pruritus (1% to 4.3% ), Rash (4% to 5% ), Urticaria Gastrointestinal: Diarrhea, Nausea (2% to 7% ), Vomiting (9% to 12% ) |
-| Pregnancy          | Compatible – Maternal Benefit >> Embryo-Fetal Risk                                                                                                                                                                                         |
-| Lactation          | No (Limited) Human Data - Probably Compatible                                                                                                                                                                                              |
-
 ## Actein 100mg/2.5gm
 
 | TAH Drug Code      | [OACT40](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OACT40)                                                                                                                                                                   |
@@ -25,4 +12,17 @@
 | Adverse Effects    | Bronchospasm, GI upsets, stomatitis; rhinorrhea, fever, hemoptysis; rarely anaphylactic reactions. Dermatologic: Pruritus (1% to 4.3% ), Rash (4% to 5% ), Urticaria Gastrointestinal: Diarrhea, Nausea (2% to 7% ), Vomiting (9% to 12% ) |
 | Pregnancy          | Compatible – Maternal Benefit >> Embryo-Fetal Risk                                                                                                                                                                                         |
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                                                                                                                                                              |
+
+## Fluimucil granules 600mg/3gm
+
+| TAH Drug Code      | [OFLU6](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OFLU6)                                                                                                                                                                                                                                                          |
+|:-------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Indications        | A mucolytic agent that reduces the viscosity of respiratory mucous secretions and serves as an antidote for intentional or occasional ACETAMINOPHEN poisoning.                                                                                                                                                                  |
+| Dosing             | Aged six and above: Take 1 packet of Fluimucil orally, 1-2 times/day (preferably in the evening). Place the granules from one packet into a glass container, dissolve them with a small amount of water, mix well, and if needed, use a spoon. This will result in a palatable solution that can be consumed directly.          |
+| Hepatic Impairment | Dose adjustment not necessary                                                                                                                                                                                                                                                                                                   |
+| Renal Impairment   | Dose adjustment not necessary                                                                                                                                                                                                                                                                                                   |
+| Contraindications  | Hypersensitivity to acetylcysteine or to any other component in its formula.                                                                                                                                                                                                                                                    |
+| Adverse Effects    | Common: Pruritus (1-3%), Rash (4-5%), Urticaria, Diarrhea, Nausea (2-7%), Vomiting (9-12%) Serious: Decreased cardiac function, Electrocardiogram abnormal, Hypervolemia, Hypersensitivity reaction (Adult, 8-18%; pediatric, 10%), Non-allergic anaphylaxis (0.1-0.2%), Status epilepticus, Bronchospasm, Respiratory distress |
+| Pregnancy          | Compatible – Maternal Benefit >> Embryo-Fetal Risk                                                                                                                                                                                                                                                                              |
+| Lactation          | No (Limited) Human Data - Probably Compatible                                                                                                                                                                                                                                                                                   |
 
