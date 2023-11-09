@@ -1,0 +1,15 @@
+# Inactivated EV71 whole virus
+
+## Envacgen inj 0.5mL/dose
+
+| TAH Drug Code      | [IENV](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IENV)                                                                                                                                                                                                          |
+|:-------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Indications        | Primary immunization for infants and toddlers aged 2 months to less than 6 years to prevent diseases caused by enterovirus type 71 infection.                                                                                                                                 |
+| Dosing             | For infants aged 2 months to under 6 years: One 0.5 mL muscle injection in the upper arm or thigh, two doses with a 56-day gap. For infants under 2 at first dose, consider a booster after one year.                                                                         |
+| Hepatic Impairment | Dose adjustment not necessary                                                                                                                                                                                                                                                 |
+| Renal Impairment   | Dose adjustment not necessary                                                                                                                                                                                                                                                 |
+| Contraindications  | Previous severe allergic reaction to this vaccine. Known allergy to any vaccine component. Severe allergy to formaldehyde.                                                                                                                                                    |
+| Adverse Effects    | Reduced appetite, drowsiness, diarrhea, vomiting, nausea, injection site pain, fever, injection site swelling, injection site redness, injection site bruising, injection site lump, restlessness, limited limb mobility, rash, erythema, ecchymosis, urticaria, and allergy. |
+| Pregnancy          | Unknown                                                                                                                                                                                                                                                                       |
+| Lactation          | Unknown                                                                                                                                                                                                                                                                       |
+

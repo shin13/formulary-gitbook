@@ -1,4 +1,4 @@
-# Hydromellose
+# Hydroxypropylmethylcellulose
 
 ## Artelac eye drops 10mL
 

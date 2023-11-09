@@ -1,6 +1,6 @@
 # Pimecrolimus
 
-## Elidel cream 1%, 15gm
+## Elidel cream 1% 15gm
 
 ##### 臨採
 

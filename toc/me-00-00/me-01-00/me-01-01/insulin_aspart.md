@@ -1,6 +1,6 @@
 # Insulin Aspart
 
-## NovoRapid FlexPen 100 Unit/mL, 3mL
+## NovoRapid FlexPen 100U/mL 3mL
 
 | TAH Drug Code      | [INOVX](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=INOVX)                                                                              |
 |:-------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------|
