@@ -10,6 +10,6 @@
 | Renal Impairment   | Dose adjustment not necessary                                                                                                                              |
 | Contraindications  | Hypersensitivity to any component of the formulation                                                                                                       |
 | Adverse Effects    | Nausea, vomiting, abdominal cramps, pruritus, flushing, sensation of heat, faintness, pounding in the head                                                 |
-| Pregnancy          | Unknown                                                                                                                                                    |
-| Lactation          | Unknown                                                                                                                                                    |
+| Pregnancy          | Compatible                                                                                                                                                 |
+| Lactation          | Compatible                                                                                                                                                 |
 
