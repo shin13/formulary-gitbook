@@ -59,7 +59,7 @@
 | Indications        | 為0.45 % 食鹽水注射液(A036014277)                                        |
 | Dosing             | IV infusion as needed.                                                   |
 | Hepatic Impairment | Dose adjustment not necessary                                            |
-| Renal Impairment   | Dose adjustment required                                                 |
+| Renal Impairment   | Dose adjustment not necessary                                            |
 | Contraindications  | No Data                                                                  |
 | Adverse Effects    | No Data                                                                  |
 | Pregnancy          | Unknown                                                                  |

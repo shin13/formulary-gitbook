@@ -25,8 +25,8 @@
 | Renal Impairment   | Dose adjustment required                                                                                                                                                                                          |
 | Contraindications  | Hypersensitivity to mesalazine or any component in the preparation. History of hypersensitivity to salicylate preparations. Severe liver impairment. Severe renal impairment (GFR less than 30 ml/minute/1.73m2). |
 | Adverse Effects    | Nausea, diarrhea, abdominal pain, headache.                                                                                                                                                                       |
-| Pregnancy          | Unknown                                                                                                                                                                                                           |
-| Lactation          | Unknown                                                                                                                                                                                                           |
+| Pregnancy          | Compatible                                                                                                                                                                                                        |
+| Lactation          | No (Limited) Human Data - Potential Toxicity                                                                                                                                                                      |
 
 ## MezaVant XL 1200mg prolonged release
 
