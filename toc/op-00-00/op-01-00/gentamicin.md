@@ -10,8 +10,8 @@
 | Renal Impairment   | Dose adjustment not necessary                                                     |
 | Contraindications  | Hypersensitivity.                                                                 |
 | Adverse Effects    | Rarely, transient stinging.                                                       |
-| Pregnancy          | No (Limited) Human Data – Probably Compatible                                     |
-| Lactation          | No (Limited) Human Data - Probably Compatible                                     |
+| Pregnancy          | Human Data Suggest Low Risk                                                       |
+| Lactation          | Compatible                                                                        |
 
 ## Gentamicin eye drops 5mL
 
@@ -23,6 +23,6 @@
 | Renal Impairment   | Dose adjustment not necessary                                                          |
 | Contraindications  | Hypersensitivity.                                                                      |
 | Adverse Effects    | Rarely, transient stinging.                                                            |
-| Pregnancy          | No (Limited) Human Data – Probably Compatible                                          |
-| Lactation          | No (Limited) Human Data - Probably Compatible                                          |
+| Pregnancy          | Human Data Suggest Low Risk                                                            |
+| Lactation          | Compatible                                                                             |
 

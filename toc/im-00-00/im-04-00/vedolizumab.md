@@ -15,3 +15,18 @@
 | Pregnancy          | No (Limited) Human Data – Animal Data Suggest Low Risk                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 
+## Entyvio inj 108mg
+
+##### 臨採
+
+| TAH Drug Code      | [IENTH](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IENTH)   |
+|:-------------------|:-------------------------------------------------------------------------|
+| Indications        | No Data                                                                  |
+| Dosing             | No Data                                                                  |
+| Hepatic Impairment | No Data                                                                  |
+| Renal Impairment   | No Data                                                                  |
+| Contraindications  | No Data                                                                  |
+| Adverse Effects    | No Data                                                                  |
+| Pregnancy          | No Data                                                                  |
+| Lactation          | No Data                                                                  |
+

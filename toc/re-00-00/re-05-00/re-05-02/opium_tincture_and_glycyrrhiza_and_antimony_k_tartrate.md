@@ -10,6 +10,6 @@
 | Renal Impairment   | Dose adjustment not necessary                                                                                                                           |
 | Contraindications  | Hypersensitivity to any component of the formulation. Severe respiratory depression. Severe liver impairment. Acute alcoholic intoxication.             |
 | Adverse Effects    | Constipation, Nausea, Vomiting, Dizziness, Lightheadedness, Sedated, Hypotension, Tachycardia, Seizure, Apnea, Respiratory depression, Drug withdrawal. |
-| Pregnancy          | Unknown                                                                                                                                                 |
+| Pregnancy          | Human Data Suggest Risk in 3rd Trimester                                                                                                                |
 | Lactation          | Unknown                                                                                                                                                 |
 

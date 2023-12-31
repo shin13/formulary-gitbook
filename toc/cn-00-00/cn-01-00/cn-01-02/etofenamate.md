@@ -1,15 +1,15 @@
 # Etofenamate
 
-## Eto gel 10%, 40gm
+## Tonin gel 10%, 40gm
 
-| TAH Drug Code      | [EETO](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EETO)                                                                                               |
-|:-------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Indications        | Relief of pain & inflammation associated with musculoskeletal, joint & soft tissue disorders e.g. stiff shoulder, sprains, strains, lumbago, arthralgia & myalgia. |
-| Dosing             | Apply BID-TID to the affected area.                                                                                                                                |
-| Hepatic Impairment | Dose adjustment not necessary                                                                                                                                      |
-| Renal Impairment   | Dose adjustment not necessary                                                                                                                                      |
-| Contraindications  | Hypersensitivity to any component of the formulation.                                                                                                              |
-| Adverse Effects    | Rarely, allergic skin reactions.                                                                                                                                   |
-| Pregnancy          | Unknown                                                                                                                                                            |
-| Lactation          | Unknown                                                                                                                                                            |
+| TAH Drug Code      | [ETON](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ETON)                                                                                                                                                            |
+|:-------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Indications        | Muscular rheumatism, periarthritis of the shoulder, lower back pain, sciatica, tenosynovitis, bursitis.                                                                                                                         |
+| Dosing             | Apply a suitable amount of the gel to the affected area 2-3 times daily. Repeat the application 2-3 times by applying a suitable amount of gel until it dries. Complete one application when the gel is naturally dry and cool. |
+| Hepatic Impairment | Dose adjustment not necessary                                                                                                                                                                                                   |
+| Renal Impairment   | Dose adjustment not necessary                                                                                                                                                                                                   |
+| Contraindications  | Hypersensitivity to Tonin gel or any component of the formulation.                                                                                                                                                              |
+| Adverse Effects    | Skin itching, irritation, reddness, allergic dermatitis, urticaria.                                                                                                                                                             |
+| Pregnancy          | Unknown                                                                                                                                                                                                                         |
+| Lactation          | Unknown                                                                                                                                                                                                                         |
 
