@@ -1,4 +1,4 @@
-# Inactivated EV71 whole virus
+# Inactivated Enterovirus 71 whole virus
 
 ## Envacgen inj 0.5mL/dose
 
