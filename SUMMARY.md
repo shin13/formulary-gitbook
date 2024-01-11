@@ -1060,5 +1060,6 @@
         * [Patent Blue V](toc/vs-00-00/vs-01-00/vs-01-05/patent_blue_v.md)
 * [附錄](appendix.md)
 * [索引](index.md)
+* [縮寫表](abbreviation.md)
 * [常用連結](links.md)
 * [更新歷程](changelog.md)
