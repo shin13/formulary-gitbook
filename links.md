@@ -5,9 +5,9 @@
 * [藥品資訊與辨識](https://www.tahsda.org.tw/drugs/) 🔎 
 * [許可證查詢](https://info.fda.gov.tw/MLMS/H0001.aspx) 🔎
 * [健保用藥品項網路查詢服務](https://info.nhi.gov.tw/INAE3000/INAE3000S01) 🔎
-* [健保藥品給付規定](https://www.nhi.gov.tw/Content_List.aspx?n=E70D4F1BD029DC37&topn=5FE8C9FEAE863B46) 📑 
+* [健保藥品給付規定](https://www.nhi.gov.tw/ch/cp-13108-67ddf-2508-1.html) 📑 
 * [WHO ATC/DDD Index](https://www.whocc.no/atc_ddd_index/) 🔎 
-* [最新全民健保法規公告](https://www.nhi.gov.tw/Law_total.aspx?n=5597495EEC8219A1&sms=D6D5367550F18590&topn=5F7F45739FF3DD4D) 📑 
+* [最新全民健保法規公告](https://www.nhi.gov.tw/ch/lp-3258-1.html) 📑 
 
 
 ## 電子資源

@@ -6,15 +6,21 @@ import subprocess
 
 print('網頁版處方集更新開始')
 print('STEP 1 開始')
+print('STEP 1 執行中...')
 subprocess.run(['python', 'formulary_01_make-md.py'])
+print('STEP 1 完成')
 
-print('STEP 2 開始')
+print('STEP 2 開始 Generate new SUMMARY.md')
+print('STEP 2 執行中...')
 # generate new SUMMARY.md
 subprocess.run(['python', 'gitbook-auto-summary.py', '-o',
                 'C:\\Users\\152551\\formulary-gitbook'])
+print('STEP 3 完成')
 
 print('STEP 3 開始')
+print('STEP 3 執行中...')
 subprocess.run(['python', 'formulary_03_modify-summary.py'])
+print('STEP 3 完成')
 
 print('資料庫更新完成！')
 print('請更新changelog.md！')
