@@ -1,9 +1,8 @@
-# Ø¡§ﬁ
+# Á¥¢Âºï
 
 ## 1
 * 1,25-Dihydroxycholecalciferol
   * Macalol 0.25mcg
-
 ## A
 * Abemaciclib
   * Verzenio 150mg (28 tablets/box)
@@ -16,21 +15,17 @@
 * Aceclofenac
   * Tonec 100mg
 * Acetaminophen
-  * Depyretin 500mg
-* Acetaminophen
   * Anti-phen 24mg/mL, 60mL
+  * Depyretin 500mg
 * Acetazolamide
   * Acetazolamide 250mg
 * Acetylcysteine
-  * Fluimucil granules 600mg/3gm
-* Acetylcysteine
   * Actein 100mg/2.5gm
-* Acetylcysteine
   * Encore inj 300mg/3mL
-* Acetylsalicylic Acid
-  * Bokey 100mg
+  * Fluimucil granules 600mg/3gm
 * Acetylsalicylic Acid
   * Aspirin protect 100mg
+  * Bokey 100mg
 * Acitretin
   * Neotigason 10mg
 * Acrinol
@@ -39,7 +34,6 @@
   * Carbomix 61.5gm
 * Acyclovir
   * Deherp cream 5%, 5gm
-* Acyclovir
   * Devirus 4.5gm ophthalmic ointment
 * Adalimumab
   * Humira inj 40mg/0.4mL
@@ -73,44 +67,38 @@
   * Xanax 0.5mg
 * Alprostadil
   * Caverject 20mcg inj
-* Alprostadil
   * Promostan inj 20mcg
-* Aluminium Hydroxide
+* Aluminum Hydroxide
   * Aluminum 324mg
 * Aluminum Hydroxide + Butinolin + Calcium carbonate
   * Nolidin 200/2/300mg
 * Amantadine
   * Dopadine100mg
 * Ambroxol
-  * Musco solution 3mg/mL, 120mL
-* Ambroxol
   * Loxol SR 75mg
+  * Musco solution 3mg/mL, 120mL
 * Amikacin
   * Acemycin inj 500mg/2mL
 * Amino Acid + Glucose
   * Clinimix inj 1500mL
-* Amino Acid + Glucose
   * Nutriflex peri 40/80 1000mL
 * Amino Acid + Glucose + Lipid
   * Oliclinomel N4-550E Emulsion 1500mL
 * Amino Acid + Glucose+ Vit B1
   * Bfluid inj 1000mL
 * Amino Acids
-  * Amiparen inj 10% 200mL
-* Amino Acids
   * Aminosteril infant 10% 100mL
+  * Amiparen inj 10% 200mL
 * Amino Acids (Essential & Nonessential )
   * Nephrosteril inj 250mL, 7%
 * Amino Acids + Ketoanalogues
   * Ketosteril
 * Aminophylline
-  * Phyllocontin 225mg
-* Aminophylline
   * Asiphylline inj 250mg/10mL
-* Amiodarone
-  * Cordarone 200mg
+  * Phyllocontin 225mg
 * Amiodarone
   * Amiodarone (Cordarone) inj 150mg/3mL
+  * Cordarone 200mg
 * Amisulpride
   * Ribelite 200mg
 * Amitriptyline
@@ -127,15 +115,12 @@
   * Exforge 5/80mg
 * Amorolfine
   * Amocoat Nail Lacquer 5mL
-* Amorolfine
   * Loceryl nail 5% 2.5mL lacquer
 * Amoxicillin
-  * Amoxicillin 250mg
-* Amoxicillin
   * AMOXICILLIN 500mg
+  * Amoxicillin 250mg
 * Amoxicillin + Clavulanic Acid
   * Curam 1000mg
-* Amoxicillin + Clavulanic Acid
   * Soonmelt inj 600mg
 * Ampicillin
   * Ampolin inj 0.5gm
@@ -149,30 +134,25 @@
   * Biofermin-R 6mg/1gm Powder
 * Apixaban
   * ELIQUIS 5mg
-* Apixaban
   * Eliquis 2.5mg film-coated
 * Aripiprazole
   * Abilify 5mg
-* Aripiprazole
   * Abilify Maintena inj 400mg
 * Ascorbic Acid
   * Vitamin C (Vitacicol) inj 100mg/2mL
 * Atezolizumab
   * Tecentriq inj 1200mg/20mL
 * Atomoxetine
-  * APO-Atomoxetine 18mg
-* Atomoxetine
   * APO-ATOMOXETINE 40mg
-* Atomoxetine
+  * APO-Atomoxetine 18mg
   * apo-ATOMOXETINE 25mg
 * Atorvastatin
   * Lipitor 20mg
 * Atosiban
   * Tractocile inj 5mL (7.5mg/mL) infusion
 * Atropine
-  * Atropine sulfate inj 1mg/1mL
-* Atropine
   * Antol 0.125%, 5mL
+  * Atropine sulfate inj 1mg/1mL
 * Atropine sulfate monohydrate
   * Santone 0.01% 7mL ophthalmic solution
 * Azathioprine
@@ -184,22 +164,19 @@
 * Azilsartan medoxomil
   * Edarbi 40mg
 * Azithromycin
-  * Zithromax 200mg/5mL suspension
-* Azithromycin
   * Aziciin 250mg
-
+  * Zithromax 200mg/5mL suspension
 ## B
 * BCG Immunotherapeutic
-  * SII-ONCO-BCG inj 40mg/mL(±MÆ◊∂i§f)
+  * SII-ONCO-BCG inj 40mg/mL(Â∞àÊ°àÈÄ≤Âè£)
 * BCG Vaccine
-  * BCG ¨Ã≠] 0.5mg/mL (¨F©≤¥£®—)
+  * BCG Áñ´Ëãó 0.5mg/mL (ÊîøÂ∫úÊèê‰æõ)
 * Bacitracin + Neomycin + Ploymyxin B
   * Spersin ointment 10gm
 * Baclofen
   * Baclospas 5mg
 * Balanced Salt Soln
   * BSS sterile irrigation solusion 500mL/Bag
-* Balanced Salt Soln
   * BSS sterile irrigation solusion 500ml/Bottle
 * Baloxavir marboxil
   * Xofluza 20mg
@@ -207,7 +184,6 @@
   * Baritop LV 300gm
 * Beclomethasone + Formoterol
   * Foster 100/6mcg/dose
-* Beclomethasone + Formoterol
   * Foster Nexthaler 100/6mcg/dose
 * Belimumab
   * Benlysta inj 400mg
@@ -229,7 +205,6 @@
   * Nilasen 24mg
 * Betamethasone
   * FUSone eye drops 0.1%, 0.5mL
-* Betamethasone
   * Rinderon inj 4mg/1mL
 * Betamethasone + Gentamicin
   * Sinbeta derm cream 10gm
@@ -247,18 +222,15 @@
   * Akinfree 2mg
 * Bisacodyl
   * Bisacodyl suppository 10mg
-* Bisacodyl
   * Johnlax 5mg
 * Bisoprolol
   * CONCOR 5mg
-* Bisoprolol
-  * Concor 1.25mg±d™÷øı
+  * Concor 1.25mgÂ∫∑ËÇØÈå†
 * Bleomycin
   * BLEOCIN inj 15mg
 * Botulinum Toxin type A
-  * Dysport 500 Unit/Vial
-* Botulinum Toxin type A
   * Botox 100 Unit/Vial
+  * Dysport 500 Unit/Vial
 * Brexpiprazole
   * Rexulti 1mg
 * Brimonidine
@@ -282,17 +254,14 @@
 * Brotizolam
   * Lendormin 0.25mg
 * Budesonide
-  * Pulmicort respules 1mg/2mL
-* Budesonide
   * Duasma HFA Inhaler 200mcg/puff, 200 puffs
-* Budesonide + Formoterol
-  * Symbicort Turbuhaler 160/4.5mcg
+  * Pulmicort respules 1mg/2mL
 * Budesonide + Formoterol
   * Symbicort Rapihaler 160/4.5mcg/dose
+  * Symbicort Turbuhaler 160/4.5mcg
 * Bupivacaine
+  * Marcaine Spinal 0.5% 4mL inj (È∫ªÈÜâÁßëÁî®)
   * Marcaine Spinal 0.5% Heavy inj 4mL
-* Bupivacaine
-  * Marcaine Spinal 0.5% 4mL inj (≥¬æK¨Ï•Œ)
 * Bupropion
   * Wellbutrin XL 150mg
 * Buspirone
@@ -303,7 +272,6 @@
   * Mentax cream 1% 15gm
 * Butorphanol
   * Butaro Nasal Spray 10mg/mL
-
 ## C
 * Cabergoline
   * Dostinex 0.5mg
@@ -312,9 +280,8 @@
 * Calamine + Zinc oxide
   * Menphencala lotion 100mL
 * Calcipotriol + Betamethasone
-  * Xamiol gel 30gm
-* Calcipotriol + Betamethasone
   * Daivobet ointment 30gm
+  * Xamiol gel 30gm
 * Calcium + Cholecalciferol
   * Bio-Cal plus 450mg/330IU
 * Calcium Acetate
@@ -368,9 +335,8 @@
 * Celecoxib
   * Celebrex 200mg
 * Cephalexin
-  * Ulexin 25mg/mL, 60mL suspension
-* Cephalexin
   * Cephalexin 250mg
+  * Ulexin 25mg/mL, 60mL suspension
 * Certolizumab pegol
   * Cimzia inj 200mg/1mL
 * Cetirizine
@@ -388,7 +354,7 @@
 * Chlorpheniramine + Guaifenesin + Methylephedrine
   * Secorine syrup 120mL
 * Chlorpromazine
-  * Winsumin 50mg (≠”Æ◊¡{±ƒ)
+  * Winsumin 50mg (ÂÄãÊ°àËá®Êé°)
 * Cholestyramine
   * Choles powder 4gm/Pack
 * Choriogonadotropin alfa
@@ -402,11 +368,9 @@
 * Cimetidine
   * Stogamet inj 200mg/2mL
 * Ciprofloxacin
-  * Cinolone F.C. 250mg
-* Ciprofloxacin
-  * Seforce inj 400mg/200mL
-* Ciprofloxacin
   * Ciloxan 0.3%, 5mL ophthalmic solution
+  * Cinolone F.C. 250mg
+  * Seforce inj 400mg/200mL
 * Cisatracurium
   * Nimbex inj 10mg/5mL
 * Cisplatin
@@ -414,15 +378,12 @@
 * Clarithromycin
   * Klaricid XL 500mg
 * Clindamycin
-  * Royalsense acne gel 1% 20gm
-* Clindamycin
-  * Lindacin 150mg
-* Clindamycin
   * Clincin inj 300mg/2mL
-* Clobetasol
-  * Vimax foaming solution 25mL
+  * Lindacin 150mg
+  * Royalsense acne gel 1% 20gm
 * Clobetasol
   * Clobetasol ointment 0.05% 25gm
+  * Vimax foaming solution 25mL
 * Clobetasol propionate
   * Clobex Shampoo 125mL, 0.05%
 * Clomiphene
@@ -443,58 +404,50 @@
   * MezaPin 100mg
 * Codeine
   * Codeine 30mg
-* Codeine
-  * Codeine 30mg ¥›ælæP¿Ï
 * Colchicine
   * Colchicine 0.5mg
 * Colistin Methanesulfonate
   * Colimycin inj 2MU
 * Conjugated Estrogen
-  * Premarin Vaginal Cream 14gm
-* Conjugated Estrogen
   * Estromon 0.625mg
+  * Premarin Vaginal Cream 14gm
 * Corifollitropin alfa
   * Elonva inj 150mcg/0.5mL
 * Cr+Cu+Fe+Zn+Mn+Se+I+F+Mo
-  * Addaven inj 10mL/amp (¶®§H•Œ)
+  * Addaven inj 10mL/amp (Êàê‰∫∫Áî®)
 * Cyanocobalamin
   * Sancoba 0.02%, 5mL ophthalmic solution
 * Cyclophosphamide
-  * Endoxan inj 500mg
-* Cyclophosphamide
   * Endoxan 50mg
+  * Endoxan inj 500mg
 * Cyclosporin
   * Restasis 0.05%, 0.4mL eye emulsion
 * Cyproheptadine
   * Cypromin solution 0.4mg/mL, 60mL
-* Cyproheptadine
   * Pilian 4mg
 * Cyproterone
   * Androcur 50mg
 * Cyproterone Acetate + Ethinylestradiol
   * Diane 35 (21 tablets/box)
-
 ## D
 * D-Mannitol
   * Anol inj 200mg/mL,100mL/bag
 * DTaP-IPV
-  * Tetraxim (•|¶X§@, ¨F©≤¥£®—) 0.5mL/dose
+  * Tetraxim (ÂõõÂêà‰∏Ä, ÊîøÂ∫úÊèê‰æõ) 0.5mL/dose
 * DTaP-IPV-HIB
   * Infanrix 5in1 vaccine (Government)
 * DTaP-IPV-HIB-HBV
-  * Hexaxim inj (§ª¶X§@) 0.5mL/dose
+  * Hexaxim inj (ÂÖ≠Âêà‰∏Ä) 0.5mL/dose
 * Dabigatran
   * Pradaxa 110mg
-* Dabigatran
   * Pradaxa 150mg
 * Daclatasvir
   * Daklinza 60mg
 * Dalteparin
+  * FRAGMIN 10000 IU(Anti-Xa)/4mL(Ê¥óËÖéÂÆ§Â∞àÁî®)
   * Fragmin inj 5000 IU/0.2mL single dose syringe
-* Dalteparin
-  * FRAGMIN 10000 IU(Anti-Xa)/4mL(¨~µ«´«±M•Œ)
 * Dantrolene
-  * Dantrolene inj 20mg (±MÆ◊∂i§f)
+  * Dantrolene inj 20mg (Â∞àÊ°àÈÄ≤Âè£)
 * Dapagliflozin
   * Forxiga 10mg
 * Dapagliflozin + Metformin
@@ -502,35 +455,29 @@
 * Dapoxetine
   * Priligy 30mg (3 tablets/box)
 * Darbepoetin alfa
-  * NESP inj 20mcg(¨~µ«•Œ)
+  * NESP inj 20mcg(Ê¥óËÖéÁî®)
 * Deferoxamine Methansulphonate
   * DesFERAL inj 500mg
 * Degarelix
-  * Firmagon inj 80mg/4mL
-* Degarelix
   * FIRMAGON inj 120mg/3mL
-* Denosumab
-  * Xgeva inj 120mg
+  * Firmagon inj 80mg/4mL
 * Denosumab
   * Prolia inj 60mg
+  * Xgeva inj 120mg
 * Der pte extract + Der far extract
   * Acarizax 12 SQ-HDM (30 tablets/box)
 * Desflurane
   * Suprane 240mL
 * Desmopressin
-  * Minirin Melt 60mcg ≠·¥π§f∑ªøı
-* Desmopressin
+  * Minirin Melt 60mcg ÂáçÊô∂Âè£Ê∫∂Èå†
   * Minirin inj 4mcg/1mL (DDAVP)
 * Desogestrel + Ethinylestradiol
   * Mercilon (21 tablets/box)
 * Dexamethasone
-  * Dexamethasone inj 5mg/1mL
-* Dexamethasone
-  * Ozurdex (intravitreal implant) 0.7mg
-* Dexamethasone
-  * Dorison 4mg
-* Dexamethasone
   * Dexa orabase 0.1%, 5gm
+  * Dexamethasone inj 5mg/1mL
+  * Dorison 4mg
+  * Ozurdex (intravitreal implant) 0.7mg
 * Dexchlorpheniramine
   * Delamin 2mg
 * Dexlansoprazole
@@ -542,43 +489,33 @@
 * Dextromethorphan+Lysozyme+K Cresolsulfonate
   * Romicon-A 20/20/90mg
 * Dextrose
-  * 50% GW inj (Vitagen) 20mL
-* Dextrose
   * 20% Vitagen inj (Glucose) 20mL
-* Dextrose + Sodium Chloride
-  * 5% Dextrose in 0.9% NaCl 500mL
-* Dextrose + Sodium Chloride
-  * 5% Dextrose in 0.33% NaCl 500mL
+  * 50% GW inj (Vitagen) 20mL
 * Dextrose + Sodium Chloride
   * 2.5 % Dextrose in 0.45% NaCl 500mL
-* Diazepam
-  * Diazepam(Dupin) inj 10mg/2mL
-* Diazepam
-  * Stesolid rectal tubes 10mg
+  * 5% Dextrose in 0.33% NaCl 500mL
+  * 5% Dextrose in 0.9% NaCl 500mL
 * Diazepam
   * Diapin 2mg
+  * Diazepam(Dupin) inj 10mg/2mL
+  * Stesolid rectal tubes 10mg
 * Dibismuth trioxide
   * KCB 120mg
 * Diclofenac
-  * VOREN inj 75mg/3mL
-* Diclofenac
   * Cataflam 25mg
-* Diclofenac
   * Diclofenac 100mg S.R. F.C.
-* Diclofenac
+  * VOREN inj 75mg/3mL
   * Voren suppository 12.5mg
 * Dicyclomine
   * Bentyl 10mg
 * Dienogest
   * Visanne 2mg
 * Digoxin
-  * Lanoxin inj 0.5mg/2mL (Digoxin)
-* Digoxin
   * Digoxin 0.25mg
-* Diltiazem
-  * Herbesser 30mg
+  * Lanoxin inj 0.5mg/2mL (Digoxin)
 * Diltiazem
   * DilTELAN 120mg
+  * Herbesser 30mg
 * Dimethicone
   * Kascoal 40mg
 * Dinalbuphine
@@ -590,21 +527,18 @@
 * Diphenidol
   * Dinidol 25mg
 * Diphtheria + Tetanus + Pertussis
-  * Boostrix 0.5mL/dose (Private)
-* Diphtheria + Tetanus + Pertussis
   * Adacel 0.5mL/dose (Private)
+  * Boostrix 0.5mL/dose (Private)
 * Dipyridamole
   * Sancin F.C. 50mg
 * Dobutamine
   * Gendobu inj 250mg/20mL
 * Docetaxel
   * TAXOTERE inj 80mg/4mL
-* Docetaxel
   * Taxotere inj 20mg/1mL
 * Domperidone
-  * Wempty 1mg/mL, 60mL suspension
-* Domperidone
   * Domper 10mg
+  * Wempty 1mg/mL, 60mL suspension
 * Donepezil
   * Aricept 10mg orodispersible
 * Dopamine
@@ -616,11 +550,9 @@
 * Doxepin
   * Ichderm cream 50mg/gm, 15gm
 * Doxorubicin
-  * Lipo-Dox inj 20mg (¶€∂O•Œ)
-* Doxorubicin
-  * Lipo-Dox inj 20mg (∞∑´O•Œ)
-* Doxorubicin
-  * Doxor lyo inj 10mg (≠·¥π)
+  * Doxor lyo inj 10mg (ÂáçÊô∂)
+  * Lipo-Dox inj 20mg (ÂÅ•‰øùÁî®)
+  * Lipo-Dox inj 20mg (Ëá™Ë≤ªÁî®)
 * Doxycycline
   * Doxymycin 100mg enteric coated
 * Dronedarone
@@ -628,31 +560,25 @@
 * Droperidol
   * Dropel inj 2.5mg/1mL
 * Drospirenone + Ethinylestradiol
-  * YAZ ÆÆ´∫øı (28 tablets/box)
+  * YAZ ÊÇÖÂßøÈå† (28 tablets/box)
 * Duloxetine
   * Cymbalta 30mg
 * Dupilumab
   * DUPIXENT inj 300mg/2mL
-* Dupilumab
   * Dupixent inj 200mg/1.14mL
 * Dutasteride + Tamsulosin
   * Duodart 0.5/0.4mg
 * Dydrogesterone
   * Duphaston 10mg
-
 ## E
 * Edoxaban
   * Lixiana F.C. 30mg
 * Electrolytes + Water
-  * •x§j No.5 400mL
-* Electrolytes + Water
-  * •x§j No.4 500mL
-* Electrolytes + Water
-  * •x§j No.3 500mL
-* Electrolytes + Water
-  * •x§j No.2 500mL
-* Electrolytes + Water
-  * •x§j No.1 500mL
+  * Âè∞Â§ß No.1 500mL
+  * Âè∞Â§ß No.2 500mL
+  * Âè∞Â§ß No.3 500mL
+  * Âè∞Â§ß No.4 500mL
+  * Âè∞Â§ß No.5 400mL
 * Empagliflozin
   * Jardiance 25mg
 * Empagliflozin + Linagliptin
@@ -662,25 +588,22 @@
 * Entacapone
   * Comtan 200mg
 * Entecavir
-  * Baraclude 0.5mg
-* Entecavir
   * 1mg BARACLUDE
+  * Baraclude 0.5mg
 * Enzalutamide
   * Xtandi 40mg
 * Ephedrine
   * Ephedrine inj 40mg/1mL
 * Epinephrine
   * Adrenalin inj 1mg/mL
-* Epinephrine
-  * Epipen Auto-Injector 0.3mg (±MÆ◊∂i§f)
+  * Epipen Auto-Injector 0.3mg (Â∞àÊ°àÈÄ≤Âè£)
 * Epirubicin
   * EPICIN 50mg/25mL
-* Epirubicin
   * Epicin 10mg/5mL
 * Eplerenone
   * Inspra F.C. 50mg
 * Epoetin beta
-  * Recormon inj 2000IU(≠≠¨~µ«´«•Œ)
+  * Recormon inj 2000IU(ÈôêÊ¥óËÖéÂÆ§Áî®)
 * Eptacog alfa
   * Novo Seven RT 1mg
 * Ergometrine
@@ -693,7 +616,6 @@
   * Ertapenem inj 1gm
 * Erythromycin
   * Erymycin 250mg
-* Erythromycin
   * Erythromycin 0.5%, 3.5gm ophthalmic ointment
 * Escitalopram
   * Epram 10mg
@@ -702,12 +624,10 @@
 * Estazolam
   * Eurodin 2mg
 * Estradiol
-  * Oestrogel gel 0.75mg/pump, 64pump/bottle
-* Estradiol
   * Ladiol Gel 0.6mg/gm, 30gm
+  * Oestrogel gel 0.75mg/pump, 64pump/bottle
 * Estradiol + Medroxyprogesterone
   * Synseq (28 tablets/box)
-* Estradiol + Medroxyprogesterone
   * Venina 1/2.5mg (28 tablets/pack)
 * Estradiol Valerate
   * Estrade 2mg
@@ -733,7 +653,6 @@
   * Atozet 10/20mg
 * Ezetimibe + Rosuvastatin
   * Cretrol 10/20mg
-
 ## F
 * FSH 450IU + LH 225IU
   * Pergoveris 450 IU + 225 IU
@@ -754,13 +673,10 @@
 * Fenoterol
   * Strolin liquid 0.5mg/mL, 60mL
 * Fentanyl
-  * Fentanyl inj 0.1mg/2mL
-* Fentanyl
-  * Fentanyl patch 25mcg/hr
-* Fentanyl
   * Durogesic D-trans Patch 12mcg/h
-* Fentanyl
-  * FENTANYL inj 0.5mg/10mL(≠≠≥¬æK¨Ï®œ•Œ)
+  * FENTANYL inj 0.5mg/10mL(ÈôêÈ∫ªÈÜâÁßë‰ΩøÁî®)
+  * Fentanyl inj 0.1mg/2mL
+  * Fentanyl patch 25mcg/hr
 * Ferric Hydroxide Polymaltose Complex
   * Ferrum hausmann 50mg/20drops/mL,30mL
 * Ferric-Hydroxide-Sucrose Complex
@@ -774,15 +690,13 @@
 * Filgrastim
   * Gcsf 150mcg/0.6mL (Filgrastim)
 * Finasteride
-  * Proscar 5mg
-* Finasteride
   * Propecia 1mg (28 tablets/box)
+  * Proscar 5mg
 * Flomoxef
   * Flumarin inj 1gm
 * Fluconazole
-  * Diflucan inj 100mg/50mL
-* Fluconazole
   * Diflucan 150mg
+  * Diflucan inj 100mg/50mL
 * Fludiazepam
   * FluPINE 0.25mg
 * Flumazenil
@@ -795,13 +709,11 @@
   * Fallep 2mg
 * Fluocinonide
   * Topsym cream 0.05%, 10gm
-* Fluocinonide
   * Topsym lotion 0.05%, 10gm
 * Fluorescein
   * Fluorescite 10% 5mL
 * Fluorometholone
   * 0.1% FOXONE 10mL ophthalmic suspension
-* Fluorometholone
   * Foxone 0.02% 10mL ophthalmic suspension
 * Fluorouracil
   * 5-FU inj 1000mg/20mL
@@ -812,32 +724,25 @@
 * Flurbiprofen
   * Flurbi PAP (4 patchs/pack)
 * Fluticasone
-  * Flixotide 50mcg evohaler 120dose
-* Fluticasone
-  * Fluticosone cream 0.05%, 5gm
-* Fluticasone
   * Avamys 27.5mcg/dose, 120dose nasal spray
+  * Flixotide 50mcg evohaler 120dose
+  * Fluticosone cream 0.05%, 5gm
 * Fluticasone + Vilanterol
+  * RELVAR Ellipta 184/22mcg(Â§ßÂäëÈáè)inhalation powder
   * Relvar Ellipta 92/22mcg inhalation powder
-* Fluticasone + Vilanterol
-  * RELVAR Ellipta 184/22mcg(§jæØ∂q)inhalation powder
 * Fluticasone furoate + Umeclidinium + Vilanterol
   * Trelegy Ellipta 92/55/22 mcg Inhalation Powder
 * Fluvoxamine
   * Luvox 50mg
 * Folic Acid
+  * Folacin FC 5mg(Ëá™Ë≤ª)
   * Folic acid 5mg
-* Folic Acid
-  * Folacin FC 5mg(¶€∂O)
-* Folinate
-  * Folina inj 100mg/10mL
-* Folinate
-  * Folina 15mg
 * Folinate
   * Covorin inj 50mg/5mL
+  * Folina 15mg
+  * Folina inj 100mg/10mL
 * Follitropin Alpha
   * GONAL-F inj 450 IU/ 0.75mL
-* Follitropin Alpha
   * Gonal-F 75 IU inj
 * Fondaparinux
   * Arixtra 2.5mg/0.5mL pre-filled syringe
@@ -848,16 +753,13 @@
 * Fulvestrant
   * Faslodex inj 250mg/5mL
 * Furosemide
-  * Lasix 40mg
-* Furosemide
   * Fumide solution 10mg/mL, 120mL
-* Furosemide
+  * Lasix 40mg
   * Lasix inj 20mg/2mL
 * Fusidate
   * Fucidin 250mg
 * Fusidic Acid
   * Fucidin cream 2%, 15gm
-
 ## G
 * Gabapentin
   * Neurontin 100mg
@@ -874,11 +776,9 @@
 * Gemcitabine
   * Gemzar inj 200mg
 * Gentamicin
-  * Gentamicin eye ointment 0.3%, 5gm
-* Gentamicin
-  * Gentamycin inj 80mg/2mL
-* Gentamicin
   * Gentamicin eye drops 5mL
+  * Gentamicin eye ointment 0.3%, 5gm
+  * Gentamycin inj 80mg/2mL
 * Gestrinone
   * Gestrin 2.5mg (8 capsules/box)
 * Ginkgo Biloba
@@ -892,17 +792,14 @@
 * Glucagon
   * Glucagen inj 1mg/1mL
 * Glucosamine Sulphate
-  * Viartril-S powder 1.5gm (¶€∂O)
-* Glucose
-  * Glucose inj 5% 500mL
-* Glucose
-  * Glucose inj 5% 100mL
-* Glucose
-  * Glucose inj 5% 250mL
+  * Viartril-S powder 1.5gm (Ëá™Ë≤ª)
 * Glucose
   * 10% Dextrose inj 500mL
+  * Glucose inj 5% 100mL
+  * Glucose inj 5% 250mL
+  * Glucose inj 5% 500mL
 * Glyburide + Metformin
-  * GlucoMET 5/500mg(æT∫‰/ø¸∫‰)
+  * GlucoMET 5/500mg(ÈãÅÁÆî/Èå´ÁÆî)
 * Glycerin + Fructose + Sodium chloride
   * Glycetose inj 10%, 300mL
 * Glycopyrrolate
@@ -910,51 +807,42 @@
 * Golimumab
   * Simponi inj 50mg/0.5mL
 * Goserelin
-  * Zoladex Depot 3.6mg
-* Goserelin
   * ZOLADEX LA 10.8mg DEPOT (3 Months)
+  * Zoladex Depot 3.6mg
 * Granisetron
   * Grantron inj 3mg/3mL
-* Granisetron
   * Setron 2mg
 * Guselkumab
   * Tremfya inj 100mg/1mL
-
 ## H
 * HPV type 6/11/16/18/31/33/45/52/58 L1 protein
   * Gardasil 9 (HPV,Government) inj 0.5mL/dose
-* HPV type 6/11/16/18/31/33/45/52/58 L1 protein
   * Gardasil 9 inj 0.5mL/dose
 * Haloperidol
   * Haldol inj 5mg/1mL
 * Heparin
   * HEPAC inj 25KIU/5mL
-* Heparin
   * Hepac Lock Flush 1000 Unit/10mL
-* Heparin
   * Hepac Plus for Dialysis 5000 Unit/20mL(250Unit/mL)
 * Heparinoid
   * Cividoid gel 20gm
 * Hepatitis B Immune Globulin
   * HBIG (Government) 0.5mL/dose
-* Hepatitis B Immune Globulin
   * HyperHep B 0.5mL(Private)
 * Hepatitis B Vaccine
-  * Hepatitis B vaccine (Government) 0.5mL/dose
-* Hepatitis B Vaccine
   * Engerix-B inj 1mL/dose (Private)
+  * Hepatitis B vaccine (Government) 0.5mL/dose
 * Human Immunoglobulin
   * Human Immunoglobulin 3gm/50mL
 * Human Plasminogen Activator
   * Actilyse inj 50mg
 * Human Rotavirus
-  * Rotarix 1.5mL/dose oral suspension
-* Human Rotavirus
   * RotaTeq (MSD) 2mL/dose
+  * Rotarix 1.5mL/dose oral suspension
 * Hyaluronate
   * Cystistat 40mg/50mL
 * Hyaluronidase
-  * Hyalase inj 1500IU (±MÆ◊∂i§f)
+  * Hyalase inj 1500IU (Â∞àÊ°àÈÄ≤Âè£)
 * Hydralazine
   * Stable 25mg
 * Hydrochlorothiazide + Amiloride
@@ -968,21 +856,19 @@
 * Hydroxychloroquine
   * Plaquenil 200mg
 * Hydroxyprogesterone caproate
-  * Progeston Depot inj 125mg/1mL(¥∂ƒ_≠L)
+  * Progeston Depot inj 125mg/1mL(ÊôÆÂØ∂ËÉé)
 * Hydroxyurea
   * Hydrea 500mg
 * Hyoscin-Butylbromide
   * Fucon inj 20mg/1mL
 * Hyoscyamine
   * Nuspas 0.125mg
-
 ## I
 * Ibandronate
   * Bonviva inj 3mg/3mL
 * Ibuprofen
   * Idofen 20mg/mL, 120mL suspension
-* Ibuprofen
-  * Pedea inj 10mg/2mL (±MÆ◊∂i§f)
+  * Pedea inj 10mg/2mL (Â∞àÊ°àÈÄ≤Âè£)
 * Imatinib
   * Leevk 100mg
 * Imipramine
@@ -990,12 +876,11 @@
 * Imiquimod
   * Aldara cream 5%
 * Inactivated Enterovirus 71 virus particles
-  * EnVAX-A71 inj 0.5mL/dose (∞Í•˙)
+  * EnVAX-A71 inj 0.5mL/dose (ÂúãÂÖâ)
 * Inactivated Enterovirus 71 whole virus
   * Envacgen inj 0.5mL/dose
 * Inactivated Hepatitis A Virus Vaccine
   * HAVRIX 1440, 1mL/dose (Private)
-* Inactivated Hepatitis A Virus Vaccine
   * Havrix 720(Government) 0.5mL/dose
 * Indapamide
   * Natrilix SR 1.5mg
@@ -1020,16 +905,14 @@
 * Iobitridol
   * Xenetix inj 350mg/mL, 100mL
 * Iodine + Potassium Iodide
-  * Lugol's soln 2%, 60mL (±MÆ◊∂i§f)
+  * Lugol's soln 2%, 60mL (Â∞àÊ°àÈÄ≤Âè£)
 * Iodine, combined ethyl ester of fatty acid oil
   * Lipiodol ultra-fluid 4800mg/10mL
 * Iodixanol
   * Visipaque inj 320mg I/mL, 100mL
 * Iohexol + Tromethamine
   * Omnipaque 350mg I/mL, 100mL
-* Iohexol + Tromethamine
   * Omnipaque 350mg I/mL, 200mL
-* Iohexol + Tromethamine
   * Omnipaque 350mg I/mL, 50mL
 * Ipratropium + Salbutamol
   * Combivent UDV 2.5mL
@@ -1037,7 +920,6 @@
   * Irino IV infusion 100mg/5mL
 * Isoniazid
   * ISONIAZID 300mg (Government)
-* Isoniazid
   * Isoniazide 100mg
 * Isosorbide 5-Mononitrate
   * Coxine 20mg
@@ -1050,42 +932,33 @@
 * Ivabradine
   * Coralan 5mg
 * Ivermectin
-  * Stromectol 3mg
-* Ivermectin
   * Soolantra cream 1%, 30gm
+  * Stromectol 3mg
 * Ixabepilone
   * Ixempra inj 15mg (2mg/mL)
-
 ## J
 * Japanese Encephalitis Vaccine
-  * Imojev (¥Ó¨r§È∏£,Government) 0.5mL/dose
-* Japanese Encephalitis Vaccine
+  * Imojev (Ê∏õÊØíÊó•ËÖ¶,Government) 0.5mL/dose
   * Imojev inj 0.5mL/dose (Private)
-
 ## K
 * K2HPO4+KH2PO4
   * Potassium Phosphate inj 20mL
 * Ketamine
   * Ketalar inj 50mg/mL
 * Ketorolac
-  * Laston inj 30mg/1mL
-* Ketorolac
   * Kelac 0.5%, 5mL ophthalmic solution
-* Ketorolac
   * Keto 10mg
+  * Laston inj 30mg/1mL
 * Ketotifen
   * Athmin syrup 0.2mg/mL, 60mL
-
 ## L
 * L-carnitine
   * L-Carnit inj 1gm/5mL
 * Labetalol
-  * Trandate inj 25mg/5mL
-* Labetalol
   * Labtal 200mg
+  * Trandate inj 25mg/5mL
 * Lacosamide
   * Vimpat 100mg
-* Lacosamide
   * Vimpat Intravenous 200mg/20mL
 * Lactobacillus + Bifidobacterium
   * Infloran 250mg (20 capsules/box)
@@ -1096,9 +969,8 @@
 * Lamotrigine
   * Lamictal 50mg
 * Lansoprazole
-  * Takepron OD 30mg
-* Lansoprazole
   * Takepron Intravenous 30mg
+  * Takepron OD 30mg
 * Lanthanum carbonate
   * Fosrenol Chewable 750mg
 * Lapatinib ditosylate
@@ -1120,21 +992,17 @@
 * Leuprorelin Acetate
   * Eligard inj 22.5mg extended-release
 * Levetiracetam
-  * Keppra solution 100mg/mL, 300mL
-* Levetiracetam
-  * Keppra inj 500mg/5mL
-* Levetiracetam
   * Keppra 500mg
+  * Keppra inj 500mg/5mL
+  * Keppra solution 100mg/mL, 300mL
 * Levocetirizine
   * Xyzal 5mg
 * Levodopa + Benserazide
   * Madopar 200/50mg
 * Levofloxacin
-  * Levofloxacin 750mg (¨F©≤¥£®—)
-* Levofloxacin
-  * Cravit IV solution 250mg/50mL
-* Levofloxacin
   * Cravit F.C. 500mg
+  * Cravit IV solution 250mg/50mL
+  * Levofloxacin 750mg (ÊîøÂ∫úÊèê‰æõ)
 * Levonorgestrel Implants
   * Mirena 20mcg/24hours intrauterine system
 * Levosimendan
@@ -1142,16 +1010,11 @@
 * Levothyroxine
   * Eltroxin 50mcg
 * Lidocaine
-  * Lidocaine inj 20mg/mL, 1mLßΩ≥¬
-* Lidocaine
+  * Lidocaine inj 20mg/mL, 1mLÂ±ÄÈ∫ª
+  * Lidocaine inj 20mg/mL, 20mLÂ±ÄÈ∫ª
   * Lidopat patch 5% (3 patchs/pack)
-* Lidocaine
-  * Lidocaine inj 20mg/mL, 20mLßΩ≥¬
-* Lidocaine
   * Xylocaine 2% IV 100mg/5mL
-* Lidocaine
   * Xylocaine jelly 30gm, 2%
-* Lidocaine
   * Xylocaine spray 10%, 50mL
 * Lidocaine + Epinephrine
   * Lidophrine inj (2%+E) 20mL
@@ -1160,9 +1023,8 @@
 * Linagliptin
   * Trajenta 5mg
 * Linezolid
-  * Zyvox inj 600mg/300mL
-* Linezolid
   * Zyvox 600mg
+  * Zyvox inj 600mg/300mL
 * Liraglutide
   * Saxenda inj 18mg/3mL
 * Lithium Carbonate
@@ -1172,37 +1034,31 @@
 * Loratadine + Pseudoephedrine
   * Lorapseudo SR 10/240mg
 * Lorazepam
-  * Ativan 0.5mg
-* Lorazepam
   * Anxicam inj 2mg/1mL
+  * Ativan 0.5mg
 * Low Molecular Dextran Dextrose
   * Dextran dextrose inj 500mL
 * Lurasidone
   * Latuda 40mg
-
 ## M
 * MCT + Fish oil + Olive oil + Soybean oil
-  * SMOFlipid (§p®‡TPN•Œ100mL, 20%)
-* MCT + Fish oil + Olive oil + Soybean oil
+  * SMOFlipid (Â∞èÂÖíTPNÁî®100mL, 20%)
   * SMOFlipid inj 20% 250mL
 * Magnesium Oxide
   * Magnesium Oxide 250mg
 * Magnesium Sulfate
   * Mg Sulfate inj 10%, 200mL
 * Measles + Mumps + Rubella
-  * Priorix inj (MMR) 0.5 mL/dose (Private)
-* Measles + Mumps + Rubella
   * MMR II (Government) 0.5mL/dose
+  * Priorix inj (MMR) 0.5 mL/dose (Private)
 * Mebeverine
   * Padalin 100mg
 * Meclizine
   * Meclizine 25mg
 * Mecobalamin
-  * Methycobal inj 500mcg/1mL
-* Mecobalamin
-  * Methycobal 250mcg
-* Mecobalamin
   * METHYCOBAL 500mcg
+  * Methycobal 250mcg
+  * Methycobal inj 500mcg/1mL
 * Medroxyprogesterone
   * Provera 5mg
 * Mefenamic Acid
@@ -1222,12 +1078,10 @@
 * Mequitazine
   * Mequitazine 5mg
 * Meropenem
-  * Mepem inj 0.25gm(¨¸•≠)
+  * Mepem inj 0.25gm(ÁæéÂπ≥)
 * Mesalazine
   * Asacol 500mg suppository
-* Mesalazine
   * Colasa enema 4gm/100mL
-* Mesalazine
   * MezaVant XL 1200mg prolonged release
 * Metformin
   * GlucoPHAGE 500mg
@@ -1237,9 +1091,8 @@
   * Lica 5mg
 * Methotrexate
   * Methotrexate 2.5mg
-* Methotrexate
   * Methotrexate inj 50mg/2mL
-* Methoxy Polyethylene Glycol- Epoetin £]
+* Methoxy Polyethylene Glycol- Epoetin Œ≤
   * Mircera inj 50mcg/0.3mL
 * Methyldopa
   * MethylDOPA 250mg
@@ -1247,30 +1100,22 @@
   * Methylergonovine inj 0.2mg/1mL
 * Methylphenidate
   * CONCERTA 36mg
-* Methylphenidate
   * Concerta ER 27mg
-* Methylphenidate
   * Methydur 22mg sustained release
-* Methylphenidate
   * apo-Methylphenidate 10mg
 * Methylprednisolone
   * Mepron inj 40mg
-* Methylprednisolone
   * Methylprednisolone 4mg
 * Metoclopramide
   * Promeran 3.84mg
 * Metoclopramide hydrochloride
   * Pulin inj 10mg/2mL
 * Metronidazole
-  * Frotin 250mg suppository
-* Metronidazole
-  * Sutrol gel-vaginal 7.5mg/gm, 25gm
-* Metronidazole
-  * Metrozole 250mg
-* Metronidazole
-  * Metronidazole inj 500mg/100mL
-* Metronidazole
   * Efucon gel 0.75%, 15gm
+  * Frotin 250mg suppository
+  * Metronidazole inj 500mg/100mL
+  * Metrozole 250mg
+  * Sutrol gel-vaginal 7.5mg/gm, 25gm
 * Mexiletine
   * Meletin 100mg
 * Micafungin
@@ -1288,34 +1133,27 @@
 * Mitomycin C
   * Mitonco inj 10mg
 * Molnupiravir
-  * Molnupiravir 200mg (§Ω∂O)
-* Molnupiravir
-  * (¶€∂O) Molnupiravir 200mg (40¡˚/≤~)
+  * (Ëá™Ë≤ª) Molnupiravir 200mg (40È°Ü/Áì∂)
+  * Molnupiravir 200mg (ÂÖ¨Ë≤ª)
 * Mometasone
   * Elomet cream 0.1%, 5gm
-* Mometasone
   * Nasonex 50mcg/dose, 140dose nasal spray
 * Montelukast
   * Monteka 4mg
-* Montelukast
   * SINGULAIR 10mg
-* Montelukast
   * SINGULAIR Chewable 5mg
 * Morphine
-  * Morphine inj 10mg/1mL
-* Morphine
   * Morphine 15mg
+  * Morphine inj 10mg/1mL
 * Mosapride
   * Mopride 5mg
 * Moxifloxacin
-  * Vigamox 0.5%, 5mL ophthalmic solution
-* Moxifloxacin
   * Avelox 400mg
+  * Vigamox 0.5%, 5mL ophthalmic solution
 * Multivitamin
-  * Lyo-Povigent inj 4mL (13∫ÿ¶®•˜)
+  * Lyo-Povigent inj 4mL (13Á®ÆÊàê‰ªΩ)
 * Mycophenolate mofetil
   * Cellcept 250mg
-
 ## N
 * NaCl + KCl + Boric Acid
   * Patear eye lotion 10mL
@@ -1338,9 +1176,8 @@
 * Neomycin
   * Neomycin 250mg
 * Neostigmine Methylsulfate
-  * Vagostin inj 0.5mg/1mL
-* Neostigmine Methylsulfate
   * ONSD 0.01%, 10mL
+  * Vagostin inj 0.5mg/1mL
 * Neratinib
   * Nerlynx 40 mg (180 tablets/bot)
 * Netupitant + Palonosetron
@@ -1355,27 +1192,21 @@
   * Sermion 10mg
 * Nicotine
   * Nicotinell TTS 30
-* Nicotine
   * SMOKQUIT 4mg (24 tablets/box)
-* Nicotine
   * Smokquit 2mg (24 tablets/box)
 * Nifedipine
-  * Nifedipine S.R.F.C. 30mg
-* Nifedipine
   * Alat 10mg
-* Nimodipine
-  * Nimotop inj 10mg/ 50mL
+  * Nifedipine S.R.F.C. 30mg
 * Nimodipine
   * Nimotop F.C 30mg
+  * Nimotop inj 10mg/ 50mL
 * Nintedanib
   * Ofev 150mg
 * Nirmatrelvir + Ritonavir
-  * Paxlovid 300/100mg, 10 doses (§Ω∂O)
-* Nirmatrelvir + Ritonavir
-  * Paxlovid (¶€∂O) 300/100mg, 10 doses
+  * Paxlovid (Ëá™Ë≤ª) 300/100mg, 10 doses
+  * Paxlovid 300/100mg, 10 doses (ÂÖ¨Ë≤ª)
 * Nitroglycerin
   * Millisrol inj 5mg/10mL
-* Nitroglycerin
   * Nitrostat (NTG) 0.6mg
 * Nivolumab
   * Opdivo inj 100mg/10mL
@@ -1383,7 +1214,6 @@
   * Norepinephrine inj 4mg/4mL
 * Nystatin
   * Mycostatin100000 Units/mL suspension
-
 ## O
 * Octreotide
   * Sandostatin inj 0.1mg/1mL
@@ -1406,12 +1236,10 @@
 * Orlistat
   * Xenical 120mg (84 capsules/box)
 * Oseltamivir
-  * Tamiflu 75mg (Private)
-* Oseltamivir
   * Eraflu 75mg (Government)
+  * Tamiflu 75mg (Private)
 * Oseltamivir Phosphate
-  * Oseltamivir (¨F©≤¥£®—) 6mg/mL 60mL oral suspension
-* Oseltamivir Phosphate
+  * Oseltamivir (ÊîøÂ∫úÊèê‰æõ) 6mg/mL 60mL oral suspension
   * Oseltamivir Phosphate 6mg/mL, 60mL oral suspension
 * Otilonium
   * Catilon 40mg
@@ -1421,29 +1249,23 @@
   * Orectalip inj 50mg/10mL
 * Oxcarbazepine
   * Trileptal 300mg
-* Oxcarbazepine
   * Trileptal 60mg/mL, 100mL oral suspension
 * Oxybutynin
   * Oxbu 5mg extended-release
 * Oxytocin
   * Oxytocin inj 10 IU/1mL
-
 ## P
 * PSK
   * Krestin 1gm
 * Paclitaxel
-  * Formoxol inj 30mg/5mL
-* Paclitaxel
   * FORMOXOL inj 60mg/10mL
+  * Formoxol inj 30mg/5mL
 * Palbociclib
   * IBRANCE 125mg
-* Palbociclib
   * Ibrance 100mg
 * Paliperidone
   * INVEGA inj 150mg (=234mg)
-* Paliperidone
   * Invega 3mg extended release
-* Paliperidone
   * Invega inj 100mg (=156mg)
 * Palivizumab
   * Synagis inj 50mg/0.5mL
@@ -1462,16 +1284,13 @@
 * Pegfilgrastim
   * Fulphila inj 6mg/0.6mL
 * Peginterferon beta-1a
-  * Plegridy inj 63mcg
-* Peginterferon beta-1a
-  * Plegridy inj 94mcg
-* Peginterferon beta-1a
   * PLEGRIDY inj 125mcg
+  * Plegridy inj 63mcg
+  * Plegridy inj 94mcg
 * Pembrolizumab
   * KEYTRUDA inj 100mg/4mL
 * Pemetrexed
   * ALIMTA inj 500mg
-* Pemetrexed
   * Alimta inj 100mg
 * Penicillin G Benzathine
   * Bicillin L-A inj 2.4 MIU/4mL
@@ -1494,15 +1313,13 @@
 * Phenazopyridine
   * Urodine 100mg
 * Phenobarbital
-  * Phenobital inj 100mg/1mL
-* Phenobarbital
   * Phenobarbital 30mg
+  * Phenobital inj 100mg/1mL
 * Phenprobamate
   * Mocolax 400mg
 * Phenytoin
-  * Dilantin 100mg
-* Phenytoin
   * Aleviatin inj 250mg/5mL
+  * Dilantin 100mg
 * Phytonadione
   * Katimin"1" inj 10mg/1mL
 * Picosulfate + MgO + Citric acid
@@ -1518,11 +1335,9 @@
 * Piperacillin + Tazobactam
   * Tapimycin inj 2.25gm
 * Piracetam
-  * Syntam granules 1200mg
-* Piracetam
-  * Syntam F.C. 1200mg(™Y©Z)
-* Piracetam
   * Piracetam soln 200mg/mL, 200mL
+  * Syntam F.C. 1200mg(Ê¨£Âù¶)
+  * Syntam granules 1200mg
 * Pirfenoxone
   * Kary Uni 0.005%, 5mL ophthalmic suspension
 * Pitavastatin
@@ -1532,15 +1347,11 @@
 * Plectranthus amboinicus + Centella asiatica
   * Fespixon cream 1.25%, 15 gm
 * Pneumococcal Vaccine Polyvalent
-  * Prevenar 13 (Government) 0.5mL/dose
-* Pneumococcal Vaccine Polyvalent
-  * Prevenar 13 (Private) 0.5mL/dose
-* Pneumococcal Vaccine Polyvalent
-  * Prevenar (¨F©≤¥£®—,13ª˘™Õ™¢) 0.5mL/dose
-* Pneumococcal Vaccine Polyvalent
-  * Pneumovax 23 (Taipei City) 0.5mL/dose
-* Pneumococcal Vaccine Polyvalent
   * Pneumovax 23 (Private) 0.5mL/dose
+  * Pneumovax 23 (Taipei City) 0.5mL/dose
+  * Prevenar (ÊîøÂ∫úÊèê‰æõ,13ÂÉπËÇ∫ÁÇé) 0.5mL/dose
+  * Prevenar 13 (Government) 0.5mL/dose
+  * Prevenar 13 (Private) 0.5mL/dose
 * Policresulen
   * Polinin 90mg vaginal suppository
 * Polyethylene Glycol 3350
@@ -1548,17 +1359,12 @@
 * Polysaccharides of Astragalus membranaceus
   * PG2 inj 500mg
 * Potassium Chloride
-  * 20mEq KCl in°iD5W 500mL°j
-* Potassium Chloride
-  * 20mEq KCl in°iD5NS 500mL°j
-* Potassium Chloride
   * 1.49% KCl (20mEq) in 0.9%NaCl 100mL
-* Potassium Chloride
-  * KCl inj (≠≠≤K•[•Œ) 15%,10mL
-* Potassium Chloride
-  * 20mEq KCl in 0.9%NaCl 500mL
-* Potassium Chloride
   * 10mEq KCl in 0.9%NaCl 500mL
+  * 20mEq KCl in 0.9%NaCl 500mL
+  * 20mEq KCl in„ÄêD5NS 500mL„Äë
+  * 20mEq KCl in„ÄêD5W 500mL„Äë
+  * KCl inj (ÈôêÊ∑ªÂä†Áî®) 15%,10mL
 * Potassium Citrate Monohydrate + Citric Acid
   * K-citrate granules 5gm
 * Potassium Gluconate
@@ -1569,34 +1375,27 @@
   * Pampara inj 500mg/20mL
 * Pramipexole
   * 1mg MIRAPEX
-* Pramipexole
   * MiraPex 0.375mg prolonged-release
 * Prasugrel
   * Efient 3.75mg
 * Pravastatin
   * Mevalotin 40mg
 * Prednisolone
-  * Kidsolone solution 1mg/mL, 60mL
-* Prednisolone
-  * Pred Forte 1% 5mL ophthalmic suspension
-* Prednisolone
   * Compesolon 5mg
+  * Kidsolone solution 1mg/mL, 60mL
+  * Pred Forte 1% 5mL ophthalmic suspension
 * Pregabalin
   * Lyrica 75mg
 * Procaterol
   * Meptin - Mini 25mcg
-* Procaterol
   * Meptin liquid 5mcg/mL, 60mL
 * Prochlorperazine
-  * Novamin inj 5mg/1mL
-* Prochlorperazine
   * Novamin 5mg
-* Progesterone
-  * Utrogestan 100mg
-* Progesterone
-  * Progesterone inj 25mg/1mL
+  * Novamin inj 5mg/1mL
 * Progesterone
   * Crinone vaginal gel 8%
+  * Progesterone inj 25mg/1mL
+  * Utrogestan 100mg
 * Propacetamol
   * Acetamol inj 1gm
 * Propafenone
@@ -1604,36 +1403,28 @@
 * Propofol
   * Propofol-Lipuro 1% 20mL
 * Propranolol
-  * Pushingon oral solution 2mg/mL, 60mL(±MÆ◊ªs≥y)
-* Propranolol
   * Pronolol 10mg
+  * Pushingon oral solution 2mg/mL, 60mL(Â∞àÊ°àË£ΩÈÄ†)
 * Propylthiouracil
   * Polupi 50mg (PTU)
 * Protamine sulphate
   * Protamine sulphate inj 50mg/5mL
 * Purified Split Inactivated Influenza Virus
-  * 4ª˘¶€∂O¨y∑P (VaxigripTetra)0.5mL/dose
-* Purified Split Inactivated Influenza Virus
-  * Flucelvax quad (ª≤¨y´¬æA¨y∑P¨Ã≠]) 0.5mL/dose
-* Purified Split Inactivated Influenza Virus
-  * Free 4 valnet Influenza vaccine(>3y/o) 0.5mL/dose
-* Purified Split Inactivated Influenza Virus
+  * 4ÂÉπËá™Ë≤ªÊµÅÊÑü (VaxigripTetra)0.5mL/dose
+  * Flucelvax quad (ËºîÊµÅÂ®ÅÈÅ©ÊµÅÊÑüÁñ´Ëãó) 0.5mL/dose
   * Free 4 valent Influenza vaccine (Adult) 0.5mL/dose
-* Purified Split Inactivated Influenza Virus
   * Free 4 valnet Influenza vaccine (6M~3Y) 0.5mL/dose
+  * Free 4 valnet Influenza vaccine(>3y/o) 0.5mL/dose
 * Pyrazinamide
   * Pyrazinamide 500mg
 * Pyridostigmine
   * Antilon 60mg
 * Pyridoxine
   * Pyridoxine (B6) 50mg
-
 ## Q
 * Quetiapine
-  * Utapine 200mg
-* Quetiapine
   * Seroquel 25mg
-
+  * Utapine 200mg
 ## R
 * Raloxifene
   * Evista 60mg
@@ -1650,9 +1441,8 @@
 * Regorafenib
   * Stivarga 40mg (28#/Bot)
 * Remdesivir
-  * Veklury (¶€∂O) inj 100mg (≠·¥π)
-* Remdesivir
-  * Veklury inj 100mg (§Ω∂O/≠·¥π)
+  * Veklury (Ëá™Ë≤ª) inj 100mg (ÂáçÊô∂)
+  * Veklury inj 100mg (ÂÖ¨Ë≤ª/ÂáçÊô∂)
 * Rho D Immune Globulin
   * Rho (D) Immune Globulin [HyperRHO]
 * Ribavirin
@@ -1660,35 +1450,28 @@
 * Ribociclib
   * Kisqali 200mg
 * Rifampicin
-  * Rifampicin 300mg (•ﬂ¶∆≈Ø¿)
+  * Rifampicin 300mg (Á´ãÊ±éÈª¥Á¥†)
 * Rifapentine
   * Priftin 150mg (Government)
 * Risankizumab
   * Skyrizi 75mg/0.83mL pre-filled syringe
 * Risperidone
   * Apa-Risdol 2mg
-* Risperidone
   * Risperdal solution 1mg/mL, 30mL
 * Ritodrine
   * Anpo 10mg
-* Ritodrine
   * Anpo inj 50mg/5mL
 * Rituximab
-  * Mabthera inj 100mg/10mL
-* Rituximab
   * MABTHERA infusion 500mg/50mL
-* Rituximab
+  * Mabthera inj 100mg/10mL
   * Truxima inj 500mg/50mL
 * Rivaroxaban
   * XARELTO 15mg
-* Rivaroxaban
   * Xarelto 2.5mg
 * Rivastigmine
-  * Rivast 2mg/mL, 120mL solution
-* Rivastigmine
-  * Exelon patch 5
-* Rivastigmine
   * Exelon 3mg
+  * Exelon patch 5
+  * Rivast 2mg/mL, 120mL solution
 * Rizatriptan
   * Rizatan 5mg
 * Rocuronium Bromide
@@ -1701,30 +1484,21 @@
   * Crestor 10mg
 * Rotigotine
   * Neupro patch 6mg/24h
-
 ## S
 * SARS-CoV-2 Spike glycoprotein
-  * COVID-19 XBB.1.5 Novavax 0.5mL/dose (2.5mL/vial)
-* SARS-CoV-2 Spike glycoprotein
-  * COVID-19 Vaccine Novavax 0.5mL/dose (5mL/vial)
-* SARS-CoV-2 Spike glycoprotein
   * COVID-19 Vaccine Medigen 0.5mL/dose(10 dose/vial)
+  * COVID-19 Vaccine Novavax 0.5mL/dose (5mL/vial)
+  * COVID-19 XBB.1.5 Novavax 0.5mL/dose (2.5mL/vial)
 * SARS-CoV-2 Spike glycoprotein [ChAdOx1-S]
   * COVID-19 Vaccine AstraZeneca 0.5mL/dose (5mL/vial)
 * SARS-CoV-2 Spike glycoprotein [mRNA]
+  * BA1ÈõôÂÉπModerna(Covid19) 0.5mL/dose(2.5mL/vial)
+  * BA4/5Ê¨°‰∏ñ‰ª£Moderna(Covid19) 0.5mL/dose(2.5mL/vial)
   * COVID-19 Vaccine BioNTech 0.3mL/dose (0.45mL/vial)
-* SARS-CoV-2 Spike glycoprotein [mRNA]
-  * Pfizer-BioNTech (6M-4∑≥) 0.2mL/dose (0.4mL/vial)
-* SARS-CoV-2 Spike glycoprotein [mRNA]
-  * COVID-19 XBB.1.5 0.5mL/dose (2.5mL/vial)
-* SARS-CoV-2 Spike glycoprotein [mRNA]
-  * Pfizer-BioNTech (5-11y/o) 0.2mL/dose (1.3mL/vial)
-* SARS-CoV-2 Spike glycoprotein [mRNA]
   * COVID-19 Vaccine Moderna 0.5mL/dose (5mL/vial)
-* SARS-CoV-2 Spike glycoprotein [mRNA]
-  * BA1¬˘ª˘Moderna(Covid19) 0.5mL/dose(2.5mL/vial)
-* SARS-CoV-2 Spike glycoprotein [mRNA]
-  * BA4/5¶∏•@•NModerna(Covid19) 0.5mL/dose(2.5mL/vial)
+  * COVID-19 XBB.1.5 0.5mL/dose (2.5mL/vial)
+  * Pfizer-BioNTech (5-11y/o) 0.2mL/dose (1.3mL/vial)
+  * Pfizer-BioNTech (6M-4Ê≠≤) 0.2mL/dose (0.4mL/vial)
 * Sacituzumab govitecan
   * Trodelvy inj 180mg
 * Sacubitril + Valsartan
@@ -1734,6 +1508,7 @@
 * Salicylic Acid + Lactic Acid
   * Decorn solution 10mL, 16.7%
 * Salmeterol + Fluticasone
+  * SERETIDE 125 EVOHALER
   * Seretide 50 evohaler
 * Salmon Calcitonin
   * Miacalcic inj 50 IU/1mL
@@ -1742,24 +1517,20 @@
 * Secukinumab
   * Cosentyx 150mg prefilled pen
 * Semaglutide
-  * Rybelsus 7mg
-* Semaglutide
   * Ozempic inj 4mg/3mL
+  * Rybelsus 7mg
 * Sennosides
   * Through (Sennosides) 12mg
 * Sertaconazole
-  * Zalain cream 2%, 15gm
-* Sertaconazole
   * ZALAIN vaginal tablet 500mg
+  * Zalain cream 2%, 15gm
 * Sertraline
   * Zoloft 50mg
 * Sevoflurane
   * Sojourn Inhalation Liquid 250mL/bottle
 * Sildenafil
   * Revatio 20mg
-* Sildenafil
   * VIAGRA 100mg (4 tablets/box)
-* Sildenafil
   * Viagra ODT 50mg (4 tablets/box)
 * Silodosin
   * Urief F.C. 8mg
@@ -1768,8 +1539,7 @@
 * Silymarin
   * Silygen 70mg
 * Simethicone
-  * (≠≠∏z≠G§§§ﬂ)Simethicone 20mg/mL suspension
-* Simethicone
+  * (ÈôêËÖ∏ËÉÉ‰∏≠ÂøÉ)Simethicone 20mg/mL suspension
   * Wilcon 20mg/mL, 60mL suspension
 * Sod Chloride
   * Atomic enema 20mL
@@ -1777,36 +1547,22 @@
   * Sodium acetate inj 20mL (4mEq/mL)
 * Sodium Bicarbonate
   * NaHCO3 (Rolikan) inj 7% 20mL
-* Sodium Bicarbonate
   * NaHCO3 300mg
 * Sodium Chloride
-  * Sodium Chloride eye drop 3%, 5mL
-* Sodium Chloride
+  * 0.45% NaCl inj 20mL (ÈôêRT‰ΩøÁî®)
   * 0.45% Saline inj 500mL
-* Sodium Chloride
-  * 3% NaCl inj 500mL(YF)
-* Sodium Chloride
   * 0.9% NaCl 100mL bag(Otsuka)
-* Sodium Chloride
-  * 0.9% NaCl inj 250mL
-* Sodium Chloride
   * 0.9% NaCl 250mL bag(Otsuka)
-* Sodium Chloride
-  * Isotonic NaCl inj 20mL
-* Sodium Chloride
-  * Sodium chloride 0.9% inj 1000mL
-* Sodium Chloride
-  * 0.9% NaCl inj 500mL
-* Sodium Chloride
-  * 0.9%NaCl irrigation (Normal Saline) 500mL(®R¨~•Œ)
-* Sodium Chloride
-  * 0.9%NaCl irrigation 3000mL
-* Sodium Chloride
-  * 0.9%NaCl irrigation 2000mL
-* Sodium Chloride
   * 0.9% NaCl 500mL bag(Otsuka)
-* Sodium Chloride
-  * 0.45% NaCl inj 20mL (≠≠RT®œ•Œ)
+  * 0.9% NaCl inj 250mL
+  * 0.9% NaCl inj 500mL
+  * 0.9%NaCl irrigation (Normal Saline) 500mL(Ê≤ñÊ¥óÁî®)
+  * 0.9%NaCl irrigation 2000mL
+  * 0.9%NaCl irrigation 3000mL
+  * 3% NaCl inj 500mL(YF)
+  * Isotonic NaCl inj 20mL
+  * Sodium Chloride eye drop 3%, 5mL
+  * Sodium chloride 0.9% inj 1000mL
 * Sodium Oleate
   * Alcos-Anal suppository
 * Sodium Pentosan Polysulfate
@@ -1842,11 +1598,9 @@
 * Sulfamethoxazole
   * Kingmin 4%, 10mL opthalmic solution
 * Sulfamethoxazole + Trimethoprim
-  * Sulfacotrim 40/8mg/mL, 60mL suspension
-* Sulfamethoxazole + Trimethoprim
   * Morcasin (Baktar) 400/80mg
-* Sulfamethoxazole + Trimethoprim
   * Sevatrim inj(400mg+80mg)
+  * Sulfacotrim 40/8mg/mL, 60mL suspension
 * Sulfasalazine
   * Salazine 500mg
 * Sulphur hexafluoride microbubbles
@@ -1855,7 +1609,6 @@
   * Splotin 50mg
 * Sunitinib
   * Sutent 12.5mg
-
 ## T
 * Tacrolimus
   * Protopic ointment 0.1%,10gm
@@ -1889,19 +1642,15 @@
   * Glypressin inj 0.1mg/mL, 8.5mL
 * Testosterone
   * Androgel 50mg
-* Testosterone
-  * Nebido inj 1000mg/4mL
-* Testosterone
   * Natesto nasal gel 4.5%, 11gm
-* Testosterone
+  * Nebido inj 1000mg/4mL
   * Sustanon inj (Testosterone250mg/1mL)
 * Tetanus toxoid
-  * Tetanus vaccine 0.5mL/dose/amp(±MÆ◊∂i§f)
+  * Tetanus vaccine 0.5mL/dose/amp(Â∞àÊ°àÈÄ≤Âè£)
 * Tetracycline
   * Tetracycline 250mg
 * Theophylline
   * Centertheo 60mL (5.34mg/mL) liquid
-* Theophylline
   * Xanthium 200mg
 * Thiaine Tetrahydrofurfuryl Disulfide + Riboflavin
   * Alinamin-F 50mg
@@ -1932,27 +1681,21 @@
 * Tirofiban
   * Aggrastat inj 12.5mg/50mL
 * Tobramycin + Dexamethasone
-  * Tobradex eye ointment 3.5gm
-* Tobramycin + Dexamethasone
   * Tobradex 5mL ophthalmic suspension
+  * Tobradex eye ointment 3.5gm
 * Tocilizumab
-  * Actemra Infusion 200mg/10mL/Vial ±MÆ◊(≠≠Covid-19)
-* Tocilizumab
-  * Actemra Infusion 80mg/4mL/Vial ±MÆ◊(≠≠Covid-19)
-* Tocilizumab
+  * Actemra Infusion 200mg/10mL/Vial Â∞àÊ°à(ÈôêCovid-19)
+  * Actemra Infusion 80mg/4mL/Vial Â∞àÊ°à(ÈôêCovid-19)
   * Actemra inj 162mg/0.9mL
 * Tofacitinib
   * Xeljanz 5mg
 * Tolterodine
   * DETRUSITOL SR 4mg prolonged-release
-* Tolterodine
   * Detrusitol 2mg
 * Tolvaptan
-  * Jinarc 45mg
-* Tolvaptan
-  * Samsca 15mg
-* Tolvaptan
   * Jinarc 15mg
+  * Jinarc 45mg
+  * Samsca 15mg
 * Topiramate
   * Trokendi XR 50mg
 * Topotecan
@@ -1963,22 +1706,17 @@
   * Traceton 37.5/325mg
 * Tranexamic Acid
   * Transamin 250mg
-* Tranexamic Acid
   * Transamin inj 250mg/5mL
 * Trastuzumab
-  * Herceptin inj 440mg
-* Trastuzumab
-  * Ogivri inj 440 mg (∞∑´O)
-* Trastuzumab
-  * Ogivri inj 440 mg (µ¥πÔ¶€∂O)
-* Trastuzumab
   * HERCEPTIN inj 600mg/5mL
+  * Herceptin inj 440mg
+  * Ogivri inj 440 mg (ÂÅ•‰øù)
+  * Ogivri inj 440 mg (ÁµïÂ∞çËá™Ë≤ª)
 * Trastuzumab Deruxtecan
   * Enhertu inj 100mg
 * Trastuzumab Emtansine
-  * Kadcyla inj 100mg
-* Trastuzumab Emtansine
   * KADCYLA inj 160mg
+  * Kadcyla inj 100mg
 * Travoprost
   * Izba 0.003%, 2.5mL eye drops
 * Travoprost + Timolol
@@ -1986,13 +1724,11 @@
 * Trazodone
   * Mesyrel 50mg
 * Triamcinolone
-  * Triamcinolone 10mg/1mL
-* Triamcinolone
   * 4% Triamcinolone 40mg/1mL
-* Triamcinolone + Neomycin + Gramicidin + Nystatin
-  * Mycomb otic drops 5mL
+  * Triamcinolone 10mg/1mL
 * Triamcinolone + Neomycin + Gramicidin + Nystatin
   * Mycomb cream 20gm
+  * Mycomb otic drops 5mL
 * Trichlormethiazide
   * Fluitran 2mg
 * Trifluridine + Tipiracil
@@ -2009,33 +1745,26 @@
   * PPD 2TU/0.1mL/dose (HealthExam)
 * Tuberculin purified protein derivative
   * PPD 2TU/0.1mL/dose (Tuberculin)
-
 ## U
 * Umeclidinium + Vilanterol trifenatate
   * Anoro Ellipta 55/22mcg inhalation powder
 * Urea
+  * Sinpharderm cream 40%, 10gm (ÂéªËßíË≥™)
   * Urea cream 10%, 20gm
-* Urea
-  * Sinpharderm cream 40%, 10gm (•h®§ΩË)
 * Urokinase
   * UROKINASE 60,000IU
 * Ursodeoxycholic Acid
   * Genurso 100mg
 * Ustekinumab
   * STELARA inj 90mg/1mL
-* Ustekinumab
   * Stelara inj 45mg/0.5mL
-
 ## V
 * Valaciclovir
   * Valtrex 500mg
 * Valproate Sodium
-  * Depakine 200mg
-* Valproate Sodium
   * DEPAKINE 500mg
-* Valproate Sodium
+  * Depakine 200mg
   * Depakine inj 400mg
-* Valproate Sodium
   * Depakine oral solution 200mg/mL, 40mL
 * Valsartan
   * Diovan 80mg
@@ -2045,23 +1774,19 @@
   * Vanco inj 1gm
 * Varicella Virus Vaccine
   * Varivax Vaccine 0.5mL/dose (Private)
-* Varicella Virus Vaccine
-  * §Ùµk¨Ã≠]Varivax (Government) 0.5mL/dose
+  * Ê∞¥ÁóòÁñ´ËãóVarivax (Government) 0.5mL/dose
 * Varicella Zoster Virus glycoprotein E
   * Shingrix inj 0.5mL/dose
 * Vasopressin
   * Pitressin inj 20 Units/1mL
 * Vedolizumab
   * ENTYVIO inj 300mg (infusion)
-* Vedolizumab
-  * Entyvio inj 108mg/0.68mL •÷§U™`Æg
+  * Entyvio inj 108mg/0.68mL ÁöÆ‰∏ãÊ≥®Â∞Ñ
 * Venlafaxine
   * Effexor XR 75mg
-* Venlafaxine
   * Faxine 37.5mg
 * Verapamil
   * Isoptin SR 240mg
-* Verapamil
   * U-sodin inj 5mg/2mL (Verapamil)
 * Verteporfin
   * Visudyne inj 15mg/vial
@@ -2070,24 +1795,19 @@
 * Vincristine
   * Vincristine inj 1mg/1mL
 * Vinorelbine
-  * Navelbine 20mg
-* Vinorelbine
   * NAVELBINE 30mg
+  * Navelbine 20mg
 * Vonoprazan
   * Vocinti 20mg
 * Voriconazole
   * Vfend inj 200mg
-
 ## W
 * Warfarin
-  * Cofarin 1mg
-* Warfarin
   * COFARIN 5mg
-* Water for injection
-  * Water for injection 500mL
+  * Cofarin 1mg
 * Water for injection
   * Water for injection 20mL
-
+  * Water for injection 500mL
 ## Z
 * Zinc Acetate
   * Zinca 25mg
@@ -2095,7 +1815,6 @@
   * Zin ointment 20%, 28.4gm
 * Zoledronic Acid
   * Aclasta inj 5mg/100mL
-* Zoledronic Acid
   * Bolenic IV infusion 4mg
 * Zolpidem
   * Stilnox 10mg
@@ -2103,14 +1822,10 @@
   * Zonegran 100mg
 * Zopiclone
   * Imovane 7.5mg
+* Zoster virus vaccine live
+  * Zostavax 0.65mL/dose
 * Zotepine
   * Zonin 50mg
-
-## z
-* zoster virus vaccine live
-  * Zostavax 0.65mL/dose
-
-## ∑Ì
-* ∑Ì¬k,∂¿Õ¡,¨ıØœ,§—™«∂¿,§H∞—,Æ„≠J,∂¿≥s,•ÃØÛ
+## Áï∂
+* Áï∂Ê≠∏,ÈªÉËä©,Á¥ÖËÄÜ,Â§©Á´∫ÈªÉ,‰∫∫ÂèÉ,Êü¥ËÉ°,ÈªÉÈÄ£,ÁîòËçâ
   * BNG-1 powder 3gm/pack
-

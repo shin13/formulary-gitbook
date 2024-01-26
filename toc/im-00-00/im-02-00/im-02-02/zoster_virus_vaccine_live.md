@@ -1,4 +1,4 @@
-# zoster virus vaccine live
+# Zoster virus vaccine live
 
 ## Zostavax 0.65mL/dose
 

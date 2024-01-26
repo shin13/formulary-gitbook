@@ -1,4 +1,4 @@
-# Aluminium Hydroxide
+# Aluminum Hydroxide
 
 ## Aluminum 324mg
 
