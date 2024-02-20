@@ -1,7 +1,6 @@
 # Table of contents
 * [首頁](README.md)
 * [目錄](toc/README.md)
-* [toc](./toc/README.md)
   * [Antidotes](toc/ad-00-00/README.md)
     * [General Antidotes](toc/ad-00-00/ad-01-00/README.md)
       * [Activated Charcoal](toc/ad-00-00/ad-01-00/activated_charcoal.md)
