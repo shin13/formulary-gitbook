@@ -26,8 +26,6 @@
 * Acetylsalicylic Acid
   * Aspirin protect 100mg
   * Bokey 100mg
-* Acitretin
-  * Neotigason 10mg
 * Acrinol
   * Acrinol solution 500mL
 * Activated Charcoal
@@ -134,7 +132,7 @@
   * Biofermin-R 6mg/1gm Powder
 * Apixaban
   * ELIQUIS 5mg
-  * Eliquis 2.5mg film-coated
+  * Eliquis 2.5mg
 * Aripiprazole
   * Abilify 5mg
   * Abilify Maintena inj 400mg
@@ -944,7 +942,7 @@
 * K2HPO4+KH2PO4
   * Potassium Phosphate inj 20mL
 * Ketamine
-  * Ketalar inj 50mg/mL
+  * Ketalar inj 50mg/mL, 10mL
 * Ketorolac
   * Kelac 0.5%, 5mL ophthalmic solution
   * Keto 10mg
@@ -1065,8 +1063,6 @@
   * Ponstan 250mg
 * Megestrol
   * Megest 40mg/mL,120mL suspension
-* Meloxicam
-  * Mobicam 15mg
 * Memantine
   * Witgen 10mg
 * Meningococcal group B Vaccine
@@ -1091,7 +1087,6 @@
   * Lica 5mg
 * Methotrexate
   * Methotrexate 2.5mg
-  * Methotrexate inj 50mg/2mL
 * Methoxy Polyethylene Glycol- Epoetin β
   * Mircera inj 50mcg/0.3mL
 * Methyldopa
@@ -1126,6 +1121,8 @@
   * Midorine 2.5mg
 * Minocycline
   * Periocure 10mg/0.5gm/syringe dental ointment
+* Mirabegron
+  * Betmiga 50mg prolonged-release
 * Mirtazapine
   * MirTapine 30mg orally disintegrating
 * Misoprostol
@@ -1229,6 +1226,8 @@
   * Omacor Soft 1000mg
 * Omeprazole
   * OKWE 20mg
+* Omidenepag isopropyl
+  * Eybelis 0.002% 2.5mL ophthalmic solution
 * Ondansetron
   * Supren inj 8mg/4mL
 * Opium Tincture + Glycyrrhiza + Antimony K tartrate
@@ -1347,6 +1346,7 @@
 * Plectranthus amboinicus + Centella asiatica
   * Fespixon cream 1.25%, 15 gm
 * Pneumococcal Vaccine Polyvalent
+  * Pneumovax 23 (Government) 0.5mL/dose
   * Pneumovax 23 (Private) 0.5mL/dose
   * Pneumovax 23 (Taipei City) 0.5mL/dose
   * Prevenar (政府提供,13價肺炎) 0.5mL/dose
@@ -1411,7 +1411,6 @@
   * Protamine sulphate inj 50mg/5mL
 * Purified Split Inactivated Influenza Virus
   * 4價自費流感 (VaxigripTetra)0.5mL/dose
-  * Flucelvax quad (輔流威適流感疫苗) 0.5mL/dose
   * Free 4 valent Influenza vaccine (Adult) 0.5mL/dose
   * Free 4 valnet Influenza vaccine (6M~3Y) 0.5mL/dose
   * Free 4 valnet Influenza vaccine(>3y/o) 0.5mL/dose
@@ -1508,7 +1507,6 @@
 * Salicylic Acid + Lactic Acid
   * Decorn solution 10mL, 16.7%
 * Salmeterol + Fluticasone
-  * SERETIDE 125 EVOHALER
   * Seretide 50 evohaler
 * Salmon Calcitonin
   * Miacalcic inj 50 IU/1mL
@@ -1717,8 +1715,6 @@
 * Trastuzumab Emtansine
   * KADCYLA inj 160mg
   * Kadcyla inj 100mg
-* Travoprost
-  * Izba 0.003%, 2.5mL eye drops
 * Travoprost + Timolol
   * Duotrav eye drops 2.5mL
 * Trazodone
