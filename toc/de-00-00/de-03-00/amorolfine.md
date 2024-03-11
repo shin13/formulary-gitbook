@@ -13,7 +13,7 @@
 | Pregnancy          | Unknown                                                                                                                                                          |
 | Lactation          | Unknown                                                                                                                                                          |
 
-## Loceryl nail 5% 2.5mL lacquer
+## Loceryl nail 5% 2.5mL Lacquer
 
 | TAH Drug Code      | [ELOC2](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ELOC2)                                                         |
 |:-------------------|:-------------------------------------------------------------------------------------------------------------------------------|

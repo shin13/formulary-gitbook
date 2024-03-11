@@ -26,6 +26,8 @@
 * Acetylsalicylic Acid
   * Aspirin protect 100mg
   * Bokey 100mg
+* Acitretin
+  * Neotigason 10mg
 * Acrinol
   * Acrinol solution 500mL
 * Activated Charcoal
@@ -55,8 +57,6 @@
   * Alfentanil inj 1mg/2mL
 * Alginic Acid+Colloidal Al(OH)3+MgHCO3
   * Algitab chewable
-* Alirocumab
-  * Praluent solution for injection 75mg
 * Allopurinol
   * Tonsaric 100mg
 * Alogliptin
@@ -113,7 +113,7 @@
   * Exforge 5/80mg
 * Amorolfine
   * Amocoat Nail Lacquer 5mL
-  * Loceryl nail 5% 2.5mL lacquer
+  * Loceryl nail 5% 2.5mL Lacquer
 * Amoxicillin
   * AMOXICILLIN 500mg
   * Amoxicillin 250mg
@@ -154,7 +154,7 @@
 * Atropine sulfate monohydrate
   * Santone 0.01% 7mL ophthalmic solution
 * Azathioprine
-  * Asazipam 50mg
+  * Imuran 50mg
 * Azelaic Acid
   * Azel cream 30gm
 * Azelastine + Fluticasone
@@ -504,6 +504,8 @@
   * Diclofenac 100mg S.R. F.C.
   * VOREN inj 75mg/3mL
   * Voren suppository 12.5mg
+* Dicloxacillin
+  * Ziefmycin 250mg
 * Dicyclomine
   * Bentyl 10mg
 * Dienogest
@@ -694,7 +696,7 @@
   * Flumarin inj 1gm
 * Fluconazole
   * Diflucan 150mg
-  * Diflucan inj 100mg/50mL
+  * Fluconazole(Flucon) inj 200mg/100mL
 * Fludiazepam
   * FluPINE 0.25mg
 * Flumazenil
@@ -738,7 +740,6 @@
 * Folinate
   * Covorin inj 50mg/5mL
   * Folina 15mg
-  * Folina inj 100mg/10mL
 * Follitropin Alpha
   * GONAL-F inj 450 IU/ 0.75mL
   * Gonal-F 75 IU inj
@@ -993,8 +994,6 @@
   * Keppra 500mg
   * Keppra inj 500mg/5mL
   * Keppra solution 100mg/mL, 300mL
-* Levocetirizine
-  * Xyzal 5mg
 * Levodopa + Benserazide
   * Madopar 200/50mg
 * Levofloxacin
@@ -1048,7 +1047,6 @@
   * Mg Sulfate inj 10%, 200mL
 * Measles + Mumps + Rubella
   * MMR II (Government) 0.5mL/dose
-  * Priorix inj (MMR) 0.5 mL/dose (Private)
 * Mebeverine
   * Padalin 100mg
 * Meclizine
@@ -1087,6 +1085,7 @@
   * Lica 5mg
 * Methotrexate
   * Methotrexate 2.5mg
+  * Methotrexate inj 50mg/2mL
 * Methoxy Polyethylene Glycol- Epoetin β
   * Mircera inj 50mcg/0.3mL
 * Methyldopa
@@ -1116,7 +1115,7 @@
 * Micafungin
   * Mycamine inj 50mg
 * Midazolam
-  * Dormicum inj 5mg/1mL
+  * Midazolam-hameln inj 5mg/1mL
 * Midodrine
   * Midorine 2.5mg
 * Minocycline
@@ -1173,7 +1172,7 @@
 * Neomycin
   * Neomycin 250mg
 * Neostigmine Methylsulfate
-  * ONSD 0.01%, 10mL
+  * ONSD 0.01% 10mL
   * Vagostin inj 0.5mg/1mL
 * Neratinib
   * Nerlynx 40 mg (180 tablets/bot)
@@ -1236,16 +1235,15 @@
   * Xenical 120mg (84 capsules/box)
 * Oseltamivir
   * Eraflu 75mg (Government)
-  * Tamiflu 75mg (Private)
-* Oseltamivir Phosphate
   * Oseltamivir (政府提供) 6mg/mL 60mL oral suspension
   * Oseltamivir Phosphate 6mg/mL, 60mL oral suspension
+  * Tamiflu 75mg (Private)
 * Otilonium
   * Catilon 40mg
 * Oxacillin
   * Ocillina inj 500mg
 * Oxaliplatin
-  * Orectalip inj 50mg/10mL
+  * Oxalip inj 50mg/10mL
 * Oxcarbazepine
   * Trileptal 300mg
   * Trileptal 60mg/mL, 100mL oral suspension
@@ -1412,7 +1410,6 @@
 * Purified Split Inactivated Influenza Virus
   * 4價自費流感 (VaxigripTetra)0.5mL/dose
   * Free 4 valent Influenza vaccine (Adult) 0.5mL/dose
-  * Free 4 valnet Influenza vaccine (6M~3Y) 0.5mL/dose
   * Free 4 valnet Influenza vaccine(>3y/o) 0.5mL/dose
 * Pyrazinamide
   * Pyrazinamide 500mg
