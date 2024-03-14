@@ -104,7 +104,7 @@ with open('SUMMARY_test.md', 'w', encoding='utf-8') as f:
 # In[7]:
 
 
-bad_words = ['[Readme]']
+bad_words = ['[Readme]', '* [toc](./toc/README.md)']
 
 with open('SUMMARY_test.md', 'r', encoding='utf8') as oldfile, open('SUMMARY.md', 'w', encoding='utf8') as newfile:
     for line in oldfile:
