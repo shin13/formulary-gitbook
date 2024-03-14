@@ -22,12 +22,12 @@ if user_input.upper() == 'Y':
                     'C:\\Users\\152551\\formulary-gitbook'])
     print('STEP 3 完成')
 
-    print('STEP 3 開始')
+    print('STEP 3 modify-summary 開始')
     print('STEP 3 執行中...')
     subprocess.run(['python', 'formulary_03_modify-summary.py'])
     print('STEP 3 完成')
 
-    print('STEP 4 開始')
+    print('STEP 4 make_index 開始')
     print('STEP 4 執行中...')
     subprocess.run(['python', 'formulary_04_make_index.py'])
     print('STEP 4 完成')
