@@ -5,7 +5,7 @@
   * Macalol 0.25mcg
 ## A
 * Abemaciclib
-  * Verzenio 150mg (28 tablets/box)
+  * Verzenio 150mg
 * Abiraterone
   * Zytiga 250mg
 * Acamprosate
@@ -120,6 +120,7 @@
 * Amoxicillin + Clavulanic Acid
   * Curam 1000mg
   * Soonmelt inj 600mg
+  * Soonmelt syrup 31.25mg/mL, 100mL
 * Ampicillin
   * Ampolin inj 0.5gm
 * Ampicillin + Sulbactam
@@ -163,7 +164,7 @@
   * Edarbi 40mg
 * Azithromycin
   * Aziciin 250mg
-  * Zithromax 200mg/5mL suspension
+  * Zithromax 200mg/5mL suspension, 15mL
 ## B
 * BCG Immunotherapeutic
   * SII-ONCO-BCG inj 40mg/mL(專案進口)
@@ -303,6 +304,7 @@
 * Carbetocin
   * Duratocin inj 100mcg/1mL
 * Carbidopa + Levodopa
+  * Numient 48.75/195mg extended-release
   * Sinemet 25/100mg
 * Carbomer
   * Vidisic gel 10gm
@@ -585,8 +587,6 @@
   * Glyxambi 25/5mg
 * Enoxolone
   * Enoxolone Gingival Paste 1%, 80gm
-* Entacapone
-  * Comtan 200mg
 * Entecavir
   * 1mg BARACLUDE
   * Baraclude 0.5mg
@@ -696,7 +696,7 @@
   * Flumarin inj 1gm
 * Fluconazole
   * Diflucan 150mg
-  * Fluconazole(Flucon) inj 200mg/100mL
+  * Fluconazole (Flucon) inj 200mg/100mL
 * Fludiazepam
   * FluPINE 0.25mg
 * Flumazenil
@@ -827,7 +827,6 @@
   * Cividoid gel 20gm
 * Hepatitis B Immune Globulin
   * HBIG (Government) 0.5mL/dose
-  * HyperHep B 0.5mL(Private)
 * Hepatitis B Vaccine
   * Engerix-B inj 1mL/dose (Private)
   * Hepatitis B vaccine (Government) 0.5mL/dose
@@ -1102,7 +1101,6 @@
   * Methylprednisolone 4mg
 * Metoclopramide
   * Promeran 3.84mg
-* Metoclopramide hydrochloride
   * Pulin inj 10mg/2mL
 * Metronidazole
   * Efucon gel 0.75%, 15gm
@@ -1154,6 +1152,7 @@
 * NaCl + KCl + Boric Acid
   * Patear eye lotion 10mL
 * NaCl + KCl + Calcium Chloride + Lactose
+  * Lactated Ringer's inj 500mL
   * Ringer Lactate 500mL
 * Nalbuphine
   * Mutonpain inj 10mg/1mL
@@ -1234,9 +1233,8 @@
 * Orlistat
   * Xenical 120mg (84 capsules/box)
 * Oseltamivir
-  * Eraflu 75mg (Government)
-  * Oseltamivir (政府提供) 6mg/mL 60mL oral suspension
   * Oseltamivir Phosphate 6mg/mL, 60mL oral suspension
+  * Tamiflu 75mg (Government)
   * Tamiflu 75mg (Private)
 * Otilonium
   * Catilon 40mg
@@ -1408,8 +1406,6 @@
 * Protamine sulphate
   * Protamine sulphate inj 50mg/5mL
 * Purified Split Inactivated Influenza Virus
-  * 4價自費流感 (VaxigripTetra)0.5mL/dose
-  * Free 4 valent Influenza vaccine (Adult) 0.5mL/dose
   * Free 4 valnet Influenza vaccine(>3y/o) 0.5mL/dose
 * Pyrazinamide
   * Pyrazinamide 500mg

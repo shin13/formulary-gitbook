@@ -1,6 +1,6 @@
 # Abemaciclib
 
-## Verzenio 150mg (28 tablets/box)
+## Verzenio 150mg
 
 ##### 臨採
 

@@ -17,7 +17,7 @@
 * [PubMed (新版)(臺安醫院專屬網址)](https://pubmed.ncbi.nlm.nih.gov/?otool=itwtahlib) 🔎 
 * [Micromedex](https://www.micromedexsolutions.com/micromedex2/librarian) 💊 
 * [Briggs drugs in pregnancy and lactation : a reference guide to fetal and neonatal risk, 12th ed.](https://wolterskluwer.vitalsource.com/reader/books/9781975162405/epubcfi/6/2[%3Bvnd.vst.idref%3Dcover]!/4/2/2/2%4091:40) 💊 
-* [UpToDate Anywhere](https://www.uptodate.com/contents/search) 🔎 
+* [UpToDate](https://www.uptodate.com/contents/search) 🔎 
 * [Cochrane Library](http://www.thecochranelibrary.com/) 🔎 
 
 

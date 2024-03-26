@@ -2,8 +2,6 @@
 
 ## Flixotide 50mcg evohaler 120dose
 
-##### 臨採
-
 | TAH Drug Code      | [EFLIE](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EFLIE)                                                                                                                                             |
 |:-------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Prophylactic management in mild, moderate & severe asthma for adult & childn.                                                                                                                                      |
