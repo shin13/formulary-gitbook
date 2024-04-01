@@ -456,6 +456,8 @@
   * Priligy 30mg (3 tablets/box)
 * Darbepoetin alfa
   * NESP inj 20mcg(洗腎用)
+* Darolutamide
+  * Nubeqa F.C. 300mg
 * Deferoxamine Methansulphonate
   * DesFERAL inj 500mg
 * Degarelix
@@ -993,6 +995,8 @@
   * Keppra 500mg
   * Keppra inj 500mg/5mL
   * Keppra solution 100mg/mL, 300mL
+* Levocetirizine
+  * Xyzal 5mg
 * Levodopa + Benserazide
   * Madopar 200/50mg
 * Levofloxacin
@@ -1046,6 +1050,7 @@
   * Mg Sulfate inj 10%, 200mL
 * Measles + Mumps + Rubella
   * MMR II (Government) 0.5mL/dose
+  * Priorix inj (MMR) 0.5 mL/dose (Private)
 * Mebeverine
   * Padalin 100mg
 * Meclizine
@@ -1166,8 +1171,6 @@
   * Seladin 250mg
 * Nefopam
   * Capain 30mg
-* Nemonoxacin
-  * Taigexyn 250mg
 * Neomycin
   * Neomycin 250mg
 * Neostigmine Methylsulfate
@@ -1406,6 +1409,7 @@
 * Protamine sulphate
   * Protamine sulphate inj 50mg/5mL
 * Purified Split Inactivated Influenza Virus
+  * 4價自費流感 (VaxigripTetra)0.5mL/dose
   * Free 4 valnet Influenza vaccine(>3y/o) 0.5mL/dose
 * Pyrazinamide
   * Pyrazinamide 500mg
