@@ -524,6 +524,8 @@
   * Kascoal 40mg
 * Dinalbuphine
   * Naldebain ER inj 150mg/2mL
+* Dinoprostone
+  * Prostin E2 Vaginal Tablet 3mg
 * Dioctahedral Smectite
   * Smecta 3gm/pack
 * Diphenhydramine
@@ -680,7 +682,7 @@
   * Fentanyl inj 0.1mg/2mL
   * Fentanyl patch 25mcg/hr
 * Ferric Hydroxide Polymaltose Complex
-  * Ferrum hausmann 50mg/20drops/mL,30mL
+  * Ferrum hausmann 50mg/20drops/mL 30mL
 * Ferric-Hydroxide-Sucrose Complex
   * Fe-Back inj 2%, 5mL
 * Ferrous Gluconate + Vit B1 + Vit C
@@ -857,8 +859,6 @@
   * Plaquenil 200mg
 * Hydroxyprogesterone caproate
   * Progeston Depot inj 125mg/1mL(普寶胎)
-* Hydroxyurea
-  * Hydrea 500mg
 * Hyoscin-Butylbromide
   * Fucon inj 20mg/1mL
 * Hyoscyamine
@@ -1031,8 +1031,6 @@
   * Ligilin 300mg
 * Loperamide
   * Loperam 2mg (Loperamide)
-* Loratadine + Pseudoephedrine
-  * Lorapseudo SR 10/240mg
 * Lorazepam
   * Anxicam inj 2mg/1mL
   * Ativan 0.5mg
@@ -1100,6 +1098,7 @@
   * CONCERTA 36mg
   * Concerta ER 27mg
   * Methydur 22mg sustained release
+  * Ritalin LA 20mg
   * apo-Methylphenidate 10mg
 * Methylprednisolone
   * Mepron inj 40mg
@@ -1610,7 +1609,7 @@
 * Tadalafil
   * Cialis 5mg (28 tablets/box)
 * Tafluprost
-  * Taflotan-S 0.0015%,0.3mL ophthalmic solution
+  * Taflotan-S 0.0015% 0.3mL ophthalmic solution
 * Tamoxifen
   * Nolvadex 10mg
 * Tamsulosin
@@ -1794,6 +1793,8 @@
   * Vocinti 20mg
 * Voriconazole
   * Vfend inj 200mg
+* Vortioxetine
+  * BrinteLLIX 10mg (Lundbeck)
 ## W
 * Warfarin
   * COFARIN 5mg
