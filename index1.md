@@ -119,8 +119,8 @@
   * Amoxicillin 250mg
 * Amoxicillin + Clavulanic Acid
   * Curam 1000mg
+  * Curam susp 312.5mg/5mL, 60mL
   * Soonmelt inj 600mg
-  * Soonmelt syrup 31.25mg/mL, 100mL
 * Ampicillin
   * Ampolin inj 0.5gm
 * Ampicillin + Sulbactam
@@ -319,7 +319,7 @@
 * Cefaclor
   * Cero 250mg
 * Cefadroxil
-  * Cefadroxil 500mg
+  * Cefadroxil 500mg 賜福得修
 * Cefazolin
   * Cefa inj 1gm
 * Cefixime
@@ -359,8 +359,6 @@
   * Choles powder 4gm/Pack
 * Choriogonadotropin alfa
   * Ovidrel inj 250mcg
-* Ciclesonide
-  * Alvesco Inhaler 160mcg/puff, 60 puffs
 * Ciclosporin
   * Sandimmun Neoral 100mg
 * Cilostazol
@@ -589,6 +587,8 @@
   * Jardiance 25mg
 * Empagliflozin + Linagliptin
   * Glyxambi 25/5mg
+* Empagliflozin + Metformin
+  * Jardiance Duo 12.5/850mg (複方)
 * Enoxolone
   * Enoxolone Gingival Paste 1%, 80gm
 * Entecavir
@@ -660,6 +660,8 @@
 ## F
 * FSH 450IU + LH 225IU
   * Pergoveris 450 IU + 225 IU
+* FSH 600 IU + LH 600 IU
+  * MENOPUR multidose 600 IU
 * FSH 75 IU + LH 75 IU
   * Menopur 75/75 IU
 * Famciclovir
@@ -859,6 +861,8 @@
   * Plaquenil 200mg
 * Hydroxyprogesterone caproate
   * Progeston Depot inj 125mg/1mL(普寶胎)
+* Hydroxyurea
+  * Hydrea 500mg
 * Hyoscin-Butylbromide
   * Fucon inj 20mg/1mL
 * Hyoscyamine
@@ -875,8 +879,6 @@
   * Tofranil 25mg
 * Imiquimod
   * Aldara cream 5%
-* Inactivated Enterovirus 71 virus particles
-  * EnVAX-A71 inj 0.5mL/dose (國光)
 * Inactivated Enterovirus 71 whole virus
   * Envacgen inj 0.5mL/dose
 * Inactivated Hepatitis A Virus Vaccine
@@ -991,6 +993,7 @@
   * Femara 2.5mg
 * Leuprorelin Acetate
   * Eligard inj 22.5mg extended-release
+  * Leuplin Depot 1M inj 3.75mg
 * Levetiracetam
   * Keppra 500mg
   * Keppra inj 500mg/5mL
@@ -1465,7 +1468,7 @@
   * Xarelto 2.5mg
 * Rivastigmine
   * Exelon 3mg
-  * Exelon patch 5
+  * Exelon Patch 5
   * Rivast 2mg/mL, 120mL solution
 * Rizatriptan
   * Rizatan 5mg
@@ -1727,6 +1730,8 @@
   * Lonsurf 20mg
 * Trihexyphenidyl
   * Switane 2mg
+* Triprolidine + Pseudoephedrine
+  * Pseu solution 60mL (0.25+6mg/mL)
 * Triptorelin
   * Decapeptyl inj 0.1mg/1mL
 * Tropicamide + Phenylephrine

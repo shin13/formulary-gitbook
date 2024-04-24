@@ -1,0 +1,15 @@
+# Hydroxyurea
+
+## Hydrea 500mg
+
+| TAH Drug Code      | [OHYD](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OHYD)                                                                                                                                                                                                                         |
+|:-------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Indications        | Chronic myeloid leukemia, malignant neoplastic disease.                                                                                                                                                                                                                                      |
+| Dosing             | [Solid tumor] Intermittent therapy: 80 mg/kg once every 3 days; Continuous therapy: 20-30 mg/kg once daily [Squamous cell carcinoma of head and neck or cervical cancer, in combination with radiation therapy] 80 mg/kg once every 3 days [Chronic myeloid leukemia] 20-30 mg/kg once daily |
+| Hepatic Impairment | Dose adjustment not necessary                                                                                                                                                                                                                                                                |
+| Renal Impairment   | Dose adjustment required                                                                                                                                                                                                                                                                     |
+| Contraindications  | Hypersensitivity. Bone marrow depression eg leukopenia, thrombocytopenia or severe anemia. Pregnancy & lactation.                                                                                                                                                                            |
+| Adverse Effects    | Bone-marrow suppression; rarely, GI disorders, skin rash, headache, disorientation, pulmonary edema, dysuria, renal tubular function impairment.                                                                                                                                             |
+| Pregnancy          | No (Limited) Human Data – Animal Data Suggest Low Risk                                                                                                                                                                                                                                       |
+| Lactation          | No (Limited) Human Data - Potential Toxicity                                                                                                                                                                                                                                                 |
+
