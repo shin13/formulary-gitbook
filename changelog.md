@@ -1,5 +1,11 @@
 # 更新歷程
 
+## 1.6.0 - 2024-04-24
+
+* 變更：更新藥品資料庫。
+* 變更：更新 [常用連結](https://shin13.gitbook.io/formulary/links)。
+* 修復：排除 [首頁](https://shin13.gitbook.io/formulary) 與 [常用連結](https://shin13.gitbook.io/formulary/links) 部分連結無法顯示的問題。
+
 ## 1.5.0 - 2024-04-15
 
 * 變更：更新藥品資料庫。

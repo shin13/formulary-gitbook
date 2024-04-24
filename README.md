@@ -31,11 +31,10 @@
 
 ### 主要參考資料
 
-* [藥品仿單](https://info.fda.gov.tw/MLMS/H0001.aspx)
+* [藥品仿單](https://mcp.fda.gov.tw/)
 * [Micromedex](https://erm.tahsda.org.tw/sendURLApiV3?dbid=LDB0010)
-* [UpToDate \(Lexicomp\)](https://www.uptodate.com/contents/search)
+* [UpToDate](https://www.uptodate.com/contents/search)
 * [Briggs drugs in pregnancy and lactation : a reference guide to fetal and neonatal risk, 12th ed.](https://wolterskluwer.vitalsource.com/reader/books/9781975162405/epubcfi/6/2%5b%3Bvnd.vst.idref%3Dcover%5d!/4/2/2/2%4091:40)
-* [Sanford Guide Web Edition](https://webedition.sanfordguide.com/acl_users/credentials_cookie_auth/require_login?came_from=https%3A//webedition.sanfordguide.com/en)
 
 ## 聯繫我們
 
