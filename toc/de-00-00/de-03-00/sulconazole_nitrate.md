@@ -10,6 +10,6 @@
 | Renal Impairment   | Dose adjustment not necessary                                              |
 | Contraindications  | Hypersensitivity to any component of the formulation.                      |
 | Adverse Effects    | Local itch, stinging, burning sensation, contact dermatitis, inflammation. |
-| Pregnancy          | Contraindicated – 1st Trimester                                            |
+| Pregnancy          | Unknown                                                                    |
 | Lactation          | No (Limited) Human Data - Probably Compatible                              |
 

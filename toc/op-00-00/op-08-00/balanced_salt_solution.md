@@ -1,4 +1,4 @@
-# Balanced Salt Soln
+# Balanced salt solution
 
 ## BSS sterile irrigation solusion 500mL/Bag
 

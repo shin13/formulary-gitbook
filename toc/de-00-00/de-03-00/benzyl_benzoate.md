@@ -11,5 +11,5 @@
 | Contraindications  | Hypersensitivity to any component of the formulation.                                                                                                     |
 | Adverse Effects    | Skin irritation, burning sensation.                                                                                                                       |
 | Pregnancy          | Unknown                                                                                                                                                   |
-| Lactation          | Contraindicated                                                                                                                                           |
+| Lactation          | Unknown                                                                                                                                                   |
 

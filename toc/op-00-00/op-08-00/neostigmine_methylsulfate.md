@@ -10,6 +10,6 @@
 | Renal Impairment   | Dose adjustment not necessary                                             |
 | Contraindications  | Hypersensitivity to any component of the formulation.                     |
 | Adverse Effects    | Transient stinging                                                        |
-| Pregnancy          | No (Limited) Human Data – Probably Compatible                             |
+| Pregnancy          | No (Limited) Human Data – No Relevant Animal Data                         |
 | Lactation          | No (Limited) Human Data - Probably Compatible                             |
 

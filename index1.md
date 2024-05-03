@@ -174,7 +174,7 @@
   * Spersin ointment 10gm
 * Baclofen
   * Baclospas 5mg
-* Balanced Salt Soln
+* Balanced salt solution
   * BSS sterile irrigation solusion 500mL/Bag
   * BSS sterile irrigation solusion 500ml/Bottle
 * Baloxavir marboxil
@@ -319,7 +319,7 @@
 * Cefaclor
   * Cero 250mg
 * Cefadroxil
-  * Cefadroxil 500mg 賜福得修
+  * Cefadroxil 500mg
 * Cefazolin
   * Cefa inj 1gm
 * Cefixime
@@ -418,7 +418,7 @@
 * Cyclophosphamide
   * Endoxan 50mg
   * Endoxan inj 500mg
-* Cyclosporin
+* Cyclosporine
   * Restasis 0.05%, 0.4mL eye emulsion
 * Cyproheptadine
   * Cypromin solution 0.4mg/mL, 60mL
@@ -882,7 +882,6 @@
 * Inactivated Enterovirus 71 whole virus
   * Envacgen inj 0.5mL/dose
 * Inactivated Hepatitis A Virus Vaccine
-  * HAVRIX 1440, 1mL/dose (Private)
   * Havrix 720(Government) 0.5mL/dose
 * Indapamide
   * Natrilix SR 1.5mg
@@ -1318,7 +1317,6 @@
 * Phenprobamate
   * Mocolax 400mg
 * Phenytoin
-  * Aleviatin inj 250mg/5mL
   * Dilantin 100mg
 * Phytonadione
   * Katimin"1" inj 10mg/1mL
