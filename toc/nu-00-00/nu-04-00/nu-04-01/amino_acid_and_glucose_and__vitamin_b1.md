@@ -1,4 +1,4 @@
-# Amino Acid + Glucose+ Vit B1
+# Amino Acid + Glucose+ Vitamin B1
 
 ## Bfluid inj 1000mL
 

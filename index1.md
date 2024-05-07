@@ -82,7 +82,7 @@
   * Nutriflex peri 40/80 1000mL
 * Amino Acid + Glucose + Lipid
   * Oliclinomel N4-550E Emulsion 1500mL
-* Amino Acid + Glucose+ Vit B1
+* Amino Acid + Glucose+ Vitamin B1
   * Bfluid inj 1000mL
 * Amino Acids
   * Aminosteril infant 10% 100mL
@@ -882,6 +882,7 @@
 * Inactivated Enterovirus 71 whole virus
   * Envacgen inj 0.5mL/dose
 * Inactivated Hepatitis A Virus Vaccine
+  * HAVRIX 1440, 1mL/dose (Private)
   * Havrix 720(Government) 0.5mL/dose
 * Indapamide
   * Natrilix SR 1.5mg
@@ -1033,6 +1034,8 @@
   * Ligilin 300mg
 * Loperamide
   * Loperam 2mg (Loperamide)
+* Loratadine + Pseudoephedrine
+  * Lorapseudo SR 10/240mg
 * Lorazepam
   * Anxicam inj 2mg/1mL
   * Ativan 0.5mg
@@ -1172,6 +1175,8 @@
   * Seladin 250mg
 * Nefopam
   * Capain 30mg
+* Nemonoxacin
+  * Taigexyn 250mg
 * Neomycin
   * Neomycin 250mg
 * Neostigmine Methylsulfate
