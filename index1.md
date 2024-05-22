@@ -35,6 +35,7 @@
 * Acyclovir
   * Deherp cream 5%, 5gm
   * Devirus 4.5gm ophthalmic ointment
+  * Virless inj 250mg
 * Adalimumab
   * Humira inj 40mg/0.4mL
 * Adapalene
@@ -119,8 +120,8 @@
   * Amoxicillin 250mg
 * Amoxicillin + Clavulanic Acid
   * Curam 1000mg
-  * Curam susp 312.5mg/5mL, 60mL
   * Soonmelt inj 600mg
+  * Soonmelt syrup 31.25mg/mL, 100mL
 * Ampicillin
   * Ampolin inj 0.5gm
 * Ampicillin + Sulbactam
@@ -416,7 +417,6 @@
 * Cyanocobalamin
   * Sancoba 0.02%, 5mL ophthalmic solution
 * Cyclophosphamide
-  * Endoxan 50mg
   * Endoxan inj 500mg
 * Cyclosporine
   * Restasis 0.05%, 0.4mL eye emulsion
@@ -656,7 +656,7 @@
 * Ezetimibe + Atorvastatin
   * Atozet 10/20mg
 * Ezetimibe + Rosuvastatin
-  * Cretrol 10/20mg
+  * CreTROL 10/20mg
 ## F
 * FSH 450IU + LH 225IU
   * Pergoveris 450 IU + 225 IU
@@ -882,8 +882,7 @@
 * Inactivated Enterovirus 71 whole virus
   * Envacgen inj 0.5mL/dose
 * Inactivated Hepatitis A Virus Vaccine
-  * HAVRIX 1440, 1mL/dose (Private)
-  * Havrix 720(Government) 0.5mL/dose
+  * HAVRIX 1440, 1mL/dose (專案進口成人A肝疫苗)
 * Indapamide
   * Natrilix SR 1.5mg
 * Indocyanine Green
@@ -1079,7 +1078,7 @@
 * Mequitazine
   * Mequitazine 5mg
 * Meropenem
-  * Mepem inj 0.25gm(美平)
+  * (美平)Mepem inj 0.25gm
 * Mesalazine
   * Asacol 500mg suppository
   * Colasa enema 4gm/100mL
@@ -1114,8 +1113,8 @@
 * Metronidazole
   * Efucon gel 0.75%, 15gm
   * Frotin 250mg suppository
-  * Metronidazole inj 500mg/100mL
   * Metrozole 250mg
+  * SABS inj 500mg/100mL
   * Sutrol gel-vaginal 7.5mg/gm, 25gm
 * Mexiletine
   * Meletin 100mg
@@ -1126,6 +1125,7 @@
 * Midodrine
   * Midorine 2.5mg
 * Minocycline
+  * Menocik inj 100mg
   * Periocure 10mg/0.5gm/syringe dental ointment
 * Mirabegron
   * Betmiga 50mg prolonged-release
@@ -1144,7 +1144,7 @@
 * Montelukast
   * Monteka 4mg
   * SINGULAIR 10mg
-  * SINGULAIR Chewable 5mg
+  * Singulair Chewable 5mg
 * Morphine
   * Morphine 15mg
   * Morphine inj 10mg/1mL
@@ -1445,7 +1445,7 @@
   * Veklury (自費) inj 100mg (凍晶)
   * Veklury inj 100mg (公費/凍晶)
 * Rho D Immune Globulin
-  * Rho (D) Immune Globulin [HyperRHO]
+  * Rho (D) Immune Globulin [HyperRHO] 專案進口
 * Ribavirin
   * Ribarin 200mg
 * Ribociclib
@@ -1504,6 +1504,8 @@
   * Trodelvy inj 180mg
 * Sacubitril + Valsartan
   * Entresto 100mg
+* Safinamide
+  * Equfina 50mg
 * Salbutamol
   * Ventolin inhaler 0.1mg/dose
 * Salicylic Acid + Lactic Acid
@@ -1637,6 +1639,7 @@
 * Terbutaline
   * Butanyl solution 5mg/2mL
 * Teriparatide
+  * Alvosteo inj 20mcg/80microliters, 2.4mL
   * Forteo 750mcg/3mL, 28dose
 * Terlipressin
   * Glypressin inj 0.1mg/mL, 8.5mL

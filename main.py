@@ -18,7 +18,8 @@ if user_input.upper() == 'Y':
     print('STEP 2 開始 Generate new SUMMARY.md')
     print('STEP 2 執行中...')
     # generate new SUMMARY.md
-    subprocess.run(['python', 'gitbook-auto-summary.py', '-o',
+    subprocess.run(['python', 'gitbook - auto - Y
+                    summary.py', ' - o',
                     'C:\\Users\\152551\\formulary-gitbook'])
     print('STEP 3 完成')
 

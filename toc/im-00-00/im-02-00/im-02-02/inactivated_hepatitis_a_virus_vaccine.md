@@ -1,28 +1,15 @@
 # Inactivated Hepatitis A Virus Vaccine
 
-## Havrix 720(Government) 0.5mL/dose
+## HAVRIX 1440, 1mL/dose (專案進口成人A肝疫苗)
 
-| TAH Drug Code      | [IHAV0](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IHAV0)                                     |
-|:-------------------|:-----------------------------------------------------------------------------------------------------------|
-| Indications        | Active immunisation against infections caused by hepatitis A virus.                                        |
-| Dosing             | IM, 0.5mL, 12 months-15 years primary immunization. A booster dose after 6-36 months.                      |
-| Hepatic Impairment | Dose adjustment not necessary                                                                              |
-| Renal Impairment   | Dose adjustment not necessary                                                                              |
-| Contraindications  | Hypersensitivity.                                                                                          |
-| Adverse Effects    | Inj site soreness, mild redness & swelling, headache, malaise, vomiting, fever, nausea & loss of appetite. |
-| Pregnancy          | No (Limited) Human Data – Probably Compatible                                                              |
-| Lactation          | No (Limited) Human Data - Probably Compatible                                                              |
-
-## HAVRIX 1440, 1mL/dose (Private)
-
-| TAH Drug Code      | [IHAV1](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IHAV1)                                     |
-|:-------------------|:-----------------------------------------------------------------------------------------------------------|
-| Indications        | Active immunisation against infections caused by hepatitis A virus.                                        |
-| Dosing             | IM, 0.5mL, > or = 19 years primary immunization. A booster dose after 6-12 months.                         |
-| Hepatic Impairment | Dose adjustment not necessary                                                                              |
-| Renal Impairment   | Dose adjustment not necessary                                                                              |
-| Contraindications  | Hypersensitivity.                                                                                          |
-| Adverse Effects    | Inj site soreness, mild redness & swelling, headache, malaise, vomiting, fever, nausea & loss of appetite. |
-| Pregnancy          | No (Limited) Human Data – Probably Compatible                                                              |
-| Lactation          | No (Limited) Human Data - Probably Compatible                                                              |
+| TAH Drug Code      | [IHAV14](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IHAV14)                                                                                                                                                                                                                                                                                                                                                                  |
+|:-------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Indications        | HAVRIX is indicated for active immunisation against hepatitis A virus (HAV) infection in susceptible subjects at risk of exposure to HAV.                                                                                                                                                                                                                                                                                                 |
+| Dosing             | Adults (16 years and older): 1 mL (1440 ELISA units) IM x 1 dose; booster dose 6-12 months later.                                                                                                                                                                                                                                                                                                                                         |
+| Hepatic Impairment | Dose adjustment not necessary                                                                                                                                                                                                                                                                                                                                                                                                             |
+| Renal Impairment   | Dose adjustment not necessary                                                                                                                                                                                                                                                                                                                                                                                                             |
+| Contraindications  | History of immediate or severe allergic or hypersensitivity reactions (eg, anaphylaxis) after previous administration of any hepatitis A-containing vaccine or any of its components, including neomycin.                                                                                                                                                                                                                                 |
+| Adverse Effects    | Common: Erythema at injection site (20-24%), Injection site induration, Injection site pain (21-56%), Swelling (9-10%), Loss of appetite (1-26%), Nausea (1-10%), Headache (Up to 14%), Somnolence (22-35%), Irritability (27-44%), Fatigue (1-10%), Fever (Up to 10%), Malaise (1-10%) Serious: Thrombocytopenia, Anaphylaxis, Non-allergic anaphylaxis, Seizure (0.13%), Angioedema, Transfusion reaction due to serum protein reaction |
+| Pregnancy          | No (Limited) Human Data – Probably Compatible                                                                                                                                                                                                                                                                                                                                                                                             |
+| Lactation          | No (Limited) Human Data - Probably Compatible                                                                                                                                                                                                                                                                                                                                                                                             |
 
