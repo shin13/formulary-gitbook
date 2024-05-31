@@ -1,4 +1,4 @@
-# Amino Acid + Glucose + Lipid
+# Amino Acid + Dextrose + Electrolytes + Lipid
 
 ## Oliclinomel N4-550E Emulsion 1500mL
 

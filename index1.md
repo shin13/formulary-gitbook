@@ -78,12 +78,13 @@
   * Musco solution 3mg/mL, 120mL
 * Amikacin
   * Acemycin inj 500mg/2mL
-* Amino Acid + Glucose
-  * Clinimix inj 1500mL
+* Amino Acid + Dextrose + Electrolytes
+  * Clinimix N17G35E inj 1500mL
+  * Clinimix N9G15E inj 1500mL
   * Nutriflex peri 40/80 1000mL
-* Amino Acid + Glucose + Lipid
+* Amino Acid + Dextrose + Electrolytes + Lipid
   * Oliclinomel N4-550E Emulsion 1500mL
-* Amino Acid + Glucose+ Vitamin B1
+* Amino Acid + Dextrose + Electrolytes + Vitamin B1
   * Bfluid inj 1000mL
 * Amino Acids
   * Aminosteril infant 10% 100mL
@@ -489,8 +490,12 @@
 * Dextromethorphan+Lysozyme+K Cresolsulfonate
   * Romicon-A 20/20/90mg
 * Dextrose
+  * 10% Dextrose inj 500mL
   * 20% Vitagen inj (Glucose) 20mL
   * 50% GW inj (Vitagen) 20mL
+  * Glucose inj 5% 100mL
+  * Glucose inj 5% 250mL
+  * Glucose inj 5% 500mL
 * Dextrose + Sodium Chloride
   * 2.5 % Dextrose in 0.45% NaCl 500mL
   * 5% Dextrose in 0.33% NaCl 500mL
@@ -798,11 +803,6 @@
   * Glucagen inj 1mg/1mL
 * Glucosamine Sulphate
   * Viartril-S powder 1.5gm (自費)
-* Glucose
-  * 10% Dextrose inj 500mL
-  * Glucose inj 5% 100mL
-  * Glucose inj 5% 250mL
-  * Glucose inj 5% 500mL
 * Glyburide + Metformin
   * GlucoMET 5/500mg(鋁箔/錫箔)
 * Glycerin + Fructose + Sodium chloride
@@ -833,6 +833,7 @@
   * Cividoid gel 20gm
 * Hepatitis B Immune Globulin
   * HBIG (Government) 0.5mL/dose
+  * HyperHep B 0.5mL(Private)
 * Hepatitis B Vaccine
   * Engerix-B inj 1mL/dose (Private)
   * Hepatitis B vaccine (Government) 0.5mL/dose
@@ -1350,7 +1351,6 @@
 * Plectranthus amboinicus + Centella asiatica
   * Fespixon cream 1.25%, 15 gm
 * Pneumococcal Vaccine Polyvalent
-  * Pneumovax 23 (Government) 0.5mL/dose
   * Pneumovax 23 (Private) 0.5mL/dose
   * Pneumovax 23 (Taipei City) 0.5mL/dose
   * Prevenar (政府提供,13價肺炎) 0.5mL/dose
@@ -1564,6 +1564,8 @@
   * 3% NaCl inj 500mL(YF)
   * Isotonic NaCl inj 20mL
   * Sodium Chloride eye drop 3%, 5mL
+  * Sodium chloride 0.9% Irrigation 1000mL
+  * Sodium chloride 0.9% Irrigation 500mL
   * Sodium chloride 0.9% inj 1000mL
 * Sodium Oleate
   * Alcos-Anal suppository
