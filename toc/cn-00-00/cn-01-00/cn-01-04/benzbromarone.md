@@ -12,5 +12,5 @@
 | Adverse Effects    | Rarely, diarrhoea, mild GI disturbances                                                            |
 | Pregnancy          | Unknown                                                                                            |
 | Lactation          | Unknown                                                                                            |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/benzbromarone-international-drug-information)-concise |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/benzbromarone-international-drug-information-concise) |
 

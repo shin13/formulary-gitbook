@@ -307,7 +307,7 @@ for cat2 in cat2_li:
 
                 # 检查是否包含 "international" 子字符串
                 if "international" in UpToDate_link:
-                    UpToDate_link += "-concise"
+                    UpToDate_link = f"[UpToDate](https://www.uptodate.com/contents/{keyword}-concise)"
 
                 # 将信息添加到 summary_data 列表中
                 summary_data.append({

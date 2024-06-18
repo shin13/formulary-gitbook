@@ -14,5 +14,5 @@
 | Adverse Effects    | GI disturbances.                                                                                                                                                                                                                          |
 | Pregnancy          | Unknown                                                                                                                                                                                                                                   |
 | Lactation          | Unknown                                                                                                                                                                                                                                   |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/fusidic-acid-united-states-not-available-systemic-international-drug-information)-concise                                                                                                    |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/fusidic-acid-united-states-not-available-systemic-international-drug-information-concise)                                                                                                    |
 
