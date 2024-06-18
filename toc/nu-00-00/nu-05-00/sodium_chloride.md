@@ -12,7 +12,7 @@
 | Adverse Effects    | No Data                                                                                                                                |
 | Pregnancy          | Compatible                                                                                                                             |
 | Lactation          | Compatible                                                                                                                             |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/sodium-chloride-drug-information)                                                         |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/sodium-chloride-preparations-saline-and-oral-salt-tablets-drug-information)               |
 
 ## NaCl 0.9% irrigation 2000mL
 
@@ -26,7 +26,7 @@
 | Adverse Effects    | No Data                                                                                                                      |
 | Pregnancy          | Compatible                                                                                                                   |
 | Lactation          | Compatible                                                                                                                   |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/sodium-chloride-drug-information)                                               |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/sodium-chloride-preparations-saline-and-oral-salt-tablets-drug-information)     |
 
 ## 0.9%NaCl irrigation 3000mL
 
@@ -40,7 +40,7 @@
 | Adverse Effects    | No Data                                                                                                                      |
 | Pregnancy          | Compatible                                                                                                                   |
 | Lactation          | Compatible                                                                                                                   |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/sodium-chloride-drug-information)                                               |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/sodium-chloride-preparations-saline-and-oral-salt-tablets-drug-information)     |
 
 ## NaCl 0.9% irrigation (Normal Saline) 500mL(沖洗用)
 
@@ -54,7 +54,7 @@
 | Adverse Effects    | No Data                                                                                                                      |
 | Pregnancy          | Compatible                                                                                                                   |
 | Lactation          | Compatible                                                                                                                   |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/sodium-chloride-drug-information)                                               |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/sodium-chloride-preparations-saline-and-oral-salt-tablets-drug-information)     |
 
 ## NaCl 0.9% irrigation 500mL
 
@@ -68,5 +68,5 @@
 | Adverse Effects    | No Data                                                                                                                                |
 | Pregnancy          | Compatible                                                                                                                             |
 | Lactation          | Compatible                                                                                                                             |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/sodium-chloride-drug-information)                                                         |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/sodium-chloride-preparations-saline-and-oral-salt-tablets-drug-information)               |
 

@@ -12,5 +12,5 @@
 | Adverse Effects    | Somnolence, dizziness, dysgeusia, eye allergy & pain, keratitis, ocular discomfort & hyperaemia, blurred & abnormal vision, conjunctival blanching, dry mouth.                                                     |
 | Pregnancy          | No (Limited) Human Data – Probably Compatible                                                                                                                                                                      |
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                                                                                                                                      |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/brinzolamide-+-brimonidine-tartrate-drug-information)                                                                                                                 |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/brinzolamide-and-brimonidine-tartrate-drug-information)                                                                                                               |
 

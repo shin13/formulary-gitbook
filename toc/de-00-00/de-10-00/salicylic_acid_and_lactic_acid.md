@@ -12,5 +12,5 @@
 | Adverse Effects    | Local irritation.                                                                                                                                                                               |
 | Pregnancy          | Unknown                                                                                                                                                                                         |
 | Lactation          | Unknown                                                                                                                                                                                         |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/salicylic-acid-+-lactic-acid-drug-information)                                                                                                     |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/salicylic-acid-and-lactic-acid-drug-information)                                                                                                   |
 

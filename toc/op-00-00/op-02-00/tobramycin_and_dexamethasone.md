@@ -12,7 +12,7 @@
 | Adverse Effects    | Localized ocular toxicity & hypersensitivity including lid itching & swelling & conjunctival erythema. Secondary infection.                                                                                                                                       |
 | Pregnancy          | No (Limited) Human Data – Probably Compatible                                                                                                                                                                                                                     |
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                                                                                                                                                                                     |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/tobramycin-+-dexamethasone-drug-information)                                                                                                                                                                         |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/tobramycin-and-dexamethasone-drug-information)                                                                                                                                                                       |
 
 ## Tobradex eye ointment 3.5gm
 
@@ -26,5 +26,5 @@
 | Adverse Effects    | Localized ocular toxicity & hypersensitivity including lid itching & swelling & conjunctival erythema. Secondary infection.                                                                                                                                       |
 | Pregnancy          | No (Limited) Human Data – Probably Compatible                                                                                                                                                                                                                     |
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                                                                                                                                                                                     |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/tobramycin-+-dexamethasone-drug-information)                                                                                                                                                                         |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/tobramycin-and-dexamethasone-drug-information)                                                                                                                                                                       |
 

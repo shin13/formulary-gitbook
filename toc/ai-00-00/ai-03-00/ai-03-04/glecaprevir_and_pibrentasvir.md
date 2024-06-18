@@ -14,5 +14,5 @@
 | Adverse Effects    | Headache, fatigue, Nausea, diarrhea                                                                                                                 |
 | Pregnancy          | Unknown                                                                                                                                             |
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                                                                       |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/glecaprevir-+-pibrentasvir-drug-information)                                                           |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/glecaprevir-and-pibrentasvir-drug-information)                                                         |
 

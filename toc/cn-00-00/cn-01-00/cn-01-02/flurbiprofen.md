@@ -12,5 +12,5 @@
 | Adverse Effects    | Local irritation                                                                                                                                        |
 | Pregnancy          | Human Data Suggest Risk in 1st and 3rd Trimesters                                                                                                       |
 | Lactation          | Compatible                                                                                                                                              |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/flurbiprofen-drug-information)                                                                             |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/flurbiprofen-systemic-drug-information)                                                                    |
 

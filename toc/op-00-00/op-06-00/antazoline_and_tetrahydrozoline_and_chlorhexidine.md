@@ -12,5 +12,5 @@
 | Adverse Effects    | Mild burning sensation; Blurred vision                                                                                                       |
 | Pregnancy          | Unknown                                                                                                                                      |
 | Lactation          | Unknown                                                                                                                                      |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/antazoline-+-tetrahydrozoline-+-chlorhexidine-drug-information)                                 |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/antazoline-and-tetrahydrozoline-and-chlorhexidine-drug-information)                             |
 

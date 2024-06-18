@@ -12,5 +12,5 @@
 | Adverse Effects    | Common Dermatologic: Burning sensation, Itching, Stinging of skin Serious Endocrine metabolic: Cushing's syndrome, Hyperglycemia, Hypothalamic-pituitary-adrenal axis dysfunction, Suppression. Immunologic: Anaphylaxis Dermatologic: Necrosis |
 | Pregnancy          | Human (and Animal) Data Suggest Risk                                                                                                                                                                                                            |
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                                                                                                                                                                   |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/betamethasone-+-lidocaine-+-phenylephrine-drug-information)                                                                                                                                        |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/betamethasone-and-lidocaine-and-phenylephrine-drug-information)                                                                                                                                    |
 

@@ -12,7 +12,7 @@
 | Adverse Effects    | Irritability, loss of appetite, diarrhoea, vomiting, flatulence, abdominal pain, regurgitation of food, fever, fatigue.                                                                    |
 | Pregnancy          | Unknown                                                                                                                                                                                    |
 | Lactation          | Unknown                                                                                                                                                                                    |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/human-rotavirus-drug-information)                                                                                                             |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/rotavirus-vaccines-rv1-and-rv5-drug-information)                                                                                              |
 
 ## RotaTeq (MSD) 2mL/dose
 
@@ -26,5 +26,5 @@
 | Adverse Effects    | Diarrhea, vomiting, irritability, fever.                                                                                                                                               |
 | Pregnancy          | Unknown                                                                                                                                                                                |
 | Lactation          | Unknown                                                                                                                                                                                |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/human-rotavirus-drug-information)                                                                                                         |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/rotavirus-vaccines-rv1-and-rv5-drug-information)                                                                                          |
 

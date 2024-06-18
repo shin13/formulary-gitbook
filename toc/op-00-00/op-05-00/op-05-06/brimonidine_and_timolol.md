@@ -12,5 +12,5 @@
 | Adverse Effects    | Conjunctival hyperemia, ocular burning & stinging.                                                                                                                                                                                              |
 | Pregnancy          | Human Data Suggest Risk in 2nd and 3rd Trimesters                                                                                                                                                                                               |
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                                                                                                                                                                   |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/brimonidine-+-timolol-drug-information)                                                                                                                                                            |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/brimonidine-and-timolol-drug-information)                                                                                                                                                          |
 

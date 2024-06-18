@@ -12,5 +12,5 @@
 | Adverse Effects    | Dizziness, headache, tiredness                                                                                                                                                                                                                         |
 | Pregnancy          | Unknown                                                                                                                                                                                                                                                |
 | Lactation          | Unknown                                                                                                                                                                                                                                                |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/brotizolam-drug-information)                                                                                                                                                                              |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/brotizolam-international-drug-information)-concise                                                                                                                                                        |
 

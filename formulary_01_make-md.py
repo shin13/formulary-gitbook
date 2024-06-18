@@ -1,14 +1,8 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[18]:
-
-
 import pandas as pd
 import numpy as np
-
-
-# In[19]:
 
 
 # read drug basic data
@@ -16,90 +10,47 @@ df1 = pd.read_excel('1.藥品基本檔.xlsx')  # 請先開EXCEL把全形逗號�
 df2 = pd.read_excel('2.藥物諮詢.xlsx')  # 請先開EXCEL把全形逗號換成半形逗號！
 # exclude = pd.read_excel('exclude.xlsx')
 
-
-# In[20]:
-
-
 # keep [Rx_o]
 df1['藥局內部溝通MEMO'] = df1['藥局內部溝通MEMO'].fillna('xx')
 df1_concate = df1[df1['藥局內部溝通MEMO'].str.contains('Rx_o')]
 
-
-# In[21]:
-
-
 # exclude [Rx_x]
 df1 = df1[~df1['藥局內部溝通MEMO'].str.contains('Rx_x')]
-
-
-# In[22]:
-
 
 # drug selection
 df1 = df1[(df1['藥品狀態'] == '可用')]
 
-
-# In[23]:
-
-
 # exclude DC comments
 exclude_list = ['廠商缺貨,可查類似藥', '停用', '廠商缺貨', '停用,可查類似藥']
 df1 = df1[~df1['DC註記'].isin(exclude_list)]
-
-
-# In[24]:
-
 
 # # exclude drugs in exclusion list
 # # 之後用 [Rx_x] 取代
 # exclude_list = exclude.iloc[:,0].tolist()
 # df1 = df1[~df1['藥品代碼'].isin(exclude_list)]
 
-
-# In[25]:
-
-
 # exclude empty & weird category 2
 df1 = df1.dropna(subset=['藥理分類2'])
 exclude_list2 = ['MEDD', 'ZOTH', 'PHR']
 df1 = df1[~df1['藥理分類2'].isin(exclude_list2)]
 
-
-# In[26]:
-
-
 # concate [Rx_o] and drop duplicates
 df1 = pd.concat([df1, df1_concate], ignore_index=True, sort=False)
 df1 = df1.drop_duplicates(subset=['藥品代碼'])
 
-
-# In[27]:
-
-
 df1['DC註記'] = df1['DC註記'].replace('停用', '')
 df1['DC註記'] = df1['DC註記'].replace('停用,可查類似藥', '')
-
-
-# In[28]:
-
 
 df1 = df1[['藥品代碼', '商品英文名稱', '商品學名', '藥理分類1', '藥理分類2', 'DC註記']]
 df2 = df2[['藥品代碼', '適應症', '用法用量',
            '肝功能異常(Y/N)', '腎功能異常(Y/N)', '禁忌', '副作用', '孕期用藥建議', '哺乳期用藥建議']]
 df = df1.merge(df2, on='藥品代碼', how='left')
 
-
-# In[29]:
-
-
 df = df.rename(columns={'藥品代碼': 'TAH Drug Code', '適應症': 'Indications', '用法用量': 'Dosing', '禁忌': 'Contraindications', '副作用': 'Adverse Effects',
                         '肝功能異常(Y/N)': 'Hepatic Impairment', '腎功能異常(Y/N)': 'Renal Impairment', '孕期用藥建議': 'Pregnancy', '哺乳期用藥建議': 'Lactation'})
 df = df.replace(np.nan, 'No Data')
 df['DC註記'] = df['DC註記'].replace('No Data', '')
 df['DC註記'] = df['DC註記'].replace('臨採藥,請通知藥局外購', '臨採')
-
-
-# In[30]:
 
 
 df = df.replace('無需調整劑量', 'Dose adjustment not necessary')
@@ -117,13 +68,7 @@ df = df.replace('Compatible 哺乳時可使用', 'Compatible')
 df = df.replace('Hold Breast Feeding 暫停哺乳', 'Hold Breast Feeding')
 
 
-# In[31]:
-
-
 df['Pregnancy'] = df['Pregnancy'].str.title()
-
-
-# In[32]:
 
 
 df['Pregnancy'] = df['Pregnancy'].str.replace('3 Rd', '3rd')
@@ -133,13 +78,7 @@ df['Pregnancy'] = df['Pregnancy'].str.replace('In', 'in')
 df['Pregnancy'] = df['Pregnancy'].str.replace('And', 'and')
 
 
-# In[33]:
-
-
 df.to_excel('formulary.xlsx', index=0)
-
-
-# In[34]:
 
 
 # remove toc folder
@@ -155,9 +94,6 @@ try:
     shutil.rmtree(mydir)
 except OSError as e:
     print("Error: %s - %s." % (e.filename, e.strerror))
-
-
-# In[35]:
 
 
 # make file directories
@@ -249,9 +185,6 @@ for cat in cat2_li:
             pass
 
 
-# In[36]:
-
-
 # add path to each drug (to save markdown files)
 toc1 = []
 toc2 = []
@@ -287,9 +220,6 @@ df['drug_name'] = new_li
 df['name_md'] = df['drug_name'] + '.md'
 
 
-# In[37]:
-
-
 def combine_str(row):
     if pd.isna(row.toc2) & pd.isna(row.toc3):
         string = ['C:\\Users\\152551\\formulary-gitbook\\toc',
@@ -311,22 +241,20 @@ def combine_str(row):
 df['url'] = df.apply(combine_str, axis=1)
 df = df.sort_values(by=['藥理分類2'])
 
-
-# In[38]:
-
-
 df.to_excel('formulary2.xlsx', index=0)
-
-
-# In[39]:
 
 
 # write markdown files and save
 cat2_li = df['藥理分類2'].unique().tolist()
 
+# 从 CSV 文件中读取替换规则
+replacement_df = pd.read_csv('replacements.csv')
+special_replacements = dict(
+    zip(replacement_df['original'], replacement_df['replacement']))
 
-# In[40]:
 
+# 爲存储新的数据信息
+summary_data = []
 
 # go through Category 2
 for cat2 in cat2_li:
@@ -367,24 +295,31 @@ for cat2 in cat2_li:
 
                 # 20240618 新增UpToDate查詢連結
 
-                # 定義特定名字及其替代名字
-                special_replacements = {
-                    "acetaminophen": "acetaminophen-paracetamol",
-                    "propacetamol": "acetaminophen-paracetamol"
-                }
-
-                search_name = name.replace(' ', '-').lower()
+                search_name = name.replace(
+                    ' + ', '-and-').replace(' ', '-').lower()
 
                 # 檢查特殊替換規則
                 if search_name in special_replacements:
                     search_name = special_replacements[search_name]
 
                 keyword = f"{search_name}-drug-information"
+                UpToDate_link = f"[UpToDate](https://www.uptodate.com/contents/{keyword})"
+
+                # 检查是否包含 "international" 子字符串
+                if "international" in UpToDate_link:
+                    UpToDate_link += "-concise"
+
+                # 将信息添加到 summary_data 列表中
+                summary_data.append({
+                    "name": name,
+                    "search_name": search_name,
+                    "UpToDate_link": UpToDate_link
+                })
 
                 # 要新增的列資料，這邊直接用列名位置
                 new_row = pd.DataFrame([{
                     df_tb.columns[0]: "More Info",
-                    df_tb.columns[1]: f"[UpToDate](https://www.uptodate.com/contents/{keyword})"
+                    df_tb.columns[1]: UpToDate_link
                 }])
 
                 # 使用 pd.concat 來附加新 row
@@ -395,8 +330,6 @@ for cat2 in cat2_li:
 
                 f.write('\n\n')
 
-
-# In[ ]:
-
-
-# In[ ]:
+# 將 summary_data 匯出到 Excel 檔案中
+summary_df = pd.DataFrame(summary_data)
+summary_df.to_excel('summary_data.xlsx', index=False)

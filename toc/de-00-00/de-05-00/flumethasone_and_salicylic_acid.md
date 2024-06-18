@@ -12,5 +12,5 @@
 | Adverse Effects    | Mild transient burning sensation, itching; in isolated cases, mild skin atrophy; changes in skin pigmentation, telangiectasia, purpura, steroid acne particularly after prolonged application. |
 | Pregnancy          | Unknown                                                                                                                                                                                        |
 | Lactation          | Unknown                                                                                                                                                                                        |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/flumethasone-+-salicylic-acid-drug-information)                                                                                                   |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/flumethasone-and-salicylic-acid-drug-information)                                                                                                 |
 

@@ -12,5 +12,5 @@
 | Adverse Effects    | Transient blurring in vision, allergic reaction.                                                                                      |
 | Pregnancy          | Unknown                                                                                                                               |
 | Lactation          | Unknown                                                                                                                               |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/petrolatum-+-lanolin-+-mineral-oil-drug-information)                                     |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/petrolatum-and-lanolin-and-mineral-oil-drug-information)                                 |
 

@@ -12,5 +12,5 @@
 | Adverse Effects    | hypercalcinemia                                                                                                                                                                                                                          |
 | Pregnancy          | Unknown                                                                                                                                                                                                                                  |
 | Lactation          | Unknown                                                                                                                                                                                                                                  |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/amino-acids-+-ketoanalogues-drug-information)                                                                                                                                               |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/amino-acids-and-ketoanalogues-drug-information)                                                                                                                                             |
 

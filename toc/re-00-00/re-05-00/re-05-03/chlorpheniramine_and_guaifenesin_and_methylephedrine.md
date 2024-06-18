@@ -12,5 +12,5 @@
 | Adverse Effects    | Dizziness, palpitations, nausea, vomiting, skin rash                                                                                                                          |
 | Pregnancy          | Unknown                                                                                                                                                                       |
 | Lactation          | Unknown                                                                                                                                                                       |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/chlorpheniramine-+-guaifenesin-+-methylephedrine-drug-information)                                                               |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/chlorpheniramine-and-guaifenesin-and-methylephedrine-drug-information)                                                           |
 

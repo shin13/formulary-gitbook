@@ -12,5 +12,5 @@
 | Adverse Effects    | Rash, chest discomfort, palpitation, cerebral, pulmonary & peripheral edema, hyperpotassemia, acidosis, water intoxication, vascular pain, phlebitis, chills, fever, feeling of warmth, headache.                                                        |
 | Pregnancy          | Unknown                                                                                                                                                                                                                                                  |
 | Lactation          | Unknown                                                                                                                                                                                                                                                  |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/amino-acid-+-dextrose-+-electrolytes-+-vitamin-b1-drug-information)                                                                                                                                         |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/amino-acid-and-dextrose-and-electrolytes-and-vitamin-b1-drug-information)                                                                                                                                   |
 

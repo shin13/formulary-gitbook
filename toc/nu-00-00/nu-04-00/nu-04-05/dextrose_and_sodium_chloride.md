@@ -12,7 +12,7 @@
 | Adverse Effects    | No Data                                                                                                                         |
 | Pregnancy          | Compatible                                                                                                                      |
 | Lactation          | Compatible                                                                                                                      |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/dextrose-+-sodium-chloride-drug-information)                                       |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/dextrose-and-sodium-chloride-drug-information)                                     |
 
 ## Dextrose 5% in NaCl 0.33% 500mL
 
@@ -26,7 +26,7 @@
 | Adverse Effects    | No Data                                                                                                                       |
 | Pregnancy          | Compatible                                                                                                                    |
 | Lactation          | Compatible                                                                                                                    |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/dextrose-+-sodium-chloride-drug-information)                                     |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/dextrose-and-sodium-chloride-drug-information)                                   |
 
 ## Dextrose 5% in NaCl 0.3% inj 500mL (Otsuka)
 
@@ -40,7 +40,7 @@
 | Adverse Effects    | Hyperglycemia, edema, electrolyte imbalance.                                                                                                                                                             |
 | Pregnancy          | Compatible                                                                                                                                                                                               |
 | Lactation          | Compatible                                                                                                                                                                                               |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/dextrose-+-sodium-chloride-drug-information)                                                                                                                |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/dextrose-and-sodium-chloride-drug-information)                                                                                                              |
 
 ## Dextrose 5% in NaCl 0.9% 500mL
 
@@ -54,7 +54,7 @@
 | Adverse Effects    | No Data                                                                                                                    |
 | Pregnancy          | Compatible                                                                                                                 |
 | Lactation          | Compatible                                                                                                                 |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/dextrose-+-sodium-chloride-drug-information)                                  |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/dextrose-and-sodium-chloride-drug-information)                                |
 
 ## Dextrose 5% in NaCl 0.9% inj 500mL (N.K.)
 
@@ -68,5 +68,5 @@
 | Adverse Effects    | Hyperglycemia, edema, electrolyte imbalance.                                                                                                                                                             |
 | Pregnancy          | Compatible                                                                                                                                                                                               |
 | Lactation          | Compatible                                                                                                                                                                                               |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/dextrose-+-sodium-chloride-drug-information)                                                                                                                |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/dextrose-and-sodium-chloride-drug-information)                                                                                                              |
 

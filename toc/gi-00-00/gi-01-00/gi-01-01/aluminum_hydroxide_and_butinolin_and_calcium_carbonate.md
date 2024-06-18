@@ -12,5 +12,5 @@
 | Adverse Effects    | Frequency not defined. Gastrointestinal: Constipation, fecal discoloration (white speckles), fecal impaction, nausea, stomach cramps, vomiting Endocrine & metabolic: Hypomagnesemia, hypophosphatemia |
 | Pregnancy          | Unknown                                                                                                                                                                                                |
 | Lactation          | Unknown                                                                                                                                                                                                |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/aluminum-hydroxide-+-butinolin-+-calcium-carbonate-drug-information)                                                                                      |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/aluminum-hydroxide-and-butinolin-and-calcium-carbonate-drug-information)                                                                                  |
 

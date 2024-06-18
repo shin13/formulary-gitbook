@@ -12,5 +12,5 @@
 | Adverse Effects    | No significant side effects in normal dosage.                                                                                                                                                                                                     |
 | Pregnancy          | Unknown                                                                                                                                                                                                                                           |
 | Lactation          | Unknown                                                                                                                                                                                                                                           |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/lactobacillus-+-bifidobacterium-drug-information)                                                                                                                                                    |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/lactobacillus-and-bifidobacterium-drug-information)                                                                                                                                                  |
 

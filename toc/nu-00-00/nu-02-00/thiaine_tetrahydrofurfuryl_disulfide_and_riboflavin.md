@@ -12,5 +12,5 @@
 | Adverse Effects    | Rarely, nausea, vomiting & rumbling; shock, hypersensitivity, headache or pollakiuria (decrease dose or stop use). |
 | Pregnancy          | Compatible                                                                                                         |
 | Lactation          | Compatible                                                                                                         |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/thiaine-tetrahydrofurfuryl-disulfide-+-riboflavin-drug-information)   |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/thiaine-tetrahydrofurfuryl-disulfide-and-riboflavin-drug-information) |
 
