@@ -12,6 +12,7 @@
 | Adverse Effects    | Rarely, abdominal cramps, abdominal pain & diarrhea. Allergic reactions.                                                                                                                                                                                    |
 | Pregnancy          | No (Limited) Human Data – Probably Compatible                                                                                                                                                                                                               |
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                                                                                                                                                                               |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/bisacodyl-drug-information)                                                                                                                                                                                    |
 
 ## Johnlax 5mg
 
@@ -25,4 +26,5 @@
 | Adverse Effects    | Abdominal cramps (mild), electrolyte disturbance (metabolic acidosis or alkalosis, hypocalcemia), nausea, rectal irritation (burning), vertigo, vomiting                                                                               |
 | Pregnancy          | No (Limited) Human Data – Probably Compatible                                                                                                                                                                                          |
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                                                                                                                                                          |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/bisacodyl-drug-information)                                                                                                                                                               |
 

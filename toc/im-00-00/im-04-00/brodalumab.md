@@ -14,4 +14,5 @@
 | Adverse Effects    | Common: Diarrhea (2.2%), Infectious disease (25.4%), Mycosis (1.8-2.4%), Arthralgia (4.7%), Headache (4.3%), Pain in throat (2.1%), Fatigue (2.6%) Serious: Neutropenia, Grade 3 or greater (0.5%), Cryptococcal meningitis, Suicidal thoughts, Suicide |
 | Pregnancy          | No (Limited) Human Data – Animal Data Suggest Low Risk                                                                                                                                                                                                  |
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                                                                                                                                                                           |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/brodalumab-drug-information)                                                                                                                                                                               |
 

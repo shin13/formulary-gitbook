@@ -12,4 +12,5 @@
 | Adverse Effects    | Metabolic alkalosis; shortness of breath & muscle weakness; muscle hypertonicity, twitching & tetany; Na overloading & hyperosmolality. Stomach cramps & flatulence. Tissue necrosis at inj site.                                               |
 | Pregnancy          | No (Limited) Human Data – Animal Data Suggest Low Risk                                                                                                                                                                                          |
 | Lactation          | No (Limited) Human Data - Potential Toxicity                                                                                                                                                                                                    |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/sodium-bicarbonate-drug-information)                                                                                                                                                               |
 

@@ -12,4 +12,5 @@
 | Adverse Effects    | Impotence, decreased libido & volume of ejaculate.                                                                                                    |
 | Pregnancy          | Unknown                                                                                                                                               |
 | Lactation          | Unknown                                                                                                                                               |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/finasteride-drug-information)                                                                            |
 

@@ -12,4 +12,5 @@
 | Adverse Effects    | GI disturbances, anorexia, palpitations, cutaneous flushing, heat sensation, tiredness, rarely dizziness, vertigo, headache. Rashes, dry skin, pruritus, hyperpigmentation. Amblyopia, jaundice, decreased glucose tolerance, hyperglycaemia, hyperuricaemia. |
 | Pregnancy          | Unknown                                                                                                                                                                                                                                                       |
 | Lactation          | Unknown                                                                                                                                                                                                                                                       |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/nicametate-drug-information)                                                                                                                                                                                     |
 

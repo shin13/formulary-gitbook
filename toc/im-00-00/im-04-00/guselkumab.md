@@ -14,4 +14,5 @@
 | Adverse Effects    | Common Respiratory: Bronchitis (1.6% ), Upper respiratory infection (14.3% ) Serious Immunologic: Anaphylaxis, Hypersensitivity reaction Respiratory: Tuberculosis Other: Infectious disease (23% ) |
 | Pregnancy          | Unknown                                                                                                                                                                                             |
 | Lactation          | Unknown                                                                                                                                                                                             |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/guselkumab-drug-information)                                                                                                                           |
 

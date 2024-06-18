@@ -12,4 +12,5 @@
 | Adverse Effects    | Nausea, vomiting, bloating, cramping, constipation or diarrhea.                                                     |
 | Pregnancy          | Unknown                                                                                                             |
 | Lactation          | Unknown                                                                                                             |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/pancrelipase-drug-information)                                         |
 

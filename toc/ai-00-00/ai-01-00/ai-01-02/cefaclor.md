@@ -12,4 +12,5 @@
 | Adverse Effects    | Hypersensitivity reactions. GI symptoms.                                                    |
 | Pregnancy          | Compatible                                                                                  |
 | Lactation          | Compatible                                                                                  |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/cefaclor-drug-information)                     |
 

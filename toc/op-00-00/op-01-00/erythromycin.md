@@ -12,4 +12,5 @@
 | Adverse Effects    | Rarely, hypersensitivity reactions, ocular irritation or redness.                                                         |
 | Pregnancy          | Compatible                                                                                                                |
 | Lactation          | Compatible                                                                                                                |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/erythromycin-drug-information)                                               |
 

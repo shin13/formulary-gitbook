@@ -12,4 +12,5 @@
 | Adverse Effects    | Hypercalcemia.                                                                                                                              |
 | Pregnancy          | Compatible                                                                                                                                  |
 | Lactation          | Compatible                                                                                                                                  |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/1,25-dihydroxycholecalciferol-drug-information)                                                |
 

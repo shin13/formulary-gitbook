@@ -12,4 +12,5 @@
 | Adverse Effects    | xeroderma, Erythema, burning sensation of skin                                                                      |
 | Pregnancy          | Human Data Suggest Low Risk                                                                                         |
 | Lactation          | No (Limited) Human Data - Potential Toxicity                                                                        |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/metronidazole-drug-information)                                        |
 

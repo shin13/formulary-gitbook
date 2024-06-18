@@ -12,4 +12,5 @@
 | Adverse Effects    | Dry mouth, dry eyes, blurred vision, flatulence, constipation, abdominal pain, nausea, vomiting, dyspepsia, urinary retention, tachycardia.                                          |
 | Pregnancy          | No (Limited) Human Data – Animal Data Suggest Low Risk                                                                                                                               |
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                                                                                                        |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/trospium-drug-information)                                                                                                              |
 

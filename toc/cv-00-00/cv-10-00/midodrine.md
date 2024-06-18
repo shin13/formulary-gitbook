@@ -12,4 +12,5 @@
 | Adverse Effects    | Supine hypertension (discontinue), paresthesia, pruritus, goosebumps, chills, dysuria.                                   |
 | Pregnancy          | No (Limited) Human Data – Animal Data Suggest Moderate Risk                                                              |
 | Lactation          | No (Limited) Human Data - Potential Toxicity                                                                             |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/midodrine-drug-information)                                                 |
 

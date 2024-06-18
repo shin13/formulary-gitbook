@@ -12,4 +12,5 @@
 | Adverse Effects    | Sedation, headache, asthenia, weakness, fever, bradycardia, hypotension, GI disturbances, sore or 'black' tongue, liver disorders, +ve Coombs test, nasal congestion, anxiety, depression, arthralgia, rash. |
 | Pregnancy          | Compatible                                                                                                                                                                                                   |
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                                                                                                                                |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/methyldopa-drug-information)                                                                                                                                    |
 

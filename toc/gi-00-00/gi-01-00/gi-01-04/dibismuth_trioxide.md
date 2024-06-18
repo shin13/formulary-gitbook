@@ -12,4 +12,5 @@
 | Adverse Effects    | Gray stools. Nausea, vomiting.                                                                                        |
 | Pregnancy          | Human Data Suggest Low Risk                                                                                           |
 | Lactation          | Human Data Suggest Potential Toxicity                                                                                 |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/dibismuth-trioxide-drug-information)                                     |
 

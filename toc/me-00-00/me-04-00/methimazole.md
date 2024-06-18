@@ -12,4 +12,5 @@
 | Adverse Effects    | Skin rash, urticaria, nausea, vomiting, epigastric distress, hair loss, myalgia, edema, jaundice, sialadenopathy, lymphadenopathy & much less frequency of inhibition of myelopoiesis.               |
 | Pregnancy          | Human (and Animal) Data Suggest Risk                                                                                                                                                                 |
 | Lactation          | Compatible                                                                                                                                                                                           |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/methimazole-drug-information)                                                                                                                           |
 

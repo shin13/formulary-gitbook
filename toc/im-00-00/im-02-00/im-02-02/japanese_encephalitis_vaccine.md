@@ -12,6 +12,7 @@
 | Adverse Effects    | Local reactions eg redness, swelling, tenderness or systemic reactions eg fever, chill, headache, lassitude. Rarely, severe adverse reactions manifesting as generalized urticaria or angioedema may occur.                                                                                    |
 | Pregnancy          | Unknown                                                                                                                                                                                                                                                                                        |
 | Lactation          | Unknown                                                                                                                                                                                                                                                                                        |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/japanese-encephalitis-vaccine-drug-information)                                                                                                                                                                                                   |
 
 ## Imojev (減毒日腦,Government) 0.5mL/dose
 
@@ -25,4 +26,5 @@
 | Adverse Effects    | Local reactions eg redness, swelling, tenderness or systemic reactions eg fever, chill, headache, lassitude. Rarely, severe adverse reactions manifesting as generalized urticaria or angioedema may occur.                                                                                    |
 | Pregnancy          | Unknown                                                                                                                                                                                                                                                                                        |
 | Lactation          | Unknown                                                                                                                                                                                                                                                                                        |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/japanese-encephalitis-vaccine-drug-information)                                                                                                                                                                                                   |
 

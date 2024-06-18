@@ -12,4 +12,5 @@
 | Adverse Effects    | Headache, weakness, nausea, anorexia, rash & dizziness; orthostatic effects. Dermatologic: Rash (3% to 8% ) Gastrointestinal: Nausea Neurologic: Asthenia (3% to 8% ), Dizziness (3% to 8% ), Headache (3% to 8% ) |
 | Pregnancy          | No (Limited) Human Data – Animal Data Suggest Low Risk                                                                                                                                                             |
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                                                                                                                                      |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/hydrochlorothiazide-+-amiloride-drug-information)                                                                                                                     |
 

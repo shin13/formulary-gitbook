@@ -10,7 +10,7 @@ df['1st_letter'] = df['商品學名'].str[0]
 
 grouped = df.sort_values('商品學名').groupby('1st_letter')
 
-with open('index.md', 'w', encoding='utf-8') as file:
+with open('index1.md', 'w', encoding='utf-8') as file:
     file.write("# 索引\n\n")
     for first_letter, first_letter_df in grouped:
         file.write(f"## {first_letter}\n")

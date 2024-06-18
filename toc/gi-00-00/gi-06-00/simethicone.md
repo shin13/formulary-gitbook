@@ -12,6 +12,7 @@
 | Adverse Effects    | Mild diarrhea, nausea & vomiting, regurgitation.                                                           |
 | Pregnancy          | Compatible                                                                                                 |
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                              |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/simethicone-drug-information)                                 |
 
 ## Wilcon 20mg/mL, 60mL suspension
 
@@ -25,4 +26,5 @@
 | Adverse Effects    | Loose stools                                                                                |
 | Pregnancy          | Compatible                                                                                  |
 | Lactation          | No (Limited) Human Data - Probably Compatible                                               |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/simethicone-drug-information)                  |
 

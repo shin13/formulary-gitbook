@@ -12,4 +12,5 @@
 | Adverse Effects    | Fine tremor of skeletal muscles & nervousness. Less frequently, tachycardia, dizziness, palpitations or headache. Very rarely, local irritation or allergic reactions; cough, paradoxical bronchospasm. Potentially serious hypokalemia may result from β2-agonist therapy. |
 | Pregnancy          | Unknown                                                                                                                                                                                                                                                                     |
 | Lactation          | Unknown                                                                                                                                                                                                                                                                     |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/fenoterol-drug-information)                                                                                                                                                                                                    |
 

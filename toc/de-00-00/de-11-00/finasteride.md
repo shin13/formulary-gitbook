@@ -12,4 +12,5 @@
 | Adverse Effects    | Decreased libido (placebo 1.3% vs Propecia 1.8%); erectile dysfunction (placebo 0.7% vs Propecia 1.3%); decreased vol of ejaculate (placebo 0.4% vs Propecia 0.8%). |
 | Pregnancy          | Unknown                                                                                                                                                             |
 | Lactation          | Unknown                                                                                                                                                             |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/finasteride-drug-information)                                                                                          |
 

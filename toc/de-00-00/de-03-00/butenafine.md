@@ -12,4 +12,5 @@
 | Adverse Effects    | Individuals who have known or suspected sensitivity to butenafine HCl or to any of the components of Mentax. Patients who are known to be sensitive to allylamine antifungals should use Mentax with caution, since cross-sensitivity may occur.      |
 | Pregnancy          | No (Limited) Human Data – Animal Data Suggest Low Risk                                                                                                                                                                                                |
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                                                                                                                                                                         |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/butenafine-drug-information)                                                                                                                                                                             |
 

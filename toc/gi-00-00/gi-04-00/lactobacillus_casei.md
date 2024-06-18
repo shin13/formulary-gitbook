@@ -12,4 +12,5 @@
 | Adverse Effects    | Bloating (intestinal), flatulence.                                                                                                                       |
 | Pregnancy          | Unknown                                                                                                                                                  |
 | Lactation          | Unknown                                                                                                                                                  |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/lactobacillus-casei-drug-information)                                                                       |
 

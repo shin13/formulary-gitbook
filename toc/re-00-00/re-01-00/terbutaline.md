@@ -12,4 +12,5 @@
 | Adverse Effects    | Common Cardiovascular: Palpitations, Tachyarrhythmia Neurologic: Headache, Seizure, Tremor Psychiatric: Feeling nervous Serious Cardiovascular: Cardiac dysrhythmia Respiratory: Paradoxical bronchospasm, Pulmonary edema |
 | Pregnancy          | No (Limited) Human Data – Animal Data Suggest Low Risk                                                                                                                                                                     |
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                                                                                                                                              |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/terbutaline-drug-information)                                                                                                                                                 |
 

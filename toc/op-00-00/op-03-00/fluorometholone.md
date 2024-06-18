@@ -12,6 +12,7 @@
 | Adverse Effects    | Glaucoma with optic nerve damage, visual acuity or field defects, raised intraocular pressure, secondary infection (persistent corneal ulceration, possibly fungal invasion), perforation of globe, posterior subcapsular cataract formation |
 | Pregnancy          | No (Limited) Human Data – Probably Compatible                                                                                                                                                                                                |
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                                                                                                                                                                |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/fluorometholone-drug-information)                                                                                                                                                               |
 
 ## Foxone 0.02% 10mL ophthalmic suspension
 
@@ -25,4 +26,5 @@
 | Adverse Effects    | Glaucoma with optic nerve damage, visual acuity or field defects, raised intraocular pressure, secondary infection (persistent corneal ulceration, possibly fungal invasion), perforation of globe, posterior subcapsular cataract formation |
 | Pregnancy          | No (Limited) Human Data – Probably Compatible                                                                                                                                                                                                |
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                                                                                                                                                                |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/fluorometholone-drug-information)                                                                                                                                                               |
 

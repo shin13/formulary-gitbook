@@ -12,4 +12,5 @@
 | Adverse Effects    | Nausea, stomach cramps, vomiting                                                                                                                                                                                          |
 | Pregnancy          | Compatible                                                                                                                                                                                                                |
 | Lactation          | Compatible                                                                                                                                                                                                                |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/potassium-gluconate-drug-information)                                                                                                                                        |
 

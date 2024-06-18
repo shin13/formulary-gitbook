@@ -42,7 +42,7 @@ with open('toc.md', 'w', encoding='utf8') as f:
 
 start_lines = ['# Table of contents\n',
                '* [首頁](README.md)\n', '* [目錄](toc/README.md)\n']
-end_lines = ['* [附錄](appendix.md)\n', '* [索引](index.md)\n', '* [縮寫表](abbreviation.md)\n',
+end_lines = ['* [附錄](appendix.md)\n', '* [索引](index1.md)\n', '* [縮寫表](abbreviation.md)\n',
              '* [常用連結](links.md)\n', '* [更新歷程](changelog.md)']
 toc_lines = []
 

@@ -12,4 +12,5 @@
 | Adverse Effects    | Common: Flushing (0.7-2.6%), Palpitations (Up to 4.5%), Peripheral edema (Up to 10.8%), Abdominal pain (1.6%), Nausea (2.9% .), Dizziness (Up to 3.4%), Headache (7.3%), Somnolence (1.4%), Fatigue (4.5%) Serious: Acute myocardial infarction, Angina pectoris, Angioedema |
 | Pregnancy          | Human Data Suggest Low Risk                                                                                                                                                                                                                                                  |
 | Lactation          | Compatible                                                                                                                                                                                                                                                                   |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/amlodipine-drug-information)                                                                                                                                                                                                    |
 

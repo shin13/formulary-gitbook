@@ -12,4 +12,5 @@
 | Adverse Effects    | Common Neurologic: Headache Serious Hematologic: Hemolytic anemia Hepatic: Hepatotoxicity Immunologic: Anaphylactoid reaction Renal: Nephrotoxicity                                        |
 | Pregnancy          | Compatible                                                                                                                                                                                 |
 | Lactation          | Contraindicated                                                                                                                                                                            |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/phenazopyridine-drug-information)                                                                                                             |
 

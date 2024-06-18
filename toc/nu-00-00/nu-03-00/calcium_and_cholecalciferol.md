@@ -12,4 +12,5 @@
 | Adverse Effects    | itch, rash, Nausea, vomiting, diarrhea, constipation                                                                |
 | Pregnancy          | Unknown                                                                                                             |
 | Lactation          | Unknown                                                                                                             |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/calcium-+-cholecalciferol-drug-information)                            |
 

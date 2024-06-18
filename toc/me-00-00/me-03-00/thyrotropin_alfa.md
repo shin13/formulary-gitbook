@@ -14,4 +14,5 @@
 | Adverse Effects    | Nausea, vomiting, headache, asthenia, chills, fever, flu syndrome, dizziness, paresthesia.                                                                                                                                                   |
 | Pregnancy          | Compatible                                                                                                                                                                                                                                   |
 | Lactation          | Compatible                                                                                                                                                                                                                                   |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/thyrotropin-alfa-drug-information)                                                                                                                                                              |
 

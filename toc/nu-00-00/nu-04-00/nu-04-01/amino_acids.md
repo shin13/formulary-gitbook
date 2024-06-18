@@ -12,6 +12,7 @@
 | Adverse Effects    | Hypersensitivity, GI upsets, chest discomfort, palpitations, occasional chills, hot flushes, fever, headache, increase of GOT,GPT & BUN level.                                                                                                                                                                                                              |
 | Pregnancy          | Unknown                                                                                                                                                                                                                                                                                                                                                     |
 | Lactation          | Unknown                                                                                                                                                                                                                                                                                                                                                     |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/amino-acids-drug-information)                                                                                                                                                                                                                                                                                  |
 
 ## Aminosteril infant 10% 100mL
 
@@ -25,4 +26,5 @@
 | Adverse Effects    | Fluid, electrolyte, amino acid imbalance.                                                                                                                                                                                                       |
 | Pregnancy          | Unknown                                                                                                                                                                                                                                         |
 | Lactation          | Unknown                                                                                                                                                                                                                                         |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/amino-acids-drug-information)                                                                                                                                                                      |
 

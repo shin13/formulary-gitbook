@@ -12,4 +12,5 @@
 | Adverse Effects    | Ulceration of the inoculation site, lymphadenitis, keloid formation. Rarely, enlargement of the regional lymph glands.                      |
 | Pregnancy          | Compatible – Maternal Benefit >> Embryo-Fetal Risk                                                                                          |
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                                                               |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/bcg-vaccine-drug-information)                                                                  |
 

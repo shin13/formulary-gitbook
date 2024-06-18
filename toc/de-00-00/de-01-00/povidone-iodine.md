@@ -12,4 +12,5 @@
 | Adverse Effects    | Local irritation (discontinue).                                                                                                                                                                 |
 | Pregnancy          | Human Data Suggest Risk in 2nd and 3rd Trimesters                                                                                                                                               |
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                                                                                                                   |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/povidone-iodine-drug-information)                                                                                                                  |
 

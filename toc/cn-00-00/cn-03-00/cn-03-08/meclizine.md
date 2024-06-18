@@ -12,4 +12,5 @@
 | Adverse Effects    | Drowsiness; dry mouth, fatigue, vomiting; rarely, blurred vision.                                       |
 | Pregnancy          | Compatible                                                                                              |
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                           |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/meclizine-drug-information)                                |
 

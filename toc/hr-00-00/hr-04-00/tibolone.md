@@ -12,4 +12,5 @@
 | Adverse Effects    | Change in body wt, dizziness, seborrhoeic dermatosis, vaginal bleeding, headache, GI upset, changes in liver parameters, increased facial hair growth, pretibial edema. |
 | Pregnancy          | Unknown                                                                                                                                                                 |
 | Lactation          | Unknown                                                                                                                                                                 |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/tibolone-drug-information)                                                                                                 |
 

@@ -14,4 +14,5 @@
 | Adverse Effects    | Common Dermatologic: Injection site disorder (43% to 45% ) Serious Immunologic: Anaphylaxis, Hypersensitivity reaction Other: Angioedema |
 | Pregnancy          | No (Limited) Human Data – Probably Compatible                                                                                            |
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                                                            |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/fremanezumab-drug-information)                                                              |
 

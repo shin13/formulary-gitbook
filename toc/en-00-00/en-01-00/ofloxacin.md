@@ -12,4 +12,5 @@
 | Adverse Effects    | superinfection, earache, Vestibular nerve disorder, Hearing Impairments, ear itching, headache, redness of the ear canal, Redness of the external ear canal |
 | Pregnancy          | Contraindicated                                                                                                                                             |
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                                                                               |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/ofloxacin-drug-information)                                                                                    |
 

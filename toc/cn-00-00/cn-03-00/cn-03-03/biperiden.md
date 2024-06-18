@@ -12,4 +12,5 @@
 | Adverse Effects    | GI disturbances; dry mouth; visual disorders; drowsiness, dizziness; fatigue; urinary retention. |
 | Pregnancy          | Unknown                                                                                          |
 | Lactation          | Unknown                                                                                          |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/biperiden-drug-information)                         |
 

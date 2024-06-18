@@ -12,6 +12,7 @@
 | Adverse Effects    | GI disturbances, nervousness, headache, palpitations, insomnia, agitation, tachycardia, CNS stimulation     |
 | Pregnancy          | Compatible                                                                                                  |
 | Lactation          | Compatible                                                                                                  |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/theophylline-drug-information)                                 |
 
 ## Xanthium 200mg
 
@@ -25,4 +26,5 @@
 | Adverse Effects    | GI discomfort (nausea, vomiting). CNS disturbances (palpitation, arrhythmia).                                                                                                                                                                                                                                                                                                          |
 | Pregnancy          | Compatible                                                                                                                                                                                                                                                                                                                                                                             |
 | Lactation          | Compatible                                                                                                                                                                                                                                                                                                                                                                             |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/theophylline-drug-information)                                                                                                                                                                                                                                                                                                            |
 

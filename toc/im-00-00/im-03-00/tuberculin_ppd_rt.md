@@ -12,4 +12,5 @@
 | Adverse Effects    | Dermatologic: Rash Local: Injection site reactions: Bleeding, bruising, discomfort, erythematous reaction, hematoma, necrosis, pain, pruritus, redness, scarring, ulceration, vesiculation Miscellaneous: Anaphylaxis |
 | Pregnancy          | Unknown                                                                                                                                                                                                               |
 | Lactation          | Unknown                                                                                                                                                                                                               |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/tuberculin-ppd-rt-drug-information)                                                                                                                                      |
 

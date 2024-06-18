@@ -14,4 +14,5 @@
 | Adverse Effects    | Nausea, fatigue, vomiting, alopecia, constipation, decreased appetite, anemia, neutropenia, diarrhea, leukopenia, cough, and thrombocytopenia. Interstitial lung disease (ILD), pneumonitis, and left ventricular dysfunction. |
 | Pregnancy          | Unknown                                                                                                                                                                                                                        |
 | Lactation          | Unknown                                                                                                                                                                                                                        |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/trastuzumab-deruxtecan-drug-information)                                                                                                                                          |
 

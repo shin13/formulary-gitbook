@@ -12,4 +12,5 @@
 | Adverse Effects    | Dependence, somnolence, confusion, dizziness, coordination abnormal, headache, dull headache & other psychotic disturbances. Respiratory depression. Anemia, leukopenia. Hypotension. Nausea, dry mouth. Fatigue, edema. |
 | Pregnancy          | Human Data Suggest Risk in 1st and 3rd Trimesters                                                                                                                                                                        |
 | Lactation          | No (Limited) Human Data - Potential Toxicity                                                                                                                                                                             |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/estazolam-drug-information)                                                                                                                                                 |
 

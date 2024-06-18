@@ -12,4 +12,5 @@
 | Adverse Effects    | Conjunctival irritation. Discolouration of the tongue & teeth. Taste disturbances, burning sensation of the tongue. Oral desquamation. |
 | Pregnancy          | Compatible                                                                                                                             |
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                                                          |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/chlorhexidine-gluconate-drug-information)                                                 |
 

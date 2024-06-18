@@ -12,4 +12,5 @@
 | Adverse Effects    | Dose-dependent hypotension & respiratory depression. Cough, breath holding, salivation, apnoea & laryngospasm. Post-op nausea & vomiting. Transient increase of WBC count, malignant hyperthermia.                                                  |
 | Pregnancy          | No (Limited) Human Data – Animal Data Suggest Low Risk                                                                                                                                                                                              |
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                                                                                                                                                                       |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/desflurane-drug-information)                                                                                                                                                                           |
 

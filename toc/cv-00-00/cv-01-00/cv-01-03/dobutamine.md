@@ -12,4 +12,5 @@
 | Adverse Effects    | Tachycardia, nausea, non-specific chest pain & palpitation. Cardiovascular: Angina (1% to 3% ), Hypertension (7.5% ), Tachyarrhythmia (approximately 10% ) Neurologic: Headache (1% to 3% )                                         |
 | Pregnancy          | No (Limited) Human Data – Animal Data Suggest Low Risk                                                                                                                                                                              |
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                                                                                                                                                       |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/dobutamine-drug-information)                                                                                                                                                           |
 

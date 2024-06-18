@@ -14,6 +14,7 @@
 | Adverse Effects    | Hot flush, inj site reactions. Anemia; increased wt; insomnia; dizziness, headache, diarrhea, nausea; increased liver transaminases; hyperhidrosis (including night sweats), rash, musculoskeletal pain & discomfort; gynecomastia, testicular atrophy, erectile dysfunction; chills, pyrexia, fatigue, flu-like illness. |
 | Pregnancy          | Unknown                                                                                                                                                                                                                                                                                                                   |
 | Lactation          | Unknown                                                                                                                                                                                                                                                                                                                   |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/degarelix-drug-information)                                                                                                                                                                                                                                                  |
 
 ## Firmagon inj 80mg/4mL
 
@@ -27,4 +28,5 @@
 | Adverse Effects    | Hot flush, inj site reactions. Anemia; increased wt; insomnia; dizziness, headache, diarrhea, nausea; increased liver transaminases; hyperhidrosis (including night sweats), rash, musculoskeletal pain & discomfort; gynecomastia, testicular atrophy, erectile dysfunction; chills, pyrexia, fatigue, flu-like illness. |
 | Pregnancy          | Unknown                                                                                                                                                                                                                                                                                                                   |
 | Lactation          | Unknown                                                                                                                                                                                                                                                                                                                   |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/degarelix-drug-information)                                                                                                                                                                                                                                                  |
 

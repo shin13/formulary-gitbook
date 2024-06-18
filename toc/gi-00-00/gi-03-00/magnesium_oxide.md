@@ -12,4 +12,5 @@
 | Adverse Effects    | Diarrhea, abdominal cramps, nausea, hypermagnesemia, renal stones                                                                                     |
 | Pregnancy          | Unknown                                                                                                                                               |
 | Lactation          | Unknown                                                                                                                                               |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/magnesium-oxide-drug-information)                                                                        |
 

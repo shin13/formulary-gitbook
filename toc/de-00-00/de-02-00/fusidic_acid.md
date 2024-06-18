@@ -12,4 +12,5 @@
 | Adverse Effects    | Angioedema, application site irritation, application site pain, conjunctivitis, dermatitis, erythema, hypersensitivity reaction, pruritus, skin blister, skin irritation, skin rash, urticaria. |
 | Pregnancy          | Unknown                                                                                                                                                                                         |
 | Lactation          | Unknown                                                                                                                                                                                         |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/fusidic-acid-drug-information)                                                                                                                     |
 

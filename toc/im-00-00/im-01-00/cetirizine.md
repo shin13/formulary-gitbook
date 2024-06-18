@@ -12,4 +12,5 @@
 | Adverse Effects    | Headache, dizziness, drowsiness, agitation, dry mouth, GI discomfort, skin reactions & angioedema.                                                                                                                                                |
 | Pregnancy          | No (Limited) Human Data – Animal Data Suggest Low Risk                                                                                                                                                                                            |
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                                                                                                                                                                     |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/cetirizine-drug-information)                                                                                                                                                                         |
 

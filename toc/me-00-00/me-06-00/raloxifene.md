@@ -12,4 +12,5 @@
 | Adverse Effects    | Common Endocrine metabolic: Hot sweats Musculoskeletal: Leg cramp Serious Hematologic: Deep venous thrombosis, Venous thromboembolism (1% ) Neurologic: Cerebrovascular accident Ophthalmic: Thrombosis of retinal vein (rare ) Respiratory: Pulmonary embolism |
 | Pregnancy          | Contraindicated                                                                                                                                                                                                                                                 |
 | Lactation          | Contraindicated                                                                                                                                                                                                                                                 |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/raloxifene-drug-information)                                                                                                                                                                                       |
 

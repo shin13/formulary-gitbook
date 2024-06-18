@@ -12,4 +12,5 @@
 | Adverse Effects    | Nausea, diarrhoea/loose stools, anorexia, dyspepsia; male sexual dysfunction (ejaculatory delay); tremor; dry mouth; increased sweating. Sertraline has been associated with PALPITATIONS, CHEST PAIN, HYPERTENSION, HYPOTENSION, EDEMA, SYNCOPE, and TACHYCARDIA |
 | Pregnancy          | Human Data Suggest Risk in 3rd Trimester                                                                                                                                                                                                                          |
 | Lactation          | No (Limited) Human Data - Potential Toxicity                                                                                                                                                                                                                      |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/sertraline-drug-information)                                                                                                                                                                                         |
 

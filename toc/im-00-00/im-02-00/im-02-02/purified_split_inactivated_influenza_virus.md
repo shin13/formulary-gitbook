@@ -12,6 +12,7 @@
 | Adverse Effects    | Inj site soreness, fever, malaise, myalgia, headache, GI disturbances, lymphadenitis, oculorespiratory syndrome.                                                              |
 | Pregnancy          | Compatible                                                                                                                                                                    |
 | Lactation          | Compatible                                                                                                                                                                    |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/purified-split-inactivated-influenza-virus-drug-information)                                                                     |
 
 ## 4價自費流感 (VaxigripTetra)0.5mL/dose
 
@@ -25,4 +26,5 @@
 | Adverse Effects    | Inj site soreness, fever, malaise, myalgia, headache, GI disturbances, lymphadenitis, oculorespiratory syndrome.                                                                                                                |
 | Pregnancy          | Compatible                                                                                                                                                                                                                      |
 | Lactation          | Compatible                                                                                                                                                                                                                      |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/purified-split-inactivated-influenza-virus-drug-information)                                                                                                                       |
 

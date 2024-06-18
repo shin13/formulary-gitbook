@@ -14,4 +14,5 @@
 | Adverse Effects    | Dark colored stools, nail pigmentation, diarrhea, abnormal liver functions   |
 | Pregnancy          | Unknown                                                                      |
 | Lactation          | Unknown                                                                      |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/psk-drug-information)           |
 

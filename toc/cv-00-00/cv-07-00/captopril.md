@@ -12,4 +12,5 @@
 | Adverse Effects    | Dysgeusia, skin rash, cough                                                                                                                                                                                |
 | Pregnancy          | Human Data Suggest Risk in 2nd and 3rd Trimesters                                                                                                                                                          |
 | Lactation          | Compatible                                                                                                                                                                                                 |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/captopril-drug-information)                                                                                                                                   |
 

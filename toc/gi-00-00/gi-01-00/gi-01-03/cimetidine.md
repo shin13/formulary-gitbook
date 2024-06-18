@@ -12,4 +12,5 @@
 | Adverse Effects    | Common: Gynecomastia (up to 4%), Serious: Gastric cancer, Necrotizing enterocolitis in fetus OR newborn, Pancreatitis, Psychotic disorder, Cardiac arrest, Seizure |
 | Pregnancy          | Compatible                                                                                                                                                         |
 | Lactation          | Compatible                                                                                                                                                         |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/cimetidine-drug-information)                                                                                          |
 

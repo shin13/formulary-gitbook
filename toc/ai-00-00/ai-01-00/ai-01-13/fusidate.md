@@ -14,4 +14,5 @@
 | Adverse Effects    | GI disturbances.                                                                                                                                                                                                                          |
 | Pregnancy          | Unknown                                                                                                                                                                                                                                   |
 | Lactation          | Unknown                                                                                                                                                                                                                                   |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/fusidate-drug-information)                                                                                                                                                                   |
 

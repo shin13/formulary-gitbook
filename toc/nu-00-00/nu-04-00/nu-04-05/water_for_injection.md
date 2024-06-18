@@ -12,6 +12,7 @@
 | Adverse Effects    | No Data                                                                                                                   |
 | Pregnancy          | Compatible                                                                                                                |
 | Lactation          | Compatible                                                                                                                |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/water-for-injection-drug-information)                                        |
 
 ## Water for injection 500mL
 
@@ -25,4 +26,5 @@
 | Adverse Effects    | No Data                                                                                                                   |
 | Pregnancy          | No Data                                                                                                                   |
 | Lactation          | No Data                                                                                                                   |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/water-for-injection-drug-information)                                        |
 

@@ -12,4 +12,5 @@
 | Adverse Effects    | Occasionally, transient fatigue & somnolence; weight gain. Exceptionally, depression or extrapyramidal reactions.                                                         |
 | Pregnancy          | Unknown                                                                                                                                                                   |
 | Lactation          | Unknown                                                                                                                                                                   |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/flunarizine-drug-information)                                                                                                |
 

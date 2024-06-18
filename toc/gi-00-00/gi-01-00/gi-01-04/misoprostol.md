@@ -12,4 +12,5 @@
 | Adverse Effects    | GI disturbances including diarrhea, abdominal pain with or without dyspepsia, flatulence, nausea & vomiting, menorrhagia, vag bleeding & intermenstrual bleeding, rashes, dizziness. Gastrointestinal: Abdominal pain (7% to 20% ), Diarrhea (13% to 40% ) |
 | Pregnancy          | Contraindicated                                                                                                                                                                                                                                            |
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                                                                                                                                                                              |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/misoprostol-drug-information)                                                                                                                                                                                 |
 

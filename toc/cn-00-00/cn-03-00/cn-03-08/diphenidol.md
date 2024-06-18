@@ -12,4 +12,5 @@
 | Adverse Effects    | Thirst, anorexia, heartburn.                                                                                                                                                 |
 | Pregnancy          | Unknown                                                                                                                                                                      |
 | Lactation          | Unknown                                                                                                                                                                      |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/diphenidol-drug-information)                                                                                                    |
 

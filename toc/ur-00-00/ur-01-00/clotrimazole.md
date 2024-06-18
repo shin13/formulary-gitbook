@@ -12,4 +12,5 @@
 | Adverse Effects    | Erythema, stinging, irritation; hypersensitivity reactions.                                                                                                                                             |
 | Pregnancy          | Compatible                                                                                                                                                                                              |
 | Lactation          | Compatible                                                                                                                                                                                              |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/clotrimazole-drug-information)                                                                                                                             |
 

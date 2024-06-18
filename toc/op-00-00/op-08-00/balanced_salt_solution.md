@@ -12,6 +12,7 @@
 | Adverse Effects    | When the corneal endothelium is abnormal, irrigation or any other trauma may result in bullous keratopathy. |
 | Pregnancy          | Unknown                                                                                                     |
 | Lactation          | Unknown                                                                                                     |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/balanced-salt-solution-drug-information)                       |
 
 ## BSS sterile irrigation solusion 500ml/Bottle
 
@@ -25,4 +26,5 @@
 | Adverse Effects    | When the corneal endothelium is abnormal, irrigation or any other trauma may result in bullous keratopathy.                                                                                         |
 | Pregnancy          | Unknown                                                                                                                                                                                             |
 | Lactation          | Unknown                                                                                                                                                                                             |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/balanced-salt-solution-drug-information)                                                                                                               |
 

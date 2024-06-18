@@ -12,4 +12,5 @@
 | Adverse Effects    | Bleeding tendency. Fever, chills, headache & malaise may occur. Rarely, shock, sweating, disturbed pulse & dyspnea; rash, urticaria;nausea; vomiting & anorexia; abnormal liver function test; hematuria. Hematologic: Decreased hematocrit level (37%) |
 | Pregnancy          | No (Limited) Human Data – Animal Data Suggest Low Risk                                                                                                                                                                                                  |
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                                                                                                                                                                           |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/urokinase-drug-information)                                                                                                                                                                                |
 

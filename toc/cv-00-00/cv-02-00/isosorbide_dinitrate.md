@@ -12,4 +12,5 @@
 | Adverse Effects    | Flushing, dizziness, tachycardia, throbbing headache.                                                                                                        |
 | Pregnancy          | No (Limited) Human Data – Animal Data Suggest Moderate Risk                                                                                                  |
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                                                                                |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/isosorbide-dinitrate-drug-information)                                                                          |
 

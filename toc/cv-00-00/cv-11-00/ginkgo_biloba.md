@@ -12,4 +12,5 @@
 | Adverse Effects    | GI disturbance, headache, skin rash, dizzy, palpitation.                                                           |
 | Pregnancy          | No (Limited) Human Data – Animal Data Suggest Low Risk                                                             |
 | Lactation          | No (Limited) Human Data - Potential Toxicity                                                                       |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/ginkgo-biloba-drug-information)                                       |
 

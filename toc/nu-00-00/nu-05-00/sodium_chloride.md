@@ -1,6 +1,6 @@
 # Sodium Chloride
 
-## Sodium chloride 0.9% Irrigation 1000mL
+## NaCl 0.9% Irrigation 1000mL
 
 | TAH Drug Code      | [ENS1C](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ENS1C)                                                                 |
 |:-------------------|:---------------------------------------------------------------------------------------------------------------------------------------|
@@ -12,8 +12,9 @@
 | Adverse Effects    | No Data                                                                                                                                |
 | Pregnancy          | Compatible                                                                                                                             |
 | Lactation          | Compatible                                                                                                                             |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/sodium-chloride-drug-information)                                                         |
 
-## 0.9%NaCl irrigation 2000mL
+## NaCl 0.9% irrigation 2000mL
 
 | TAH Drug Code      | [ENS2](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ENS2)                                                         |
 |:-------------------|:-----------------------------------------------------------------------------------------------------------------------------|
@@ -25,6 +26,7 @@
 | Adverse Effects    | No Data                                                                                                                      |
 | Pregnancy          | Compatible                                                                                                                   |
 | Lactation          | Compatible                                                                                                                   |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/sodium-chloride-drug-information)                                               |
 
 ## 0.9%NaCl irrigation 3000mL
 
@@ -38,8 +40,9 @@
 | Adverse Effects    | No Data                                                                                                                      |
 | Pregnancy          | Compatible                                                                                                                   |
 | Lactation          | Compatible                                                                                                                   |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/sodium-chloride-drug-information)                                               |
 
-## 0.9%NaCl irrigation (Normal Saline) 500mL(沖洗用)
+## NaCl 0.9% irrigation (Normal Saline) 500mL(沖洗用)
 
 | TAH Drug Code      | [ENS5](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ENS5)                                                         |
 |:-------------------|:-----------------------------------------------------------------------------------------------------------------------------|
@@ -51,8 +54,9 @@
 | Adverse Effects    | No Data                                                                                                                      |
 | Pregnancy          | Compatible                                                                                                                   |
 | Lactation          | Compatible                                                                                                                   |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/sodium-chloride-drug-information)                                               |
 
-## Sodium chloride 0.9% Irrigation 500mL
+## NaCl 0.9% irrigation 500mL
 
 | TAH Drug Code      | [ENS5C](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ENS5C)                                                                 |
 |:-------------------|:---------------------------------------------------------------------------------------------------------------------------------------|
@@ -64,4 +68,5 @@
 | Adverse Effects    | No Data                                                                                                                                |
 | Pregnancy          | Compatible                                                                                                                             |
 | Lactation          | Compatible                                                                                                                             |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/sodium-chloride-drug-information)                                                         |
 

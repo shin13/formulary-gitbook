@@ -12,6 +12,7 @@
 | Adverse Effects    | Infrequently: Anorexia, nausea, diarrhea, pain & induration at IM inj site. Rarely: Skin rash, headache, sweating or hot sensation. Dermatologic: Injection site pain Musculoskeletal: Arthralgia (12% ) Neurologic: Dizziness (12% ), Headache (12% ) Respiratory: Nasopharyngitis (12% ) |
 | Pregnancy          | Compatible                                                                                                                                                                                                                                                                                 |
 | Lactation          | Compatible                                                                                                                                                                                                                                                                                 |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/mecobalamin-drug-information)                                                                                                                                                                                                                 |
 
 ## Methycobal 250mcg
 
@@ -25,6 +26,7 @@
 | Adverse Effects    | Infrequently: Anorexia, nausea, diarrhea, pain & induration at IM inj site. Rarely: Skin rash, headache, sweating or hot sensation. |
 | Pregnancy          | Unknown                                                                                                                             |
 | Lactation          | Unknown                                                                                                                             |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/mecobalamin-drug-information)                                                          |
 
 ## METHYCOBAL 500mcg
 
@@ -38,4 +40,5 @@
 | Adverse Effects    | Common: Asthenia (4-16%), Headache (4-20%), Paresthesia (4%), Stomach discomfort, Loss of appetite, Nausea, Diarrhea, Rash. Serious: Congestive heart failure, Pulmonary edema, Thrombosis, Anaphylaxis, Optic atrophy. |
 | Pregnancy          | Compatible                                                                                                                                                                                                              |
 | Lactation          | Compatible                                                                                                                                                                                                              |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/mecobalamin-drug-information)                                                                                                                                              |
 

@@ -12,4 +12,5 @@
 | Adverse Effects    | Drowsiness, dizziness, antimuscarinic effects. CV & CNS effects. Muscular weakness. Allergic reaction. Blood disorders.                                                                                                                               |
 | Pregnancy          | Compatible                                                                                                                                                                                                                                            |
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                                                                                                                                                                         |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/diphenhydramine-drug-information)                                                                                                                                                                        |
 

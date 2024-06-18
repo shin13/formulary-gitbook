@@ -12,4 +12,5 @@
 | Adverse Effects    | Dry mouth, urinary hesitancy & retention, blur vision, tachycardia.                                                                                                        |
 | Pregnancy          | No (Limited) Human Data – No Relevant Animal Data                                                                                                                          |
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                                                                                              |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/hyoscyamine-drug-information)                                                                                                 |
 

@@ -14,4 +14,5 @@
 | Adverse Effects    | Common Gastrointestinal: Nausea (1.1%) Neurologic: Headache (1.1%) Serious Cardiovascular: Bundle branch block (less than 0.1%), Shock. Immunologic: Anaphylactoid reaction. Renal: Injury of kidney, Acute, Nephrogenic systemic fibrosis. |
 | Pregnancy          | Unknown                                                                                                                                                                                                                                     |
 | Lactation          | Unknown                                                                                                                                                                                                                                     |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/gadoxetate-drug-information)                                                                                                                                                                   |
 

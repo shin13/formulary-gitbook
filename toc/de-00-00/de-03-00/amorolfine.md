@@ -12,6 +12,7 @@
 | Adverse Effects    | Skin irritation with erythema and pruritus; slight transient burning sensation (rare); hypersensitivity reactions.                                               |
 | Pregnancy          | Unknown                                                                                                                                                          |
 | Lactation          | Unknown                                                                                                                                                          |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/amorolfine-drug-information)                                                                                        |
 
 ## Loceryl nail 5% 2.5mL Lacquer
 
@@ -25,4 +26,5 @@
 | Adverse Effects    | In exceptional cases, a slight, transient periungual burning sensation was observed after the application of the nail lacquer. |
 | Pregnancy          | Unknown                                                                                                                        |
 | Lactation          | Unknown                                                                                                                        |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/amorolfine-drug-information)                                                      |
 

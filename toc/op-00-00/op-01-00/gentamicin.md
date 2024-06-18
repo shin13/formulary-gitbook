@@ -12,6 +12,7 @@
 | Adverse Effects    | Rarely, transient stinging.                                                       |
 | Pregnancy          | Human Data Suggest Low Risk                                                       |
 | Lactation          | Compatible                                                                        |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/gentamicin-drug-information)         |
 
 ## Gentamicin eye drops 5mL
 
@@ -25,4 +26,5 @@
 | Adverse Effects    | Rarely, transient stinging.                                                            |
 | Pregnancy          | Human Data Suggest Low Risk                                                            |
 | Lactation          | Compatible                                                                             |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/gentamicin-drug-information)              |
 

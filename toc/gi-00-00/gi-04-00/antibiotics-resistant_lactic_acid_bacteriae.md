@@ -12,4 +12,5 @@
 | Adverse Effects    | No side effects listed in package insert.                                                                                    |
 | Pregnancy          | Unknown                                                                                                                      |
 | Lactation          | Unknown                                                                                                                      |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/antibiotics-resistant-lactic-acid-bacteriae-drug-information)                   |
 

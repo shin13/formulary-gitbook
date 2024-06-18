@@ -12,4 +12,5 @@
 | Adverse Effects    | Common: Black feces, Diarrhea, Vomiting, Pulmonary aspiration Serious: Hypotension (rare), Electrolyte imbalance (rare), Gastrointestinal obstruction                                                                    |
 | Pregnancy          | Unknown                                                                                                                                                                                                                  |
 | Lactation          | Unknown                                                                                                                                                                                                                  |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/activated-charcoal-drug-information)                                                                                                                                        |
 

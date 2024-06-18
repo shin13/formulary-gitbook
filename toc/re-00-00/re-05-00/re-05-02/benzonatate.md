@@ -12,4 +12,5 @@
 | Adverse Effects    | Sedation, headache, dizziness, itch, skin eruption, nasal congestion, constipation, GI upset, chills, chest tightness, allergy. |
 | Pregnancy          | Unknown                                                                                                                         |
 | Lactation          | Unknown                                                                                                                         |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/benzonatate-drug-information)                                                      |
 

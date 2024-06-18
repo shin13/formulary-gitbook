@@ -12,6 +12,7 @@
 | Adverse Effects    | Cushing's syndrome and growth retardation in childn; osteoporosis, fractures. Peptic ulceration; glaucoma, cataracts; hyperglycaemia, pancreatitis; increased appetite, obesity. |
 | Pregnancy          | Human (and Animal) Data Suggest Risk                                                                                                                                             |
 | Lactation          | Compatible                                                                                                                                                                       |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/prednisolone-drug-information)                                                                                                      |
 
 ## Compesolon 5mg
 
@@ -25,4 +26,5 @@
 | Adverse Effects    | Fluid & salt retention, edema, hypertension; amenorrhea, hyperhidrosis, mental disturbances; acute pancreatitis; aseptic osteonecrosis; muscle weakness; Cushingoid state; raised intraocular pressure; local atrophy; increased appetite; growth retardation. |
 | Pregnancy          | Human (and Animal) Data Suggest Risk                                                                                                                                                                                                                           |
 | Lactation          | Compatible                                                                                                                                                                                                                                                     |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/prednisolone-drug-information)                                                                                                                                                                                    |
 

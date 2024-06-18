@@ -12,4 +12,5 @@
 | Adverse Effects    | Nausea, dizziness, drowsiness, dry mouth, insomnia, paraesthesia, Night sweats. |
 | Pregnancy          | Unknown                                                                         |
 | Lactation          | Unknown                                                                         |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/nefopam-drug-information)          |
 

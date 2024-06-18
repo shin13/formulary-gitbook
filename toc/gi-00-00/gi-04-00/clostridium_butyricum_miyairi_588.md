@@ -12,4 +12,5 @@
 | Adverse Effects    | Flatulence                                                                                                             |
 | Pregnancy          | Unknown                                                                                                                |
 | Lactation          | Unknown                                                                                                                |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/clostridium-butyricum-miyairi-588-drug-information)                       |
 

@@ -12,6 +12,7 @@
 | Adverse Effects    | Infrequent palpitations & tremors.                                                                                                                                                                                         |
 | Pregnancy          | Unknown                                                                                                                                                                                                                    |
 | Lactation          | Unknown                                                                                                                                                                                                                    |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/procaterol-drug-information)                                                                                                                                                  |
 
 ## Meptin - Mini 25mcg
 
@@ -25,4 +26,5 @@
 | Adverse Effects    | Infrequent palpitations & tremors.                                                                                                                                                                        |
 | Pregnancy          | Unknown                                                                                                                                                                                                   |
 | Lactation          | Unknown                                                                                                                                                                                                   |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/procaterol-drug-information)                                                                                                                                 |
 

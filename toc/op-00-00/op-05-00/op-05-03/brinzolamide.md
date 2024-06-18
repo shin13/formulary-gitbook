@@ -12,4 +12,5 @@
 | Adverse Effects    | Taste perversion, temporary blurred vision, ocular discomfort, foreign body sensation, ocular hyperemia. Gastrointestinal: Abnormal taste in mouth, Bitter (5-10%) Neurologic: Headache (5-10%) Ophthalmic: Blurred vision (5-10%) |
 | Pregnancy          | No (Limited) Human Data – Probably Compatible                                                                                                                                                                                      |
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                                                                                                                                                      |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/brinzolamide-drug-information)                                                                                                                                                        |
 

@@ -12,4 +12,5 @@
 | Adverse Effects    | Bronchial spasm; arrhythmia; hypotension; myotonia, raised intraocular pressure & hypersensitivity                                                                                                                                                         |
 | Pregnancy          | Compatible                                                                                                                                                                                                                                                 |
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                                                                                                                                                                              |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/succinylcholine-drug-information)                                                                                                                                                                             |
 

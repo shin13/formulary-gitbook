@@ -12,4 +12,5 @@
 | Adverse Effects    | Skin itching, irritation, reddness, allergic dermatitis, urticaria.                                                                                                                                                             |
 | Pregnancy          | Unknown                                                                                                                                                                                                                         |
 | Lactation          | Unknown                                                                                                                                                                                                                         |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/etofenamate-drug-information)                                                                                                                                                      |
 

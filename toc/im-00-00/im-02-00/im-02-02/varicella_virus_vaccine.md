@@ -12,6 +12,7 @@
 | Adverse Effects    | Common: Injection site disorder (19.3-32.5%), Rash, Varicella-like (0.5-5.5%), Fever (9.5-66.8%) Serious: Stevens-Johnson syndrome, Toxic epidermal necrolysis, Thrombocytopenic purpura, Anaphylaxis, Herpes zoster ophthalmicus, Encephalitis, Febrile seizure (Less than 0.1%) |
 | Pregnancy          | Contraindicated                                                                                                                                                                                                                                                                   |
 | Lactation          | Compatible                                                                                                                                                                                                                                                                        |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/varicella-virus-vaccine-drug-information)                                                                                                                                                                                            |
 
 ## 水痘疫苗Varivax (Government) 0.5mL/dose
 
@@ -25,4 +26,5 @@
 | Adverse Effects    | Common: Injection site disorder (19.3-32.5%), Rash, Varicella-like (0.5-5.5%), Fever (9.5-66.8%) Serious: Stevens-Johnson syndrome, Toxic epidermal necrolysis, Thrombocytopenic purpura, Anaphylaxis, Herpes zoster ophthalmicus, Encephalitis, Febrile seizure (Less than 0.1%) |
 | Pregnancy          | Contraindicated                                                                                                                                                                                                                                                                   |
 | Lactation          | Compatible                                                                                                                                                                                                                                                                        |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/varicella-virus-vaccine-drug-information)                                                                                                                                                                                            |
 

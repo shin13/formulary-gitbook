@@ -12,4 +12,5 @@
 | Adverse Effects    | Gastric irritation.                                                                                                     |
 | Pregnancy          | Unknown                                                                                                                 |
 | Lactation          | Unknown                                                                                                                 |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/zinc-acetate-drug-information)                                             |
 

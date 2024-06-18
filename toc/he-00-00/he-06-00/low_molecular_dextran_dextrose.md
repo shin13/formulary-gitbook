@@ -14,4 +14,5 @@
 | Adverse Effects    | GI disturbances; headache, dizziness; allergic reactions; raised liver enzyme values; alopecia; bone marrow suppression.           |
 | Pregnancy          | Unknown                                                                                                                            |
 | Lactation          | Unknown                                                                                                                            |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/low-molecular-dextran-dextrose-drug-information)                                      |
 

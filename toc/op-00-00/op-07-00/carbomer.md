@@ -12,4 +12,5 @@
 | Adverse Effects    | Transient blurring in vision.                                                                        |
 | Pregnancy          | Unknown                                                                                              |
 | Lactation          | Unknown                                                                                              |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/carbomer-drug-information)                              |
 

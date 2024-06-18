@@ -12,6 +12,7 @@
 | Adverse Effects    | Common: Diarrhea Serious: Stevens-Johnson syndrome, Toxic epidermal necrolysis, Clostridium difficile colitis, Direct Coombs test positive, Prothrombin time increased, Allergic reaction, Anaphylaxis, Seizure, Renal failure, Tubulointerstitial nephritis, Angioedema |
 | Pregnancy          | Compatible                                                                                                                                                                                                                                                               |
 | Lactation          | Compatible                                                                                                                                                                                                                                                               |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/cephalexin-drug-information)                                                                                                                                                                                                |
 
 ## Cephalexin 250mg
 
@@ -25,4 +26,5 @@
 | Adverse Effects    | Common: Diarrhea Serious: Stevens-Johnson syndrome, Toxic epidermal necrolysis, Clostridium difficile colitis, Direct Coombs test positive, Prothrombin time increased, Allergic reaction, Anaphylaxis, Seizure, Renal failure, Tubulointerstitial nephritis, Angioedema |
 | Pregnancy          | Compatible                                                                                                                                                                                                                                                               |
 | Lactation          | Compatible                                                                                                                                                                                                                                                               |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/cephalexin-drug-information)                                                                                                                                                                                                |
 

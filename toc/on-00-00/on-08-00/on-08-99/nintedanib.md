@@ -14,4 +14,5 @@
 | Adverse Effects    | Diarrhoea, nausea, abdominal pain; increased hepatic enzyme. Decreased wt & appetite; epistaxis; vomiting; increased alanine aminotransferase (ALT), aspartate aminotransferase (AST) & γ-glutamyl transferase (GGT). |
 | Pregnancy          | No (Limited) Human Data – Animal Data Suggest Risk                                                                                                                                                                    |
 | Lactation          | No (Limited) Human Data - Potential Toxicity                                                                                                                                                                          |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/nintedanib-drug-information)                                                                                                                                             |
 

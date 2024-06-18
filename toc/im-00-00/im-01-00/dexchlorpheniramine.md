@@ -12,4 +12,5 @@
 | Adverse Effects    | Drowsiness, dizziness; dry mouth. GIT disturbances. Hypotension, muscular weakness, tinnitus, euphoria, headache. CNS stimulation. Allergic reaction. Blood disorders. |
 | Pregnancy          | Compatible                                                                                                                                                             |
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                                                                                          |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/dexchlorpheniramine-drug-information)                                                                                     |
 

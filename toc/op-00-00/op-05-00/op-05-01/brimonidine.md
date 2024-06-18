@@ -12,4 +12,5 @@
 | Adverse Effects    | Oral dryness, ocular hyperemia, burning & stinging, headache, blurring, foreign body sensation, fatigue/drowsiness, conjunctival follicles, ocular allergic reactions, & ocular pruritus. |
 | Pregnancy          | No (Limited) Human Data – Probably Compatible                                                                                                                                             |
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                                                                                                             |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/brimonidine-drug-information)                                                                                                                |
 

@@ -12,4 +12,5 @@
 | Adverse Effects    | Gastrointestinal effects; photosensitivity; enamel hypoplasia, tooth discoloration; hypersensitivity reactions. Rarely, bone marrow depression; oesophagitis & oesophageal ulceration.                     |
 | Pregnancy          | Contraindicated – 2nd and 3rd Trimesters                                                                                                                                                                   |
 | Lactation          | Compatible                                                                                                                                                                                                 |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/doxycycline-drug-information)                                                                                                                                 |
 

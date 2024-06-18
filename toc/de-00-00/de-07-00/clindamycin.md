@@ -12,4 +12,5 @@
 | Adverse Effects    | Skin rash, itching, redness, swelling dryness, scaliness, peeling of skin.                                                                  |
 | Pregnancy          | Compatible                                                                                                                                  |
 | Lactation          | Compatible                                                                                                                                  |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/clindamycin-drug-information)                                                                  |
 

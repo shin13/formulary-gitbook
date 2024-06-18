@@ -12,4 +12,5 @@
 | Adverse Effects    | Dizziness, drowsiness, headache, constipation, nausea, loss of appetite, allergies, hypersensitivity (e.g. urticaria, erythematous rash, angioedema). |
 | Pregnancy          | Unknown                                                                                                                                               |
 | Lactation          | Unknown                                                                                                                                               |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/mebeverine-drug-information)                                                                             |
 

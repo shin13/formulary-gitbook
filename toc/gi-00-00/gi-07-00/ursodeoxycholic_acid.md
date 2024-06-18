@@ -12,4 +12,5 @@
 | Adverse Effects    | Diarrhoea, pruritus, nausea, vomiting, gallstone calcification.                                                                                                                                |
 | Pregnancy          | Compatible                                                                                                                                                                                     |
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                                                                                                                  |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/ursodeoxycholic-acid-drug-information)                                                                                                            |
 

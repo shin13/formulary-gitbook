@@ -12,6 +12,7 @@
 | Adverse Effects    | Increased appetite & weight gain. CNS depression, drowsiness, lassitude, dizziness, incoordination, sedation. Headache, psychomotor impairment, dry mouth, thickened respiratory tract secretions, blurred vision, urinary difficulty & retention, constipation, increased gastric reflux. Rashes, hypersensitivity reactions. Convulsion, sweating, myalgia, paresthesia, extrapyramidal effects, tremor, sleep disturbances, depression, tinnitus, hypotension, hair loss. |
 | Pregnancy          | No (Limited) Human Data – Animal Data Suggest Low Risk                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/cyproheptadine-drug-information)                                                                                                                                                                                                                                                                                                                                                                                                |
 
 ## Pilian 4mg
 
@@ -25,4 +26,5 @@
 | Adverse Effects    | Sedation; drowsiness; dry mouth, nose & throat; Increase thickness of bronchial secretion, dizziness, upper abdominal discomfort. |
 | Pregnancy          | No (Limited) Human Data – Animal Data Suggest Low Risk                                                                            |
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                                                     |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/cyproheptadine-drug-information)                                                     |
 

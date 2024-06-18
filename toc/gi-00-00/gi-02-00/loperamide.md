@@ -12,4 +12,5 @@
 | Adverse Effects    | Flatulence, constipation, nausea, abdominal pain, dry mouth; giddiness.                                                                                                                      |
 | Pregnancy          | No (Limited) Human Data – Animal Data Suggest Low Risk                                                                                                                                       |
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                                                                                                                |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/loperamide-drug-information)                                                                                                                    |
 

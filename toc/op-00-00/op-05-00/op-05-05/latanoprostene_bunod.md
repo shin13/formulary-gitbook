@@ -12,4 +12,5 @@
 | Adverse Effects    | Common Ophthalmic: Conjunctival hyperemia (6%) Serious Ophthalmic: Bacterial keratitis, Cystoid macular edema, Macular retinal edema.                                                                                                                           |
 | Pregnancy          | Unknown                                                                                                                                                                                                                                                         |
 | Lactation          | Unknown                                                                                                                                                                                                                                                         |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/latanoprostene-bunod-drug-information)                                                                                                                                                                             |
 

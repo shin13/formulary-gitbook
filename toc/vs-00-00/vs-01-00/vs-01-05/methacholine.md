@@ -12,4 +12,5 @@
 | Adverse Effects    | Central nervous system: Headache, lightheadedness Dermatologic: Itching Gastrointestinal: Throat irritation                                                                                                                                                                |
 | Pregnancy          | Unknown                                                                                                                                                                                                                                                                    |
 | Lactation          | Unknown                                                                                                                                                                                                                                                                    |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/methacholine-drug-information)                                                                                                                                                                                                |
 

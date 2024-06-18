@@ -12,4 +12,5 @@
 | Adverse Effects    | Skin irritation, burning sensation.                                                                                                                       |
 | Pregnancy          | Unknown                                                                                                                                                   |
 | Lactation          | Unknown                                                                                                                                                   |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/benzyl-benzoate-drug-information)                                                                            |
 

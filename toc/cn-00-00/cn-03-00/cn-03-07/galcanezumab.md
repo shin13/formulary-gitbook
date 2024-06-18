@@ -14,4 +14,5 @@
 | Adverse Effects    | Common Immunologic: Injection site reaction (18% ) Serious Immunologic: Anaphylaxis, Hypersensitivity reaction Other: Angioedema                                                                                                                                |
 | Pregnancy          | No (Limited) Human Data – Probably Compatible                                                                                                                                                                                                                   |
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                                                                                                                                                                                   |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/galcanezumab-drug-information)                                                                                                                                                                                     |
 

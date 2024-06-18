@@ -12,4 +12,5 @@
 | Adverse Effects    | Redness, tenderness & swelling at inj site; fever, crying, drowsiness; decreased feeding, vomiting, irritability.                                                       |
 | Pregnancy          | No (Limited) Human Data – Animal Data Suggest Low Risk                                                                                                                  |
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                                                                                           |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/dtap-ipv-hib-drug-information)                                                                                             |
 

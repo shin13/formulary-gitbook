@@ -12,4 +12,5 @@
 | Adverse Effects    | Dry skin, erythema, skin exfoliation and burning sensation, pruritus, irritation, allergic contact dermatitis, swelling face |
 | Pregnancy          | Unknown                                                                                                                      |
 | Lactation          | Unknown                                                                                                                      |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/benzoyl-peroxide-drug-information)                                              |
 

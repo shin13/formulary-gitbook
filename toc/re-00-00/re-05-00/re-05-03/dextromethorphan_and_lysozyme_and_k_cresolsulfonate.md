@@ -12,4 +12,5 @@
 | Adverse Effects    | Common Neurologic: Dizziness (mild), Somnolence (mild) Other: Fatigue (mild)                                                                                                       |
 | Pregnancy          | Compatible                                                                                                                                                                         |
 | Lactation          | Compatible                                                                                                                                                                         |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/dextromethorphan+lysozyme+k-cresolsulfonate-drug-information)                                                                         |
 

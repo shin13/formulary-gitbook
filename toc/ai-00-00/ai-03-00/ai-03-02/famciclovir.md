@@ -12,4 +12,5 @@
 | Adverse Effects    | Headache, nausea. Gastrointestinal: Diarrhea (1.8% to 9% ), Flatulence (0.6% to 4.8% ), Nausea (2.2% to 12.5% ), Vomiting (1.2% to 4.8% ) Neurologic: Headache (9.7% to 39.3% ) Reproductive: Dysmenorrhea (0.9% to 7.6% ) |
 | Pregnancy          | No (Limited) Human Data – Animal Data Suggest Low Risk                                                                                                                                                                     |
 | Lactation          | No (Limited) Human Data - Potential Toxicity                                                                                                                                                                               |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/famciclovir-drug-information)                                                                                                                                                 |
 

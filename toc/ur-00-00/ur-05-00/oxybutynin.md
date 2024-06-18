@@ -12,4 +12,5 @@
 | Adverse Effects    | Dry mouth, blurred vision, tachycardia, dizziness, impotence; allergic reactions.                                             |
 | Pregnancy          | No (Limited) Human Data – Animal Data Suggest Low Risk                                                                        |
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                                                 |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/oxybutynin-drug-information)                                                     |
 

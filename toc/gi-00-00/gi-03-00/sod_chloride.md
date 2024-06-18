@@ -12,4 +12,5 @@
 | Adverse Effects    | Diarrhea, rectal irritation, abdominal discomfort.                                          |
 | Pregnancy          | Unknown                                                                                     |
 | Lactation          | Unknown                                                                                     |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/sod-chloride-drug-information)                 |
 

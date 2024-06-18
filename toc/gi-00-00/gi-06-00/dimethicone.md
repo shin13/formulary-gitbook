@@ -12,4 +12,5 @@
 | Adverse Effects    | Loose stools                                                                                                           |
 | Pregnancy          | Compatible                                                                                                             |
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                                          |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/dimethicone-drug-information)                                             |
 

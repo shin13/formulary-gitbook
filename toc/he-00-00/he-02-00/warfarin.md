@@ -12,6 +12,7 @@
 | Adverse Effects    | Alopecia, skin rashes of various kinds, hemorrhagic skin necrosis. Cardiovascular: Cholesterol embolus syndrome Dermatologic: Tissue necrosis Hematologic: Hemorrhage Immunologic: Hypersensitivity reaction (infrequent ) Ophthalmic: Intraocular hemorrhage (5% to 11% ) |
 | Pregnancy          | Contraindicated – 1st Trimester                                                                                                                                                                                                                                            |
 | Lactation          | Compatible                                                                                                                                                                                                                                                                 |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/warfarin-drug-information)                                                                                                                                                                                                    |
 
 ## COFARIN 5mg
 
@@ -25,4 +26,5 @@
 | Adverse Effects    | Alopecia, skin rashes of various kinds, hemorrhagic skin necrosis. Cardiovascular: Cholesterol embolus syndrome Dermatologic: Tissue necrosis Hematologic: Hemorrhage Immunologic: Hypersensitivity reaction (infrequent ) Ophthalmic: Intraocular hemorrhage (5% to 11% ) |
 | Pregnancy          | Contraindicated – 1st Trimester                                                                                                                                                                                                                                            |
 | Lactation          | Compatible                                                                                                                                                                                                                                                                 |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/warfarin-drug-information)                                                                                                                                                                                                    |
 

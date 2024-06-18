@@ -12,4 +12,5 @@
 | Adverse Effects    | GI disturbances; glaucoma, mydriasis; urinary retention, mental disturbances, excitement.                                                                                                                                 |
 | Pregnancy          | No (Limited) Human Data – No Relevant Animal Data                                                                                                                                                                         |
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                                                                                                                                             |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/trihexyphenidyl-drug-information)                                                                                                                                            |
 

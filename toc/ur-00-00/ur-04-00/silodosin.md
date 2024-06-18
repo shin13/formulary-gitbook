@@ -12,4 +12,5 @@
 | Adverse Effects    | Drowsiness, postural hypotension, syncope, asthenia, depression, headache, dry mouth, GI disturbances, edema, blurred vision, rhinitis, erectile disorders, tachycardia, palpitation, hypersensitivity reactions; flushes; chest pain; dizziness; lack of energy. |
 | Pregnancy          | Unknown                                                                                                                                                                                                                                                           |
 | Lactation          | Unknown                                                                                                                                                                                                                                                           |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/silodosin-drug-information)                                                                                                                                                                                          |
 

@@ -12,4 +12,5 @@
 | Adverse Effects    | Common: Injection site disorder (4.5%), Injection site pain (34.8%), Injection site pruritus (5.8%), Pruritus (7.7%), Swelling at injection site (17.1%), Urticaria (12.3%), Diarrhea (2.3%), Nausea (5.8%) Serious: Thromboembolic disorder |
 | Pregnancy          | Unknown                                                                                                                                                                                                                                      |
 | Lactation          | Unknown                                                                                                                                                                                                                                      |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/hydroxyprogesterone-caproate-drug-information)                                                                                                                                                  |
 

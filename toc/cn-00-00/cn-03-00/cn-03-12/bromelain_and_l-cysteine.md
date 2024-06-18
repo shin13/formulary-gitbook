@@ -12,4 +12,5 @@
 | Adverse Effects    | Stomach ache, diarrhea, erythema, pruritus, palpitations(rare), bronchial asthma (rare).                                                                                                                               |
 | Pregnancy          | Unknown                                                                                                                                                                                                                |
 | Lactation          | Unknown                                                                                                                                                                                                                |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/bromelain-+-l-cysteine-drug-information)                                                                                                                                  |
 

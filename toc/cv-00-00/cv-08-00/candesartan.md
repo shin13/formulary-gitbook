@@ -12,4 +12,5 @@
 | Adverse Effects    | Common Cardiovascular: Hypotension (18.8% ) Musculoskeletal: Backache (3% .) Neurologic: Dizziness (less than 5% ) Respiratory: Pharyngitis (2% ), Rhinitis (2% ), Upper respiratory infection (6% )                                      |
 | Pregnancy          | Human Data Suggest Risk in 2nd and 3rd Trimesters                                                                                                                                                                                         |
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                                                                                                                                                             |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/candesartan-drug-information)                                                                                                                                                                |
 

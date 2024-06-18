@@ -12,4 +12,5 @@
 | Adverse Effects    | Drowsiness, ataxia, confusion; skin eruptions, edema; menstrual irregularities; nausea & constipation; extrapyramidal symptoms & decreased libido; blood dyscrasias; jaundice & hepatic dysfunction. Skin rashes; nausea; headache; decreased tolerance to alcohol. |
 | Pregnancy          | Human Data Suggest Risk in 1st and 3rd Trimesters                                                                                                                                                                                                                   |
 | Lactation          | No (Limited) Human Data - Potential Toxicity                                                                                                                                                                                                                        |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/chlordiazepoxide-drug-information)                                                                                                                                                                                     |
 

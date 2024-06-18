@@ -12,4 +12,5 @@
 | Adverse Effects    | Indigestion; hiccups; unpleasant taste, nausea, vomiting; joint pains; drowsiness, dizziness; confusion; disarticulated speech; blurred vision; nystagmus; tremor; paresthesia, ataxia; convulsions; hypotension, sinus bradycardia, atrial fibrillation, palpitations. |
 | Pregnancy          | No (Limited) Human Data – Animal Data Suggest Low Risk                                                                                                                                                                                                                  |
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                                                                                                                                                                                           |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/mexiletine-drug-information)                                                                                                                                                                                               |
 

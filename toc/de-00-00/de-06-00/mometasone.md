@@ -12,4 +12,5 @@
 | Adverse Effects    | Bacterial skin infection, burning, furunculosis, pruritus, skin atrophy, tingling/stinging                                                                                                                                                                     |
 | Pregnancy          | No (Limited) Human Data – Probably Compatible                                                                                                                                                                                                                  |
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                                                                                                                                                                                  |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/mometasone-drug-information)                                                                                                                                                                                      |
 

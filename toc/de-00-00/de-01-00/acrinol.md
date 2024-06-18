@@ -12,4 +12,5 @@
 | Adverse Effects    | Hypersensitivity, prolonged use delays wound healing                     |
 | Pregnancy          | Unknown                                                                  |
 | Lactation          | Unknown                                                                  |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/acrinol-drug-information)   |
 

@@ -12,4 +12,5 @@
 | Adverse Effects    | Local skin reactions including erythema, erosion, excoriation, flaking & edema.                                                                                                    |
 | Pregnancy          | Human Data Suggest Low Risk                                                                                                                                                        |
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                                                                                                      |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/imiquimod-drug-information)                                                                                                           |
 

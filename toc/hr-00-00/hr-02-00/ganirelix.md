@@ -12,4 +12,5 @@
 | Adverse Effects    | Common Neurologic: Headache (3% ) Reproductive: Abdominal pain, Gynecological (4.8% ), Vaginal bleeding (1.8% ) Serious Immunologic: Hypersensitivity reaction Reproductive: Ovarian hyperstimulation syndrome (2.4% ) Other: Undelivered in utero fetal death (3.7% ) |
 | Pregnancy          | Unknown                                                                                                                                                                                                                                                                |
 | Lactation          | Unknown                                                                                                                                                                                                                                                                |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/ganirelix-drug-information)                                                                                                                                                                                               |
 

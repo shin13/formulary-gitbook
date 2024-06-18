@@ -12,4 +12,5 @@
 | Adverse Effects    | Breast tenderness, nausea, weight change, edema, headache, dizziness, abdominal pain.                                                 |
 | Pregnancy          | Contraindicated                                                                                                                       |
 | Lactation          | Compatible                                                                                                                            |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/estradiol-valerate-drug-information)                                                     |
 

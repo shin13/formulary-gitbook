@@ -12,4 +12,5 @@
 | Adverse Effects    | Erythema, pain, swelling, pruritus; headache, hematoma, warmth, induration, pain in extremity.                                                                                                                                                                     |
 | Pregnancy          | Unknown                                                                                                                                                                                                                                                            |
 | Lactation          | Unknown                                                                                                                                                                                                                                                            |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/zoster-virus-vaccine-live-drug-information)                                                                                                                                                                           |
 

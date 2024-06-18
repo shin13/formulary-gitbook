@@ -12,4 +12,5 @@
 | Adverse Effects    | Dry mouth, dyshidrosis, visual accommodation disturbances, tachycardia, dizziness, constipation, urinary retention, hypotension, allergic reactions, inj site pain. |
 | Pregnancy          | Human Data Suggest Low Risk                                                                                                                                         |
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                                                                                       |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/hyoscin-butylbromide-drug-information)                                                                                 |
 

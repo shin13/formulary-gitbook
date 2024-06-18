@@ -14,4 +14,5 @@
 | Adverse Effects    | Feeling of warmth &/or burning sensation, irritation, pruritus & erythema, folliculitis. Dermatologic: Sensation of burning of skin Immunologic: At risk for infection, Viral Neurologic: Headache (7% to 25.4% ) Other: Fever |
 | Pregnancy          | No Data                                                                                                                                                                                                                        |
 | Lactation          | Contraindicated                                                                                                                                                                                                                |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/pimecrolimus-drug-information)                                                                                                                                                    |
 

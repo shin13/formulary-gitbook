@@ -12,4 +12,5 @@
 | Adverse Effects    | Nausea, vomiting, abdominal cramps, pruritus, flushing, sensation of heat, faintness, pounding in the head                                                 |
 | Pregnancy          | Compatible                                                                                                                                                 |
 | Lactation          | Compatible                                                                                                                                                 |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/thiamine+riboflavin+nicotinamide+pyridoxine-drug-information)                                                 |
 

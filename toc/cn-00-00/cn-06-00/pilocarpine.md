@@ -12,4 +12,5 @@
 | Adverse Effects    | Sweating, nausea, diarrhea, chills, flushing, urinary frequency, dizziness, asthenia, headache, dyspepsia, lacrimation, edema, abdominal pain, amblyopia, vomiting, pharyngitis, hypertension.    |
 | Pregnancy          | No (Limited) Human Data – Animal Data Suggest Moderate Risk                                                                                                                                       |
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                                                                                                                     |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/pilocarpine-drug-information)                                                                                                                        |
 

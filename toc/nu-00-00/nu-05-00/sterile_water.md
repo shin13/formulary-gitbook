@@ -12,4 +12,5 @@
 | Adverse Effects    | No Data                                                                                                                      |
 | Pregnancy          | Compatible                                                                                                                   |
 | Lactation          | Compatible                                                                                                                   |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/sterile-water-drug-information)                                                 |
 

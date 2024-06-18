@@ -12,4 +12,5 @@
 | Adverse Effects    | Blepharitis, contact dermatitis, itching, keratitis superficialis diffusa, conjunctival irritation. |
 | Pregnancy          | Unknown                                                                                             |
 | Lactation          | Unknown                                                                                             |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/pirfenoxone-drug-information)                          |
 

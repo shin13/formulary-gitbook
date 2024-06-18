@@ -12,4 +12,5 @@
 | Adverse Effects    | Nausea & vomiting, renal toxicity, bone-marrow depression, ototoxicity, serum electrolyte disturbances, peripheral neuropathy, retinal toxicity, anaphylactic reactions, cardiac abnormalities.   |
 | Pregnancy          | Contraindicated – 1st Trimester                                                                                                                                                                   |
 | Lactation          | Contraindicated                                                                                                                                                                                   |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/cisplatin-drug-information)                                                                                                                          |
 

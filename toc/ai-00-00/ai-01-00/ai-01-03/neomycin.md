@@ -12,4 +12,5 @@
 | Adverse Effects    | Vestibular & auditory damage, nephrotoxicity, GI disturbances.                                                                                                                                                                |
 | Pregnancy          | Human Data Suggest Low Risk                                                                                                                                                                                                   |
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                                                                                                                                                 |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/neomycin-drug-information)                                                                                                                                                       |
 

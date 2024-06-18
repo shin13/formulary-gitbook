@@ -12,4 +12,5 @@
 | Adverse Effects    | Hypoglycemia, inj site reactions. Rarely, lipodystrophy, allergic reactions.                                                            |
 | Pregnancy          | Compatible                                                                                                                              |
 | Lactation          | Compatible                                                                                                                              |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/insulin-detemir-drug-information)                                                          |
 

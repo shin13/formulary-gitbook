@@ -12,4 +12,5 @@
 | Adverse Effects    | Hypersensitivity reaction.                                                              |
 | Pregnancy          | Unknown                                                                                 |
 | Lactation          | Unknown                                                                                 |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/heparinoid-drug-information)               |
 

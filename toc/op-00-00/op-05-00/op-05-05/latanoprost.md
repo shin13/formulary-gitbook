@@ -12,4 +12,5 @@
 | Adverse Effects    | Slight discomfort, mild to moderate conjunctival hyperaemia, transient punctate epithelial erosions, increased pigmentation of iris, rash. |
 | Pregnancy          | No (Limited) Human Data – Probably Compatible                                                                                              |
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                                                              |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/latanoprost-drug-information)                                                                 |
 

@@ -12,4 +12,5 @@
 | Adverse Effects    | Common Neurologic: Headache (10%-25%) Respiratory: Pharyngitis, Rhinitis (10%-25%) Other: Influenza                                                                                                                                    |
 | Pregnancy          | No (Limited) Human Data – Probably Compatible                                                                                                                                                                                          |
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                                                                                                                                                          |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/ketotifen-drug-information)                                                                                                                                                               |
 

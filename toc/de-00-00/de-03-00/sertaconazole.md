@@ -12,4 +12,5 @@
 | Adverse Effects    | Slight local & transient erythematous reaction.                                                                                                                |
 | Pregnancy          | No (Limited) Human Data – Probably Compatible                                                                                                                  |
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                                                                                  |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/sertaconazole-drug-information)                                                                                   |
 

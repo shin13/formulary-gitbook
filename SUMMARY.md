@@ -619,7 +619,6 @@
       * [Diphenhydramine](toc/im-00-00/im-01-00/diphenhydramine.md)
       * [Fexofenadine](toc/im-00-00/im-01-00/fexofenadine.md)
       * [Ketotifen](toc/im-00-00/im-01-00/ketotifen.md)
-      * [Levocetirizine](toc/im-00-00/im-01-00/levocetirizine.md)
       * [Loratadine And Pseudoephedrine](toc/im-00-00/im-01-00/loratadine_and_pseudoephedrine.md)
       * [Mequitazine](toc/im-00-00/im-01-00/mequitazine.md)
       * [Triprolidine And Pseudoephedrine](toc/im-00-00/im-01-00/triprolidine_and_pseudoephedrine.md)

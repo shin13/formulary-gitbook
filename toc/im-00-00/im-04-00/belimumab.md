@@ -12,4 +12,5 @@
 | Adverse Effects    | Infections. Hypersensitivity reaction; pyrexia, infusion-related reaction.                                    |
 | Pregnancy          | Human (and Animal) Data Suggest Risk                                                                          |
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                                 |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/belimumab-drug-information)                                      |
 

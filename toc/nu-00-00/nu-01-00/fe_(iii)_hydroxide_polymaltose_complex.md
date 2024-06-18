@@ -12,4 +12,5 @@
 | Adverse Effects    | GI irritation, epigastric pain, stomach cramping, constipation, nausea, vomiting, diarrhoea, dark stools, heart burn, discoloured urine, teeth staining.                                                                                     |
 | Pregnancy          | Unknown                                                                                                                                                                                                                                      |
 | Lactation          | Unknown                                                                                                                                                                                                                                      |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/fe-(iii)-hydroxide-polymaltose-complex-drug-information)                                                                                                                                        |
 

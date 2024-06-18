@@ -12,6 +12,7 @@
 | Adverse Effects    | Burning, itching, irritation, dryness; perioral dermatitis; allergic contact dermatitis; skin atrophy. Dermatologic: Dry skin, Pruritus, Sensation of burning of skin Neurologic: Headache, with 0.1% cream (4%) Other: Irritation symptom |
 | Pregnancy          | No (Limited) Human Data – Animal Data Suggest Risk                                                                                                                                                                                         |
 | Lactation          | No (Limited) Human Data - Potential Toxicity                                                                                                                                                                                               |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/fluocinonide-drug-information)                                                                                                                                                                |
 
 ## Topsym cream 0.05%, 10gm
 
@@ -25,4 +26,5 @@
 | Adverse Effects    | urning, itching, irritation, dryness; perioral dermatitis; allergic contact dermatitis; skin atrophy. Dermatologic: Dry skin, Pruritus, Sensation of burning of skin Neurologic: Headache, with 0.1% cream (4%) Other: Irritation symptom |
 | Pregnancy          | No (Limited) Human Data – Animal Data Suggest Risk                                                                                                                                                                                        |
 | Lactation          | No (Limited) Human Data - Potential Toxicity                                                                                                                                                                                              |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/fluocinonide-drug-information)                                                                                                                                                               |
 

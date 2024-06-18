@@ -12,4 +12,5 @@
 | Adverse Effects    | Common: Pruritus (4%), Diarrhea (10-17%), Flatulence (3%), Nausea (4%), Dizziness (3%), Insomnia (7%), Anxiety (6%), Depression (5%) Serious: Cardiomyopathy, Deep thrombophlebitis, Heart failure, Mesenteric arterial occlusion, acute, Shock, Suicidal intent (1%) |
 | Pregnancy          | No (Limited) Human Data – Animal Data Suggest High Risk                                                                                                                                                                                                               |
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                                                                                                                                                                                         |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/acamprosate-drug-information)                                                                                                                                                                                            |
 

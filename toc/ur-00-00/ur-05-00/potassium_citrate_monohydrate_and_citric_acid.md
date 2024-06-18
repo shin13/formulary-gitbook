@@ -12,4 +12,5 @@
 | Adverse Effects    | Abdominal pain; dyspepsia; gastroenteritis; hyperkinesia; nervousness.                                                                                                         |
 | Pregnancy          | Unknown                                                                                                                                                                        |
 | Lactation          | Unknown                                                                                                                                                                        |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/potassium-citrate-monohydrate-+-citric-acid-drug-information)                                                                     |
 

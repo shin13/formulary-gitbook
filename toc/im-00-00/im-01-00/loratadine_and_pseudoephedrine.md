@@ -12,4 +12,5 @@
 | Adverse Effects    | Insomnia, dry mouth, headache, drowsiness.                                                                                                                                                         |
 | Pregnancy          | Human (and Animal) Data Suggest Risk                                                                                                                                                               |
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                                                                                                                      |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/loratadine-+-pseudoephedrine-drug-information)                                                                                                        |
 

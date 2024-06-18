@@ -12,4 +12,5 @@
 | Adverse Effects    | erythema at injection site, pain at injection site, and swelling at injection site. asthenia, fatigue, fever, headache, myalgia, and nausea.                                                                    |
 | Pregnancy          | Unknown                                                                                                                                                                                                         |
 | Lactation          | Unknown                                                                                                                                                                                                         |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/sars-cov-2-spike-glycoprotein-[chadox1-s]-drug-information)                                                                                                        |
 

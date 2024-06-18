@@ -12,4 +12,5 @@
 | Adverse Effects    | Oral numbness; dryness or thirst, tingling, warm feeling in mouth, altered sense of taste.                                                                                                   |
 | Pregnancy          | Unknown                                                                                                                                                                                      |
 | Lactation          | Unknown                                                                                                                                                                                      |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/benzydamine-drug-information)                                                                                                                   |
 

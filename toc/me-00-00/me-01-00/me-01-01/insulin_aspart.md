@@ -12,4 +12,5 @@
 | Adverse Effects    | Hypoglycaemia, edema, refraction anomalies, hypersensitivity reactions, lipodystrophy.                                                              |
 | Pregnancy          | No (Limited) Human Data – Probably Compatible                                                                                                       |
 | Lactation          | Compatible                                                                                                                                          |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/insulin-aspart-drug-information)                                                                       |
 

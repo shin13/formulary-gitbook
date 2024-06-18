@@ -94,8 +94,8 @@
 * Amino Acids + Ketoanalogues
   * Ketosteril
 * Aminophylline
+  * Antiasth 225mg slow release
   * Asiphylline inj 250mg/10mL
-  * Phyllocontin 225mg
 * Amiodarone
   * Amiodarone (Cordarone) inj 150mg/3mL
   * Cordarone 200mg
@@ -490,16 +490,18 @@
 * Dextromethorphan+Lysozyme+K Cresolsulfonate
   * Romicon-A 20/20/90mg
 * Dextrose
-  * 10% Dextrose inj 500mL
   * 20% Vitagen inj (Glucose) 20mL
-  * 50% GW inj (Vitagen) 20mL
-  * Glucose inj 5% 100mL
-  * Glucose inj 5% 250mL
-  * Glucose inj 5% 500mL
+  * Dextrose 10% inj 500mL
+  * Dextrose 5% inj 500mL (Otsuka)
+  * Dextrose 50% inj (Vitagen) 20mL
+  * Glucose 5% inj 250mL
+  * Glucose 5% inj 500mL
 * Dextrose + Sodium Chloride
-  * 2.5 % Dextrose in 0.45% NaCl 500mL
-  * 5% Dextrose in 0.33% NaCl 500mL
-  * 5% Dextrose in 0.9% NaCl 500mL
+  * Dextrose 2.5% in NaCl 0.45% 500mL
+  * Dextrose 5% in NaCl 0.3% inj 500mL (Otsuka)
+  * Dextrose 5% in NaCl 0.33% 500mL
+  * Dextrose 5% in NaCl 0.9% 500mL
+  * Dextrose 5% in NaCl 0.9% inj 500mL (N.K.)
 * Diazepam
   * Diapin 2mg
   * Diazepam(Dupin) inj 10mg/2mL
@@ -571,7 +573,7 @@
 * Drospirenone + Ethinylestradiol
   * YAZ 悅姿錠 (28 tablets/box)
 * Duloxetine
-  * Cymbalta 30mg
+  * Duxetine 30mg
 * Dupilumab
   * DUPIXENT inj 300mg/2mL
   * Dupixent inj 200mg/1.14mL
@@ -998,8 +1000,6 @@
   * Keppra 500mg
   * Keppra inj 500mg/5mL
   * Keppra solution 100mg/mL, 300mL
-* Levocetirizine
-  * Xyzal 5mg
 * Levodopa + Benserazide
   * Madopar 200/50mg
 * Levofloxacin
@@ -1053,7 +1053,6 @@
   * Mg Sulfate inj 10%, 200mL
 * Measles + Mumps + Rubella
   * MMR II (Government) 0.5mL/dose
-  * Priorix inj (MMR) 0.5 mL/dose (Private)
 * Mebeverine
   * Padalin 100mg
 * Meclizine
@@ -1138,7 +1137,6 @@
   * Mitonco inj 10mg
 * Molnupiravir
   * (自費) Molnupiravir 200mg (40顆/瓶)
-  * Molnupiravir 200mg (公費)
 * Mometasone
   * Elomet cream 0.1%, 5gm
   * Nasonex 50mcg/dose, 140dose nasal spray
@@ -1352,7 +1350,6 @@
   * Fespixon cream 1.25%, 15 gm
 * Pneumococcal Vaccine Polyvalent
   * Pneumovax 23 (Private) 0.5mL/dose
-  * Pneumovax 23 (Taipei City) 0.5mL/dose
   * Prevenar (政府提供,13價肺炎) 0.5mL/dose
   * Prevenar 13 (Government) 0.5mL/dose
   * Prevenar 13 (Private) 0.5mL/dose
@@ -1552,21 +1549,23 @@
   * NaHCO3 300mg
 * Sodium Chloride
   * 0.45% NaCl inj 20mL (限RT使用)
-  * 0.45% Saline inj 500mL
-  * 0.9% NaCl 100mL bag(Otsuka)
-  * 0.9% NaCl 250mL bag(Otsuka)
-  * 0.9% NaCl 500mL bag(Otsuka)
-  * 0.9% NaCl inj 250mL
-  * 0.9% NaCl inj 500mL
-  * 0.9%NaCl irrigation (Normal Saline) 500mL(沖洗用)
-  * 0.9%NaCl irrigation 2000mL
   * 0.9%NaCl irrigation 3000mL
-  * 3% NaCl inj 500mL(YF)
   * Isotonic NaCl inj 20mL
+  * NaCl 0.45% inj 500mL
+  * NaCl 0.9% Irrigation 1000mL
+  * NaCl 0.9% inj 1000mL
+  * NaCl 0.9% inj 1000mL (CHI SHENG)
+  * NaCl 0.9% inj 100mL bag (Otsuka)
+  * NaCl 0.9% inj 250mL
+  * NaCl 0.9% inj 250mL bag (Otsuka)
+  * NaCl 0.9% inj 500mL
+  * NaCl 0.9% inj 500mL (N.K.)
+  * NaCl 0.9% inj 500mL bag (Otsuka)
+  * NaCl 0.9% irrigation (Normal Saline) 500mL(沖洗用)
+  * NaCl 0.9% irrigation 2000mL
+  * NaCl 0.9% irrigation 500mL
+  * NaCl 3% inj 500mL(YF)
   * Sodium Chloride eye drop 3%, 5mL
-  * Sodium chloride 0.9% Irrigation 1000mL
-  * Sodium chloride 0.9% Irrigation 500mL
-  * Sodium chloride 0.9% inj 1000mL
 * Sodium Oleate
   * Alcos-Anal suppository
 * Sodium Pentosan Polysulfate
