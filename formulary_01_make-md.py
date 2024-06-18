@@ -366,8 +366,20 @@ for cat2 in cat2_li:
                 df_tb.columns = ['TAH Drug Code', col_name]
 
                 # 20240618 新增UpToDate查詢連結
+
+                # 定義特定名字及其替代名字
+                special_replacements = {
+                    "acetaminophen": "acetaminophen-paracetamol",
+                    "propacetamol": "acetaminophen-paracetamol"
+                }
+
                 search_name = name.replace(' ', '-').lower()
-                keyword = search_name + '-drug-information'
+
+                # 檢查特殊替換規則
+                if search_name in special_replacements:
+                    search_name = special_replacements[search_name]
+
+                keyword = f"{search_name}-drug-information"
 
                 # 要新增的列資料，這邊直接用列名位置
                 new_row = pd.DataFrame([{
