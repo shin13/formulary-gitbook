@@ -9,7 +9,7 @@
     * [Specific Antidotes](toc/ad-00-00/ad-02-00/README.md)
       * [Acamprosate](toc/ad-00-00/ad-02-00/acamprosate.md)
       * [Acetylcysteine](toc/ad-00-00/ad-02-00/acetylcysteine.md)
-      * [Deferoxamine Methansulphonate](toc/ad-00-00/ad-02-00/deferoxamine_methansulphonate.md)
+      * [Deferoxamine](toc/ad-00-00/ad-02-00/deferoxamine.md)
       * [Flumazenil](toc/ad-00-00/ad-02-00/flumazenil.md)
       * [Folinate](toc/ad-00-00/ad-02-00/folinate.md)
       * [Naloxone](toc/ad-00-00/ad-02-00/naloxone.md)

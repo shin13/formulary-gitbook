@@ -14,5 +14,5 @@
 | Adverse Effects    | Diarrhoea, dyspepsia, vomiting, elevated liver function test, acne, leucopenia, sepsis, certain infections; CV, metabolic, CNS & musculoskeletal events.                                                                                            |
 | Pregnancy          | Human (and Animal) Data Suggest Risk                                                                                                                                                                                                                |
 | Lactation          | Contraindicated                                                                                                                                                                                                                                     |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/mycophenolate-mofetil-drug-information)                                                                                                                                                                |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/mycophenolate-mofetil-cellcept-myhibbin-and-mycophenolate-sodium-myfortic-drug-information)                                                                                                            |
 

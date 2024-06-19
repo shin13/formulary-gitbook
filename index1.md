@@ -457,7 +457,7 @@
   * NESP inj 20mcg(洗腎用)
 * Darolutamide
   * Nubeqa F.C. 300mg
-* Deferoxamine Methansulphonate
+* Deferoxamine
   * DesFERAL inj 500mg
 * Degarelix
   * FIRMAGON inj 120mg/3mL

@@ -12,5 +12,5 @@
 | Adverse Effects    | Hypersensitivity                                                                                                                                                                                                         |
 | Pregnancy          | Unknown                                                                                                                                                                                                                  |
 | Lactation          | Unknown                                                                                                                                                                                                                  |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/hyaluronate-drug-information)                                                                                                                                               |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/hyaluronate-derivatives-drug-information)                                                                                                                                   |
 
