@@ -2,7 +2,7 @@
 
 ## Musco solution 3mg/mL, 120mL
 
-| TAH Drug Code      | [LMUS2](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=LMUS2)                                                                                                                                                                                 |
+| TAH Drug Code      | [LMUS2](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=LMUS2){:target="_blank"}                                                                                                                                                               |
 |:-------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Expectorant.                                                                                                                                                                                                                                           |
 | Dosing             | Adult & children >10 years 10 mL TID. 5-10 years 5 mL TID. 2-5 years 2.5 mL TID. < 2 years 2.5 mL BID. Reduce dose in long-term therapy. Recommended doses of Children: 1.2-1.6mg/Kg/day.                                                              |
@@ -12,11 +12,11 @@
 | Adverse Effects    | Contact dermatitis, Pruritus, Rash, Skin finding, Urticaria, Constipation, Diarrhea, Excessive salivation, Gastrointestinal tract finding, Nausea and vomiting, Xerostomia, Dysuria, Urogenital finding, Nasal discharge, Respiratory finding, Fatigue |
 | Pregnancy          | Unknown                                                                                                                                                                                                                                                |
 | Lactation          | Unknown                                                                                                                                                                                                                                                |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/ambroxol-international-drug-information-concise)                                                                                                                                                          |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/ambroxol-international-drug-information-concise){:target="_blank"}                                                                                                                                        |
 
 ## Loxol SR 75mg
 
-| TAH Drug Code      | [OLOX](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OLOX)                                                                                                                                                                                   |
+| TAH Drug Code      | [OLOX](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OLOX){:target="_blank"}                                                                                                                                                                 |
 |:-------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Expectorant.                                                                                                                                                                                                                                           |
 | Dosing             | Adult 1 TAB once daily.                                                                                                                                                                                                                                |
@@ -26,5 +26,5 @@
 | Adverse Effects    | Contact dermatitis, Pruritus, Rash, Skin finding, Urticaria, Constipation, Diarrhea, Excessive salivation, Gastrointestinal tract finding, Nausea and vomiting, Xerostomia, Dysuria, Urogenital finding, Nasal discharge, Respiratory finding, Fatigue |
 | Pregnancy          | Unknown                                                                                                                                                                                                                                                |
 | Lactation          | Unknown                                                                                                                                                                                                                                                |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/ambroxol-international-drug-information-concise)                                                                                                                                                          |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/ambroxol-international-drug-information-concise){:target="_blank"}                                                                                                                                        |
 

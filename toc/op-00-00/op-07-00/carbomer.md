@@ -2,7 +2,7 @@
 
 ## Vidisic gel 10gm
 
-| TAH Drug Code      | [EVID](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EVID)                                 |
+| TAH Drug Code      | [EVID](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EVID){:target="_blank"}               |
 |:-------------------|:-----------------------------------------------------------------------------------------------------|
 | Indications        | Substitute for lacrimal fluid in deficiency of tear production or dry eye.                           |
 | Dosing             | Instill 1 drop into conjunctival sac 3-5 times daily or more frequently during the day & before bed. |
@@ -12,5 +12,5 @@
 | Adverse Effects    | Transient blurring in vision.                                                                        |
 | Pregnancy          | Unknown                                                                                              |
 | Lactation          | Unknown                                                                                              |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/carbomer-drug-information)                              |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/carbomer-drug-information){:target="_blank"}            |
 

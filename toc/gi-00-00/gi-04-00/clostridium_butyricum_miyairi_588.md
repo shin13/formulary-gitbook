@@ -2,7 +2,7 @@
 
 ## Miyarisan BM 1gm
 
-| TAH Drug Code      | [OMIY](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OMIY)                                                   |
+| TAH Drug Code      | [OMIY](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OMIY){:target="_blank"}                                 |
 |:-------------------|:-----------------------------------------------------------------------------------------------------------------------|
 | Indications        | Intestinal disorders (prepare the bowel movement), loose stools, constipation, abdominal bloating.                     |
 | Dosing             | Adult & children >12 years: PO, 1 Pack, TID-QID. 6-12 years: PO, 0.5 Pack, TID-QID. 3-6 years: PO, 0.25 Pack, TID-QID. |
@@ -12,5 +12,5 @@
 | Adverse Effects    | Flatulence                                                                                                             |
 | Pregnancy          | Unknown                                                                                                                |
 | Lactation          | Unknown                                                                                                                |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/clostridium-butyricum-miyairi-588-drug-information)                       |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/clostridium-butyricum-miyairi-588-drug-information){:target="_blank"}     |
 

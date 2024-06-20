@@ -2,7 +2,7 @@
 
 ## Gendobu inj 250mg/20mL
 
-| TAH Drug Code      | [IDOB2](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IDOB2)                                                                                                                                                              |
+| TAH Drug Code      | [IDOB2](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IDOB2){:target="_blank"}                                                                                                                                            |
 |:-------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Short-term treatment of cardiac decompensation due to depressed contractility resulting from heart disease or cardiac surgery.                                                                                                      |
 | Dosing             | Must be diluted before infusion. Recommended dosage: usually 2.5-10 mcg/kg/minute as IV infusion. Infusion rate > 20 mcg/kg/minute for hemodynamic improvement. In rare cases, doses up to 40 mcg/kg/minute have been administered. |
@@ -12,5 +12,5 @@
 | Adverse Effects    | Tachycardia, nausea, non-specific chest pain & palpitation. Cardiovascular: Angina (1% to 3% ), Hypertension (7.5% ), Tachyarrhythmia (approximately 10% ) Neurologic: Headache (1% to 3% )                                         |
 | Pregnancy          | No (Limited) Human Data – Animal Data Suggest Low Risk                                                                                                                                                                              |
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                                                                                                                                                       |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/dobutamine-drug-information)                                                                                                                                                           |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/dobutamine-drug-information){:target="_blank"}                                                                                                                                         |
 

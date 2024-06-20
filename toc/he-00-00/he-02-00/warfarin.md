@@ -2,7 +2,7 @@
 
 ## Cofarin 1mg
 
-| TAH Drug Code      | [OCOF1](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OCOF1)                                                                                                                                                                                                     |
+| TAH Drug Code      | [OCOF1](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OCOF1){:target="_blank"}                                                                                                                                                                                   |
 |:-------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Treatment & prophylaxis of thromboembolic disorders.                                                                                                                                                                                                                       |
 | Dosing             | Initial dose as 2-5mg once daily, depends on patient's PT/INR. Maintenance dose would be 2-10mg, adjusted by patient's PT/INR. Duration of the treatment should be kept until the risks have been excluded.                                                                |
@@ -12,11 +12,11 @@
 | Adverse Effects    | Alopecia, skin rashes of various kinds, hemorrhagic skin necrosis. Cardiovascular: Cholesterol embolus syndrome Dermatologic: Tissue necrosis Hematologic: Hemorrhage Immunologic: Hypersensitivity reaction (infrequent ) Ophthalmic: Intraocular hemorrhage (5% to 11% ) |
 | Pregnancy          | Contraindicated – 1st Trimester                                                                                                                                                                                                                                            |
 | Lactation          | Compatible                                                                                                                                                                                                                                                                 |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/warfarin-drug-information)                                                                                                                                                                                                    |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/warfarin-drug-information){:target="_blank"}                                                                                                                                                                                  |
 
 ## COFARIN 5mg
 
-| TAH Drug Code      | [OCOF5](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OCOF5)                                                                                                                                                                                                     |
+| TAH Drug Code      | [OCOF5](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OCOF5){:target="_blank"}                                                                                                                                                                                   |
 |:-------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Treatment & prophylaxis of thromboembolic disorders.                                                                                                                                                                                                                       |
 | Dosing             | Initial dose as 2-5mg once daily, depends on patient's PT/INR. Maintenance dose would be 2-10mg, adjusted by patient's PT/INR. Duration of the treatment should be kept until the risks have been excluded.                                                                |
@@ -26,5 +26,5 @@
 | Adverse Effects    | Alopecia, skin rashes of various kinds, hemorrhagic skin necrosis. Cardiovascular: Cholesterol embolus syndrome Dermatologic: Tissue necrosis Hematologic: Hemorrhage Immunologic: Hypersensitivity reaction (infrequent ) Ophthalmic: Intraocular hemorrhage (5% to 11% ) |
 | Pregnancy          | Contraindicated – 1st Trimester                                                                                                                                                                                                                                            |
 | Lactation          | Compatible                                                                                                                                                                                                                                                                 |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/warfarin-drug-information)                                                                                                                                                                                                    |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/warfarin-drug-information){:target="_blank"}                                                                                                                                                                                  |
 

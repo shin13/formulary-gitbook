@@ -2,7 +2,7 @@
 
 ## Royalsense acne gel 1% 20gm
 
-| TAH Drug Code      | [EROY](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EROY)                                                                        |
+| TAH Drug Code      | [EROY](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EROY){:target="_blank"}                                                      |
 |:-------------------|:--------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Acne vulgaris.                                                                                                                              |
 | Dosing             | Apply twice daily to affected area.                                                                                                         |
@@ -12,5 +12,5 @@
 | Adverse Effects    | Skin rash, itching, redness, swelling dryness, scaliness, peeling of skin.                                                                  |
 | Pregnancy          | Compatible                                                                                                                                  |
 | Lactation          | Compatible                                                                                                                                  |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/clindamycin-drug-information)                                                                  |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/clindamycin-drug-information){:target="_blank"}                                                |
 

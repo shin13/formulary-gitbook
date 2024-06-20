@@ -2,7 +2,7 @@
 
 ## Zcough 100mg
 
-| TAH Drug Code      | [OZCO](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OZCO)                                                            |
+| TAH Drug Code      | [OZCO](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OZCO){:target="_blank"}                                          |
 |:-------------------|:--------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Symptomatic relief of nonproductive cough                                                                                       |
 | Dosing             | Adult 1-2 cap TID Maximum dose is 600 mg/day                                                                                    |
@@ -12,5 +12,5 @@
 | Adverse Effects    | Sedation, headache, dizziness, itch, skin eruption, nasal congestion, constipation, GI upset, chills, chest tightness, allergy. |
 | Pregnancy          | Unknown                                                                                                                         |
 | Lactation          | Unknown                                                                                                                         |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/benzonatate-drug-information)                                                      |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/benzonatate-drug-information){:target="_blank"}                                    |
 

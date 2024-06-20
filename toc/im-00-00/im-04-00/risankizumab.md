@@ -4,7 +4,7 @@
 
 ##### 臨採
 
-| TAH Drug Code      | [ISKY](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ISKY)                                                                                                                                                                                                             |
+| TAH Drug Code      | [ISKY](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ISKY){:target="_blank"}                                                                                                                                                                                           |
 |:-------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Moderate-to-severe plaque psoriasis in adults who are candidates for systemic therapy.                                                                                                                                                                                           |
 | Dosing             | SC, 150 mg at week 0 and week 4, followed by every 12 weeks.                                                                                                                                                                                                                     |
@@ -14,5 +14,5 @@
 | Adverse Effects    | Common Dermatologic: Injection site reaction (1.5% ), Tinea (1.1% ) Immunologic: Antibody development (24%% ) Neurologic: Headache (3.5% ) Respiratory: Upper respiratory infection (13% ) Other: Fatigue (2.5% ) Serious Immunologic: Infectious disease (22.1% ), Tuberculosis |
 | Pregnancy          | No (Limited) Human Data – Animal Data Suggest Low Risk                                                                                                                                                                                                                           |
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                                                                                                                                                                                                    |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/risankizumab-drug-information)                                                                                                                                                                                                      |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/risankizumab-drug-information){:target="_blank"}                                                                                                                                                                                    |
 

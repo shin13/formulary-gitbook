@@ -2,7 +2,7 @@
 
 ## Rifampicin 300mg (立汎黴素)
 
-| TAH Drug Code      | [ORIF5](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ORIF5)                                                                                                                                                                                                                  |
+| TAH Drug Code      | [ORIF5](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ORIF5){:target="_blank"}                                                                                                                                                                                                |
 |:-------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | TB & meningococcal carriers.                                                                                                                                                                                                                                                            |
 | Dosing             | Neisseria meningitidis carrier: Adult: 600 mg QD for 4 days. >=5 years old: 10-20 mg/kg QD for 4 days. Tuberculosis: Adult: 600 mg QD. >=5 years old: 10-20 mg/kg QD for 4 days. Elders & weak patient: 10 mg/kg QD. Maximum: 600 mg/day. May use 1.8g/day in some types of infections. |
@@ -12,5 +12,5 @@
 | Adverse Effects    | Skin reactions; GI discomfort; hepatitis; thrombopenia; flu-syndrome; reddish discoloration of urine, sputum & tears; stains soft contact lenses.                                                                                                                                       |
 | Pregnancy          | Compatible                                                                                                                                                                                                                                                                              |
 | Lactation          | Compatible                                                                                                                                                                                                                                                                              |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/rifampin-rifampicin-drug-information)                                                                                                                                                                                                      |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/rifampin-rifampicin-drug-information){:target="_blank"}                                                                                                                                                                                    |
 

@@ -2,7 +2,7 @@
 
 ## Dilantin 100mg
 
-| TAH Drug Code      | [ODIL](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ODIL)                                                                                                                                                                                                                   |
+| TAH Drug Code      | [ODIL](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ODIL){:target="_blank"}                                                                                                                                                                                                 |
 |:-------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Control of generalized tonic-clonic (grand mal) and complex partial (psychomotor, temporal lobe) seizures. Prevention and treatment of seizures occurring during or following neurosurgery.                                                                                            |
 | Dosing             | Seizure, During and following neurosurgery; Treatment and Prophylaxis Oral: Adult: 100 mg BID or TID, adjusted as needed; (maximum loading dose: 1000 mg/day in 3 divided doses). Child: Initial, 5 mg/kg/day in 2-3 divided doses; maintenance, 4-8 mg/kg/day; (maximum: 300 mg/day). |
@@ -12,5 +12,5 @@
 | Adverse Effects    | GI disturbances; ataxia, slurred speech; diplopia, nystagmus and mental confusion with headache, dizziness, gingival hyperplasia, hirsutism, hyperglycemia, osteomalacia.                                                                                                              |
 | Pregnancy          | Compatible – Maternal Benefit >> Embryo-Fetal Risk                                                                                                                                                                                                                                     |
 | Lactation          | Compatible                                                                                                                                                                                                                                                                             |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/phenytoin-drug-information)                                                                                                                                                                                                               |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/phenytoin-drug-information){:target="_blank"}                                                                                                                                                                                             |
 

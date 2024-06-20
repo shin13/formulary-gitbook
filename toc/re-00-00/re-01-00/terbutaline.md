@@ -2,7 +2,7 @@
 
 ## Butanyl solution 5mg/2mL
 
-| TAH Drug Code      | [EBUIS](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EBUIS)                                                                                                                                                     |
+| TAH Drug Code      | [EBUIS](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EBUIS){:target="_blank"}                                                                                                                                   |
 |:-------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Treatment and Prophylaxis of Asthma, Bronchospasm, Reversible, associated with bronchitis and emphysema.                                                                                                                   |
 | Dosing             | Single dose 5mg QID. For use in a nebulizer or respirator. If a single dose is not used up, it can be stored in the storage tank of the nebulizer within 24 hours.                                                         |
@@ -12,5 +12,5 @@
 | Adverse Effects    | Common Cardiovascular: Palpitations, Tachyarrhythmia Neurologic: Headache, Seizure, Tremor Psychiatric: Feeling nervous Serious Cardiovascular: Cardiac dysrhythmia Respiratory: Paradoxical bronchospasm, Pulmonary edema |
 | Pregnancy          | No (Limited) Human Data – Animal Data Suggest Low Risk                                                                                                                                                                     |
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                                                                                                                                              |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/terbutaline-drug-information)                                                                                                                                                 |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/terbutaline-drug-information){:target="_blank"}                                                                                                                               |
 

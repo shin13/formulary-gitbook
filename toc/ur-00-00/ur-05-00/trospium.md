@@ -2,7 +2,7 @@
 
 ## Uracare 10mg
 
-| TAH Drug Code      | [OURA](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OURA)                                                                                                                 |
+| TAH Drug Code      | [OURA](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OURA){:target="_blank"}                                                                                               |
 |:-------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Antispasmodics of smooth muscle. Overactive bladder.                                                                                                                                 |
 | Dosing             | Bladder hyperactive disorder: 1-2 tablets BID before meals; Smooth muscle spasm & pain: 1-2 tablets TID before meals.                                                                |
@@ -12,5 +12,5 @@
 | Adverse Effects    | Dry mouth, dry eyes, blurred vision, flatulence, constipation, abdominal pain, nausea, vomiting, dyspepsia, urinary retention, tachycardia.                                          |
 | Pregnancy          | No (Limited) Human Data – Animal Data Suggest Low Risk                                                                                                                               |
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                                                                                                        |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/trospium-drug-information)                                                                                                              |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/trospium-drug-information){:target="_blank"}                                                                                            |
 

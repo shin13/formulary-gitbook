@@ -2,7 +2,7 @@
 
 ## PG2 inj 500mg
 
-| TAH Drug Code      | [IPG2](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IPG2)                                                                                                                                                                                                                  |
+| TAH Drug Code      | [IPG2](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IPG2){:target="_blank"}                                                                                                                                                                                                |
 |:-------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | As a complementary and palliative medicine for managing cancer-related fatigue.                                                                                                                                                                                                       |
 | Dosing             | Adults: 500 mg infused intravenously for 2.5-3.5 hours 2-4 times/week for a total of 2-4 weeks. Reconstitute each vial of 500 mg of PG2 with 10 mL normal saline. Shake thoroughly until dissolved completely. Mix the dissolved solution with normal saline (490mL) for IV infusion. |
@@ -12,5 +12,5 @@
 | Adverse Effects    | Itching (2.38%), skin rash (9.21%), dizziness (2.38%), Fever(7.24%), feeling cold(5.26%), chills(2.63%)                                                                                                                                                                               |
 | Pregnancy          | Unknown                                                                                                                                                                                                                                                                               |
 | Lactation          | Unknown                                                                                                                                                                                                                                                                               |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/polysaccharides-of-astragalus-membranaceus-drug-information)                                                                                                                                                                             |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/polysaccharides-of-astragalus-membranaceus-drug-information){:target="_blank"}                                                                                                                                                           |
 

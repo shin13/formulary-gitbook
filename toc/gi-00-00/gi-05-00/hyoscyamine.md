@@ -2,7 +2,7 @@
 
 ## Nuspas 0.125mg
 
-| TAH Drug Code      | [ONUS](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ONUS)                                                                                                       |
+| TAH Drug Code      | [ONUS](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ONUS){:target="_blank"}                                                                                     |
 |:-------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Control gastric secretion, visceral spasm & hypermotility in spastic colitis, spastic bladder, cystitis, pylorospasm & associated abdominal cramps                         |
 | Dosing             | Adult & children > 12 years : 1-2 TAB 4 hourly or once when needed . Maximum: 12 TAB/day. Children 2-12 years: 0.5 -1 TAB 4 hourly or once when needed.Maximum: 6 TAB/day. |
@@ -12,5 +12,5 @@
 | Adverse Effects    | Dry mouth, urinary hesitancy & retention, blur vision, tachycardia.                                                                                                        |
 | Pregnancy          | No (Limited) Human Data – No Relevant Animal Data                                                                                                                          |
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                                                                                              |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/hyoscyamine-drug-information)                                                                                                 |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/hyoscyamine-drug-information){:target="_blank"}                                                                               |
 

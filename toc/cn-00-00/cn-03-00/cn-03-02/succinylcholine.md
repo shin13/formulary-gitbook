@@ -2,7 +2,7 @@
 
 ## Relaxin inj 500mg
 
-| TAH Drug Code      | [IREL](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IREL)                                                                                                                                                                                       |
+| TAH Drug Code      | [IREL](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IREL){:target="_blank"}                                                                                                                                                                     |
 |:-------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Muscle relaxation.                                                                                                                                                                                                                                         |
 | Dosing             | IV injection for endotracheal intubation: 10-60 mg. Continuous IV infusion: dilute with normal saline or 5% dextrose to 0.1-0.2% solution, with rate of 2.5 mg/min. Infants and children: 1 mg/kg/dose intravenously or 2 to 3 mg/kg/dose intramuscularly. |
@@ -12,5 +12,5 @@
 | Adverse Effects    | Bronchial spasm; arrhythmia; hypotension; myotonia, raised intraocular pressure & hypersensitivity                                                                                                                                                         |
 | Pregnancy          | Compatible                                                                                                                                                                                                                                                 |
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                                                                                                                                                                              |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/succinylcholine-drug-information)                                                                                                                                                                             |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/succinylcholine-drug-information){:target="_blank"}                                                                                                                                                           |
 

@@ -2,7 +2,7 @@
 
 ## Madopar 200/50mg
 
-| TAH Drug Code      | [OMAD2](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OMAD2)                                                                                                                                                                                                                     |
+| TAH Drug Code      | [OMAD2](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OMAD2){:target="_blank"}                                                                                                                                                                                                   |
 |:-------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Parkinsonism.                                                                                                                                                                                                                                                                              |
 | Dosing             | Should be taken on an empty stomach, and avoid high protein diets.Initially 1/2 tablet TID-QID. Optimal daily dosage: 300-800 mg levodopa and 75-200 mg benserazide, divided into 3 or more doses. Average maintenance dose: 1 tablet (levodopa 100 mg/benserazide 25 mg) 3-6 times daily. |
@@ -12,5 +12,5 @@
 | Adverse Effects    | Anorexia, GI upsets (rare); cardiac arrhythmias & orthostatic hypotension. Abnormal involuntary movements. Mild, transient leucopenia & thrombocytopenia (rare). Psychotic disturbances. Urine discoloration.                                                                              |
 | Pregnancy          | Unknown                                                                                                                                                                                                                                                                                    |
 | Lactation          | Unknown                                                                                                                                                                                                                                                                                    |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/levodopa-and-benserazide-drug-information)                                                                                                                                                                                                    |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/levodopa-and-benserazide-drug-information){:target="_blank"}                                                                                                                                                                                  |
 

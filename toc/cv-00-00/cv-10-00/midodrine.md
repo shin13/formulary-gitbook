@@ -2,7 +2,7 @@
 
 ## Midorine 2.5mg
 
-| TAH Drug Code      | [OMIDO](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OMIDO)                                                   |
+| TAH Drug Code      | [OMIDO](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OMIDO){:target="_blank"}                                 |
 |:-------------------|:-------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Treatment of symptomatic orthostatic hypotension. Adjunct in the management of urinary incontinence.                     |
 | Dosing             | Hypotensive states Adult & children > 12 years: Initially 1 tab BID-TID Urinary incontinence Adult 1-2 tablet BID to TID |
@@ -12,5 +12,5 @@
 | Adverse Effects    | Supine hypertension (discontinue), paresthesia, pruritus, goosebumps, chills, dysuria.                                   |
 | Pregnancy          | No (Limited) Human Data – Animal Data Suggest Moderate Risk                                                              |
 | Lactation          | No (Limited) Human Data - Potential Toxicity                                                                             |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/midodrine-drug-information)                                                 |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/midodrine-drug-information){:target="_blank"}                               |
 

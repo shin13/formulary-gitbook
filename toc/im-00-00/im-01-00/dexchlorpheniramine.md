@@ -2,7 +2,7 @@
 
 ## Delamin 2mg
 
-| TAH Drug Code      | [ODEL](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ODEL)                                                                                                   |
+| TAH Drug Code      | [ODEL](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ODEL){:target="_blank"}                                                                                 |
 |:-------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Palliative treatment of allergic reaction.                                                                                                                             |
 | Dosing             | Adult: 1 TAB. TID-QID. Children : 6-12 years 1/2 TAB. 3-6 years 1/4 TAB. TID-QID.                                                                                      |
@@ -12,5 +12,5 @@
 | Adverse Effects    | Drowsiness, dizziness; dry mouth. GIT disturbances. Hypotension, muscular weakness, tinnitus, euphoria, headache. CNS stimulation. Allergic reaction. Blood disorders. |
 | Pregnancy          | Compatible                                                                                                                                                             |
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                                                                                          |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/dexchlorpheniramine-drug-information)                                                                                     |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/dexchlorpheniramine-drug-information){:target="_blank"}                                                                   |
 

@@ -2,7 +2,7 @@
 
 ## Brown mixture 120mL
 
-| TAH Drug Code      | [LBM1](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=LBM1)                                                                                    |
+| TAH Drug Code      | [LBM1](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=LBM1){:target="_blank"}                                                                  |
 |:-------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Expectorant & antitussive.                                                                                                                              |
 | Dosing             | Adult: 5 mL TID-QID. Can titrate dose up or down if needed.                                                                                             |
@@ -12,5 +12,5 @@
 | Adverse Effects    | Constipation, Nausea, Vomiting, Dizziness, Lightheadedness, Sedated, Hypotension, Tachycardia, Seizure, Apnea, Respiratory depression, Drug withdrawal. |
 | Pregnancy          | Human Data Suggest Risk in 3rd Trimester                                                                                                                |
 | Lactation          | Unknown                                                                                                                                                 |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/opium-tincture-and-glycyrrhiza-and-antimony-k-tartrate-drug-information)                                   |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/opium-tincture-and-glycyrrhiza-and-antimony-k-tartrate-drug-information){:target="_blank"}                 |
 

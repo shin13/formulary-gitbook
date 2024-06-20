@@ -2,7 +2,7 @@
 
 ## Coxine 20mg
 
-| TAH Drug Code      | [OCOX](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OCOX)                                                                                                                                                      |
+| TAH Drug Code      | [OCOX](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OCOX){:target="_blank"}                                                                                                                                    |
 |:-------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Prophylaxis of angina pectoris.                                                                                                                                                                                           |
 | Dosing             | Initial dose: 5-10 mg (1/4-1/2 tablets) BID separate 7 hours apart for day 1 and day 2, then increase to 20 mg BID for 2 days. Maintain dose: 20 mg BID.                                                                  |
@@ -12,5 +12,5 @@
 | Adverse Effects    | Transient headache, nausea, dizziness, weakness, vomiting, tachycardia, decreased BP, possible formation of methemoglobin, rarely allergic skin reactions. Neurologic: Dizziness (8% to 11% ), Headache (38% to 57% )     |
 | Pregnancy          | No (Limited) Human Data – Animal Data Suggest Moderate Risk                                                                                                                                                               |
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                                                                                                                                             |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/isosorbide-mononitrate-drug-information)                                                                                                                                     |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/isosorbide-mononitrate-drug-information){:target="_blank"}                                                                                                                   |
 

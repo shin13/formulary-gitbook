@@ -131,6 +131,8 @@
   * Arimidex 1mg
 * Antazoline + Tetrahydrozoline + Chlorhexidine
   * Alminto eye drops 10mL
+* Anti-D (Rh) Immunoglobulin
+  * Rho(D) Immune Globulin [HyperRHO] 1500IU 專案進口
 * Antibiotics-resistant Lactic Acid Bacteriae
   * Biofermin-R 6mg/1gm Powder
 * Apixaban
@@ -490,8 +492,8 @@
 * Dextromethorphan+Lysozyme+K Cresolsulfonate
   * Romicon-A 20/20/90mg
 * Dextrose
-  * 20% Vitagen inj (Glucose) 20mL
   * Dextrose 10% inj 500mL
+  * Dextrose 20% inj (Vitagen) 20mL
   * Dextrose 5% inj 500mL (Otsuka)
   * Dextrose 50% inj (Vitagen) 20mL
   * Glucose 5% inj 250mL
@@ -807,7 +809,7 @@
   * Viartril-S powder 1.5gm (自費)
 * Glyburide + Metformin
   * GlucoMET 5/500mg(鋁箔/錫箔)
-* Glycerin + Fructose + Sodium chloride
+* Glycerin + Fructose + Sodium Chloride
   * Glycetose inj 10%, 300mL
 * Glycopyrrolate
   * Glycopyrodyn inj 0.2mg/1mL
@@ -882,6 +884,8 @@
   * Tofranil 25mg
 * Imiquimod
   * Aldara cream 5%
+* Inactivated Enterovirus 71 virus particles
+  * EnVAX-A71 inj 0.5mL/dose (國光)
 * Inactivated Enterovirus 71 whole virus
   * Envacgen inj 0.5mL/dose
 * Inactivated Hepatitis A Virus Vaccine
@@ -1000,6 +1004,8 @@
   * Keppra 500mg
   * Keppra inj 500mg/5mL
   * Keppra solution 100mg/mL, 300mL
+* Levocetirizine
+  * Xyzal 5mg
 * Levodopa + Benserazide
   * Madopar 200/50mg
 * Levofloxacin
@@ -1441,8 +1447,6 @@
 * Remdesivir
   * Veklury (自費) inj 100mg (凍晶)
   * Veklury inj 100mg (公費/凍晶)
-* Rho D Immune Globulin
-  * Rho (D) Immune Globulin [HyperRHO] 專案進口
 * Ribavirin
   * Ribarin 200mg
 * Ribociclib
@@ -1540,8 +1544,6 @@
 * Simethicone
   * (限腸胃中心)Simethicone 20mg/mL suspension
   * Wilcon 20mg/mL, 60mL suspension
-* Sod Chloride
-  * Atomic enema 20mL
 * Sodium Acetate Anhydrous
   * Sodium acetate inj 20mL (4mEq/mL)
 * Sodium Bicarbonate
@@ -1550,21 +1552,22 @@
 * Sodium Chloride
   * 0.45% NaCl inj 20mL (限RT使用)
   * 0.9%NaCl irrigation 3000mL
-  * Isotonic NaCl inj 20mL
+  * Atomic enema 20mL
   * NaCl 0.45% inj 500mL
-  * NaCl 0.9% Irrigation 1000mL
   * NaCl 0.9% inj 1000mL
   * NaCl 0.9% inj 1000mL (CHI SHENG)
   * NaCl 0.9% inj 100mL bag (Otsuka)
+  * NaCl 0.9% inj 20mL
   * NaCl 0.9% inj 250mL
   * NaCl 0.9% inj 250mL bag (Otsuka)
   * NaCl 0.9% inj 500mL
   * NaCl 0.9% inj 500mL (N.K.)
   * NaCl 0.9% inj 500mL bag (Otsuka)
   * NaCl 0.9% irrigation (Normal Saline) 500mL(沖洗用)
+  * NaCl 0.9% irrigation 1000mL
   * NaCl 0.9% irrigation 2000mL
   * NaCl 0.9% irrigation 500mL
-  * NaCl 3% inj 500mL(YF)
+  * NaCl 3% inj 500mL (YF)
   * Sodium Chloride eye drop 3%, 5mL
 * Sodium Oleate
   * Alcos-Anal suppository

@@ -2,7 +2,7 @@
 
 ## Alminto eye drops 10mL
 
-| TAH Drug Code      | [EALM](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EALM)                                                                         |
+| TAH Drug Code      | [EALM](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EALM){:target="_blank"}                                                       |
 |:-------------------|:---------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Irritant conjunctivitis, allergic inflammatory conditions of the conjunctiva, particularly hay fever conjunctivitis & vernal conjunctivitis. |
 | Dosing             | instill 1-2 drops 3 to 4 times daily into the eye.                                                                                           |
@@ -12,5 +12,5 @@
 | Adverse Effects    | Mild burning sensation; Blurred vision                                                                                                       |
 | Pregnancy          | Unknown                                                                                                                                      |
 | Lactation          | Unknown                                                                                                                                      |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/antazoline-and-tetrahydrozoline-and-chlorhexidine-drug-information)                             |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/antazoline-and-tetrahydrozoline-and-chlorhexidine-drug-information){:target="_blank"}           |
 

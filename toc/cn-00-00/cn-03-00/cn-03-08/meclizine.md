@@ -2,7 +2,7 @@
 
 ## Meclizine 25mg
 
-| TAH Drug Code      | [OMEC](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OMEC)                                    |
+| TAH Drug Code      | [OMEC](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OMEC){:target="_blank"}                  |
 |:-------------------|:--------------------------------------------------------------------------------------------------------|
 | Indications        | Prophylaxis & symptomatic relief of nausea, vomiting, vertigo.                                          |
 | Dosing             | Adult and children over 12 years: for motion sickness, take 30-60 minutes before boarding, 50 mg daily. |
@@ -12,5 +12,5 @@
 | Adverse Effects    | Drowsiness; dry mouth, fatigue, vomiting; rarely, blurred vision.                                       |
 | Pregnancy          | Compatible                                                                                              |
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                           |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/meclizine-drug-information)                                |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/meclizine-drug-information){:target="_blank"}              |
 

@@ -2,7 +2,7 @@
 
 ## Magnesium Oxide 250mg
 
-| TAH Drug Code      | [OMAG](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OMAG)                                                                                  |
+| TAH Drug Code      | [OMAG](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OMAG){:target="_blank"}                                                                |
 |:-------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Treatment of various GI problems associated with hyperacidity; as a laxative.                                                                         |
 | Dosing             | Adult & children >12 years: Antacids 1 TAB TID-QID. Laxative 1-2 TAB QD-TID. 6-12 years: one half dose of Adult.3-6 years: one quarter dose of Adult. |
@@ -12,5 +12,5 @@
 | Adverse Effects    | Diarrhea, abdominal cramps, nausea, hypermagnesemia, renal stones                                                                                     |
 | Pregnancy          | Unknown                                                                                                                                               |
 | Lactation          | Unknown                                                                                                                                               |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/magnesium-oxide-drug-information)                                                                        |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/magnesium-oxide-drug-information){:target="_blank"}                                                      |
 

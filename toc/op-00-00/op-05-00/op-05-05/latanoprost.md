@@ -2,7 +2,7 @@
 
 ## Xalatan 0.005%, 2.5mL ophthalmic solution
 
-| TAH Drug Code      | [EXAL](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EXAL)                                                                       |
+| TAH Drug Code      | [EXAL](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EXAL){:target="_blank"}                                                     |
 |:-------------------|:-------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Reduction of elevated intraocular pressure in patients with glaucoma & ocular hypertension.                                                |
 | Dosing             | 1 drop in affected eye once daily in the evening.                                                                                          |
@@ -12,5 +12,5 @@
 | Adverse Effects    | Slight discomfort, mild to moderate conjunctival hyperaemia, transient punctate epithelial erosions, increased pigmentation of iris, rash. |
 | Pregnancy          | No (Limited) Human Data – Probably Compatible                                                                                              |
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                                                              |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/latanoprost-drug-information)                                                                 |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/latanoprost-drug-information){:target="_blank"}                                               |
 

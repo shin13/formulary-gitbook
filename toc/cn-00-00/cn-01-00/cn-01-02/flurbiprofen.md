@@ -2,7 +2,7 @@
 
 ## Flurbi PAP (4 patchs/pack)
 
-| TAH Drug Code      | [EFLUR](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EFLUR)                                                                                  |
+| TAH Drug Code      | [EFLUR](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EFLUR){:target="_blank"}                                                                |
 |:-------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Analgesics and anti-inflammatory for arthrosis deformans, scapulohumural periarthritis, tenosynovitis, perimyositis, muscle pain, post-trauma swelling. |
 | Dosing             | Apply 1 patch daily.                                                                                                                                    |
@@ -12,5 +12,5 @@
 | Adverse Effects    | Local irritation                                                                                                                                        |
 | Pregnancy          | Human Data Suggest Risk in 1st and 3rd Trimesters                                                                                                       |
 | Lactation          | Compatible                                                                                                                                              |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/flurbiprofen-systemic-drug-information)                                                                    |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/flurbiprofen-systemic-drug-information){:target="_blank"}                                                  |
 

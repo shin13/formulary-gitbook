@@ -4,7 +4,7 @@
 
 ##### 臨採
 
-| TAH Drug Code      | [IMIO](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IMIO)                                                                                                                                                                                   |
+| TAH Drug Code      | [IMIO](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IMIO){:target="_blank"}                                                                                                                                                                 |
 |:-------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Intraocular use for miosis during surgery.                                                                                                                                                                                                             |
 | Dosing             | Ophthalmic surgery, miosis: Intraocular: 0.5 mL instilled into the anterior chamber before or after securing sutures.                                                                                                                                  |
@@ -14,5 +14,5 @@
 | Adverse Effects    | Ophthalmic: Blurred vision, corneal edema, corneal opacity, epithelial keratopathy (bullous), eye pain, increased intraocular pressure, iritis (postoperative), ocular hyperemia, ophthalmic inflammation, retinal detachment, visual impairment.      |
 | Pregnancy          | No (Limited) Human Data – Probably Compatible                                                                                                                                                                                                          |
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                                                                                                                                                                          |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/carbachol-drug-information)                                                                                                                                                                               |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/carbachol-drug-information){:target="_blank"}                                                                                                                                                             |
 

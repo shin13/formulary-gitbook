@@ -2,7 +2,7 @@
 
 ## Fucon inj 20mg/1mL
 
-| TAH Drug Code      | [IFUC](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IFUC)                                                                                                |
+| TAH Drug Code      | [IFUC](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IFUC){:target="_blank"}                                                                              |
 |:-------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Spasm & hyperkinesia of the GIT, spasm & dyskinesia of the biliary tract, urinary tract & female genital tracts.                                                    |
 | Dosing             | Adult 20 mg 3-5 times daily IM/IV/SC.                                                                                                                               |
@@ -12,5 +12,5 @@
 | Adverse Effects    | Dry mouth, dyshidrosis, visual accommodation disturbances, tachycardia, dizziness, constipation, urinary retention, hypotension, allergic reactions, inj site pain. |
 | Pregnancy          | Human Data Suggest Low Risk                                                                                                                                         |
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                                                                                       |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/hyoscin-butylbromide-drug-information)                                                                                 |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/hyoscin-butylbromide-drug-information){:target="_blank"}                                                               |
 

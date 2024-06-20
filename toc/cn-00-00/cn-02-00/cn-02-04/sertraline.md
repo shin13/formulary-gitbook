@@ -2,7 +2,7 @@
 
 ## Zoloft 50mg
 
-| TAH Drug Code      | [OZOL](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OZOL)                                                                                                                                                                                              |
+| TAH Drug Code      | [OZOL](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OZOL){:target="_blank"}                                                                                                                                                                            |
 |:-------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Depression, obsessive-compulsive disorder (OCD), panic disorder, post traumatic stress disorder (PTSD), social phobia, premenstrual dysphoric disorder (PMDD).                                                                                                    |
 | Dosing             | 50-200 mg daily. Dosage may be increased in 50 mg increments to maximum 200 mg over a period of weeks.                                                                                                                                                            |
@@ -12,5 +12,5 @@
 | Adverse Effects    | Nausea, diarrhoea/loose stools, anorexia, dyspepsia; male sexual dysfunction (ejaculatory delay); tremor; dry mouth; increased sweating. Sertraline has been associated with PALPITATIONS, CHEST PAIN, HYPERTENSION, HYPOTENSION, EDEMA, SYNCOPE, and TACHYCARDIA |
 | Pregnancy          | Human Data Suggest Risk in 3rd Trimester                                                                                                                                                                                                                          |
 | Lactation          | No (Limited) Human Data - Potential Toxicity                                                                                                                                                                                                                      |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/sertraline-drug-information)                                                                                                                                                                                         |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/sertraline-drug-information){:target="_blank"}                                                                                                                                                                       |
 

@@ -4,7 +4,7 @@
 
 ##### 臨採
 
-| TAH Drug Code      | [ILUMI](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ILUMI)                                                                                                                                                                                  |
+| TAH Drug Code      | [ILUMI](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ILUMI){:target="_blank"}                                                                                                                                                                |
 |:-------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Moderate to severe plaque psoriasis, pustular psoriasis.                                                                                                                                                                                                |
 | Dosing             | SC, 210 mg at weeks 0, 1, and 2, followed by 210 mg once every 2 weeks.                                                                                                                                                                                 |
@@ -14,5 +14,5 @@
 | Adverse Effects    | Common: Diarrhea (2.2%), Infectious disease (25.4%), Mycosis (1.8-2.4%), Arthralgia (4.7%), Headache (4.3%), Pain in throat (2.1%), Fatigue (2.6%) Serious: Neutropenia, Grade 3 or greater (0.5%), Cryptococcal meningitis, Suicidal thoughts, Suicide |
 | Pregnancy          | No (Limited) Human Data – Animal Data Suggest Low Risk                                                                                                                                                                                                  |
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                                                                                                                                                                           |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/brodalumab-drug-information)                                                                                                                                                                               |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/brodalumab-drug-information){:target="_blank"}                                                                                                                                                             |
 

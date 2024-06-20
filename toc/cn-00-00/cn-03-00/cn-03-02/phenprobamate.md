@@ -2,7 +2,7 @@
 
 ## Mocolax 400mg
 
-| TAH Drug Code      | [OMCL](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OMCL)                                                                 |
+| TAH Drug Code      | [OMCL](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OMCL){:target="_blank"}                                               |
 |:-------------------|:-------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Relief of muscle tension such as muscle spasm and muscle stiffness.                                                                  |
 | Dosing             | 400mg BID-TID.                                                                                                                       |
@@ -12,5 +12,5 @@
 | Adverse Effects    | Drowsiness, dizziness, headache, loss of strength, fatigue, nausea, vomiting, loss of appetite, diarrhea, constipation, stomachache. |
 | Pregnancy          | Unknown                                                                                                                              |
 | Lactation          | Unknown                                                                                                                              |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/phenprobamate-drug-information)                                                         |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/phenprobamate-drug-information){:target="_blank"}                                       |
 

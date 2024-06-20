@@ -2,7 +2,7 @@
 
 ## Calmsit cream 15gm
 
-| TAH Drug Code      | [ECASI](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ECASI)                                                                                                                                                                          |
+| TAH Drug Code      | [ECASI](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ECASI){:target="_blank"}                                                                                                                                                        |
 |:-------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | External hemorrhoids, hemorrhoid bleeding, hemorrhoid pain, anal fissure, perianal inflammation, anal itching, anal eczema, anal ulcer                                                                                                          |
 | Dosing             | 2-3 times daily. Calmsit 1 gm: Betamethasone 0.42mg + Lidocaine 25mg + Phenylephrine 1mg.                                                                                                                                                       |
@@ -12,5 +12,5 @@
 | Adverse Effects    | Common Dermatologic: Burning sensation, Itching, Stinging of skin Serious Endocrine metabolic: Cushing's syndrome, Hyperglycemia, Hypothalamic-pituitary-adrenal axis dysfunction, Suppression. Immunologic: Anaphylaxis Dermatologic: Necrosis |
 | Pregnancy          | Human (and Animal) Data Suggest Risk                                                                                                                                                                                                            |
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                                                                                                                                                                   |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/betamethasone-and-lidocaine-and-phenylephrine-drug-information)                                                                                                                                    |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/betamethasone-and-lidocaine-and-phenylephrine-drug-information){:target="_blank"}                                                                                                                  |
 

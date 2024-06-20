@@ -2,7 +2,7 @@
 
 ## 0.1% FOXONE 10mL ophthalmic suspension
 
-| TAH Drug Code      | [EFOX1](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EFOX1)                                                                                                                                                                       |
+| TAH Drug Code      | [EFOX1](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EFOX1){:target="_blank"}                                                                                                                                                     |
 |:-------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Acute & chronic iritis, iridocyclitis, scleritis, episcleritis, conjunctivitis, keratitis, resistant ocular allergy & inflammation following surgery                                                                                         |
 | Dosing             | Instill 1 to 2 drops into conjunctival sac 2 to 4 times daily; may instill 2 drops every 2 hours or 1 drop every 4 hours during initial 24 to 48 hours. Shake well before use.                                                               |
@@ -12,11 +12,11 @@
 | Adverse Effects    | Glaucoma with optic nerve damage, visual acuity or field defects, raised intraocular pressure, secondary infection (persistent corneal ulceration, possibly fungal invasion), perforation of globe, posterior subcapsular cataract formation |
 | Pregnancy          | No (Limited) Human Data – Probably Compatible                                                                                                                                                                                                |
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                                                                                                                                                                |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/fluorometholone-drug-information)                                                                                                                                                               |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/fluorometholone-drug-information){:target="_blank"}                                                                                                                                             |
 
 ## Foxone 0.02% 10mL ophthalmic suspension
 
-| TAH Drug Code      | [EFOX2](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EFOX2)                                                                                                                                                                       |
+| TAH Drug Code      | [EFOX2](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EFOX2){:target="_blank"}                                                                                                                                                     |
 |:-------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Acute & chronic iritis, iridocyclitis, scleritis, episcleritis, conjunctivitis, keratitis, resistant ocular allergy & inflammation following surgery                                                                                         |
 | Dosing             | Instill 1 drop into conjunctival sac 2 to 4 times daily; may instill 1 drop every 4 hours during initial 24 to 48 hours. Shake well before use.                                                                                              |
@@ -26,5 +26,5 @@
 | Adverse Effects    | Glaucoma with optic nerve damage, visual acuity or field defects, raised intraocular pressure, secondary infection (persistent corneal ulceration, possibly fungal invasion), perforation of globe, posterior subcapsular cataract formation |
 | Pregnancy          | No (Limited) Human Data – Probably Compatible                                                                                                                                                                                                |
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                                                                                                                                                                |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/fluorometholone-drug-information)                                                                                                                                                               |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/fluorometholone-drug-information){:target="_blank"}                                                                                                                                             |
 

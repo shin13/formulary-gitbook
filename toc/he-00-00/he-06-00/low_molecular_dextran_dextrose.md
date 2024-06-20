@@ -4,7 +4,7 @@
 
 ##### 臨採
 
-| TAH Drug Code      | [IDEX](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IDEX)                                                               |
+| TAH Drug Code      | [IDEX](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IDEX){:target="_blank"}                                             |
 |:-------------------|:-----------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | As plasma expander in haemorrhage.                                                                                                 |
 | Dosing             | Normally IV 500mL one time. IV 20 mL/kg on the first 24 hours. For treatment or prevention of thrombosis, 10mL/kg daily in 5 days. |
@@ -14,5 +14,5 @@
 | Adverse Effects    | GI disturbances; headache, dizziness; allergic reactions; raised liver enzyme values; alopecia; bone marrow suppression.           |
 | Pregnancy          | Unknown                                                                                                                            |
 | Lactation          | Unknown                                                                                                                            |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/low-molecular-dextran-dextrose-drug-information)                                      |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/low-molecular-dextran-dextrose-drug-information){:target="_blank"}                    |
 
