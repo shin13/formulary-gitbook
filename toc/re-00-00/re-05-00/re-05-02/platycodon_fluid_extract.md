@@ -2,7 +2,7 @@
 
 ## Cough mixture 120mL
 
-| TAH Drug Code      | [LCOFS](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=LCOFS                   |
+| TAH Drug Code      | [LCOFS](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=LCOFS)                  |
 |:-------------------|:----------------------------------------------------------------------------------------|
 | Indications        | Antitussive, expectorant.                                                               |
 | Dosing             | May be taken with or without food 5-15 mL TID.                                          |

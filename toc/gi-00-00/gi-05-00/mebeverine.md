@@ -2,7 +2,7 @@
 
 ## Padalin 100mg
 
-| TAH Drug Code      | [OPAD](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OPAD                                                                                   |
+| TAH Drug Code      | [OPAD](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OPAD)                                                                                  |
 |:-------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Gastrointestinal tract spasm, enteritis, gastritis, irritable bowel syndrome.                                                                         |
 | Dosing             | Adult: 200 mg bid, before meals.                                                                                                                      |

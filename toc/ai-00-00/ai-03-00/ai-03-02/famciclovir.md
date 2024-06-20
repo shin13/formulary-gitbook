@@ -2,7 +2,7 @@
 
 ## Famvir 250mg
 
-| TAH Drug Code      | [OFAM](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OFAM                                                                                                                                                        |
+| TAH Drug Code      | [OFAM](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OFAM)                                                                                                                                                       |
 |:-------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Herpes zoster infections                                                                                                                                                                                                   |
 | Dosing             | Adult: Herpes zoster (shingles): 250 mg orally TID for 7 days. Primary genital Herpes: 250 mg orally TID for 5 days. Recurrent genital Herpes: 125 mg orally BID for 5 days.                                               |

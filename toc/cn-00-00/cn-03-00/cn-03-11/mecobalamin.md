@@ -2,7 +2,7 @@
 
 ## Methycobal inj 500mcg/1mL
 
-| TAH Drug Code      | [IMETY](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IMETY                                                                                                                                                                                                                      |
+| TAH Drug Code      | [IMETY](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IMETY)                                                                                                                                                                                                                     |
 |:-------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Megaloblastic anemia due to vit B12 deficiency & peripheral neuropathies.                                                                                                                                                                                                                  |
 | Dosing             | Peripheral neuropathies: 500 mcg IM/IV 3 times/week.Megaloblastic anemia due to vit B12 deficiency: 500 mcg IM/IV 3 times/week for 2 months, then 500 mcg every 1-3 months as maintenance therapy.                                                                                         |
@@ -16,7 +16,7 @@
 
 ## Methycobal 250mcg
 
-| TAH Drug Code      | [OMETY](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OMETY                                                               |
+| TAH Drug Code      | [OMETY](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OMETY)                                                              |
 |:-------------------|:------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Megaloblastic anemia due to vit B12 deficiency & peripheral neuropathies.                                                           |
 | Dosing             | Adult: 1500 mcg daily in 3 divided doses. May adjust dosage according to patient's age and synptoms.                                |
@@ -30,7 +30,7 @@
 
 ## METHYCOBAL 500mcg
 
-| TAH Drug Code      | [OMTCB](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OMTCB                                                                                                                                                   |
+| TAH Drug Code      | [OMTCB](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OMTCB)                                                                                                                                                  |
 |:-------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Peripheral neuropathies, megaloblastic anaemia caused by vit B12 deficiency.                                                                                                                                            |
 | Dosing             | Adult: 500mcg TID PO. May adjust dosage according to patient's age and synptoms.                                                                                                                                        |

@@ -2,7 +2,7 @@
 
 ## Mydrin-P 10mL
 
-| TAH Drug Code      | [EMYDP](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EMYDP                                                                                                                                                                                                                                                     |
+| TAH Drug Code      | [EMYDP](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EMYDP)                                                                                                                                                                                                                                                    |
 |:-------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Mydriasis & cycloplegia for diagnosis                                                                                                                                                                                                                                                                                     |
 | Dosing             | For pupil dilation, usually 1-2 drops per time, or 1 drop each time at an interval of 3 to 5 minutes and 2 attempts in total. For cycloplegia, usually 1 drop each time at an interval of 3 to 5 minutes and 2 to 3 attempts in total. The dosage may be increased or decreased as appropriate depending on the symptoms. |

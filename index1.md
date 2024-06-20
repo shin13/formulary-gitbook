@@ -89,8 +89,7 @@
 * Amino Acids
   * Aminosteril infant 10% 100mL
   * Amiparen inj 10% 200mL
-* Amino Acids (Essential & Nonessential )
-  * Nephrosteril inj 250mL, 7%
+  * Nephrosteril 7% inj 250mL
 * Amino Acids + Ketoanalogues
   * Ketosteril
 * Aminophylline

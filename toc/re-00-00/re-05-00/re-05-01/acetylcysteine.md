@@ -2,7 +2,7 @@
 
 ## Actein 100mg/2.5gm
 
-| TAH Drug Code      | [OACT40](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OACT40                                                                                                                                                                                                                                                         |
+| TAH Drug Code      | [OACT40](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OACT40)                                                                                                                                                                                                                                                        |
 |:-------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Acute & chronic respiratory tract infections with abundant mucous secretions. All forms of bronchitis, emphysema & bronchopulmonary complications with mucostasis; bronchial catarrh associated with pulmonary tubercular forms.                                                                                                |
 | Dosing             | Adult and 12 years older Children: 200 mg TID. 6-12 years old Children:100 mg TID. 3-6 years old Children: 50mg TID.                                                                                                                                                                                                            |
@@ -16,7 +16,7 @@
 
 ## Fluimucil granules 600mg/3gm
 
-| TAH Drug Code      | [OFLU6](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OFLU6                                                                                                                                                                                                                                                           |
+| TAH Drug Code      | [OFLU6](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OFLU6)                                                                                                                                                                                                                                                          |
 |:-------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | A mucolytic agent that reduces the viscosity of respiratory mucous secretions and serves as an antidote for intentional or occasional ACETAMINOPHEN poisoning.                                                                                                                                                                  |
 | Dosing             | Aged six and above: Take 1 packet of Fluimucil orally, 1-2 times/day (preferably in the evening). Place the granules from one packet into a glass container, dissolve them with a small amount of water, mix well, and if needed, use a spoon. This will result in a palatable solution that can be consumed directly.          |

@@ -2,7 +2,7 @@
 
 ## Witgen 10mg
 
-| TAH Drug Code      | [OWIT1](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OWIT1                                                                                                                                                                                                                                     |
+| TAH Drug Code      | [OWIT1](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OWIT1)                                                                                                                                                                                                                                    |
 |:-------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Alzheimer's disease (Moderate to Severe)                                                                                                                                                                                                                                                                  |
 | Dosing             | Initial, 5 mg orally once daily; titrate in 5-mg increments at intervals of at least 1 week to 10 mg/day (5 mg twice daily), 15 mg/day (5 mg and 10 mg in separate doses), and 20 mg/day (10 mg twice daily); target daily dose is 20 mg/day                                                              |

@@ -2,7 +2,7 @@
 
 ## Cleanfleck cream 5gm
 
-| TAH Drug Code      | [ECLF](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ECLF                                                                                                                                                                                                                        |
+| TAH Drug Code      | [ECLF](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ECLF)                                                                                                                                                                                                                       |
 |:-------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | For short-term treatment of moderate to severe melasma of the face.                                                                                                                                                                                                                        |
 | Dosing             | Each gram contains Fluocinolone acetonide 0.1mg(0.01%) + Hydroquinone 40mg(4%) + Tretinoin 0.5mg(0.05%). For short-term treatment of moderate to severe melasma of the face, apply a thin film of the cream topically to affected areas once nightly at least 30 minutes prior to bedtime. |

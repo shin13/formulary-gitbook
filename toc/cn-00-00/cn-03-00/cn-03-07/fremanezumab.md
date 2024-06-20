@@ -4,7 +4,7 @@
 
 ##### 臨採
 
-| TAH Drug Code      | [IAJO](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IAJO                                                                      |
+| TAH Drug Code      | [IAJO](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IAJO)                                                                     |
 |:-------------------|:-----------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | For the preventive treatment of migraine in adults.                                                                                      |
 | Dosing             | 225 mg monthly, or 675 mg every 3 months (quarterly).                                                                                    |

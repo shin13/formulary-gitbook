@@ -2,7 +2,7 @@
 
 ## Goutil 50mg
 
-| TAH Drug Code      | [OGOU](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OGOU          |
+| TAH Drug Code      | [OGOU](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OGOU)         |
 |:-------------------|:-----------------------------------------------------------------------------|
 | Indications        | Hyperuricemia.                                                               |
 | Dosing             | 50mg QD to BID.                                                              |

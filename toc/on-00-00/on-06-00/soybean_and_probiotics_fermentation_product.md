@@ -2,7 +2,7 @@
 
 ## Chemo young 4mL/bottle (14bottles/box)
 
-| TAH Drug Code      | [OCHEY](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OCHEY                                      |
+| TAH Drug Code      | [OCHEY](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OCHEY)                                     |
 |:-------------------|:-----------------------------------------------------------------------------------------------------------|
 | Indications        | Ameliorating fatique and appetite loss associated with cancer chemotheraphy.                               |
 | Dosing             | 4mL twice daily on an empty stomach, after diluting in 100mL of warm water.                                |

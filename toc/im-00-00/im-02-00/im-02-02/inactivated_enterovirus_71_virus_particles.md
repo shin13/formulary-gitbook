@@ -2,7 +2,7 @@
 
 ## EnVAX-A71 inj 0.5mL/dose (國光)
 
-| TAH Drug Code      | [IEV71](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IEV71                                                                                                                                                                                                                   |
+| TAH Drug Code      | [IEV71](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IEV71)                                                                                                                                                                                                                  |
 |:-------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Primary immunization for infants and toddlers aged 2 months to less than 6 years to prevent diseases caused by enterovirus type 71 infection.                                                                                                                                           |
 | Dosing             | Infants aged 2 months to <6 years: administered via intramuscular injection in the arm or outer thigh. Each dose is 0.5 mL, given in two doses with a 28-day interval. Shake well and visually inspect for abnormalities before use. Need for additional booster doses not established. |

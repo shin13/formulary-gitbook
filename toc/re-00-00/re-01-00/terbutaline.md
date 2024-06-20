@@ -2,7 +2,7 @@
 
 ## Butanyl solution 5mg/2mL
 
-| TAH Drug Code      | [EBUIS](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EBUIS                                                                                                                                                      |
+| TAH Drug Code      | [EBUIS](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EBUIS)                                                                                                                                                     |
 |:-------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Treatment and Prophylaxis of Asthma, Bronchospasm, Reversible, associated with bronchitis and emphysema.                                                                                                                   |
 | Dosing             | Single dose 5mg QID. For use in a nebulizer or respirator. If a single dose is not used up, it can be stored in the storage tank of the nebulizer within 24 hours.                                                         |

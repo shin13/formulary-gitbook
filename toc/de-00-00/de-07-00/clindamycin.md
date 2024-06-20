@@ -2,7 +2,7 @@
 
 ## Royalsense acne gel 1% 20gm
 
-| TAH Drug Code      | [EROY](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EROY                                                                         |
+| TAH Drug Code      | [EROY](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EROY)                                                                        |
 |:-------------------|:--------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Acne vulgaris.                                                                                                                              |
 | Dosing             | Apply twice daily to affected area.                                                                                                         |

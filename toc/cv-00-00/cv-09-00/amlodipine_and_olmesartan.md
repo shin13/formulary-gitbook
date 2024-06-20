@@ -2,7 +2,7 @@
 
 ## SEVIKAR 5/40mg
 
-| TAH Drug Code      | [OSEV3](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OSEV3                                                                                                                                                                                                  |
+| TAH Drug Code      | [OSEV3](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OSEV3)                                                                                                                                                                                                 |
 |:-------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Management of hypertension, not recommended for initial therapy.                                                                                                                                                                                                       |
 | Dosing             | Initial: 5/20 mg q24h. After 2 weeks of treatment, the dose can be increased to 10/40 mg q24h as needed (Max: 10/40mg). If blood pressure control is still not ideal, alternative treatments can be considered, such as increasing the dose of one or both components. |

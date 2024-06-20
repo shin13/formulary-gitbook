@@ -2,7 +2,7 @@
 
 ## Gentamicin eye ointment 0.3%, 5gm
 
-| TAH Drug Code      | [EGEN3](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EGEN3             |
+| TAH Drug Code      | [EGEN3](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EGEN3)            |
 |:-------------------|:----------------------------------------------------------------------------------|
 | Indications        | Treatment of ocular infections due to susceptible organisms.                      |
 | Dosing             | Apply a small amount of ointment to the affected eye(s) two or three times a day. |
@@ -16,7 +16,7 @@
 
 ## Gentamicin eye drops 5mL
 
-| TAH Drug Code      | [EGENT](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EGENT                  |
+| TAH Drug Code      | [EGENT](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EGENT)                 |
 |:-------------------|:---------------------------------------------------------------------------------------|
 | Indications        | Blepharitis, conjunctivitis, keratitis, iridocyclitis, meibomianitis & dacryocystitis. |
 | Dosing             | Instill 2 drops to the affected eye(s) TID-QID.                                        |

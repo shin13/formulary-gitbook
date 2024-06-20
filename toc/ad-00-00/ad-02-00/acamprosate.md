@@ -2,7 +2,7 @@
 
 ## Alglutol 333mg delayed-release
 
-| TAH Drug Code      | [OAGT](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OAGT                                                                                                                                                                                                   |
+| TAH Drug Code      | [OAGT](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OAGT)                                                                                                                                                                                                  |
 |:-------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Alcohol dependence, Maintenance of abstinence.                                                                                                                                                                                                                        |
 | Dosing             | Alcoholism, maintenance of abstinence: 666 mg orally 3 times daily.                                                                                                                                                                                                   |

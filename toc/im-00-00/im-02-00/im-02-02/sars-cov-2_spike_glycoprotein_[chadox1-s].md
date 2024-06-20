@@ -2,7 +2,7 @@
 
 ## COVID-19 Vaccine AstraZeneca 0.5mL/dose (5mL/vial)
 
-| TAH Drug Code      | [ICOVAZ](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ICOVAZ                                                                                                                                         |
+| TAH Drug Code      | [ICOVAZ](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ICOVAZ)                                                                                                                                        |
 |:-------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | AstraZeneca COVID-19 Vaccine is indicated for active immunization of individuals 18 years of age and older for the prevention of coronavirus disease 2019 (COVID-19).                                           |
 | Dosing             | IM, 0.5 mL, > or = 18 years 2 doses administered 4 to 12 weeks apart. (Taiwan CDC suggests 2 doses administered 8 to 12 weeks apart.)                                                                           |

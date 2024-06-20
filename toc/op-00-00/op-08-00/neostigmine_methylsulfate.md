@@ -2,7 +2,7 @@
 
 ## ONSD 0.01% 10mL
 
-| TAH Drug Code      | [EONMD](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EONMD                    |
+| TAH Drug Code      | [EONMD](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EONMD)                   |
 |:-------------------|:-----------------------------------------------------------------------------------------|
 | Indications        | Relief of fatigue of ocular muscle.                                                      |
 | Dosing             | Instill 2 drops TID .The dosage may be increased or decreased moderately.                |

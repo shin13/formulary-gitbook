@@ -2,7 +2,7 @@
 
 ## Calmsit cream 15gm
 
-| TAH Drug Code      | [ECASI](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ECASI                                                                                                                                                                           |
+| TAH Drug Code      | [ECASI](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ECASI)                                                                                                                                                                          |
 |:-------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | External hemorrhoids, hemorrhoid bleeding, hemorrhoid pain, anal fissure, perianal inflammation, anal itching, anal eczema, anal ulcer                                                                                                          |
 | Dosing             | 2-3 times daily. Calmsit 1 gm: Betamethasone 0.42mg + Lidocaine 25mg + Phenylephrine 1mg.                                                                                                                                                       |

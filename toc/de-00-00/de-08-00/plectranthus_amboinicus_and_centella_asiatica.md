@@ -4,7 +4,7 @@
 
 ##### 臨採
 
-| TAH Drug Code      | [EFPX](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EFPX                                                                                                                                                                                                                                      |
+| TAH Drug Code      | [EFPX](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EFPX)                                                                                                                                                                                                                                     |
 |:-------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Diabetic foot ulcer.                                                                                                                                                                                                                                                                                     |
 | Dosing             | Apply to the lesion twice a day by fully covering the ulcer. Cream 1.25% contains extracts of Plectranthus amboinicus(PA-F4), 0.25% + Centella asiatica(S1), 1%.                                                                                                                                         |

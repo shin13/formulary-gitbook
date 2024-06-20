@@ -2,7 +2,7 @@
 
 ## Patear eye lotion 10mL
 
-| TAH Drug Code      | [EPAT](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EPAT                        |
+| TAH Drug Code      | [EPAT](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EPAT)                       |
 |:-------------------|:-------------------------------------------------------------------------------------------|
 | Indications        | Dry eyes, eye wash solution.                                                               |
 | Dosing             | Usually 2-3 drops at a time, apply 5-6 times a day.                                        |

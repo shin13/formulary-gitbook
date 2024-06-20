@@ -2,7 +2,7 @@
 
 ## Suprane 240mL
 
-| TAH Drug Code      | [ESUP](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ESUP                                                                                                                                                                                 |
+| TAH Drug Code      | [ESUP](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ESUP)                                                                                                                                                                                |
 |:-------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Inhalation agent for induction & maintenance of general anesth.                                                                                                                                                                                     |
 | Dosing             | Induction: Adult Initially 3%, increased by 0.5-1% every 2-3 breaths. Inspired concentration of 4-11% produces surgical anesthesia in 2-4 minutes. Maintenance: Adult whether mix nitrous oxide or not, 2.5-8.5% Suprane. Children 5.2-10% Suprane. |

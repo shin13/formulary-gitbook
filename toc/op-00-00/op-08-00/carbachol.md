@@ -4,7 +4,7 @@
 
 ##### 臨採
 
-| TAH Drug Code      | [IMIO](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IMIO                                                                                                                                                                                    |
+| TAH Drug Code      | [IMIO](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IMIO)                                                                                                                                                                                   |
 |:-------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Intraocular use for miosis during surgery.                                                                                                                                                                                                             |
 | Dosing             | Ophthalmic surgery, miosis: Intraocular: 0.5 mL instilled into the anterior chamber before or after securing sutures.                                                                                                                                  |

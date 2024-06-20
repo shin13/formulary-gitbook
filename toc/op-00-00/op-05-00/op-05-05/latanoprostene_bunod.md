@@ -2,7 +2,7 @@
 
 ## Vyzulta 0.024%, 5mL ophthalmic solution
 
-| TAH Drug Code      | [EVYZ](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EVYZ                                                                                                                                                                                             |
+| TAH Drug Code      | [EVYZ](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EVYZ)                                                                                                                                                                                            |
 |:-------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | The reduction of intraocular pressure (IOP) in patients with open-angle glaucoma or ocular hypertension.                                                                                                                                                        |
 | Dosing             | 1 drop in the conjunctival sac of the affected eye(s) once daily in the evening. Do not administer more than once daily since it has been shown that more frequent administration of prostaglandin analogs may lessen the intraocular pressure lowering effect. |

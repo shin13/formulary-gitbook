@@ -2,7 +2,7 @@
 
 ## Cypromin solution 0.4mg/mL, 60mL
 
-| TAH Drug Code      | [LCYP](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=LCYP                                                                                                                                                                                                                                                                                                                                                                                                          |
+| TAH Drug Code      | [LCYP](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=LCYP)                                                                                                                                                                                                                                                                                                                                                                                                         |
 |:-------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Symptomatic relief of allergic conditions, eg urticaria, angioedema, rhinitis, conjunctivitis, pruritic skin disorders. Vascular headaches, migraine.                                                                                                                                                                                                                                                                                                                        |
 | Dosing             | Allergic conditions & pruritus Adult Initial: 10~50mL/day. Maintenance: 30-40 mL/day in 3 divided doses. Maximum: 80 mL/day. Children: 7-14 years 10 mL BID-TID (Maximum: 40 mL/day), 2-6 years 5 mL every 8 - 12 hours. (Maximum: 30 mL/day). Vascular headache & migraine 4-8 mg Q4-6H.                                                                                                                                                                                    |
@@ -16,7 +16,7 @@
 
 ## Pilian 4mg
 
-| TAH Drug Code      | [OPIL](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OPIL                                                               |
+| TAH Drug Code      | [OPIL](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OPIL)                                                              |
 |:-------------------|:----------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Allergic rhinitis, vasomotor rhinitis, urticaria, allergic skin & blood disorders. Pruritus due to chicken pox.                   |
 | Dosing             | Adult: 1 TAB TID-QID. Children: 7-14years 1/2 TAB, 2-6 years 1/4 TAB TID-QID.                                                     |

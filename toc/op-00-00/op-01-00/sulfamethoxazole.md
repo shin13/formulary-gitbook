@@ -2,7 +2,7 @@
 
 ## Kingmin 4%, 10mL opthalmic solution
 
-| TAH Drug Code      | [EKING](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EKING           |
+| TAH Drug Code      | [EKING](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EKING)          |
 |:-------------------|:--------------------------------------------------------------------------------|
 | Indications        | Trachoma or inclusion conjunctivitis.                                           |
 | Dosing             | Instill a few drops at a time, 3 to 4 times daily.                              |

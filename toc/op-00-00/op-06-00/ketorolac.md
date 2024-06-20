@@ -2,7 +2,7 @@
 
 ## Kelac 0.5%, 5mL ophthalmic solution
 
-| TAH Drug Code      | [EKEL](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EKEL                                                                                                                                                                                                                           |
+| TAH Drug Code      | [EKEL](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EKEL)                                                                                                                                                                                                                          |
 |:-------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Temporary relief of ocular itching due to seasonal allergic conjunctivitis. Treatment of post-operational inflammation in patients who have undergone cataract extraction.                                                                                                                    |
 | Dosing             | Relief of ocular itching due to seasonal allergic conjunctivitis: Instill 1 drop QID. Treatment of inflammation in patients who have undergone cataract extraction: Instill 1 drop QID (above 24 hrs post-operation), and use constantly until 2 weeks after surgery.                         |

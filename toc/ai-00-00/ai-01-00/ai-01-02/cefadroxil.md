@@ -2,7 +2,7 @@
 
 ## Cefadroxil 500mg
 
-| TAH Drug Code      | [OCEFA](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OCEFA                                                                                                                                                                   |
+| TAH Drug Code      | [OCEFA](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OCEFA)                                                                                                                                                                  |
 |:-------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Susceptible infections.                                                                                                                                                                                                                 |
 | Dosing             | (仿單) Adults: 1-2 g orally in 1-2 divided doses daily. (Uptodate) Children and adolescents: 15-30 mg/kg/dose every 12 hours (maximum daily dose: 2 g/day)                                                                              |

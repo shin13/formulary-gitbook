@@ -2,7 +2,7 @@
 
 ## Exelderm solution 10mL
 
-| TAH Drug Code      | [EEXE](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EEXE                |
+| TAH Drug Code      | [EEXE](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EEXE)               |
 |:-------------------|:-----------------------------------------------------------------------------------|
 | Indications        | Tinea pedis, tinea cruris, tinea corporis, candidiasis, tinea versicolor.          |
 | Dosing             | Apply BID-TID.                                                                     |

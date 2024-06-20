@@ -2,7 +2,7 @@
 
 ## Sinpharderm cream 40%, 10gm (去角質)
 
-| TAH Drug Code      | [ESPD](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ESPD                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| TAH Drug Code      | [ESPD](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ESPD)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 |:-------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Exfoliation                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 | Dosing             | Apply topically to affected area(s) 1-2 times daily. To soften extremely rough or dry cracked skin, calluses, and nail tissues (including ingrown nails) and relieve skin dryness: (1) Apply an appropriate amount of the cream to the affected area and cover it with gauze for protection. (2) Apply the medicine evenly to the treatment area until the cream is completely absorbed. If necessary, cover with a bandage or gauze and fix it with tape. For the nail area, it is recommended to use finger cots (plastic gloves can be used to cut suitable finger cots) for protection. (3) Wash off excess cream with soap and water, and avoid contact with eyes. |
@@ -16,15 +16,15 @@
 
 ## Urea cream 10%, 20gm
 
-| TAH Drug Code      | [EURE](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EURE   |
-|:-------------------|:----------------------------------------------------------------------|
-| Indications        | Ichthyosis and hyperkeratotic skin disorders.                         |
-| Dosing             | Apply QD-TID.                                                         |
-| Hepatic Impairment | Dose adjustment not necessary                                         |
-| Renal Impairment   | Dose adjustment not necessary                                         |
-| Contraindications  | Hypersensitivity to any component of the formulation.                 |
-| Adverse Effects    | Occasionally local stinging, pain, redness and itch.                  |
-| Pregnancy          | No (Limited) Human Data – No Relevant Animal Data                     |
-| Lactation          | No (Limited) Human Data - Probably Compatible                         |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/urea-drug-information)   |
+| TAH Drug Code      | [EURE](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EURE)   |
+|:-------------------|:-----------------------------------------------------------------------|
+| Indications        | Ichthyosis and hyperkeratotic skin disorders.                          |
+| Dosing             | Apply QD-TID.                                                          |
+| Hepatic Impairment | Dose adjustment not necessary                                          |
+| Renal Impairment   | Dose adjustment not necessary                                          |
+| Contraindications  | Hypersensitivity to any component of the formulation.                  |
+| Adverse Effects    | Occasionally local stinging, pain, redness and itch.                   |
+| Pregnancy          | No (Limited) Human Data – No Relevant Animal Data                      |
+| Lactation          | No (Limited) Human Data - Probably Compatible                          |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/urea-drug-information)    |
 

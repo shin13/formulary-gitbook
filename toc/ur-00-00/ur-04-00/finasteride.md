@@ -2,7 +2,7 @@
 
 ## Proscar 5mg
 
-| TAH Drug Code      | [OPRS](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OPRS                                                                                   |
+| TAH Drug Code      | [OPRS](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OPRS)                                                                                  |
 |:-------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Treatment & control of benign prostatic hyperplasia (BPH) to cause regression of enlarged prostate, improve urine flow & improve the symptoms of BPH. |
 | Dosing             | 5mg daily.                                                                                                                                            |

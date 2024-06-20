@@ -2,7 +2,7 @@
 
 ## 99.5% Alcohol inj 5mL
 
-| TAH Drug Code      | [IALC](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IALC                                                                                                                                                                                                                                                  |
+| TAH Drug Code      | [IALC](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IALC)                                                                                                                                                                                                                                                 |
 |:-------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Percutaneous ehtanol injection therapy for hepatocellular carcinoma.                                                                                                                                                                                                                                                 |
 | Dosing             | Anhydrous alcohol injection was performed under the guidance of ultrasound imaging.Tumor number less than or equal to 3 numbers, and tumor smaller than 3 cm in diameter: 1-10mL 99.5% Alcohol is injected directly to the liver tumors via percutaneous injection, once or twice a week. Maximum: 4-6 times a week. |

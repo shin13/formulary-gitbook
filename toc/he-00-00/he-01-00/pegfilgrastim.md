@@ -2,7 +2,7 @@
 
 ## Fulphila inj 6mg/0.6mL
 
-| TAH Drug Code      | [IFUL](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IFUL                                                                                                                                                                                                                                     |
+| TAH Drug Code      | [IFUL](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IFUL)                                                                                                                                                                                                                                    |
 |:-------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | To decrease the incidence of infection, as manifested by febrile neutropenia, in patients with non-myeloid malignancies receiving myelosuppressive anti-cancer drugs associated with a clinically significant incidence of febrile neutropenia.                                                         |
 | Dosing             | Patients with cancer receiving myelosuppressive chemotherapy: 6 mg subQ once per chemotherapy cycle. Do not administer between 14 days before and 24 hours after administration of cytotoxic chemotherapy.                                                                                              |

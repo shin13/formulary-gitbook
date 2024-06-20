@@ -2,7 +2,7 @@
 
 ## Norvasc 5mg
 
-| TAH Drug Code      | [ONORV](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ONORV                                                                                                                                                                                                        |
+| TAH Drug Code      | [ONORV](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ONORV)                                                                                                                                                                                                       |
 |:-------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Hypertension & angina pectoris.                                                                                                                                                                                                                                              |
 | Dosing             | Initially 5 mg once daily which may be increased to a maximum dose of 10 mg depending on the patient's response.                                                                                                                                                             |

@@ -2,7 +2,7 @@
 
 ## Menphencala lotion 100mL
 
-| TAH Drug Code      | [EMENL](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EMENL                  |
+| TAH Drug Code      | [EMENL](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EMENL)                 |
 |:-------------------|:---------------------------------------------------------------------------------------|
 | Indications        | Symptomatic relief of skin irritation & nappy rash.                                    |
 | Dosing             | Skin protectant: Topical: Apply to affected area as often as needed.                   |

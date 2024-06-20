@@ -2,7 +2,7 @@
 
 ## Water for injection 20mL
 
-| TAH Drug Code      | [IWAT](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IWAT                                                       |
+| TAH Drug Code      | [IWAT](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IWAT)                                                      |
 |:-------------------|:--------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Solvent for parenteral preparations.                                                                                      |
 | Dosing             | It is for use only as a sterile solvent or diluent vehicle for drugs or solutions suitable for parenteral administration. |
@@ -16,7 +16,7 @@
 
 ## Water for injection 500mL
 
-| TAH Drug Code      | [IWAT500](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IWAT500                                                 |
+| TAH Drug Code      | [IWAT500](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IWAT500)                                                |
 |:-------------------|:--------------------------------------------------------------------------------------------------------------------------|
 | Indications        | No Data                                                                                                                   |
 | Dosing             | It is for use only as a sterile solvent or diluent vehicle for drugs or solutions suitable for parenteral administration. |

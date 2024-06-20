@@ -2,7 +2,7 @@
 
 ## Sancoba 0.02%, 5mL ophthalmic solution
 
-| TAH Drug Code      | [ESAN](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ESAN           |
+| TAH Drug Code      | [ESAN](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ESAN)          |
 |:-------------------|:------------------------------------------------------------------------------|
 | Indications        | Relief of fatigue of ocular muscle.                                           |
 | Dosing             | Instill 1-2 drops TID-QID.                                                    |

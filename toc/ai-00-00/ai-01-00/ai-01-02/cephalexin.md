@@ -2,7 +2,7 @@
 
 ## Ulexin 25mg/mL, 60mL suspension
 
-| TAH Drug Code      | [LULE](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=LULE                                                                                                                                                                                                      |
+| TAH Drug Code      | [LULE](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=LULE)                                                                                                                                                                                                     |
 |:-------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Susceptible infections, Prophylaxis against recurrent UTI.                                                                                                                                                                                                               |
 | Dosing             | Adults: 0.25-1 g Q6H or 500 mg Q12H (maximum: 4 g/day). Children: 25-100 mg/kg/day divided Q6H.                                                                                                                                                                          |
@@ -16,7 +16,7 @@
 
 ## Cephalexin 250mg
 
-| TAH Drug Code      | [OCEPH](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OCEPH                                                                                                                                                                                                    |
+| TAH Drug Code      | [OCEPH](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OCEPH)                                                                                                                                                                                                   |
 |:-------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Infections caused by Staph, Strep, pneumococci & other susceptible bacteria.                                                                                                                                                                                             |
 | Dosing             | (仿單) Adults: 250 mg Q6H. Children: 25-50 mg/kg/day. (Uptodate+Ulexin仿單) Adults: 0.25-1 g Q6H or 500 mg Q12H (maximum: 4 g/day). Children: 25-100 mg/kg/day divided Q6H.                                                                                              |

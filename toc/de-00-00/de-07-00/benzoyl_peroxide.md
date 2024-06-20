@@ -2,7 +2,7 @@
 
 ## Aczo gel 50mg/gm, 10gm
 
-| TAH Drug Code      | [EACZ](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EACZ                                                          |
+| TAH Drug Code      | [EACZ](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EACZ)                                                         |
 |:-------------------|:-----------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Treatment of acne vulgaris.                                                                                                  |
 | Dosing             | Acne vulgaris Adult, children >= 12 years old, initialy 1 time/day. Increased to 2-3 time/day when needed.                   |

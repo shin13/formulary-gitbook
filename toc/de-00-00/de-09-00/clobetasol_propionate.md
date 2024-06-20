@@ -2,7 +2,7 @@
 
 ## Clobex Shampoo 125mL, 0.05%
 
-| TAH Drug Code      | [ECLOB1](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ECLOB1                                                                                                                                                                                                                                                         |
+| TAH Drug Code      | [ECLOB1](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ECLOB1)                                                                                                                                                                                                                                                        |
 |:-------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Topical treatment of moderate scalp psoriasis in adults.                                                                                                                                                                                                                                                                        |
 | Dosing             | Scalp psoriasis (Moderate to Severe) (Shampoo) Apply topically onto dry scalp once daily in a thin film to affected areas only; leave in place 15 minutes before lathering and rinsing; maximum 50 mL/week for 2 consecutive weeks                                                                                              |

@@ -2,7 +2,7 @@
 
 ## Rivotril 0.5mg
 
-| TAH Drug Code      | [ORIV5](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ORIV5                                                                                                                                                                                                                                    |
+| TAH Drug Code      | [ORIV5](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ORIV5)                                                                                                                                                                                                                                   |
 |:-------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Majority of clinical forms of epileptic disease in infants & children especially typical or atypical petit mal epilepsy, tonic-clonic seizures, status epilepticus. Adult epilepsies & in focal seizures.                                                                                                |
 | Dosing             | Adult 4-8 mg. Children >6 years 3-6 mg, Small children 1.5-3 mg. Infant 0.5-1 mg. Divided into 3 or 4 doses daily.                                                                                                                                                                                       |

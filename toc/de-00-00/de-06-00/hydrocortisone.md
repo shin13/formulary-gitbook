@@ -2,7 +2,7 @@
 
 ## Hydrocortisone cream 1%, 10gm
 
-| TAH Drug Code      | [EHYD](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EHYD                                                                                                                                                                                                                                                          |
+| TAH Drug Code      | [EHYD](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EHYD)                                                                                                                                                                                                                                                         |
 |:-------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Relief of inflammation of corticosteroid-responsive dermatoses (low and medium potency topical corticosteroid); adjunctive treatment of ulcerative colitis; mild-to-moderate atopic dermatitis; inflamed hemorrhoids, postirradiation (factitial) proctitis, and other inflammatory conditions of anorectum and pruritus ani |
 | Dosing             | Apply thin film to affected area 2-4 times/day                                                                                                                                                                                                                                                                               |

@@ -4,7 +4,7 @@
 
 ##### 臨採
 
-| TAH Drug Code      | [OFUC](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OFUC                                                                                                                                                                       |
+| TAH Drug Code      | [OFUC](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OFUC)                                                                                                                                                                      |
 |:-------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Treatment of infections caused by susceptible organisms especially Staph eg osteomyelitis, septicaemia, endocarditis, pneumonia, cutaneous infections, surgical & traumatic wound infections. Also other Staph infections including MRSA. |
 | Dosing             | Adult: 2 TAB TID Skin & soft tissue infection 1-2 TAB BID                                                                                                                                                                                 |

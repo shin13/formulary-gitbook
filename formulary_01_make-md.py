@@ -290,7 +290,7 @@ for cat2 in cat2_li:
                 df_tb = df_name.loc[code,
                                     'Indications':'Lactation'].reset_index()
                 col_name = '[' + code + \
-                    '](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=' + code
+                    '](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=' + code + ')'
                 df_tb.columns = ['TAH Drug Code', col_name]
 
                 # 20240618 新增UpToDate查詢連結

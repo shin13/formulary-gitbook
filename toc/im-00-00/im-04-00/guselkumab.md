@@ -4,7 +4,7 @@
 
 ##### 臨採
 
-| TAH Drug Code      | [ITREM](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ITREM                                                                                                                               |
+| TAH Drug Code      | [ITREM](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ITREM)                                                                                                                              |
 |:-------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Plaque psoriasis. Psoriatic arthritis                                                                                                                                                               |
 | Dosing             | SC, plaque psoriasis, palmoplantar pustulosis, psoriasis arthritis 100 mg at week 0 and week 4, followed by 100 mg every 8 weeks.                                                                   |

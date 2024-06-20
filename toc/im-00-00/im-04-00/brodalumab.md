@@ -4,7 +4,7 @@
 
 ##### 臨採
 
-| TAH Drug Code      | [ILUMI](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ILUMI                                                                                                                                                                                   |
+| TAH Drug Code      | [ILUMI](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ILUMI)                                                                                                                                                                                  |
 |:-------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Moderate to severe plaque psoriasis, pustular psoriasis.                                                                                                                                                                                                |
 | Dosing             | SC, 210 mg at weeks 0, 1, and 2, followed by 210 mg once every 2 weeks.                                                                                                                                                                                 |

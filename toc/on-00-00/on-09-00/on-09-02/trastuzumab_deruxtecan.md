@@ -4,7 +4,7 @@
 
 ##### 臨採
 
-| TAH Drug Code      | [IENH](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IENH                                                                                                                                                            |
+| TAH Drug Code      | [IENH](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IENH)                                                                                                                                                           |
 |:-------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Treatment of adult patients with unresectable or metastatic HER2-positive breast cancer who have received two or more prior anti-HER2-based regimens in the metastatic setting.                                                |
 | Dosing             | 5.4 mg/kg given as an intravenous infusion once every 3 weeks (21-day cycle) until disease progression or unacceptable toxicity.                                                                                               |

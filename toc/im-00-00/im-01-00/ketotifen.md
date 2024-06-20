@@ -2,7 +2,7 @@
 
 ## Athmin syrup 0.2mg/mL, 60mL
 
-| TAH Drug Code      | [LATH](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=LATH                                                                                                                                                                    |
+| TAH Drug Code      | [LATH](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=LATH)                                                                                                                                                                   |
 |:-------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Bronchial asthma, allergic bronchitis, prevention of asthma and hay fever symptoms, prevention and treatment of allergic rhinitis or allergic skin reactions.                                                                          |
 | Dosing             | Children 6 months to 3 years: 0.25 mL/kg BID. Children >3 years: 5 mL BID. Patients sensitive to sedation: Initial: half of the recommended dose once daily or in 2 divided doses for 5 days; and up to dose to target dose in 5 days. |

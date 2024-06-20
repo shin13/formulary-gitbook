@@ -2,7 +2,7 @@
 
 ## Free 4 valnet Influenza vaccine(>3y/o) 0.5mL/dose
 
-| TAH Drug Code      | [IFLUV3](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IFLUV3                                                                                                       |
+| TAH Drug Code      | [IFLUV3](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IFLUV3)                                                                                                      |
 |:-------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Active immunisation against influenza.                                                                                                                                        |
 | Dosing             | Adult & Children >= 36 months 0.5mL IM Chidren(>= 3years, < 9 years who have not been vaccinated previously, the second dose can be given at an interval of at least 4 weeks. |
@@ -16,7 +16,7 @@
 
 ## 4價自費流感 (VaxigripTetra)0.5mL/dose
 
-| TAH Drug Code      | [IVAXS](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IVAXS                                                                                                                                                           |
+| TAH Drug Code      | [IVAXS](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IVAXS)                                                                                                                                                          |
 |:-------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Active immunisation against influenza, Influenza Vaccine for children aged > or = 6 months and adult.                                                                                                                           |
 | Dosing             | IM, 0.5 mL, > or = 6 months (< 9 years who have not been vaccinated previously, the 2nd dose can be given after 4 weeks.)                                                                                                       |

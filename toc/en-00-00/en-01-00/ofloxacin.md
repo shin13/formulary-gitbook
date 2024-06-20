@@ -2,7 +2,7 @@
 
 ## Ofloxin otic solution 0.3%, 5mL
 
-| TAH Drug Code      | [EFLO](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EFLO                                                                                         |
+| TAH Drug Code      | [EFLO](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EFLO)                                                                                        |
 |:-------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Chronic suppurative otitis media, acute otitis media with or without tympanostomy tube, otitis externa.                                                     |
 | Dosing             | Otitis media, chronic suppurative (with perforated tympanic membranes): Otic: Instill 6-10 drops into affected ear(s) twice daily for 14 days               |

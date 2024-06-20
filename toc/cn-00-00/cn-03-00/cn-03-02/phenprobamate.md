@@ -2,7 +2,7 @@
 
 ## Mocolax 400mg
 
-| TAH Drug Code      | [OMCL](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OMCL                                                                  |
+| TAH Drug Code      | [OMCL](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OMCL)                                                                 |
 |:-------------------|:-------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Relief of muscle tension such as muscle spasm and muscle stiffness.                                                                  |
 | Dosing             | 400mg BID-TID.                                                                                                                       |

@@ -2,7 +2,7 @@
 
 ## Aldara cream 5%
 
-| TAH Drug Code      | [YALDA](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=YALDA                                                                                                              |
+| TAH Drug Code      | [YALDA](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=YALDA)                                                                                                             |
 |:-------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Topical treatment of external genital & perianal warts.                                                                                                                            |
 | Dosing             | Molluscum contagiosum infection, Condyloma acuminatum of the anogenital region Apply 3 times weekly before sleep. Leave on skin for 6-10 hr, then wash off with mild soap & water. |

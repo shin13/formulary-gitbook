@@ -2,7 +2,7 @@
 
 ## Zcough 100mg
 
-| TAH Drug Code      | [OZCO](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OZCO                                                             |
+| TAH Drug Code      | [OZCO](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OZCO)                                                            |
 |:-------------------|:--------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Symptomatic relief of nonproductive cough                                                                                       |
 | Dosing             | Adult 1-2 cap TID Maximum dose is 600 mg/day                                                                                    |

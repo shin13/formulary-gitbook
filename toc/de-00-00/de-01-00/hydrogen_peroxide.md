@@ -2,7 +2,7 @@
 
 ## H2O2 solution 3%
 
-| TAH Drug Code      | [EH2O2](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EH2O2                                                                                                                                                                                                                                                                |
+| TAH Drug Code      | [EH2O2](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EH2O2)                                                                                                                                                                                                                                                               |
 |:-------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Wound cleansing                                                                                                                                                                                                                                                                                                                      |
 | Dosing             | Mouth/throat Acute stomatitis As 1.5% solution: Use as mouthwash or gargle. Otic Earwax removal As 6% solution: Dilute and use as directed. Topical Wound cleansing As 6% solution or 1-1.5% cream: Use as directed.                                                                                                                 |

@@ -2,7 +2,7 @@
 
 ## Zanidip 10mg
 
-| TAH Drug Code      | [OZAN](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OZAN          |
+| TAH Drug Code      | [OZAN](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OZAN)         |
 |:-------------------|:-----------------------------------------------------------------------------|
 | Indications        | Treatment of essential hypertension.                                         |
 | Dosing             | HTN: initial 10mg QD, May increase to 20 mg.                                 |

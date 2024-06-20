@@ -2,7 +2,7 @@
 
 ## Dolcol 250mg
 
-| TAH Drug Code      | [ODOLC](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ODOLC                                                                                                                                                                                                                                           |
+| TAH Drug Code      | [ODOLC](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ODOLC)                                                                                                                                                                                                                                          |
 |:-------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | UTI, Bacillary dysentery, enteritis, otitis media and sinusitis                                                                                                                                                                                                                                                 |
 | Dosing             | Adult: 500-2000 mg/day, divided Q6-8H. For adults with pyelonephritis, pyelitis, cystitis, urethritis, and prostatitis: 2-8 tablets (500-2000mg) daily, divided into 3-4 doses. For adults with otitis media, sinusitis, enteritis, and bacterial dysentery: 6-8 tablets (1500-2000mg), divided into 3-4 doses. |

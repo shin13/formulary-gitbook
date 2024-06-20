@@ -2,7 +2,7 @@
 
 ## Ceretal S.C. 400mg
 
-| TAH Drug Code      | [OCER4](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OCER4         |
+| TAH Drug Code      | [OCER4](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OCER4)        |
 |:-------------------|:------------------------------------------------------------------------------|
 | Indications        | Peripheral circulatory disorders, chronic occlusive arterial disease.         |
 | Dosing             | 1 TAB TID with meal.                                                          |

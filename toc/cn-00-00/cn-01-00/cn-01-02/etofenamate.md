@@ -2,7 +2,7 @@
 
 ## Tonin gel 10%, 40gm
 
-| TAH Drug Code      | [ETON](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ETON                                                                                                                                                             |
+| TAH Drug Code      | [ETON](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ETON)                                                                                                                                                            |
 |:-------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Muscular rheumatism, periarthritis of the shoulder, lower back pain, sciatica, tenosynovitis, bursitis.                                                                                                                         |
 | Dosing             | Apply a suitable amount of the gel to the affected area 2-3 times daily. Repeat the application 2-3 times by applying a suitable amount of gel until it dries. Complete one application when the gel is naturally dry and cool. |

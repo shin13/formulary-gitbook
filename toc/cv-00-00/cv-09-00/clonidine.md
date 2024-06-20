@@ -2,7 +2,7 @@
 
 ## CataPRES 75mcg
 
-| TAH Drug Code      | [OCAT](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OCAT                                                                                                                                                                                                                        |
+| TAH Drug Code      | [OCAT](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OCAT)                                                                                                                                                                                                                       |
 |:-------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | All grades of hypertension except when due to pheochromocytoma.                                                                                                                                                                                                                            |
 | Dosing             | HTN: Mild to moderate HTN: initial 0.075mg -0.15mg BID, may up to 0.3mg/day severe HTN: initial 0.3mg TID (0.9mg/day)                                                                                                                                                                      |

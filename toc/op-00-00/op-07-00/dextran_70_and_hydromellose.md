@@ -2,7 +2,7 @@
 
 ## Tears Naturale 15mL
 
-| TAH Drug Code      | [ETEA1](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ETEA1                      |
+| TAH Drug Code      | [ETEA1](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ETEA1)                     |
 |:-------------------|:-------------------------------------------------------------------------------------------|
 | Indications        | Temporarily relieves burning and irritation due to dry eyes.                               |
 | Dosing             | Instill 1-2 drops TID-QID.                                                                 |

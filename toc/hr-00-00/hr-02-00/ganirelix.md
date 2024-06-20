@@ -2,7 +2,7 @@
 
 ## Orgalutran inj 0.25mg/0.5mL
 
-| TAH Drug Code      | [IORG](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IORG                                                                                                                                                                                                    |
+| TAH Drug Code      | [IORG](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IORG)                                                                                                                                                                                                   |
 |:-------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | For the inhibition of premature LH surges in women undergoing controlled ovarian hyperstimulation.                                                                                                                                                                     |
 | Dosing             | 250 mcg once daily during the mid-to-late phase after initiating follicle-stimulating hormone on day 2 or 3 of cycle. Treatment should be continued daily until the day of chorionic gonadotropin administration.                                                      |

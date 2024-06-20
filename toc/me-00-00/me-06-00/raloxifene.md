@@ -2,7 +2,7 @@
 
 ## Evista 60mg
 
-| TAH Drug Code      | [OEVI6](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OEVI6                                                                                                                                                                                           |
+| TAH Drug Code      | [OEVI6](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OEVI6)                                                                                                                                                                                          |
 |:-------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Treatment and prevention of osteoporosis in postmenopausal women.                                                                                                                                                                                               |
 | Dosing             | 60 mg tablet orally once daily.                                                                                                                                                                                                                                 |

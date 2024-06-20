@@ -2,7 +2,7 @@
 
 ## K-Glu oral solution 20mEq/15mL
 
-| TAH Drug Code      | [LKGLU](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=LKGLU                                                                                                                                                     |
+| TAH Drug Code      | [LKGLU](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=LKGLU)                                                                                                                                                    |
 |:-------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Hypokalemia.                                                                                                                                                                                                              |
 | Dosing             | 3 - 4 times a day, each time 15mL , can be mixed with water or juice, and taken after meals. 1 g potassium gluconate = elemental potassium 167 mg = potassium 4.3 mEq = potassium 4.3 mmol                                |

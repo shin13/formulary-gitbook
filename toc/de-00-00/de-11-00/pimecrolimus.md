@@ -4,7 +4,7 @@
 
 ##### 臨採
 
-| TAH Drug Code      | [EELI](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EELI                                                                                                                                                            |
+| TAH Drug Code      | [EELI](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EELI)                                                                                                                                                           |
 |:-------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Second-line therapy for the short- term & non-continuous chronic treatment of mild to moderate atopic dermatitis in non- immunocompromised adults & children > 2 years.                                                        |
 | Dosing             | Apply thin layer to affected area twice daily.                                                                                                                                                                                 |

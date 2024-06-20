@@ -2,7 +2,7 @@
 
 ## Dampurine 25mg
 
-| TAH Drug Code      | [ODAM](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ODAM                                                                                                                                                                                                                      |
+| TAH Drug Code      | [ODAM](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ODAM)                                                                                                                                                                                                                     |
 |:-------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Treatment of acute post-op & postpartum non-obstructive urinary retention & neurogenic atony of the urinary bladder with retention.                                                                                                                                                      |
 | Dosing             | Urinary retention, neurogenic bladder: To determine minimal effective dose: 5 to 10 mg; repeat the same dose hourly until effective response or a maximum of 50 mg is reached; usual dose: 10 to 50 mg 3 to 4 times daily. Cholinergic effects at higher oral dosages may be cumulative. |
