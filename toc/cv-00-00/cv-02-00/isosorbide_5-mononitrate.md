@@ -12,5 +12,5 @@
 | Adverse Effects    | Transient headache, nausea, dizziness, weakness, vomiting, tachycardia, decreased BP, possible formation of methemoglobin, rarely allergic skin reactions. Neurologic: Dizziness (8% to 11% ), Headache (38% to 57% )     |
 | Pregnancy          | No (Limited) Human Data – Animal Data Suggest Moderate Risk                                                                                                                                                               |
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                                                                                                                                             |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/isosorbide-5-mononitrate-drug-information)                                                                                                                                   |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/isosorbide-mononitrate-drug-information)                                                                                                                                     |
 

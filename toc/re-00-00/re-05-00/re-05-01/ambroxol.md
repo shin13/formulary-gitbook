@@ -12,7 +12,7 @@
 | Adverse Effects    | Contact dermatitis, Pruritus, Rash, Skin finding, Urticaria, Constipation, Diarrhea, Excessive salivation, Gastrointestinal tract finding, Nausea and vomiting, Xerostomia, Dysuria, Urogenital finding, Nasal discharge, Respiratory finding, Fatigue |
 | Pregnancy          | Unknown                                                                                                                                                                                                                                                |
 | Lactation          | Unknown                                                                                                                                                                                                                                                |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/ambroxol-drug-information)                                                                                                                                                                                |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/ambroxol-international-drug-information-concise)                                                                                                                                                          |
 
 ## Loxol SR 75mg
 
@@ -26,5 +26,5 @@
 | Adverse Effects    | Contact dermatitis, Pruritus, Rash, Skin finding, Urticaria, Constipation, Diarrhea, Excessive salivation, Gastrointestinal tract finding, Nausea and vomiting, Xerostomia, Dysuria, Urogenital finding, Nasal discharge, Respiratory finding, Fatigue |
 | Pregnancy          | Unknown                                                                                                                                                                                                                                                |
 | Lactation          | Unknown                                                                                                                                                                                                                                                |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/ambroxol-drug-information)                                                                                                                                                                                |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/ambroxol-international-drug-information-concise)                                                                                                                                                          |
 

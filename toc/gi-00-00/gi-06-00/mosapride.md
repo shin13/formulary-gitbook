@@ -12,5 +12,5 @@
 | Adverse Effects    | Hypersensitivity reactions, rash, urticaria, hematological changes, GI disturbances, increased hepatic enzyme levels. Palpitation, dizziness, headache, fatigue, hypertriglyceridemia, tremor. |
 | Pregnancy          | Unknown                                                                                                                                                                                        |
 | Lactation          | Unknown                                                                                                                                                                                        |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/mosapride-drug-information)                                                                                                                       |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/mosapride-international-drug-information-concise)                                                                                                 |
 

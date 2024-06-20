@@ -12,5 +12,5 @@
 | Adverse Effects    | Increased salivation & sweating, nausea & vomiting, abdominal cramps, diarrhea, allergic reactions, miosis, increased bronchial secretions, bradycardia, bronchospasm, weakness, muscle cramps, fasciculation, hypotension. |
 | Pregnancy          | No (Limited) Human Data – No Relevant Animal Data                                                                                                                                                                           |
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                                                                                                                                               |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/neostigmine-methylsulfate-drug-information)                                                                                                                                    |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/neostigmine-drug-information)                                                                                                                                                  |
 

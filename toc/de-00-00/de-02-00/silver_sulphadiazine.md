@@ -12,5 +12,5 @@
 | Adverse Effects    | Burning, rash, itching, interstitial nephritis.                                                                                                                                                                                                      |
 | Pregnancy          | Human Data Suggest Risk in 3rd Trimester                                                                                                                                                                                                             |
 | Lactation          | No (Limited) Human Data - Potential Toxicity                                                                                                                                                                                                         |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/silver-sulphadiazine-drug-information)                                                                                                                                                                  |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/silver-sulfadiazine-drug-information)                                                                                                                                                                   |
 

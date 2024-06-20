@@ -12,5 +12,5 @@
 | Adverse Effects    | Hypotension, orthostatic hypotension, Dizziness, fatigue, Diarrhea, nausea, Decreased hemoglobin, decreased hematocrit, decreased red blood cells, leukopenia (rare), thrombocytopenia (rare), Muscle spasm, weakness, Increased serum creatinine, Cough |
 | Pregnancy          | Human Data Suggest Risk in 2nd and 3rd Trimesters                                                                                                                                                                                                        |
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                                                                                                                                                                            |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/azilsartan-medoxomil-drug-information)                                                                                                                                                                      |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/azilsartan-drug-information)                                                                                                                                                                                |
 
