@@ -2,7 +2,7 @@
 
 ## Sermion 10mg
 
-| TAH Drug Code      | [OSERM1](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OSERM1){:target="_blank"}                                                                                                                                                                                      |
+| TAH Drug Code      | [OSERM1](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OSERM1                                                                                                                                                                                                         |
 |:-------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Cerebral circulation disorders.                                                                                                                                                                                                                                                 |
 | Dosing             | 5-10 mg three times daily. Take Sermion between meals.                                                                                                                                                                                                                          |
@@ -12,5 +12,5 @@
 | Adverse Effects    | Rare cases of mild side effects have been reported, which in general may be related to the vasoactive action of Sermion. These are hypotension and vertigo after parenteral administration, slight gastric disturbances, feeling of heat and flushing, drowsiness and insomnia. |
 | Pregnancy          | Unknown                                                                                                                                                                                                                                                                         |
 | Lactation          | Unknown                                                                                                                                                                                                                                                                         |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/nicergoline-drug-information){:target="_blank"}                                                                                                                                                                                    |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/nicergoline-drug-information)                                                                                                                                                                                                      |
 

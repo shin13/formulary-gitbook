@@ -1,5 +1,5 @@
 original,replacement
-"1,25-dihydroxycholecalciferol",calcitriol-systemic
+1,25-dihydroxycholecalciferol,calcitriol-systemic
 aceclofenac,aceclofenac-international
 acetaminophen,acetaminophen-paracetamol
 acetylsalicylic-acid,aspirin
@@ -117,3 +117,4 @@ valproate-sodium,valproate-valproic-acid
 conjugated-estrogen,estradiol
 estradiol-valerate,estradiol
 estradiol-and-medroxyprogesterone,equine-conjugated-estrogens-and-medroxyprogesterone-acetate
+amino-acids-(essential-&-nonessential-),amino-acids-solutions-for-parenteral-nutrition

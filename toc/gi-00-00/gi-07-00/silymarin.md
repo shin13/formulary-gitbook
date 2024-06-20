@@ -2,7 +2,7 @@
 
 ## Silygen 70mg
 
-| TAH Drug Code      | [OSILY](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OSILY){:target="_blank"}                                                                                                                                                                                                        |
+| TAH Drug Code      | [OSILY](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OSILY                                                                                                                                                                                                                           |
 |:-------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Chronic liver diseases, liver cirrhosis, fatty liver.                                                                                                                                                                                                                                           |
 | Dosing             | 1-2 capsules TID orally after meals. Each cap contains: Exsiccated Fructus Cardui Mariae extract 140mg (eq. to 70mg of Silymarin Calculated as Silybin) Thiamine Hydrochloride 4mg Riboflavin 4mg Pyridoxine Hydrochloride 4mg Nicotinamide 12mg Calcium Pantothenate 8mg Cyanocobalamin 1.2mcg |
@@ -12,5 +12,5 @@
 | Adverse Effects    | GI disturbance, nausea, vomiting, flatulence, diarrhea, diuresis                                                                                                                                                                                                                                |
 | Pregnancy          | Unknown                                                                                                                                                                                                                                                                                         |
 | Lactation          | Unknown                                                                                                                                                                                                                                                                                         |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/silymarin-drug-information){:target="_blank"}                                                                                                                                                                                                      |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/silymarin-drug-information)                                                                                                                                                                                                                        |
 

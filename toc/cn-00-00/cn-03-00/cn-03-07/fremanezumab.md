@@ -4,7 +4,7 @@
 
 ##### 臨採
 
-| TAH Drug Code      | [IAJO](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IAJO){:target="_blank"}                                                   |
+| TAH Drug Code      | [IAJO](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IAJO                                                                      |
 |:-------------------|:-----------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | For the preventive treatment of migraine in adults.                                                                                      |
 | Dosing             | 225 mg monthly, or 675 mg every 3 months (quarterly).                                                                                    |
@@ -14,5 +14,5 @@
 | Adverse Effects    | Common Dermatologic: Injection site disorder (43% to 45% ) Serious Immunologic: Anaphylaxis, Hypersensitivity reaction Other: Angioedema |
 | Pregnancy          | No (Limited) Human Data – Probably Compatible                                                                                            |
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                                                            |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/fremanezumab-drug-information){:target="_blank"}                                            |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/fremanezumab-drug-information)                                                              |
 

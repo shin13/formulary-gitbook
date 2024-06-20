@@ -2,7 +2,7 @@
 
 ## Entresto 100mg
 
-| TAH Drug Code      | [OENTR](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OENTR){:target="_blank"}                                                                                                                                                                                                      |
+| TAH Drug Code      | [OENTR](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OENTR                                                                                                                                                                                                                         |
 |:-------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Heart failure, chronic. Symptomatic congestive heart failure, In Patients with Systemic Left Ventricular Dysfunction,                                                                                                                                                                         |
 | Dosing             | CHF adult, initial 100mg BID, maintain dose: 200mg BID after 2-4 weeks. ( if Entresto switch from ACEI, it must be separated at least 36 hr)                                                                                                                                                  |
@@ -12,5 +12,5 @@
 | Adverse Effects    | Common: Hypotension (18%), Hyperkalemia (12-16%), Dizziness (6%) Serious: Renal failure (5%), Angioedema (0.5%)                                                                                                                                                                               |
 | Pregnancy          | Unknown                                                                                                                                                                                                                                                                                       |
 | Lactation          | Unknown                                                                                                                                                                                                                                                                                       |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/sacubitril-and-valsartan-drug-information){:target="_blank"}                                                                                                                                                                                     |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/sacubitril-and-valsartan-drug-information)                                                                                                                                                                                                       |
 

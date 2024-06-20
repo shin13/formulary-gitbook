@@ -2,7 +2,7 @@
 
 ## Alphagan-P 0.15%, 5mL ophthalmic solution
 
-| TAH Drug Code      | [EALP](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EALP){:target="_blank"}                                                                                                    |
+| TAH Drug Code      | [EALP](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EALP                                                                                                                       |
 |:-------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Lowering of ocular pressure in patients with open-angle glaucoma or ocular hypertension.                                                                                                  |
 | Dosing             | Instill 1 drop in the affected eye(s) 3 times daily, about 8 hours apart.                                                                                                                 |
@@ -12,5 +12,5 @@
 | Adverse Effects    | Oral dryness, ocular hyperemia, burning & stinging, headache, blurring, foreign body sensation, fatigue/drowsiness, conjunctival follicles, ocular allergic reactions, & ocular pruritus. |
 | Pregnancy          | No (Limited) Human Data – Probably Compatible                                                                                                                                             |
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                                                                                                             |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/brimonidine-drug-information){:target="_blank"}                                                                                              |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/brimonidine-drug-information)                                                                                                                |
 

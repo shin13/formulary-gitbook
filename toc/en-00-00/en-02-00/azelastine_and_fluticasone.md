@@ -2,7 +2,7 @@
 
 ## Dymista 137/50mcg/dose,120dose nasal spray
 
-| TAH Drug Code      | [EDYM](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EDYM){:target="_blank"}                                         |
+| TAH Drug Code      | [EDYM](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EDYM                                                            |
 |:-------------------|:-------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Symptomatic treatment of moderate to severe allergic rhinitis & rhinoconjunctivitis in adults and children > or = 6 years-old. |
 | Dosing             | 1 spray in each nostril BID (morning & evening).                                                                               |
@@ -12,5 +12,5 @@
 | Adverse Effects    | Headache, dysgeusia, epistaxis.                                                                                                |
 | Pregnancy          | Unknown                                                                                                                        |
 | Lactation          | Unknown                                                                                                                        |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/azelastine-and-fluticasone-drug-information){:target="_blank"}                    |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/azelastine-and-fluticasone-drug-information)                                      |
 

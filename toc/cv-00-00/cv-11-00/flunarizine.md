@@ -2,7 +2,7 @@
 
 ## Suzin 5mg
 
-| TAH Drug Code      | [OSUZ](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OSUZ){:target="_blank"}                                                                                    |
+| TAH Drug Code      | [OSUZ](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OSUZ                                                                                                       |
 |:-------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Prophylaxis of migraine, maintenance treatment of cerebral circulation disorders.                                                                                         |
 | Dosing             | 5-10 mg once daily in the evening (at bedtime)                                                                                                                            |
@@ -12,5 +12,5 @@
 | Adverse Effects    | Occasionally, transient fatigue & somnolence; weight gain. Exceptionally, depression or extrapyramidal reactions.                                                         |
 | Pregnancy          | Unknown                                                                                                                                                                   |
 | Lactation          | Unknown                                                                                                                                                                   |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/flunarizine-drug-information){:target="_blank"}                                                                              |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/flunarizine-drug-information)                                                                                                |
 

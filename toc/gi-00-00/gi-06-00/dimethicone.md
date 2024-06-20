@@ -2,7 +2,7 @@
 
 ## Kascoal 40mg
 
-| TAH Drug Code      | [OKAS4](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OKAS4){:target="_blank"}                               |
+| TAH Drug Code      | [OKAS4](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OKAS4                                                  |
 |:-------------------|:-----------------------------------------------------------------------------------------------------------------------|
 | Indications        | Relief of pressure, bloating, fullness, and discomfort of gastrointestinal gas.                                        |
 | Dosing             | Adult & children > 3 years: 2 tablets TID to QID or taken when needed; Children < 3 years: should consult with doctor. |
@@ -12,5 +12,5 @@
 | Adverse Effects    | Loose stools                                                                                                           |
 | Pregnancy          | Compatible                                                                                                             |
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                                          |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/dimethicone-drug-information){:target="_blank"}                           |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/dimethicone-drug-information)                                             |
 

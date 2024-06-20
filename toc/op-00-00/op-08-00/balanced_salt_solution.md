@@ -2,7 +2,7 @@
 
 ## BSS sterile irrigation solusion 500mL/Bag
 
-| TAH Drug Code      | [EBSS1](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EBSS1){:target="_blank"}                    |
+| TAH Drug Code      | [EBSS1](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EBSS1                                       |
 |:-------------------|:------------------------------------------------------------------------------------------------------------|
 | Indications        | For use as an extraocular and intraocular irrigating solution during ocular or other surgical procedures.   |
 | Dosing             | For irrigation during operations of the eyes, ears, nose and throat.                                        |
@@ -12,11 +12,11 @@
 | Adverse Effects    | When the corneal endothelium is abnormal, irrigation or any other trauma may result in bullous keratopathy. |
 | Pregnancy          | Unknown                                                                                                     |
 | Lactation          | Unknown                                                                                                     |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/balanced-salt-solution-drug-information){:target="_blank"}     |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/balanced-salt-solution-drug-information)                       |
 
 ## BSS sterile irrigation solusion 500ml/Bottle
 
-| TAH Drug Code      | [EBSS2](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EBSS2){:target="_blank"}                                                                                                            |
+| TAH Drug Code      | [EBSS2](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EBSS2                                                                                                                               |
 |:-------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | B.S.S. Irrigation during various surgical procedures of the eyes, ears, nose or throat. BSS Plus Intraocular irrigating soln during intraocular surgical procedures involving perfusion of the eye. |
 | Dosing             | For irrigation during operations of the eyes, ears, nose and throat.                                                                                                                                |
@@ -26,5 +26,5 @@
 | Adverse Effects    | When the corneal endothelium is abnormal, irrigation or any other trauma may result in bullous keratopathy.                                                                                         |
 | Pregnancy          | Unknown                                                                                                                                                                                             |
 | Lactation          | Unknown                                                                                                                                                                                             |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/balanced-salt-solution-drug-information){:target="_blank"}                                                                                             |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/balanced-salt-solution-drug-information)                                                                                                               |
 

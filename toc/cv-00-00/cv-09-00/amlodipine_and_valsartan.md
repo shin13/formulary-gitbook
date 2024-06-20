@@ -2,7 +2,7 @@
 
 ## Exforge 5/80mg
 
-| TAH Drug Code      | [OEXF](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OEXF){:target="_blank"}                                                                                                                                                                            |
+| TAH Drug Code      | [OEXF](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OEXF                                                                                                                                                                                               |
 |:-------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Hypertension                                                                                                                                                                                                                                                      |
 | Dosing             | HTN initial: 1tablet QD slowly titiate up to 2 tablet QD (maximum 10mg/160mg)                                                                                                                                                                                     |
@@ -12,5 +12,5 @@
 | Adverse Effects    | Common: Peripheral edema (5.4%), Dizziness (2.1%), Nasopharyngitis (4.3%), Upper respiratory infection (2.9%) Serious: Hypotension (0.4%)                                                                                                                         |
 | Pregnancy          | Human Data Suggest Risk in 2nd and 3rd Trimesters                                                                                                                                                                                                                 |
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                                                                                                                                                                                     |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/amlodipine-and-valsartan-drug-information){:target="_blank"}                                                                                                                                                         |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/amlodipine-and-valsartan-drug-information)                                                                                                                                                                           |
 

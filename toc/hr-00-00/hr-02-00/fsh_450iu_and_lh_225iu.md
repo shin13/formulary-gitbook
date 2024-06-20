@@ -2,7 +2,7 @@
 
 ## Pergoveris 450 IU + 225 IU
 
-| TAH Drug Code      | [IPER4](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IPER4){:target="_blank"}                                                                                                                                                                                         |
+| TAH Drug Code      | [IPER4](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IPER4                                                                                                                                                                                                            |
 |:-------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Infertility in male & female.                                                                                                                                                                                                                                                    |
 | Dosing             | FSH 150 IU + LH 75 IU daily, adjusted dosage after start treatment 7-14 days, each treatment cycle can be extended up to 5 weeks depending on the clinical condition. 5000-10000 IU of hCG or 250 mcg of r-hCG should be given after 24-48 hours of the last dose of Pergoveris. |
@@ -12,5 +12,5 @@
 | Adverse Effects    | Ovarian hyperstimulation, ascites, hydrothorax, oliguria, hypotension, thromboembolism, hypersensitivity reactions, fever, nausea & vomiting, inj site reactions, unintentional multiple pregnancies.                                                                            |
 | Pregnancy          | Unknown                                                                                                                                                                                                                                                                          |
 | Lactation          | Contraindicated                                                                                                                                                                                                                                                                  |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/fsh-450iu-and-lh-225iu-drug-information){:target="_blank"}                                                                                                                                                                          |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/fsh-450iu-and-lh-225iu-drug-information)                                                                                                                                                                                            |
 

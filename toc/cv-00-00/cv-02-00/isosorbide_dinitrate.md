@@ -2,7 +2,7 @@
 
 ## Angidil inj 0.1% 10mL
 
-| TAH Drug Code      | [IANG](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IANG){:target="_blank"}                                                                       |
+| TAH Drug Code      | [IANG](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IANG                                                                                          |
 |:-------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Treatment of angina.                                                                                                                                         |
 | Dosing             | Diluted in saline or dextrose solution to 100 mcg/mL before use. Usual adult dosage: 2-7 mg/hour by IV infusion; some patients may require up to 10 mg/hour. |
@@ -12,5 +12,5 @@
 | Adverse Effects    | Flushing, dizziness, tachycardia, throbbing headache.                                                                                                        |
 | Pregnancy          | No (Limited) Human Data – Animal Data Suggest Moderate Risk                                                                                                  |
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                                                                                |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/isosorbide-dinitrate-drug-information){:target="_blank"}                                                        |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/isosorbide-dinitrate-drug-information)                                                                          |
 

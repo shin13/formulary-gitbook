@@ -2,7 +2,7 @@
 
 ## Decorn solution 10mL, 16.7%
 
-| TAH Drug Code      | [EDEC](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EDEC){:target="_blank"}                                                                                                          |
+| TAH Drug Code      | [EDEC](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EDEC                                                                                                                             |
 |:-------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Removal of warts.                                                                                                                                                                               |
 | Dosing             | Soak lesion in hot water for 5 mins & dry thoroughly. Rub surface with pumice stone or emery board & apply to affected area 2-4 drops once daily.                                               |
@@ -12,5 +12,5 @@
 | Adverse Effects    | Local irritation.                                                                                                                                                                               |
 | Pregnancy          | Unknown                                                                                                                                                                                         |
 | Lactation          | Unknown                                                                                                                                                                                         |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/salicylic-acid-and-lactic-acid-drug-information){:target="_blank"}                                                                                 |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/salicylic-acid-and-lactic-acid-drug-information)                                                                                                   |
 

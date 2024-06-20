@@ -2,7 +2,7 @@
 
 ## Mikelan LA 2%, 2.5mL ophthalmic solution
 
-| TAH Drug Code      | [EMIK](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EMIK){:target="_blank"}                                                                                                                                                                                                   |
+| TAH Drug Code      | [EMIK](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EMIK                                                                                                                                                                                                                      |
 |:-------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Glaucoma & ocular hypertension.                                                                                                                                                                                                                                                          |
 | Dosing             | Instill 1 drop QD into the conjunctival sac.                                                                                                                                                                                                                                             |
@@ -12,5 +12,5 @@
 | Adverse Effects    | Cardiovascular: Angina Neurologic: Asthenia (7% .), Dizziness (4% to 15% .), Headache (4% to 17% .), Insomnia (2% to 12%.) Ophthalmic: Blurred vision, Burning sensation in eye (25% ), Conjunctival edema (25% ), Conjunctival hyperemia (25% ), Epiphora (25% ), Eye irritation (25% ) |
 | Pregnancy          | No (Limited) Human Data – Probably Compatible                                                                                                                                                                                                                                            |
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                                                                                                                                                                                                            |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/carteolol-ophthalmic-drug-information){:target="_blank"}                                                                                                                                                                                    |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/carteolol-drug-information)                                                                                                                                                                                                                 |
 

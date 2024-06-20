@@ -2,7 +2,7 @@
 
 ## EnVAX-A71 inj 0.5mL/dose (國光)
 
-| TAH Drug Code      | [IEV71](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IEV71){:target="_blank"}                                                                                                                                                                                                |
+| TAH Drug Code      | [IEV71](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IEV71                                                                                                                                                                                                                   |
 |:-------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Primary immunization for infants and toddlers aged 2 months to less than 6 years to prevent diseases caused by enterovirus type 71 infection.                                                                                                                                           |
 | Dosing             | Infants aged 2 months to <6 years: administered via intramuscular injection in the arm or outer thigh. Each dose is 0.5 mL, given in two doses with a 28-day interval. Shake well and visually inspect for abnormalities before use. Need for additional booster doses not established. |
@@ -12,5 +12,5 @@
 | Adverse Effects    | Pain (21.57%), tenderness (17.59%), redness (13.42%), swelling (7.36%), bruising (3.88%), fever (?38°C) (10.34%), nausea/vomiting (6.56%), diarrhea (6.86%), decreased appetite (12.52%), fatigue (10.74%).                                                                             |
 | Pregnancy          | Unknown                                                                                                                                                                                                                                                                                 |
 | Lactation          | Unknown                                                                                                                                                                                                                                                                                 |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/inactivated-enterovirus-71-virus-particles-drug-information){:target="_blank"}                                                                                                                                                             |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/inactivated-enterovirus-71-virus-particles-drug-information)                                                                                                                                                                               |
 

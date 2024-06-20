@@ -2,7 +2,7 @@
 
 ## Urief F.C. 8mg
 
-| TAH Drug Code      | [OURI8](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OURI8){:target="_blank"}                                                                                                                                                                          |
+| TAH Drug Code      | [OURI8](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OURI8                                                                                                                                                                                             |
 |:-------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Treatment of signs and symptoms of benign prostatic hyperplasia (BPH).                                                                                                                                                                                            |
 | Dosing             | 4 mg BID, after breakfast and evening meal. Or 8mg QD after meal.                                                                                                                                                                                                 |
@@ -12,5 +12,5 @@
 | Adverse Effects    | Drowsiness, postural hypotension, syncope, asthenia, depression, headache, dry mouth, GI disturbances, edema, blurred vision, rhinitis, erectile disorders, tachycardia, palpitation, hypersensitivity reactions; flushes; chest pain; dizziness; lack of energy. |
 | Pregnancy          | Unknown                                                                                                                                                                                                                                                           |
 | Lactation          | Unknown                                                                                                                                                                                                                                                           |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/silodosin-drug-information){:target="_blank"}                                                                                                                                                                        |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/silodosin-drug-information)                                                                                                                                                                                          |
 

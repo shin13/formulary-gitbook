@@ -2,7 +2,7 @@
 
 ## Benlysta inj 400mg
 
-| TAH Drug Code      | [IBEN](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IBEN){:target="_blank"}                        |
+| TAH Drug Code      | [IBEN](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IBEN                                           |
 |:-------------------|:--------------------------------------------------------------------------------------------------------------|
 | Indications        | Reducing disease activity in adult patients with active autoantibody positive SLE receiving standard therapy. |
 | Dosing             | IVD, 10 mg/kg over 1 hour every 2 weeks for the first 3 doses and every 4 weeks thereafter.                   |
@@ -12,5 +12,5 @@
 | Adverse Effects    | Infections. Hypersensitivity reaction; pyrexia, infusion-related reaction.                                    |
 | Pregnancy          | Human (and Animal) Data Suggest Risk                                                                          |
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                                 |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/belimumab-drug-information){:target="_blank"}                    |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/belimumab-drug-information)                                      |
 

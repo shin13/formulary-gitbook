@@ -2,7 +2,7 @@
 
 ## Meletin 100mg
 
-| TAH Drug Code      | [OMELE](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OMELE){:target="_blank"}                                                                                                                                                                                |
+| TAH Drug Code      | [OMELE](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OMELE                                                                                                                                                                                                   |
 |:-------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Ventricular arrhythmia.                                                                                                                                                                                                                                                 |
 | Dosing             | Initially, 400 mg as loading dose. Maintenance dose should be started 2-6 hours after initial dose. Usual daily dosage: 400-800 mg in 2-3 divided doses; maximum: 1200 mg/day.                                                                                          |
@@ -12,5 +12,5 @@
 | Adverse Effects    | Indigestion; hiccups; unpleasant taste, nausea, vomiting; joint pains; drowsiness, dizziness; confusion; disarticulated speech; blurred vision; nystagmus; tremor; paresthesia, ataxia; convulsions; hypotension, sinus bradycardia, atrial fibrillation, palpitations. |
 | Pregnancy          | No (Limited) Human Data – Animal Data Suggest Low Risk                                                                                                                                                                                                                  |
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                                                                                                                                                                                           |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/mexiletine-drug-information){:target="_blank"}                                                                                                                                                                             |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/mexiletine-drug-information)                                                                                                                                                                                               |
 

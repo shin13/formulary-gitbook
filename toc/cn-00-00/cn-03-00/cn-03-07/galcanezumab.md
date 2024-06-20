@@ -4,7 +4,7 @@
 
 ##### 臨採
 
-| TAH Drug Code      | [IEMG](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IEMG){:target="_blank"}                                                                                                                                                                          |
+| TAH Drug Code      | [IEMG](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IEMG                                                                                                                                                                                             |
 |:-------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Episodic cluster headacheView additional information. Migraine; Prophylaxis                                                                                                                                                                                     |
 | Dosing             | Migraine; Prophylaxis Usual dosage: 240 mg (2 consecutive 120-mg doses) once as a loading dose, followed by 120 mg once monthly. Missed dose: If a dose is missed, administer as soon as possible. Thereafter, schedule monthly from the date of the last dose. |
@@ -14,5 +14,5 @@
 | Adverse Effects    | Common Immunologic: Injection site reaction (18% ) Serious Immunologic: Anaphylaxis, Hypersensitivity reaction Other: Angioedema                                                                                                                                |
 | Pregnancy          | No (Limited) Human Data – Probably Compatible                                                                                                                                                                                                                   |
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                                                                                                                                                                                   |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/galcanezumab-drug-information){:target="_blank"}                                                                                                                                                                   |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/galcanezumab-drug-information)                                                                                                                                                                                     |
 

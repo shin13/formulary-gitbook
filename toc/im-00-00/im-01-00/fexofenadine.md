@@ -2,7 +2,7 @@
 
 ## Allegra 60mg
 
-| TAH Drug Code      | [OALL6](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OALL6){:target="_blank"}                                                                                                                                                                                               |
+| TAH Drug Code      | [OALL6](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OALL6                                                                                                                                                                                                                  |
 |:-------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Symptomatic relief of seasonal allergic rhinitis & uncomplicated skin manifestations of chronic idiopathic urticaria in adult & children over 6 years.                                                                                                                                 |
 | Dosing             | Seasonal allergic rhinitis Adult & children > 12 years 60 mg BID or 180 mg QD. 6-11 years 30 mg BID. Chronic idiopathic urticaria Adult & children > 12 years 60 mg BID. 6-11 years 30-60 mg BID.                                                                                      |
@@ -12,5 +12,5 @@
 | Adverse Effects    | Viral infection, nausea, dysmenorrhoea, drowsiness, dyspepsia, fatigue, headache, back pain, coughing, fever, pain, otitis media, upper respiratory tract infection. Central nervous system: Headache (5% to 11%) Gastrointestinal: Vomiting (children 6 months to 5 years: 4% to 12%) |
 | Pregnancy          | No (Limited) Human Data – Animal Data Suggest Moderate Risk                                                                                                                                                                                                                            |
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                                                                                                                                                                                                          |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/fexofenadine-drug-information){:target="_blank"}                                                                                                                                                                                          |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/fexofenadine-drug-information)                                                                                                                                                                                                            |
 

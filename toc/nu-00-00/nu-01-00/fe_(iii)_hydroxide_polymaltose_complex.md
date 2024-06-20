@@ -2,7 +2,7 @@
 
 ## Tedalin 100mg Chewable
 
-| TAH Drug Code      | [OTED](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OTED){:target="_blank"}                                                                                                                                                       |
+| TAH Drug Code      | [OTED](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OTED                                                                                                                                                                          |
 |:-------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Fe-deficiency anaemia.                                                                                                                                                                                                                       |
 | Dosing             | PO dose: 100mg QD-BID                                                                                                                                                                                                                        |
@@ -12,5 +12,5 @@
 | Adverse Effects    | GI irritation, epigastric pain, stomach cramping, constipation, nausea, vomiting, diarrhoea, dark stools, heart burn, discoloured urine, teeth staining.                                                                                     |
 | Pregnancy          | Unknown                                                                                                                                                                                                                                      |
 | Lactation          | Unknown                                                                                                                                                                                                                                      |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/fe-(iii)-hydroxide-polymaltose-complex-drug-information){:target="_blank"}                                                                                                                      |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/fe-(iii)-hydroxide-polymaltose-complex-drug-information)                                                                                                                                        |
 

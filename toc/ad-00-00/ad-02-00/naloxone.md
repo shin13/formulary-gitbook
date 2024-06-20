@@ -2,7 +2,7 @@
 
 ## Naloxone inj 0.4mg/1mL
 
-| TAH Drug Code      | [INAL](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=INAL){:target="_blank"}                                                                                                                                                              |
+| TAH Drug Code      | [INAL](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=INAL                                                                                                                                                                                 |
 |:-------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Complete or partial reversal of narcotic depression including respiratory depression, induced by opioids including natural & synthetic narcotics & narcotic-antagonist analgesics. Diagnosis of suspected acute opioid overdosage                   |
 | Dosing             | (Micromedex) Overdose of opiate, known or suspected: (Injection solution) 0.4-2 mg IV, repeat every 2-3 minutes as needed; if no response after 10 mg, reconsider diagnosis of opioid toxicity; may administer IM or SC if IV route is unavailable. |
@@ -12,5 +12,5 @@
 | Adverse Effects    | Hypertension, hypotension, ventricular tachycardia, pulmonary oedema, tremulousness, nausea/vomiting, sweating.                                                                                                                                     |
 | Pregnancy          | Compatible                                                                                                                                                                                                                                          |
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                                                                                                                                                                       |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/naloxone-drug-information){:target="_blank"}                                                                                                                                                           |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/naloxone-drug-information)                                                                                                                                                                             |
 

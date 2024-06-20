@@ -2,7 +2,7 @@
 
 ## Ceporin 25mg
 
-| TAH Drug Code      | [OCEPO](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OCEPO){:target="_blank"}                                                                                                                   |
+| TAH Drug Code      | [OCEPO](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OCEPO                                                                                                                                      |
 |:-------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Hypertension, chronic heart failure.                                                                                                                                                                       |
 | Dosing             | HTN initial 25mg TIDAC slow titrate up Maximum 450mg/day (Take one hour before meals ) CHF: initial dose of 6.25 or 12.5 mg TID in patients with normal or low blood pressure; maintence dose: -50mg TIDAC |
@@ -12,5 +12,5 @@
 | Adverse Effects    | Dysgeusia, skin rash, cough                                                                                                                                                                                |
 | Pregnancy          | Human Data Suggest Risk in 2nd and 3rd Trimesters                                                                                                                                                          |
 | Lactation          | Compatible                                                                                                                                                                                                 |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/captopril-drug-information){:target="_blank"}                                                                                                                 |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/captopril-drug-information)                                                                                                                                   |
 

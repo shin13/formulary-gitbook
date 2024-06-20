@@ -2,7 +2,7 @@
 
 ## Duratears ointment 3.5gm
 
-| TAH Drug Code      | [EDUR](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EDUR){:target="_blank"}                                                |
+| TAH Drug Code      | [EDUR](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EDUR                                                                   |
 |:-------------------|:--------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Temporary relief of ocular irritation due to eye dryness.                                                                             |
 | Dosing             | Apply a small amount of cream (approximately 1 cm) to the pouch whitch formed by pull the lower eyelid away from the eye when needed. |
@@ -12,5 +12,5 @@
 | Adverse Effects    | Transient blurring in vision, allergic reaction.                                                                                      |
 | Pregnancy          | Unknown                                                                                                                               |
 | Lactation          | Unknown                                                                                                                               |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/petrolatum-and-lanolin-and-mineral-oil-drug-information){:target="_blank"}               |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/petrolatum-and-lanolin-and-mineral-oil-drug-information)                                 |
 

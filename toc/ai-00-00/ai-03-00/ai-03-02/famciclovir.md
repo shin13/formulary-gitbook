@@ -2,7 +2,7 @@
 
 ## Famvir 250mg
 
-| TAH Drug Code      | [OFAM](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OFAM){:target="_blank"}                                                                                                                                     |
+| TAH Drug Code      | [OFAM](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OFAM                                                                                                                                                        |
 |:-------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Herpes zoster infections                                                                                                                                                                                                   |
 | Dosing             | Adult: Herpes zoster (shingles): 250 mg orally TID for 7 days. Primary genital Herpes: 250 mg orally TID for 5 days. Recurrent genital Herpes: 125 mg orally BID for 5 days.                                               |
@@ -12,5 +12,5 @@
 | Adverse Effects    | Headache, nausea. Gastrointestinal: Diarrhea (1.8% to 9% ), Flatulence (0.6% to 4.8% ), Nausea (2.2% to 12.5% ), Vomiting (1.2% to 4.8% ) Neurologic: Headache (9.7% to 39.3% ) Reproductive: Dysmenorrhea (0.9% to 7.6% ) |
 | Pregnancy          | No (Limited) Human Data – Animal Data Suggest Low Risk                                                                                                                                                                     |
 | Lactation          | No (Limited) Human Data - Potential Toxicity                                                                                                                                                                               |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/famciclovir-drug-information){:target="_blank"}                                                                                                                               |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/famciclovir-drug-information)                                                                                                                                                 |
 

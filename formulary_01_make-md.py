@@ -290,8 +290,7 @@ for cat2 in cat2_li:
                 df_tb = df_name.loc[code,
                                     'Indications':'Lactation'].reset_index()
                 col_name = '[' + code + \
-                    '](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=' + \
-                    code + '){:target="_blank"}'
+                    '](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=' + code
                 df_tb.columns = ['TAH Drug Code', col_name]
 
                 # 20240618 新增UpToDate查詢連結
@@ -304,13 +303,11 @@ for cat2 in cat2_li:
                     search_name = special_replacements[search_name]
 
                 keyword = f"{search_name}-drug-information"
-                UpToDate_link = f"[UpToDate](https://www.uptodate.com/contents/{keyword})" + \
-                    '{:target="_blank"}'
+                UpToDate_link = f"[UpToDate](https://www.uptodate.com/contents/{keyword})"
 
                 # 检查是否包含 "international" 子字符串
                 if "international" in UpToDate_link:
-                    UpToDate_link = f"[UpToDate](https://www.uptodate.com/contents/{keyword}-concise)" + \
-                        '{:target="_blank"}'
+                    UpToDate_link = f"[UpToDate](https://www.uptodate.com/contents/{keyword}-concise)"
 
                 # 将信息添加到 summary_data 列表中
                 summary_data.append({

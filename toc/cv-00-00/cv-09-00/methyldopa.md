@@ -2,7 +2,7 @@
 
 ## MethylDOPA 250mg
 
-| TAH Drug Code      | [OMETH](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OMETH){:target="_blank"}                                                                                                                     |
+| TAH Drug Code      | [OMETH](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OMETH                                                                                                                                        |
 |:-------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Hypertension.                                                                                                                                                                                                |
 | Dosing             | HTN Adult: initial 250 mg BID, titrate up to 2-4 tablets/day (maximum: 6 tablets/day)                                                                                                                        |
@@ -12,5 +12,5 @@
 | Adverse Effects    | Sedation, headache, asthenia, weakness, fever, bradycardia, hypotension, GI disturbances, sore or 'black' tongue, liver disorders, +ve Coombs test, nasal congestion, anxiety, depression, arthralgia, rash. |
 | Pregnancy          | Compatible                                                                                                                                                                                                   |
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                                                                                                                                |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/methyldopa-drug-information){:target="_blank"}                                                                                                                  |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/methyldopa-drug-information)                                                                                                                                    |
 

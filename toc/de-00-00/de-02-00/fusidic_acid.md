@@ -2,7 +2,7 @@
 
 ## Fucidin cream 2%, 15gm
 
-| TAH Drug Code      | [EFUC2](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EFUC2){:target="_blank"}                                                                                                        |
+| TAH Drug Code      | [EFUC2](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EFUC2                                                                                                                           |
 |:-------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Skin infections caused by Staph, Strep & other organisms sensitive to fusidic acid.                                                                                                             |
 | Dosing             | Apply BID-TID                                                                                                                                                                                   |
@@ -12,5 +12,5 @@
 | Adverse Effects    | Angioedema, application site irritation, application site pain, conjunctivitis, dermatitis, erythema, hypersensitivity reaction, pruritus, skin blister, skin irritation, skin rash, urticaria. |
 | Pregnancy          | Unknown                                                                                                                                                                                         |
 | Lactation          | Unknown                                                                                                                                                                                         |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/fusidic-acid-drug-information){:target="_blank"}                                                                                                   |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/fusidic-acid-drug-information)                                                                                                                     |
 

@@ -2,7 +2,7 @@
 
 ## Provocholine Inhalation 100mg
 
-| TAH Drug Code      | [EPROV](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EPROV){:target="_blank"}                                                                                                                                                                                   |
+| TAH Drug Code      | [EPROV](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EPROV                                                                                                                                                                                                      |
 |:-------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Diagnosis of bronchial airway hyperactivity                                                                                                                                                                                                                                |
 | Dosing             | Age >5 years old and Adult: Use 0.03, 0.0625, 0.125, 0.25, 0.5, 1, 2, 4, 8, 16 mg/mL solution for inhalation only. Stop dosing if the FEV1 has fallen by 20% from the mean baseline, the FEV1 is 1.5 L, or the highest dose has been administered (whichever comes first). |
@@ -12,5 +12,5 @@
 | Adverse Effects    | Central nervous system: Headache, lightheadedness Dermatologic: Itching Gastrointestinal: Throat irritation                                                                                                                                                                |
 | Pregnancy          | Unknown                                                                                                                                                                                                                                                                    |
 | Lactation          | Unknown                                                                                                                                                                                                                                                                    |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/methacholine-drug-information){:target="_blank"}                                                                                                                                                                              |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/methacholine-drug-information)                                                                                                                                                                                                |
 

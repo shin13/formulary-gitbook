@@ -2,7 +2,7 @@
 
 ## Evista 60mg
 
-| TAH Drug Code      | [OEVI6](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OEVI6){:target="_blank"}                                                                                                                                                                        |
+| TAH Drug Code      | [OEVI6](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OEVI6                                                                                                                                                                                           |
 |:-------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Treatment and prevention of osteoporosis in postmenopausal women.                                                                                                                                                                                               |
 | Dosing             | 60 mg tablet orally once daily.                                                                                                                                                                                                                                 |
@@ -12,5 +12,5 @@
 | Adverse Effects    | Common Endocrine metabolic: Hot sweats Musculoskeletal: Leg cramp Serious Hematologic: Deep venous thrombosis, Venous thromboembolism (1% ) Neurologic: Cerebrovascular accident Ophthalmic: Thrombosis of retinal vein (rare ) Respiratory: Pulmonary embolism |
 | Pregnancy          | Contraindicated                                                                                                                                                                                                                                                 |
 | Lactation          | Contraindicated                                                                                                                                                                                                                                                 |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/raloxifene-drug-information){:target="_blank"}                                                                                                                                                                     |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/raloxifene-drug-information)                                                                                                                                                                                       |
 

@@ -2,7 +2,7 @@
 
 ## Cefadroxil 500mg
 
-| TAH Drug Code      | [OCEFA](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OCEFA){:target="_blank"}                                                                                                                                                |
+| TAH Drug Code      | [OCEFA](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OCEFA                                                                                                                                                                   |
 |:-------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Susceptible infections.                                                                                                                                                                                                                 |
 | Dosing             | (仿單) Adults: 1-2 g orally in 1-2 divided doses daily. (Uptodate) Children and adolescents: 15-30 mg/kg/dose every 12 hours (maximum daily dose: 2 g/day)                                                                              |
@@ -12,5 +12,5 @@
 | Adverse Effects    | Nausea, vomiting, diarrhoea, abdominal discomfort; skin rash, angioedema; elevated liver enzyme values; superinfection with resistant organisms especially candida. Potentially Fatal: Anaphylactic reaction; pseudomembranous colitis. |
 | Pregnancy          | Compatible                                                                                                                                                                                                                              |
 | Lactation          | Compatible                                                                                                                                                                                                                              |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/cefadroxil-drug-information){:target="_blank"}                                                                                                                                             |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/cefadroxil-drug-information)                                                                                                                                                               |
 
