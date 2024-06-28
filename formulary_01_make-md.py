@@ -332,4 +332,4 @@ for cat2 in cat2_li:
 
 # 將 summary_data 匯出到 Excel 檔案中
 summary_df = pd.DataFrame(summary_data)
-summary_df.to_excel('summary_data.xlsx', index=False)
+summary_df.to_excel('C:\\Users\\152551\\formulary-gitbook\\check_links\\summary_data.xlsx', index=False)
