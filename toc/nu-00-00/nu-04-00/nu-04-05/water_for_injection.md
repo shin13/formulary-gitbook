@@ -1,6 +1,6 @@
 # Water for injection
 
-## Water for injection 20mL
+## Water for Injection 20mL
 
 | TAH Drug Code      | [IWAT](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IWAT)                                                      |
 |:-------------------|:--------------------------------------------------------------------------------------------------------------------------|
@@ -14,7 +14,7 @@
 | Lactation          | Compatible                                                                                                                |
 | More Info          | [UpToDate](https://www.uptodate.com/contents/water-for-injection-drug-information)                                        |
 
-## Water for injection 500mL
+## Water for Injection 500mL
 
 | TAH Drug Code      | [IWAT500](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IWAT500)                                                |
 |:-------------------|:--------------------------------------------------------------------------------------------------------------------------|

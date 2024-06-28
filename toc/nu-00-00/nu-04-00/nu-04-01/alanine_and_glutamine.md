@@ -1,4 +1,4 @@
-# Alanine 8.2% + glutamine 13.64%
+# Alanine 8.2% + Glutamine 13.64%
 
 ## Dipeptiven inj 100mL
 

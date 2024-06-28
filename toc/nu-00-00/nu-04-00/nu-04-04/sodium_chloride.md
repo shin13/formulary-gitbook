@@ -1,5 +1,19 @@
 # Sodium Chloride
 
+## NaCl 0.9% inj 500mL (專案大塚越南)
+
+| TAH Drug Code      | [INS0501](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=INS0501)                                                                                                                                                                                                                                                                                                |
+|:-------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Indications        | Water or electrolyte replenishment.                                                                                                                                                                                                                                                                                                                                       |
+| Dosing             | Individualised dosage. Sodium chloride 0.9% injection contains 154 mEq/L sodium and 154 mEq/L chloride. Calculated osmolarity is 308 mOsmol/L. Adults: 500-1000 mL per dose, determined by the physician based on patient needs, administered subcutaneously, intramuscularly, or intravenously. Suitable as a solvent for dissolving or diluting injectable medications. |
+| Hepatic Impairment | Dose adjustment not necessary                                                                                                                                                                                                                                                                                                                                             |
+| Renal Impairment   | Dose adjustment not necessary                                                                                                                                                                                                                                                                                                                                             |
+| Contraindications  | None known.                                                                                                                                                                                                                                                                                                                                                               |
+| Adverse Effects    | Common: Phlebitis, Injection site disorder, Injection site extravasation, Hypervolemia. Serious: Congestive heart failure, Hypernatremia, Overhydration, Disseminated intravascular coagulation, Respiratory distress.                                                                                                                                                    |
+| Pregnancy          | Compatible                                                                                                                                                                                                                                                                                                                                                                |
+| Lactation          | Compatible                                                                                                                                                                                                                                                                                                                                                                |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/sodium-chloride-preparations-saline-and-oral-salt-tablets-drug-information)                                                                                                                                                                                                                                                  |
+
 ## NaCl 0.9% inj 1000mL
 
 | TAH Drug Code      | [INS1](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=INS1)                                                     |
@@ -42,7 +56,7 @@
 | Lactation          | Unknown                                                                                                                  |
 | More Info          | [UpToDate](https://www.uptodate.com/contents/sodium-chloride-preparations-saline-and-oral-salt-tablets-drug-information) |
 
-## NaCl 0.9% inj 250mL
+## NaCl 0.9% inj 250mL(硬瓶)
 
 | TAH Drug Code      | [INS250](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=INS250)                                                 |
 |:-------------------|:-------------------------------------------------------------------------------------------------------------------------|
@@ -84,21 +98,7 @@
 | Lactation          | Unknown                                                                                                                  |
 | More Info          | [UpToDate](https://www.uptodate.com/contents/sodium-chloride-preparations-saline-and-oral-salt-tablets-drug-information) |
 
-## 0.45% NaCl inj 20mL (限RT使用)
-
-| TAH Drug Code      | [INS45/20](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=INS45/20)                                             |
-|:-------------------|:-------------------------------------------------------------------------------------------------------------------------|
-| Indications        | No Data                                                                                                                  |
-| Dosing             | Only for respiratory treatment of in-patient.                                                                            |
-| Hepatic Impairment | Dose adjustment not necessary                                                                                            |
-| Renal Impairment   | Dose adjustment not necessary                                                                                            |
-| Contraindications  | No Data                                                                                                                  |
-| Adverse Effects    | No Data                                                                                                                  |
-| Pregnancy          | Unknown                                                                                                                  |
-| Lactation          | Unknown                                                                                                                  |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/sodium-chloride-preparations-saline-and-oral-salt-tablets-drug-information) |
-
-## NaCl 0.9% inj 500mL
+## NaCl 0.9% inj 500mL (硬瓶)
 
 | TAH Drug Code      | [INS5](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=INS5)                                                     |
 |:-------------------|:-------------------------------------------------------------------------------------------------------------------------|
@@ -115,6 +115,20 @@
 ## NaCl 0.9% inj 500mL (N.K.)
 
 | TAH Drug Code      | [INS5N](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=INS5N)                                                                                                                                                                                                                                                                                                    |
+|:-------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Indications        | Water or electrolyte replenishment.                                                                                                                                                                                                                                                                                                                                       |
+| Dosing             | Individualised dosage. Sodium chloride 0.9% injection contains 154 mEq/L sodium and 154 mEq/L chloride. Calculated osmolarity is 308 mOsmol/L. Adults: 500-1000 mL per dose, determined by the physician based on patient needs, administered subcutaneously, intramuscularly, or intravenously. Suitable as a solvent for dissolving or diluting injectable medications. |
+| Hepatic Impairment | Dose adjustment not necessary                                                                                                                                                                                                                                                                                                                                             |
+| Renal Impairment   | Dose adjustment not necessary                                                                                                                                                                                                                                                                                                                                             |
+| Contraindications  | None known.                                                                                                                                                                                                                                                                                                                                                               |
+| Adverse Effects    | Common: Phlebitis, Injection site disorder, Injection site extravasation, Hypervolemia. Serious: Congestive heart failure, Hypernatremia, Overhydration, Disseminated intravascular coagulation, Respiratory distress.                                                                                                                                                    |
+| Pregnancy          | Unknown                                                                                                                                                                                                                                                                                                                                                                   |
+| Lactation          | Unknown                                                                                                                                                                                                                                                                                                                                                                   |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/sodium-chloride-preparations-saline-and-oral-salt-tablets-drug-information)                                                                                                                                                                                                                                                  |
+
+## NaCl 0.9% inj 500mL (信東瓶裝)
+
+| TAH Drug Code      | [INS5S](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=INS5S)                                                                                                                                                                                                                                                                                                    |
 |:-------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Water or electrolyte replenishment.                                                                                                                                                                                                                                                                                                                                       |
 | Dosing             | Individualised dosage. Sodium chloride 0.9% injection contains 154 mEq/L sodium and 154 mEq/L chloride. Calculated osmolarity is 308 mOsmol/L. Adults: 500-1000 mL per dose, determined by the physician based on patient needs, administered subcutaneously, intramuscularly, or intravenously. Suitable as a solvent for dissolving or diluting injectable medications. |

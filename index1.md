@@ -46,7 +46,7 @@
   * Eylea aflibercept 2mg/0.05mL
 * Agomelatine
   * Valdoxan 25mg
-* Alanine 8.2% + glutamine 13.64%
+* Alanine 8.2% + Glutamine 13.64%
   * Dipeptiven inj 100mL
 * Albumin
   * Albumin inj 20% 50mL (TBSF)
@@ -87,8 +87,8 @@
 * Amino Acid + Dextrose + Electrolytes + Vitamin B1
   * Bfluid inj 1000mL
 * Amino Acids
-  * Aminosteril infant 10% 100mL
-  * Amiparen inj 10% 200mL
+  * Aminosteril infant 10% inj 100mL
+  * Amiparen 10% inj 200mL
   * Nephrosteril 7% inj 250mL
 * Amino Acids + Ketoanalogues
   * Ketosteril
@@ -162,7 +162,7 @@
 * Azelaic Acid
   * Azel cream 30gm
 * Azelastine + Fluticasone
-  * Dymista 137/50mcg/dose,120dose nasal spray
+  * Dymista 137/50mcg/dose, 120 doses nasal spray
 * Azilsartan medoxomil
   * Edarbi 40mg
 * Azithromycin
@@ -177,9 +177,9 @@
   * Spersin ointment 10gm
 * Baclofen
   * Baclospas 5mg
-* Balanced salt solution
-  * BSS sterile irrigation solusion 500mL/Bag
-  * BSS sterile irrigation solusion 500ml/Bottle
+* Balanced Salt Solution
+  * BSS sterile irrigation solution 500mL/Bag
+  * BSS sterile irrigation solution 500mL/Bottle
 * Baloxavir marboxil
   * Xofluza 20mg
 * Barium sulfate
@@ -200,7 +200,7 @@
 * Benzydamine
   * Difflam forte 3mg/mL, 15mL
 * Benzyl benzoate
-  * Jaline Lotion 25%, 150mL
+  * Jaline Lotion 25% 150mL
 * Beractant
   * Survanta 25mg/mL, 8mL
 * Betahistine
@@ -242,7 +242,7 @@
 * Brinzolamide
   * Azopt 1%, 5mL ophthalmic suspension
 * Brinzolamide + Brimonidine tartrate
-  * Simbrinza eye drops 1%/0.2%, 5mL
+  * Simbrinza eye drops 1%/0.2% 5mL
 * Brivaracetam
   * Briviact 100mg
 * Brodalumab
@@ -252,7 +252,7 @@
 * Bromelain + L-Cysteine
   * Broen-C 20000IU/20mg
 * Bromhexine
-  * Bisolvon solution 2mg/mL, 50mL
+  * Bisolvon solution 2mg/mL 50mL
 * Brotizolam
   * Lendormin 0.25mg
 * Budesonide
@@ -273,7 +273,7 @@
 * Butenafine
   * Mentax cream 1% 15gm
 * Butorphanol
-  * Butaro Nasal Spray 10mg/mL
+  * Butaro Nasal Spray 10mg/mL, 2.5mL
 ## C
 * Cabergoline
   * Dostinex 0.5mg
@@ -290,8 +290,8 @@
   * Procal 667mg
 * Calcium Carbonate
   * Calcium Carbonate 500mg
-* Calcium gluconate
-  * Calglon inj 10% 10mL
+* Calcium Gluconate
+  * Calglon 10% inj 10mL
 * Canagliflozin
   * Canaglu 100mg
 * Candesartan
@@ -416,12 +416,14 @@
   * Elonva inj 150mcg/0.5mL
 * Cr+Cu+Fe+Zn+Mn+Se+I+F+Mo
   * Addaven inj 10mL/amp (成人用)
+* Crisaborole
+  * Staquis ointment 2% 30gm
 * Cyanocobalamin
-  * Sancoba 0.02%, 5mL ophthalmic solution
+  * Sancoba 0.02% 5mL ophthalmic solution
 * Cyclophosphamide
   * Endoxan inj 500mg
 * Cyclosporine
-  * Restasis 0.05%, 0.4mL eye emulsion
+  * Restasis 0.05% 0.4mL eye emulsion
 * Cyproheptadine
   * Cypromin solution 0.4mg/mL, 60mL
   * Pilian 4mg
@@ -491,17 +493,17 @@
 * Dextromethorphan+Lysozyme+K Cresolsulfonate
   * Romicon-A 20/20/90mg
 * Dextrose
+  * Dextrose (Vitagen) 20% inj 20mL
+  * Dextrose (Vitagen) 50% inj 20mL
   * Dextrose 10% inj 500mL
-  * Dextrose 20% inj (Vitagen) 20mL
+  * Dextrose 5% inj 250mL
+  * Dextrose 5% inj 500mL
   * Dextrose 5% inj 500mL (Otsuka)
-  * Dextrose 50% inj (Vitagen) 20mL
-  * Glucose 5% inj 250mL
-  * Glucose 5% inj 500mL
 * Dextrose + Sodium Chloride
-  * Dextrose 2.5% in NaCl 0.45% 500mL
+  * Dextrose 2.5% in NaCl 0.45% inj 500mL
   * Dextrose 5% in NaCl 0.3% inj 500mL (Otsuka)
-  * Dextrose 5% in NaCl 0.33% 500mL
-  * Dextrose 5% in NaCl 0.9% 500mL
+  * Dextrose 5% in NaCl 0.33% inj 500mL
+  * Dextrose 5% in NaCl 0.9% inj 500mL
   * Dextrose 5% in NaCl 0.9% inj 500mL (N.K.)
 * Diazepam
   * Diapin 2mg
@@ -691,8 +693,6 @@
   * FENTANYL inj 0.5mg/10mL(限麻醉科使用)
   * Fentanyl inj 0.1mg/2mL
   * Fentanyl patch 25mcg/hr
-* Ferric Hydroxide Polymaltose Complex
-  * Ferrum hausmann 50mg/20drops/mL 30mL
 * Ferric-Hydroxide-Sucrose Complex
   * Fe-Back inj 2%, 5mL
 * Ferrous Gluconate + Vit B1 + Vit C
@@ -738,8 +738,8 @@
 * Flurbiprofen
   * Flurbi PAP (4 patchs/pack)
 * Fluticasone
-  * Avamys 27.5mcg/dose, 120dose nasal spray
-  * Flixotide 50mcg evohaler 120dose
+  * Avamys 27.5mcg/dose, 120 doses nasal spray
+  * Flixotide 50mcg evohaler 120 doses
   * Fluticosone cream 0.05%, 5gm
 * Fluticasone + Vilanterol
   * RELVAR Ellipta 184/22mcg(大劑量)inhalation powder
@@ -809,7 +809,7 @@
 * Glyburide + Metformin
   * GlucoMET 5/500mg(鋁箔/錫箔)
 * Glycerin + Fructose + Sodium Chloride
-  * Glycetose inj 10%, 300mL
+  * Glycetose 10% inj 300mL
 * Glycopyrrolate
   * Glycopyrodyn inj 0.2mg/1mL
 * Golimumab
@@ -953,7 +953,7 @@
 * Ketamine
   * Ketalar inj 50mg/mL, 10mL
 * Ketorolac
-  * Kelac 0.5%, 5mL ophthalmic solution
+  * Kelac 0.5% 5mL ophthalmic solution
   * Keto 10mg
   * Laston inj 30mg/1mL
 * Ketotifen
@@ -983,7 +983,7 @@
 * Lapatinib ditosylate
   * Tykerb 250mg
 * Latanoprost
-  * Xalatan 0.005%, 2.5mL ophthalmic solution
+  * Xalatan 0.005% 2.5mL ophthalmic solution
 * Latanoprostene bunod
   * Vyzulta 0.024%, 5mL ophthalmic solution
 * Ledipasvir + Sofosbuvir
@@ -1051,11 +1051,11 @@
 ## M
 * MCT + Fish oil + Olive oil + Soybean oil
   * SMOFlipid (小兒TPN用100mL, 20%)
-  * SMOFlipid inj 20% 250mL
+  * SMOFlipid 20% inj 250mL
 * Magnesium Oxide
   * Magnesium Oxide 250mg
 * Magnesium Sulfate
-  * Mg Sulfate inj 10%, 200mL
+  * Mg Sulfate 10% inj 200mL
 * Measles + Mumps + Rubella
   * MMR II (Government) 0.5mL/dose
 * Mebeverine
@@ -1116,7 +1116,7 @@
   * Promeran 3.84mg
   * Pulin inj 10mg/2mL
 * Metronidazole
-  * Efucon gel 0.75%, 15gm
+  * Efucon gel 0.75% 15gm
   * Frotin 250mg suppository
   * Metrozole 250mg
   * SABS inj 500mg/100mL
@@ -1143,8 +1143,8 @@
 * Molnupiravir
   * (自費) Molnupiravir 200mg (40顆/瓶)
 * Mometasone
-  * Elomet cream 0.1%, 5gm
-  * Nasonex 50mcg/dose, 140dose nasal spray
+  * Elomet cream 0.1% 5gm
+  * Nasonex 50mcg/dose, 140 doses nasal spray
 * Montelukast
   * Monteka 4mg
   * SINGULAIR 10mg
@@ -1166,7 +1166,7 @@
   * Patear eye lotion 10mL
 * NaCl + KCl + Calcium Chloride + Lactose
   * Lactated Ringer's inj 500mL
-  * Ringer Lactate 500mL
+  * Ringer Lactate inj 500mL
 * Nalbuphine
   * Mutonpain inj 10mg/1mL
 * Naloxone
@@ -1296,7 +1296,7 @@
   * Plegridy inj 63mcg
   * Plegridy inj 94mcg
 * Pembrolizumab
-  * KEYTRUDA inj 100mg/4mL
+  * Keytruda inj 100mg/4mL
 * Pemetrexed
   * ALIMTA inj 500mg
   * Alimta inj 100mg
@@ -1365,12 +1365,12 @@
 * Polysaccharides of Astragalus membranaceus
   * PG2 inj 500mg
 * Potassium Chloride
-  * 1.49% KCl (20mEq) in 0.9%NaCl 100mL
-  * 10mEq KCl in 0.9%NaCl 500mL
-  * 20mEq KCl in 0.9%NaCl 500mL
+  * 1.49% KCl (20mEq) in NaCl 0.9% inj 100mL
+  * 10mEq KCl in NaCl 0.9% inj 500mL
+  * 20mEq KCl in NaCl 0.9% inj 500mL
   * 20mEq KCl in【D5NS 500mL】
   * 20mEq KCl in【D5W 500mL】
-  * KCl inj (限添加用) 15%,10mL
+  * KCl 15% (限添加用) inj 10mL
 * Potassium Citrate Monohydrate + Citric Acid
   * K-citrate granules 5gm
 * Potassium Gluconate
@@ -1455,6 +1455,7 @@
 * Rifapentine
   * Priftin 150mg (Government)
 * Risankizumab
+  * SKYRIZI inj 150mg/1mL
   * Skyrizi 75mg/0.83mL pre-filled syringe
 * Risperidone
   * Apa-Risdol 2mg
@@ -1544,28 +1545,29 @@
   * (限腸胃中心)Simethicone 20mg/mL suspension
   * Wilcon 20mg/mL, 60mL suspension
 * Sodium Acetate Anhydrous
-  * Sodium acetate inj 20mL (4mEq/mL)
+  * Sodium Acetate inj 20mL (4mEq/mL)
 * Sodium Bicarbonate
-  * NaHCO3 (Rolikan) inj 7% 20mL
+  * NaHCO3 (Rolikan) 7% inj 20mL
   * NaHCO3 300mg
 * Sodium Chloride
-  * 0.45% NaCl inj 20mL (限RT使用)
-  * 0.9%NaCl irrigation 3000mL
   * Atomic enema 20mL
   * NaCl 0.45% inj 500mL
   * NaCl 0.9% inj 1000mL
   * NaCl 0.9% inj 1000mL (CHI SHENG)
   * NaCl 0.9% inj 100mL bag (Otsuka)
   * NaCl 0.9% inj 20mL
-  * NaCl 0.9% inj 250mL
   * NaCl 0.9% inj 250mL bag (Otsuka)
-  * NaCl 0.9% inj 500mL
+  * NaCl 0.9% inj 250mL(硬瓶)
   * NaCl 0.9% inj 500mL (N.K.)
+  * NaCl 0.9% inj 500mL (信東瓶裝)
+  * NaCl 0.9% inj 500mL (專案大塚越南)
+  * NaCl 0.9% inj 500mL (硬瓶)
   * NaCl 0.9% inj 500mL bag (Otsuka)
-  * NaCl 0.9% irrigation (Normal Saline) 500mL(沖洗用)
   * NaCl 0.9% irrigation 1000mL
   * NaCl 0.9% irrigation 2000mL
-  * NaCl 0.9% irrigation 500mL
+  * NaCl 0.9% irrigation 3000mL
+  * NaCl 0.9% irrigation 500mL (專案濟生)
+  * NaCl 0.9% irrigation 500mL (沖洗用)
   * NaCl 3% inj 500mL (YF)
   * Sodium Chloride eye drop 3%, 5mL
 * Sodium Oleate
@@ -1582,12 +1584,10 @@
   * Vesicare 5mg
 * Soybean and probiotics fermentation product
   * Chemo young 4mL/bottle (14bottles/box)
-* Soyean oil + MCT+ Egg Yolk Phospholipids+ Glycerol
-  * Lipofundin 10% 250mL
 * Spironolactone
   * Spironolactone 25mg
 * Sterile Water
-  * Sterile water for irrigation 2000mL
+  * Sterile Water for Irrigation 2000mL
 * Streptococus Pyogenes
   * Picibanil inj 5KE
 * Succinylated Gelatin
@@ -1642,7 +1642,7 @@
 * Terbutaline
   * Butanyl solution 5mg/2mL
 * Teriparatide
-  * Alvosteo inj 20mcg/80microliters, 2.4mL
+  * Alvosteo inj 20mcg/80microliters 2.4mL
   * Forteo 750mcg/3mL, 28dose
 * Terlipressin
   * Glypressin inj 0.1mg/mL, 8.5mL
@@ -1755,7 +1755,7 @@
 * Umeclidinium + Vilanterol trifenatate
   * Anoro Ellipta 55/22mcg inhalation powder
 * Urea
-  * Sinpharderm cream 40%, 10gm (去角質)
+  * Sinpharderm cream 40% 10gm (去角質)
   * Urea cream 10%, 20gm
 * Urokinase
   * UROKINASE 60,000IU
@@ -1814,8 +1814,8 @@
   * COFARIN 5mg
   * Cofarin 1mg
 * Water for injection
-  * Water for injection 20mL
-  * Water for injection 500mL
+  * Water for Injection 20mL
+  * Water for Injection 500mL
 ## Z
 * Zinc Acetate
   * Zinca 25mg

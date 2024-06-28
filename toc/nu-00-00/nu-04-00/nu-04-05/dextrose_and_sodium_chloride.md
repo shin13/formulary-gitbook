@@ -1,6 +1,6 @@
 # Dextrose + Sodium Chloride
 
-## Dextrose 2.5% in NaCl 0.45% 500mL
+## Dextrose 2.5% in NaCl 0.45% inj 500mL
 
 | TAH Drug Code      | [IGS25](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IGS25)                                                          |
 |:-------------------|:--------------------------------------------------------------------------------------------------------------------------------|
@@ -14,7 +14,7 @@
 | Lactation          | Compatible                                                                                                                      |
 | More Info          | [UpToDate](https://www.uptodate.com/contents/dextrose-and-sodium-chloride-drug-information)                                     |
 
-## Dextrose 5% in NaCl 0.33% 500mL
+## Dextrose 5% in NaCl 0.33% inj 500mL
 
 | TAH Drug Code      | [IGS33](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IGS33)                                                        |
 |:-------------------|:------------------------------------------------------------------------------------------------------------------------------|
@@ -42,7 +42,7 @@
 | Lactation          | Compatible                                                                                                                                                                                               |
 | More Info          | [UpToDate](https://www.uptodate.com/contents/dextrose-and-sodium-chloride-drug-information)                                                                                                              |
 
-## Dextrose 5% in NaCl 0.9% 500mL
+## Dextrose 5% in NaCl 0.9% inj 500mL
 
 | TAH Drug Code      | [IGS5](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IGS5)                                                       |
 |:-------------------|:---------------------------------------------------------------------------------------------------------------------------|

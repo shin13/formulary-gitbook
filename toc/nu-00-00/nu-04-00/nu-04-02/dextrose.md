@@ -14,7 +14,7 @@
 | Lactation          | Unknown                                                                                                 |
 | More Info          | [UpToDate](https://www.uptodate.com/contents/instant-glucose-and-intravenous-dextrose-drug-information) |
 
-## Dextrose 20% inj (Vitagen) 20mL
+## Dextrose (Vitagen) 20% inj 20mL
 
 | TAH Drug Code      | [IGW20](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IGW20)                                                                                                                                                                                                                                                                                                                                                   |
 |:-------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -28,7 +28,7 @@
 | Lactation          | Unknown                                                                                                                                                                                                                                                                                                                                                                                                                  |
 | More Info          | [UpToDate](https://www.uptodate.com/contents/instant-glucose-and-intravenous-dextrose-drug-information)                                                                                                                                                                                                                                                                                                                  |
 
-## Glucose 5% inj 250mL
+## Dextrose 5% inj 250mL
 
 | TAH Drug Code      | [IGW250](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IGW250)                                |
 |:-------------------|:--------------------------------------------------------------------------------------------------------|
@@ -42,7 +42,7 @@
 | Lactation          | Unknown                                                                                                 |
 | More Info          | [UpToDate](https://www.uptodate.com/contents/instant-glucose-and-intravenous-dextrose-drug-information) |
 
-## Glucose 5% inj 500mL
+## Dextrose 5% inj 500mL
 
 | TAH Drug Code      | [IGW5](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IGW5)                                    |
 |:-------------------|:--------------------------------------------------------------------------------------------------------|
@@ -56,7 +56,7 @@
 | Lactation          | Unknown                                                                                                 |
 | More Info          | [UpToDate](https://www.uptodate.com/contents/instant-glucose-and-intravenous-dextrose-drug-information) |
 
-## Dextrose 50% inj (Vitagen) 20mL
+## Dextrose (Vitagen) 50% inj 20mL
 
 | TAH Drug Code      | [IGW50](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IGW50)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 |:-------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

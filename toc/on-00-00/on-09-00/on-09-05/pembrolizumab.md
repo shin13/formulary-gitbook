@@ -1,6 +1,6 @@
 # Pembrolizumab
 
-## KEYTRUDA inj 100mg/4mL
+## Keytruda inj 100mg/4mL
 
 ##### 臨採
 

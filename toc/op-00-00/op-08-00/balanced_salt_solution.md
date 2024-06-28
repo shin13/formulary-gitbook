@@ -1,6 +1,6 @@
-# Balanced salt solution
+# Balanced Salt Solution
 
-## BSS sterile irrigation solusion 500mL/Bag
+## BSS sterile irrigation solution 500mL/Bag
 
 | TAH Drug Code      | [EBSS1](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EBSS1)                                      |
 |:-------------------|:------------------------------------------------------------------------------------------------------------|
@@ -14,7 +14,7 @@
 | Lactation          | Unknown                                                                                                     |
 | More Info          | [UpToDate](https://www.uptodate.com/contents/balanced-salt-solution-drug-information)                       |
 
-## BSS sterile irrigation solusion 500ml/Bottle
+## BSS sterile irrigation solution 500mL/Bottle
 
 | TAH Drug Code      | [EBSS2](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EBSS2)                                                                                                                              |
 |:-------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

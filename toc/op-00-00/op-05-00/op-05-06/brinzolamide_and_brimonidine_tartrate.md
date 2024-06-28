@@ -1,6 +1,6 @@
 # Brinzolamide + Brimonidine tartrate
 
-## Simbrinza eye drops 1%/0.2%, 5mL
+## Simbrinza eye drops 1%/0.2% 5mL
 
 | TAH Drug Code      | [ESIM](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ESIM)                                                                                                                                               |
 |:-------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

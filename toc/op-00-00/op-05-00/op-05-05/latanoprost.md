@@ -1,6 +1,6 @@
 # Latanoprost
 
-## Xalatan 0.005%, 2.5mL ophthalmic solution
+## Xalatan 0.005% 2.5mL ophthalmic solution
 
 | TAH Drug Code      | [EXAL](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EXAL)                                                                       |
 |:-------------------|:-------------------------------------------------------------------------------------------------------------------------------------------|

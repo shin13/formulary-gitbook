@@ -1,6 +1,6 @@
 # Fluticasone
 
-## Flixotide 50mcg evohaler 120dose
+## Flixotide 50mcg evohaler 120 doses
 
 | TAH Drug Code      | [EFLIE](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EFLIE)                                                                                                                                             |
 |:-------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

@@ -1,6 +1,6 @@
 # Azelastine + Fluticasone
 
-## Dymista 137/50mcg/dose,120dose nasal spray
+## Dymista 137/50mcg/dose, 120 doses nasal spray
 
 | TAH Drug Code      | [EDYM](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EDYM)                                                           |
 |:-------------------|:-------------------------------------------------------------------------------------------------------------------------------|
