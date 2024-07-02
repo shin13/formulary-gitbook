@@ -1,6 +1,6 @@
 # Gentamicin
 
-## Gentamicin eye ointment 0.3%, 5gm
+## Gentamicin eye ointment 0.3% 5gm
 
 | TAH Drug Code      | [EGEN3](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EGEN3)            |
 |:-------------------|:----------------------------------------------------------------------------------|
@@ -14,7 +14,7 @@
 | Lactation          | Compatible                                                                        |
 | More Info          | [UpToDate](https://www.uptodate.com/contents/gentamicin-drug-information)         |
 
-## Gentamicin eye drops 5mL
+## Gentamicin eye drops 0.3% 5mL
 
 | TAH Drug Code      | [EGENT](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EGENT)                 |
 |:-------------------|:---------------------------------------------------------------------------------------|
