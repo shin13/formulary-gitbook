@@ -155,8 +155,6 @@
 * Atropine
   * [Antol 0.125%, 5mL](https://shin13.gitbook.io/formulary/toc/op-00-00/op-04-00/atropine)
   * [Atropine sulfate inj 1mg/1mL](https://shin13.gitbook.io/formulary/toc/gi-00-00/gi-05-00/atropine)
-* Atropine sulfate monohydrate
-  * [Santone 0.01% 7mL ophthalmic solution](https://shin13.gitbook.io/formulary/toc/op-00-00/op-04-00/atropine_sulfate_monohydrate)
 * Azathioprine
   * [Imuran 50mg](https://shin13.gitbook.io/formulary/toc/im-00-00/im-04-00/azathioprine)
 * Azelaic Acid
@@ -220,6 +218,8 @@
   * [Avastin inj 100mg/4mL](https://shin13.gitbook.io/formulary/toc/on-00-00/on-09-00/on-09-03/bevacizumab)
 * Bicalutamide
   * [Casodex 50mg](https://shin13.gitbook.io/formulary/toc/on-00-00/on-05-00/on-05-04/bicalutamide)
+* Bimatoprost
+  * [Lumigan PF eye drops 0.03% 0.4mL](https://shin13.gitbook.io/formulary/toc/op-00-00/op-05-00/op-05-05/bimatoprost)
 * Biperiden
   * [Akinfree 2mg](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-03-00/cn-03-03/biperiden)
 * Bisacodyl
@@ -603,7 +603,8 @@
   * [1mg BARACLUDE](https://shin13.gitbook.io/formulary/toc/ai-00-00/ai-03-00/ai-03-03/entecavir)
   * [Baraclude 0.5mg](https://shin13.gitbook.io/formulary/toc/ai-00-00/ai-03-00/ai-03-03/entecavir)
 * Enzalutamide
-  * [Xtandi 40mg](https://shin13.gitbook.io/formulary/toc/on-00-00/on-05-00/on-05-04/enzalutamide)
+  * [Xtandi 40mg (capsule)](https://shin13.gitbook.io/formulary/toc/on-00-00/on-05-00/on-05-04/enzalutamide)
+  * [Xtandi 40mg (tablet)](https://shin13.gitbook.io/formulary/toc/on-00-00/on-05-00/on-05-04/enzalutamide)
 * Ephedrine
   * [Ephedrine inj 40mg/1mL](https://shin13.gitbook.io/formulary/toc/cv-00-00/cv-01-00/cv-01-03/ephedrine)
 * Epinephrine
@@ -666,8 +667,6 @@
 * Ezetimibe + Rosuvastatin
   * [CreTROL 10/20mg](https://shin13.gitbook.io/formulary/toc/cv-00-00/cv-12-00/ezetimibe_and_rosuvastatin)
 ## F
-* FSH 450IU + LH 225IU
-  * [Pergoveris 450 IU + 225 IU](https://shin13.gitbook.io/formulary/toc/hr-00-00/hr-02-00/fsh_450iu_and_lh_225iu)
 * FSH 600 IU + LH 600 IU
   * [MENOPUR multidose 600 IU](https://shin13.gitbook.io/formulary/toc/hr-00-00/hr-02-00/fsh_600_iu_and_lh_600_iu)
 * FSH 75 IU + LH 75 IU
@@ -1020,6 +1019,7 @@
   * [Lidocaine inj 20mg/mL, 20mL局麻](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-04-00/cn-04-02/lidocaine)
   * [Lidopat patch 5% (3 patchs/pack)](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-04-00/cn-04-02/lidocaine)
   * [Xylocaine 2% IV 100mg/5mL](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-04-00/cn-04-02/lidocaine)
+  * [Xylocaine 2% inj 20mL局麻](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-04-00/cn-04-02/lidocaine)
   * [Xylocaine jelly 30gm, 2%](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-04-00/cn-04-02/lidocaine)
   * [Xylocaine spray 10%, 50mL](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-04-00/cn-04-02/lidocaine)
 * Lidocaine + Epinephrine
@@ -1123,6 +1123,8 @@
   * [Meletin 100mg](https://shin13.gitbook.io/formulary/toc/cv-00-00/cv-01-00/cv-01-02/mexiletine)
 * Micafungin
   * [Mycamine inj 50mg](https://shin13.gitbook.io/formulary/toc/ai-00-00/ai-02-00/micafungin)
+* Micronized purified flavonoid fraction (MPFF)
+  * [Daflon 1000mg](https://shin13.gitbook.io/formulary/toc/he-00-00/he-07-00/micronized_purified_flavonoid_fraction_(mpff))
 * Midazolam
   * [Midazolam-hameln inj 5mg/1mL](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-02-00/cn-02-07/midazolam)
 * Midodrine
@@ -1138,8 +1140,6 @@
   * [Cytotec 200mcg](https://shin13.gitbook.io/formulary/toc/gi-00-00/gi-01-00/gi-01-04/misoprostol)
 * Mitomycin C
   * [Mitonco inj 10mg](https://shin13.gitbook.io/formulary/toc/on-00-00/on-03-00/on-03-09/mitomycin_c)
-* Molnupiravir
-  * [(自費) Molnupiravir 200mg (40顆/瓶)](https://shin13.gitbook.io/formulary/toc/ai-00-00/ai-03-00/ai-03-09/molnupiravir)
 * Mometasone
   * [Elomet cream 0.1% 5gm](https://shin13.gitbook.io/formulary/toc/de-00-00/de-06-00/mometasone)
   * [Nasonex 50mcg/dose, 140 doses nasal spray](https://shin13.gitbook.io/formulary/toc/en-00-00/en-02-00/mometasone)
@@ -1209,6 +1209,7 @@
   * [Ofev 150mg](https://shin13.gitbook.io/formulary/toc/on-00-00/on-08-00/on-08-99/nintedanib)
 * Nirmatrelvir + Ritonavir
   * [Paxlovid (政府自費) 300/100mg, 10 doses](https://shin13.gitbook.io/formulary/toc/ai-00-00/ai-03-00/ai-03-09/nirmatrelvir_and_ritonavir)
+  * [Paxlovid (絕對自費) 300/100mg, 10 doses](https://shin13.gitbook.io/formulary/toc/ai-00-00/ai-03-00/ai-03-09/nirmatrelvir_and_ritonavir)
   * [Paxlovid 300/100mg, 10 doses (公費)](https://shin13.gitbook.io/formulary/toc/ai-00-00/ai-03-00/ai-03-09/nirmatrelvir_and_ritonavir)
 * Nitroglycerin
   * [Millisrol inj 5mg/10mL](https://shin13.gitbook.io/formulary/toc/cv-00-00/cv-02-00/nitroglycerin)
@@ -1440,7 +1441,7 @@
 * Regorafenib
   * [Stivarga 40mg (28#/Bot)](https://shin13.gitbook.io/formulary/toc/on-00-00/on-08-00/on-08-99/regorafenib)
 * Remdesivir
-  * [Veklury (自費) inj 100mg (凍晶)](https://shin13.gitbook.io/formulary/toc/ai-00-00/ai-03-00/ai-03-09/remdesivir)
+  * [Veklury (政府自費) inj 100mg (凍晶)](https://shin13.gitbook.io/formulary/toc/ai-00-00/ai-03-00/ai-03-09/remdesivir)
   * [Veklury inj 100mg (公費/凍晶)](https://shin13.gitbook.io/formulary/toc/ai-00-00/ai-03-00/ai-03-09/remdesivir)
 * Ribavirin
   * [Ribarin 200mg](https://shin13.gitbook.io/formulary/toc/ai-00-00/ai-03-00/ai-03-04/ribavirin)
@@ -1452,7 +1453,6 @@
   * [Priftin 150mg (Government)](https://shin13.gitbook.io/formulary/toc/ai-00-00/ai-01-00/ai-01-12/rifapentine)
 * Risankizumab
   * [SKYRIZI inj 150mg/1mL](https://shin13.gitbook.io/formulary/toc/im-00-00/im-04-00/risankizumab)
-  * [Skyrizi 75mg/0.83mL pre-filled syringe](https://shin13.gitbook.io/formulary/toc/im-00-00/im-04-00/risankizumab)
 * Risperidone
   * [Apa-Risdol 2mg](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-02-00/cn-02-01/risperidone)
   * [Risperdal solution 1mg/mL, 30mL](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-02-00/cn-02-01/risperidone)
@@ -1613,8 +1613,6 @@
   * [Protopic ointment 0.1%,10gm](https://shin13.gitbook.io/formulary/toc/de-00-00/de-11-00/tacrolimus)
 * Tadalafil
   * [Cialis 5mg (28 tablets/box)](https://shin13.gitbook.io/formulary/toc/ur-00-00/ur-03-00/tadalafil)
-* Tafluprost
-  * [Taflotan-S 0.0015% 0.3mL ophthalmic solution](https://shin13.gitbook.io/formulary/toc/op-00-00/op-05-00/op-05-05/tafluprost)
 * Tamoxifen
   * [Nolvadex 10mg](https://shin13.gitbook.io/formulary/toc/on-00-00/on-05-00/on-05-03/tamoxifen)
 * Tamsulosin
