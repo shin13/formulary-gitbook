@@ -1,6 +1,6 @@
 # Risankizumab
 
-## SKYRIZI inj 150mg/1mL
+## Skyrizi inj 150mg/1mL
 
 ##### 臨採
 

@@ -433,7 +433,6 @@
       * [Clindamycin](toc/de-00-00/de-07-00/clindamycin.md)
       * [Isotretinoin](toc/de-00-00/de-07-00/isotretinoin.md)
     * [Topical Antihistamines and Antipruritics](toc/de-00-00/de-08-00/README.md)
-      * [Calamine And Zinc Oxide](toc/de-00-00/de-08-00/calamine_and_zinc_oxide.md)
       * [Doxepin](toc/de-00-00/de-08-00/doxepin.md)
       * [Plectranthus Amboinicus And Centella Asiatica](toc/de-00-00/de-08-00/plectranthus_amboinicus_and_centella_asiatica.md)
       * [Zinc Oxide](toc/de-00-00/de-08-00/zinc_oxide.md)

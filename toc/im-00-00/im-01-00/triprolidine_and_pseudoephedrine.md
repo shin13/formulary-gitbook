@@ -1,18 +1,18 @@
 # Triprolidine + Pseudoephedrine
 
-## Pseu solution 60mL (0.25+6mg/mL)
+## Peace syrup 60mL (0.5+6 mg/mL)
 
-| TAH Drug Code      | [LPSE](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=LPSE)                                                                                                                                                                                                                                                                                 |
-|:-------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Indications        | Temporary relief of symptoms (runny nose, nasal congestion, sneezing, itchy nose or throat, itchy/watery eyes, nasal passages swelling) associated with common cold, hay fever (allergic rhinitis), or other upper respiratory allergies.                                                                                                            |
-| Dosing             | Ingredient content: Triprolidine 0.25 mg/mL + Pseudoephedrine 6 mg/mL Adults and Children ?12 years: 10 mL every 4-8 hours as needed; MAX 4 doses (40 mL) per 24 hours. Children 6 to <12 years: 5 mL every 4-8 hours as needed; MAX 4 doses (20 mL) per 24 hours. Children 2-5 years: 2.5 mL/dose. Children 6 months - under 2 years: 1.25 mL/dose. |
-| Hepatic Impairment | Dose adjustment not necessary                                                                                                                                                                                                                                                                                                                        |
-| Renal Impairment   | Dose adjustment not necessary                                                                                                                                                                                                                                                                                                                        |
-| Contraindications  | Hypersensitivity to Pseu solution, pseudoephedrine, triprolidine or any component of the formulation.                                                                                                                                                                                                                                                |
-| Adverse Effects    | Tachycardia, dizziness, drowsiness, excitement (transient), fatigue, headache, insomnia, nervousness, diaphoresis, weight gain, abdominal pain, diarrhea, increased appetite, nausea, xerostomia, dysuria, arthralgia, weakness, pharyngitis, thickening of bronchial secretions.                                                                    |
-| Pregnancy          | Human (and Animal) Data Suggest Risk                                                                                                                                                                                                                                                                                                                 |
-| Lactation          | No (Limited) Human Data - Probably Compatible                                                                                                                                                                                                                                                                                                        |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/triprolidine-and-pseudoephedrine-drug-information)                                                                                                                                                                                                                                                      |
+| TAH Drug Code      | [LPEA](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=LPEA)                                |
+|:-------------------|:----------------------------------------------------------------------------------------------------|
+| Indications        | Nasal congestion, allergic rhinitis.                                                                |
+| Dosing             | TID-QID, Adult and children >12 years 10 mL, Children 6-12 years 5 mL, < 6 years as doctors' order. |
+| Hepatic Impairment | Dose adjustment not necessary                                                                       |
+| Renal Impairment   | Dose adjustment not necessary                                                                       |
+| Contraindications  | Hypersensitivity to any component of the formulation.                                               |
+| Adverse Effects    | Insomnia.                                                                                           |
+| Pregnancy          | Human (and Animal) Data Suggest Risk                                                                |
+| Lactation          | No (Limited) Human Data - Probably Compatible                                                       |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/triprolidine-and-pseudoephedrine-drug-information)     |
 
 ## Peace 2.5/60mg
 

@@ -131,7 +131,7 @@
 * Antazoline + Tetrahydrozoline + Chlorhexidine
   * [Alminto eye drops 10mL](https://shin13.gitbook.io/formulary/toc/op-00-00/op-06-00/antazoline_and_tetrahydrozoline_and_chlorhexidine)
 * Anti-D (Rh) Immunoglobulin
-  * [Rho(D) Immune Globulin [HyperRHO] 1500IU 專案進口](https://shin13.gitbook.io/formulary/toc/im-00-00/im-03-00/anti-d_(rh)_immunoglobulin)
+  * [Rho(D) Immune Globulin [Igamad] 1500IU 專案進口](https://shin13.gitbook.io/formulary/toc/im-00-00/im-03-00/anti-d_(rh)_immunoglobulin)
 * Antibiotics-resistant Lactic Acid Bacteriae
   * [Biofermin-R 6mg/1gm Powder](https://shin13.gitbook.io/formulary/toc/gi-00-00/gi-04-00/antibiotics-resistant_lactic_acid_bacteriae)
 * Apixaban
@@ -163,7 +163,6 @@
   * [Azel cream 30gm](https://shin13.gitbook.io/formulary/toc/de-00-00/de-07-00/azelaic_acid)
 * Azelastine + Fluticasone
   * [Dufanas 137/50mcg/dose, 120 doses nasal spray](https://shin13.gitbook.io/formulary/toc/en-00-00/en-02-00/azelastine_and_fluticasone)
-  * [Dymista 137/50mcg/dose, 120 doses nasal spray](https://shin13.gitbook.io/formulary/toc/en-00-00/en-02-00/azelastine_and_fluticasone)
 * Azilsartan medoxomil
   * [Edarbi 40mg](https://shin13.gitbook.io/formulary/toc/cv-00-00/cv-08-00/azilsartan_medoxomil)
 * Azithromycin
@@ -282,8 +281,6 @@
   * [Dostinex 0.5mg](https://shin13.gitbook.io/formulary/toc/hr-00-00/hr-02-00/cabergoline)
 * Caffeine Citrate
   * [Peyona inj 20mg/1mL (for infusion and oral)](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-02-00/cn-02-08/caffeine_citrate)
-* Calamine + Zinc oxide
-  * [Menphencala lotion 100mL](https://shin13.gitbook.io/formulary/toc/de-00-00/de-08-00/calamine_and_zinc_oxide)
 * Calcipotriol + Betamethasone
   * [Daivobet ointment 30gm](https://shin13.gitbook.io/formulary/toc/de-00-00/de-09-00/calcipotriol_and_betamethasone)
   * [Xamiol gel 30gm](https://shin13.gitbook.io/formulary/toc/de-00-00/de-09-00/calcipotriol_and_betamethasone)
@@ -377,6 +374,7 @@
   * [Seforce inj 400mg/200mL](https://shin13.gitbook.io/formulary/toc/ai-00-00/ai-01-00/ai-01-08/ciprofloxacin)
 * Cisatracurium
   * [Nimbex inj 10mg/5mL](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-03-00/cn-03-02/cisatracurium)
+  * [Winbest inj 10mg/5mL](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-03-00/cn-03-02/cisatracurium)
 * Cisplatin
   * [Cisplatin 50mg/50mL](https://shin13.gitbook.io/formulary/toc/on-00-00/on-01-00/on-01-02/cisplatin)
 * Clarithromycin
@@ -497,7 +495,8 @@
   * [Dextrose (Vitagen) 20% inj 20mL](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-04-00/nu-04-02/dextrose)
   * [Dextrose (Vitagen) 50% inj 20mL](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-04-00/nu-04-02/dextrose)
   * [Dextrose 10% inj 500mL](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-04-00/nu-04-02/dextrose)
-  * [Dextrose 5% inj 250mL](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-04-00/nu-04-02/dextrose)
+  * [Dextrose 5% inj 250mL (CHISHENG)](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-04-00/nu-04-02/dextrose)
+  * [Dextrose 5% inj 250mL (永豐)](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-04-00/nu-04-02/dextrose)
   * [Dextrose 5% inj 500mL](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-04-00/nu-04-02/dextrose)
   * [Dextrose 5% inj 500mL (Otsuka)](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-04-00/nu-04-02/dextrose)
 * Dextrose + Sodium Chloride
@@ -575,7 +574,6 @@
 * Drospirenone + Ethinylestradiol
   * [YAZ 悅姿錠 (28 tablets/box)](https://shin13.gitbook.io/formulary/toc/ct-00-00/ct-01-00/drospirenone_and_ethinylestradiol)
 * Duloxetine
-  * [Cymbalta 30mg](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-02-00/cn-02-05/duloxetine)
   * [Duxetine 30mg](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-02-00/cn-02-05/duloxetine)
 * Dupilumab
   * [DUPIXENT inj 300mg/2mL](https://shin13.gitbook.io/formulary/toc/de-00-00/de-11-00/dupilumab)
@@ -1455,7 +1453,7 @@
 * Rifapentine
   * [Priftin 150mg (Government)](https://shin13.gitbook.io/formulary/toc/ai-00-00/ai-01-00/ai-01-12/rifapentine)
 * Risankizumab
-  * [SKYRIZI inj 150mg/1mL](https://shin13.gitbook.io/formulary/toc/im-00-00/im-04-00/risankizumab)
+  * [Skyrizi inj 150mg/1mL](https://shin13.gitbook.io/formulary/toc/im-00-00/im-04-00/risankizumab)
 * Risperidone
   * [Apa-Risdol 2mg](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-02-00/cn-02-01/risperidone)
   * [Risperdal solution 1mg/mL, 30mL](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-02-00/cn-02-01/risperidone)
@@ -1685,8 +1683,8 @@
   * [Tobradex 5mL ophthalmic suspension](https://shin13.gitbook.io/formulary/toc/op-00-00/op-02-00/tobramycin_and_dexamethasone)
   * [Tobradex eye ointment 3.5gm](https://shin13.gitbook.io/formulary/toc/op-00-00/op-02-00/tobramycin_and_dexamethasone)
 * Tocilizumab
-  * [Actemra Infusion 200mg/10mL/Vial 專案(限Covid-19)](https://shin13.gitbook.io/formulary/toc/im-00-00/im-04-00/tocilizumab)
-  * [Actemra Infusion 80mg/4mL/Vial 專案(限Covid-19)](https://shin13.gitbook.io/formulary/toc/im-00-00/im-04-00/tocilizumab)
+  * [Actemra Infusion 200mg/10mL/Vial(限Covid-19)](https://shin13.gitbook.io/formulary/toc/im-00-00/im-04-00/tocilizumab)
+  * [Actemra Infusion 80mg/4mL/Vial (限Covid-19)](https://shin13.gitbook.io/formulary/toc/im-00-00/im-04-00/tocilizumab)
   * [Actemra inj 162mg/0.9mL](https://shin13.gitbook.io/formulary/toc/im-00-00/im-04-00/tocilizumab)
 * Tofacitinib
   * [Xeljanz 5mg](https://shin13.gitbook.io/formulary/toc/im-00-00/im-04-00/tofacitinib)
@@ -1736,7 +1734,7 @@
   * [Switane 2mg](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-03-00/cn-03-03/trihexyphenidyl)
 * Triprolidine + Pseudoephedrine
   * [Peace 2.5/60mg](https://shin13.gitbook.io/formulary/toc/im-00-00/im-01-00/triprolidine_and_pseudoephedrine)
-  * [Pseu solution 60mL (0.25+6mg/mL)](https://shin13.gitbook.io/formulary/toc/im-00-00/im-01-00/triprolidine_and_pseudoephedrine)
+  * [Peace syrup 60mL (0.5+6 mg/mL)](https://shin13.gitbook.io/formulary/toc/im-00-00/im-01-00/triprolidine_and_pseudoephedrine)
 * Triptorelin
   * [Decapeptyl inj 0.1mg/1mL](https://shin13.gitbook.io/formulary/toc/on-00-00/on-05-00/on-05-02/triptorelin)
 * Tropicamide + Phenylephrine

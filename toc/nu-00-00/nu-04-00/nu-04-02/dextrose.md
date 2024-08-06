@@ -28,7 +28,7 @@
 | Lactation          | Unknown                                                                                                                                                                                                                                                                                                                                                                                                                  |
 | More Info          | [UpToDate](https://www.uptodate.com/contents/instant-glucose-and-intravenous-dextrose-drug-information)                                                                                                                                                                                                                                                                                                                  |
 
-## Dextrose 5% inj 250mL
+## Dextrose 5% inj 250mL (永豐)
 
 | TAH Drug Code      | [IGW250](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IGW250)                                |
 |:-------------------|:--------------------------------------------------------------------------------------------------------|
@@ -41,6 +41,20 @@
 | Pregnancy          | Unknown                                                                                                 |
 | Lactation          | Unknown                                                                                                 |
 | More Info          | [UpToDate](https://www.uptodate.com/contents/instant-glucose-and-intravenous-dextrose-drug-information) |
+
+## Dextrose 5% inj 250mL (CHISHENG)
+
+| TAH Drug Code      | [IGW250C](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IGW250C)                                                                                                     |
+|:-------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Indications        | Supplement of water and nutrition for surgery and other diseases.                                                                                                              |
+| Dosing             | Individualized dosage. Usually, adult: 500-1000mL as an intravenous infusion, and then increase or decrease appropriately according to symptoms. Dextrose monohydrate 50 mg/mL |
+| Hepatic Impairment | Dose adjustment not necessary                                                                                                                                                  |
+| Renal Impairment   | Dose adjustment not necessary                                                                                                                                                  |
+| Contraindications  | Hypersensitivity to any component of the formulation.                                                                                                                          |
+| Adverse Effects    | Hyperglycemia, edema, electrolytes imbalance.                                                                                                                                  |
+| Pregnancy          | Compatible                                                                                                                                                                     |
+| Lactation          | Compatible                                                                                                                                                                     |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/instant-glucose-and-intravenous-dextrose-drug-information)                                                                        |
 
 ## Dextrose 5% inj 500mL
 
