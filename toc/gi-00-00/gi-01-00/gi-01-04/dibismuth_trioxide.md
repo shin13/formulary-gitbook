@@ -10,7 +10,7 @@
 | Renal Impairment   | Dose adjustment required                                                                                              |
 | Contraindications  | Hypersensitivity, moderate-severe renal insufficiency.                                                                |
 | Adverse Effects    | Gray stools. Nausea, vomiting.                                                                                        |
-| Pregnancy          | Human Data Suggest Low Risk                                                                                           |
-| Lactation          | Human Data Suggest Potential Toxicity                                                                                 |
+| Pregnancy          | Unknown                                                                                                               |
+| Lactation          | Unknown                                                                                                               |
 | More Info          | [UpToDate](https://www.uptodate.com/contents/dibismuth-trioxide-drug-information)                                     |
 

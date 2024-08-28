@@ -1,6 +1,6 @@
 # Brinzolamide
 
-## Azopt 1%, 5mL ophthalmic suspension
+## Azopt 1% 5mL ophthalmic suspension
 
 | TAH Drug Code      | [EAZO](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EAZO)                                                                                                                                                               |
 |:-------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

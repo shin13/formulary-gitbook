@@ -10,7 +10,7 @@
 | Renal Impairment   | Dose adjustment not necessary                                                                                          |
 | Contraindications  | Hypersensitivity to simethicone or any component of the formulation                                                    |
 | Adverse Effects    | Loose stools                                                                                                           |
-| Pregnancy          | Compatible                                                                                                             |
-| Lactation          | No (Limited) Human Data - Probably Compatible                                                                          |
+| Pregnancy          | Unknown                                                                                                                |
+| Lactation          | Unknown                                                                                                                |
 | More Info          | [UpToDate](https://www.uptodate.com/contents/dimethicone-drug-information)                                             |
 

@@ -33,7 +33,7 @@
 * Activated Charcoal
   * [Carbomix 61.5gm](https://shin13.gitbook.io/formulary/toc/ad-00-00/ad-01-00/activated_charcoal)
 * Acyclovir
-  * [Deherp cream 5%, 5gm](https://shin13.gitbook.io/formulary/toc/de-00-00/de-04-00/acyclovir)
+  * [Deherp cream 5% 5gm](https://shin13.gitbook.io/formulary/toc/de-00-00/de-04-00/acyclovir)
   * [Devirus 4.5gm ophthalmic ointment](https://shin13.gitbook.io/formulary/toc/op-00-00/op-01-00/acyclovir)
   * [Virless inj 250mg](https://shin13.gitbook.io/formulary/toc/ai-00-00/ai-03-00/ai-03-02/acyclovir)
 * Adalimumab
@@ -120,8 +120,8 @@
   * [Amoxicillin 250mg](https://shin13.gitbook.io/formulary/toc/ai-00-00/ai-01-00/ai-01-01/amoxicillin)
 * Amoxicillin + Clavulanic Acid
   * [Curam 1000mg](https://shin13.gitbook.io/formulary/toc/ai-00-00/ai-01-00/ai-01-01/amoxicillin_and_clavulanic_acid)
-  * [Curam susp 312.5mg/5mL, 60mL](https://shin13.gitbook.io/formulary/toc/ai-00-00/ai-01-00/ai-01-01/amoxicillin_and_clavulanic_acid)
   * [Soonmelt inj 600mg](https://shin13.gitbook.io/formulary/toc/ai-00-00/ai-01-00/ai-01-01/amoxicillin_and_clavulanic_acid)
+  * [Soonmelt syrup 31.25mg/mL, 100mL](https://shin13.gitbook.io/formulary/toc/ai-00-00/ai-01-00/ai-01-01/amoxicillin_and_clavulanic_acid)
 * Ampicillin
   * [Ampolin inj 0.5gm](https://shin13.gitbook.io/formulary/toc/ai-00-00/ai-01-00/ai-01-01/ampicillin)
 * Ampicillin + Sulbactam
@@ -242,7 +242,7 @@
 * Brimonidine + Timolol
   * [Combigan 5mL ophthalmic solution](https://shin13.gitbook.io/formulary/toc/op-00-00/op-05-00/op-05-06/brimonidine_and_timolol)
 * Brinzolamide
-  * [Azopt 1%, 5mL ophthalmic suspension](https://shin13.gitbook.io/formulary/toc/op-00-00/op-05-00/op-05-03/brinzolamide)
+  * [Azopt 1% 5mL ophthalmic suspension](https://shin13.gitbook.io/formulary/toc/op-00-00/op-05-00/op-05-03/brinzolamide)
 * Brinzolamide + Brimonidine tartrate
   * [Simbrinza eye drops 1%/0.2% 5mL](https://shin13.gitbook.io/formulary/toc/op-00-00/op-05-00/op-05-06/brinzolamide_and_brimonidine_tartrate)
 * Brivaracetam
@@ -281,6 +281,8 @@
   * [Dostinex 0.5mg](https://shin13.gitbook.io/formulary/toc/hr-00-00/hr-02-00/cabergoline)
 * Caffeine Citrate
   * [Peyona inj 20mg/1mL (for infusion and oral)](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-02-00/cn-02-08/caffeine_citrate)
+* Calamine + Zinc oxide
+  * [Menphencala lotion 100mL](https://shin13.gitbook.io/formulary/toc/de-00-00/de-08-00/calamine_and_zinc_oxide)
 * Calcipotriol + Betamethasone
   * [Daivobet ointment 30gm](https://shin13.gitbook.io/formulary/toc/de-00-00/de-09-00/calcipotriol_and_betamethasone)
   * [Xamiol gel 30gm](https://shin13.gitbook.io/formulary/toc/de-00-00/de-09-00/calcipotriol_and_betamethasone)
@@ -373,7 +375,6 @@
   * [Cinolone F.C. 250mg](https://shin13.gitbook.io/formulary/toc/ai-00-00/ai-01-00/ai-01-08/ciprofloxacin)
   * [Seforce inj 400mg/200mL](https://shin13.gitbook.io/formulary/toc/ai-00-00/ai-01-00/ai-01-08/ciprofloxacin)
 * Cisatracurium
-  * [Nimbex inj 10mg/5mL](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-03-00/cn-03-02/cisatracurium)
   * [Winbest inj 10mg/5mL](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-03-00/cn-03-02/cisatracurium)
 * Cisplatin
   * [Cisplatin 50mg/50mL](https://shin13.gitbook.io/formulary/toc/on-00-00/on-01-00/on-01-02/cisplatin)
@@ -535,7 +536,7 @@
 * Dioctahedral Smectite
   * [Smecta 3gm/pack](https://shin13.gitbook.io/formulary/toc/gi-00-00/gi-02-00/dioctahedral_smectite)
 * Diphenhydramine
-  * [Diphenhydramine inj 30mg/1mL](https://shin13.gitbook.io/formulary/toc/im-00-00/im-01-00/diphenhydramine)
+  * [Benamine inj 30mg/1mL](https://shin13.gitbook.io/formulary/toc/im-00-00/im-01-00/diphenhydramine)
 * Diphenidol
   * [Dinidol 25mg](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-03-00/cn-03-08/diphenidol)
 * Diphtheria + Tetanus + Pertussis
@@ -543,6 +544,9 @@
   * [Boostrix 0.5mL/dose (Private)](https://shin13.gitbook.io/formulary/toc/im-00-00/im-02-00/im-02-01/diphtheria_and_tetanus_and_pertussis)
 * Dipyridamole
   * [Sancin F.C. 50mg](https://shin13.gitbook.io/formulary/toc/he-00-00/he-03-00/dipyridamole)
+* Distilled Water
+  * [Sterile Water for Irrigation 1000mL](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-05-00/distilled_water)
+  * [Water for Injection 1000mL](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-04-00/nu-04-05/distilled_water)
 * Dobutamine
   * [Gendobu inj 250mg/20mL](https://shin13.gitbook.io/formulary/toc/cv-00-00/cv-01-00/cv-01-03/dobutamine)
 * Docetaxel
@@ -556,7 +560,7 @@
 * Dopamine
   * [Dopamin inj 200mg/5mL](https://shin13.gitbook.io/formulary/toc/cv-00-00/cv-01-00/cv-01-03/dopamine)
 * Dorzolamide + Timolol
-  * [Cosopt 2/0.5%, 5ml ophthalmic solution](https://shin13.gitbook.io/formulary/toc/op-00-00/op-05-00/op-05-06/dorzolamide_and_timolol)
+  * [Cosopt 2/0.5% 5ml ophthalmic solution](https://shin13.gitbook.io/formulary/toc/op-00-00/op-05-00/op-05-06/dorzolamide_and_timolol)
 * Doxazosin
   * [Doxaben XL 4mg](https://shin13.gitbook.io/formulary/toc/cv-00-00/cv-04-00/cv-04-01/doxazosin)
 * Doxepin
@@ -846,8 +850,6 @@
 * Human Rotavirus
   * [RotaTeq (MSD) 2mL/dose](https://shin13.gitbook.io/formulary/toc/im-00-00/im-02-00/im-02-02/human_rotavirus)
   * [Rotarix 1.5mL/dose oral suspension](https://shin13.gitbook.io/formulary/toc/im-00-00/im-02-00/im-02-02/human_rotavirus)
-* Hyaluronate
-  * [Cystistat 40mg/50mL](https://shin13.gitbook.io/formulary/toc/ur-00-00/ur-04-00/hyaluronate)
 * Hyaluronidase
   * [Hyalase inj 1500IU (專案進口)](https://shin13.gitbook.io/formulary/toc/ad-00-00/ad-01-00/hyaluronidase)
 * Hydralazine
@@ -887,7 +889,7 @@
 * Inactivated Enterovirus 71 whole virus
   * [Envacgen inj 0.5mL/dose](https://shin13.gitbook.io/formulary/toc/im-00-00/im-02-00/im-02-02/inactivated_enterovirus_71_whole_virus)
 * Inactivated Hepatitis A Virus Vaccine
-  * [HAVRIX 1440, 1mL/dose (專案進口成人A肝疫苗)](https://shin13.gitbook.io/formulary/toc/im-00-00/im-02-00/im-02-02/inactivated_hepatitis_a_virus_vaccine)
+  * [HAVRIX 1440, 1mL/dose (Private)](https://shin13.gitbook.io/formulary/toc/im-00-00/im-02-00/im-02-02/inactivated_hepatitis_a_virus_vaccine)
 * Indapamide
   * [Natrilix SR 1.5mg](https://shin13.gitbook.io/formulary/toc/cv-00-00/cv-03-00/cv-03-01/indapamide)
 * Indocyanine Green
@@ -949,6 +951,8 @@
 ## K
 * K2HPO4+KH2PO4
   * [Potassium Phosphate inj 20mL](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-04-00/nu-04-04/k2hpo4_and_kh2po4)
+* Kawaratake
+  * [Krestin (PSK) 1gm](https://shin13.gitbook.io/formulary/toc/on-00-00/on-06-00/kawaratake)
 * Ketamine
   * [Ketalar inj 50mg/mL, 10mL](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-04-00/cn-04-01/ketamine)
 * Ketorolac
@@ -1018,7 +1022,6 @@
   * [Eltroxin 50mcg](https://shin13.gitbook.io/formulary/toc/me-00-00/me-03-00/levothyroxine)
 * Lidocaine
   * [Lidocaine inj 20mg/mL, 1mL局麻](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-04-00/cn-04-02/lidocaine)
-  * [Lidocaine inj 20mg/mL, 20mL局麻](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-04-00/cn-04-02/lidocaine)
   * [Lidopat patch 5% (3 patchs/pack)](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-04-00/cn-04-02/lidocaine)
   * [Xylocaine 2% IV 100mg/5mL](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-04-00/cn-04-02/lidocaine)
   * [Xylocaine 2% inj 20mL局麻](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-04-00/cn-04-02/lidocaine)
@@ -1039,6 +1042,8 @@
   * [Ligilin 300mg](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-02-00/cn-02-01/lithium_carbonate)
 * Loperamide
   * [Imolex 2mg](https://shin13.gitbook.io/formulary/toc/gi-00-00/gi-02-00/loperamide)
+* Loratadine + Pseudoephedrine
+  * [Lorapseudo SR 10/240mg](https://shin13.gitbook.io/formulary/toc/im-00-00/im-01-00/loratadine_and_pseudoephedrine)
 * Lorazepam
   * [Anxicam inj 2mg/1mL](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-02-00/cn-02-02/lorazepam)
   * [Ativan 0.5mg](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-02-00/cn-02-02/lorazepam)
@@ -1264,8 +1269,6 @@
 * Oxytocin
   * [Oxytocin inj 10 IU/1mL](https://shin13.gitbook.io/formulary/toc/ur-00-00/ur-02-00/oxytocin)
 ## P
-* PSK
-  * [Krestin 1gm](https://shin13.gitbook.io/formulary/toc/on-00-00/on-06-00/psk)
 * Paclitaxel
   * [FORMOXOL inj 60mg/10mL](https://shin13.gitbook.io/formulary/toc/on-00-00/on-04-00/on-04-01/paclitaxel)
   * [Formoxol inj 30mg/5mL](https://shin13.gitbook.io/formulary/toc/on-00-00/on-04-00/on-04-01/paclitaxel)
@@ -1535,7 +1538,7 @@
 * Silodosin
   * [Urief F.C. 8mg](https://shin13.gitbook.io/formulary/toc/ur-00-00/ur-04-00/silodosin)
 * Silver Sulphadiazine
-  * [Siliverzine cream 1%, 20gm](https://shin13.gitbook.io/formulary/toc/de-00-00/de-02-00/silver_sulphadiazine)
+  * [Siliverzine cream 1% 20gm](https://shin13.gitbook.io/formulary/toc/de-00-00/de-02-00/silver_sulphadiazine)
 * Silymarin
   * [Silygen 70mg](https://shin13.gitbook.io/formulary/toc/gi-00-00/gi-07-00/silymarin)
 * Simethicone
@@ -1549,8 +1552,10 @@
 * Sodium Chloride
   * [Atomic enema 20mL](https://shin13.gitbook.io/formulary/toc/gi-00-00/gi-03-00/sodium_chloride)
   * [NaCl 0.45% inj 500mL](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-04-00/nu-04-04/sodium_chloride)
-  * [NaCl 0.9% inj 1000mL (專案大塚)](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-04-00/nu-04-04/sodium_chloride)
-  * [NaCl 0.9% inj 1000mL (專案百特)](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-04-00/nu-04-04/sodium_chloride)
+  * [NaCl 0.9% inj 1000mL](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-04-00/nu-04-04/sodium_chloride)
+  * [NaCl 0.9% inj 1000mL (專案大塚日本)](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-04-00/nu-04-04/sodium_chloride)
+  * [NaCl 0.9% inj 1000mL (專案橫山韓國)](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-04-00/nu-04-04/sodium_chloride)
+  * [NaCl 0.9% inj 1000mL (專案百特新加坡)](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-04-00/nu-04-04/sodium_chloride)
   * [NaCl 0.9% inj 100mL bag (Otsuka)](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-04-00/nu-04-04/sodium_chloride)
   * [NaCl 0.9% inj 20mL](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-04-00/nu-04-04/sodium_chloride)
   * [NaCl 0.9% inj 250mL bag (Otsuka)](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-04-00/nu-04-04/sodium_chloride)
@@ -1558,13 +1563,18 @@
   * [NaCl 0.9% inj 500mL (信東瓶裝)](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-04-00/nu-04-04/sodium_chloride)
   * [NaCl 0.9% inj 500mL (專案大塚日本)](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-04-00/nu-04-04/sodium_chloride)
   * [NaCl 0.9% inj 500mL (專案大塚越南)](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-04-00/nu-04-04/sodium_chloride)
+  * [NaCl 0.9% inj 500mL (專案柏朗印尼)](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-04-00/nu-04-04/sodium_chloride)
+  * [NaCl 0.9% inj 500mL (硬瓶)](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-04-00/nu-04-04/sodium_chloride)
   * [NaCl 0.9% inj 500mL bag (Otsuka)](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-04-00/nu-04-04/sodium_chloride)
+  * [NaCl 0.9% irrigation 2000mL](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-05-00/sodium_chloride)
   * [NaCl 0.9% irrigation 3000mL](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-05-00/sodium_chloride)
   * [NaCl 0.9% irrigation 3000mL (專案韋淳)](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-05-00/sodium_chloride)
   * [NaCl 0.9% irrigation 500mL (專案濟生)](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-05-00/sodium_chloride)
   * [NaCl 0.9% irrigation 500mL (沖洗用)](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-05-00/sodium_chloride)
   * [NaCl 3% inj 500mL](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-04-00/nu-04-04/sodium_chloride)
   * [Sodium Chloride eye drop 3%, 5mL](https://shin13.gitbook.io/formulary/toc/op-00-00/op-08-00/sodium_chloride)
+* Sodium Hyaluronate
+  * [Cystistat 40mg/50mL](https://shin13.gitbook.io/formulary/toc/ur-00-00/ur-04-00/sodium_hyaluronate)
 * Sodium Oleate
   * [Alcos-Anal suppository](https://shin13.gitbook.io/formulary/toc/gi-00-00/gi-08-00/sodium_oleate)
 * Sodium Pentosan Polysulfate
@@ -1596,13 +1606,13 @@
 * Sulconazole Nitrate
   * [Exelderm solution 10mL](https://shin13.gitbook.io/formulary/toc/de-00-00/de-03-00/sulconazole_nitrate)
 * Sulfamethoxazole
-  * [Kingmin 4%, 10mL opthalmic solution](https://shin13.gitbook.io/formulary/toc/op-00-00/op-01-00/sulfamethoxazole)
+  * [Kingmin 4% 10mL opthalmic solution](https://shin13.gitbook.io/formulary/toc/op-00-00/op-01-00/sulfamethoxazole)
 * Sulfamethoxazole + Trimethoprim
   * [Morcasin (Baktar) 400/80mg](https://shin13.gitbook.io/formulary/toc/ai-00-00/ai-01-00/ai-01-09/sulfamethoxazole_and_trimethoprim)
-  * [Sevatrim inj(400mg+80mg)](https://shin13.gitbook.io/formulary/toc/ai-00-00/ai-01-00/ai-01-09/sulfamethoxazole_and_trimethoprim)
+  * [Sevatrim inj 400/80mg](https://shin13.gitbook.io/formulary/toc/ai-00-00/ai-01-00/ai-01-09/sulfamethoxazole_and_trimethoprim)
   * [Sulfacotrim 40/8mg/mL, 60mL suspension](https://shin13.gitbook.io/formulary/toc/ai-00-00/ai-01-00/ai-01-09/sulfamethoxazole_and_trimethoprim)
 * Sulfasalazine
-  * [Salazine 500mg](https://shin13.gitbook.io/formulary/toc/gi-00-00/gi-09-00/sulfasalazine)
+  * [Salazine 500mg enteric coated](https://shin13.gitbook.io/formulary/toc/gi-00-00/gi-09-00/sulfasalazine)
 * Sulphur hexafluoride microbubbles
   * [SonoVue inj 60.7mg](https://shin13.gitbook.io/formulary/toc/vs-00-00/vs-01-00/vs-01-04/sulphur_hexafluoride_microbubbles)
 * Sulpiride
@@ -1672,7 +1682,7 @@
 * Timolol
   * [Timoptol 0.5% 5mL](https://shin13.gitbook.io/formulary/toc/op-00-00/op-05-00/op-05-04/timolol)
 * Timolol + Brinzolamide
-  * [Azarga 0.5/1%, 5mL ophthalmic suspension](https://shin13.gitbook.io/formulary/toc/op-00-00/op-05-00/op-05-06/timolol_and_brinzolamide)
+  * [Azarga 0.5/1% 5mL ophthalmic suspension](https://shin13.gitbook.io/formulary/toc/op-00-00/op-05-00/op-05-06/timolol_and_brinzolamide)
 * Tiotropium
   * [Spiriva Respimat 2.5mcg/puff](https://shin13.gitbook.io/formulary/toc/re-00-00/re-01-00/tiotropium)
 * Tiotropium + Olodaterol

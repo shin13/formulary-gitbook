@@ -1,6 +1,6 @@
 # Sulfamethoxazole + Trimethoprim
 
-## Sevatrim inj(400mg+80mg)
+## Sevatrim inj 400/80mg
 
 ##### 臨採
 
