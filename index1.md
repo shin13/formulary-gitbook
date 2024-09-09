@@ -827,7 +827,7 @@
   * [Tremfya inj 100mg/1mL](https://shin13.gitbook.io/formulary/toc/im-00-00/im-04-00/guselkumab)
 ## H
 * HPV type 6/11/16/18/31/33/45/52/58 L1 protein
-  * [Gardasil 9 (HPV,Government) inj 0.5mL/dose](https://shin13.gitbook.io/formulary/toc/im-00-00/im-02-00/im-02-02/hpv_type_6-11-16-18-31-33-45-52-58_l1_protein)
+  * [Gardasil 9 (HPV, Government) inj 0.5mL/dose](https://shin13.gitbook.io/formulary/toc/im-00-00/im-02-00/im-02-02/hpv_type_6-11-16-18-31-33-45-52-58_l1_protein)
   * [Gardasil 9 inj 0.5mL/dose](https://shin13.gitbook.io/formulary/toc/im-00-00/im-02-00/im-02-02/hpv_type_6-11-16-18-31-33-45-52-58_l1_protein)
 * Haloperidol
   * [Haldol inj 5mg/1mL](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-02-00/cn-02-01/haloperidol)
@@ -890,6 +890,7 @@
   * [Envacgen inj 0.5mL/dose](https://shin13.gitbook.io/formulary/toc/im-00-00/im-02-00/im-02-02/inactivated_enterovirus_71_whole_virus)
 * Inactivated Hepatitis A Virus Vaccine
   * [HAVRIX 1440, 1mL/dose (Private)](https://shin13.gitbook.io/formulary/toc/im-00-00/im-02-00/im-02-02/inactivated_hepatitis_a_virus_vaccine)
+  * [Havrix 720 (Government) 0.5mL/dose](https://shin13.gitbook.io/formulary/toc/im-00-00/im-02-00/im-02-02/inactivated_hepatitis_a_virus_vaccine)
 * Indapamide
   * [Natrilix SR 1.5mg](https://shin13.gitbook.io/formulary/toc/cv-00-00/cv-03-00/cv-03-01/indapamide)
 * Indocyanine Green
@@ -1021,7 +1022,6 @@
 * Levothyroxine
   * [Eltroxin 50mcg](https://shin13.gitbook.io/formulary/toc/me-00-00/me-03-00/levothyroxine)
 * Lidocaine
-  * [Lidocaine inj 20mg/mL, 1mL局麻](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-04-00/cn-04-02/lidocaine)
   * [Lidopat patch 5% (3 patchs/pack)](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-04-00/cn-04-02/lidocaine)
   * [Xylocaine 2% IV 100mg/5mL](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-04-00/cn-04-02/lidocaine)
   * [Xylocaine 2% inj 20mL局麻](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-04-00/cn-04-02/lidocaine)
@@ -1060,7 +1060,8 @@
 * Magnesium Sulfate
   * [Mg Sulfate 10% inj 200mL](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-04-00/nu-04-04/magnesium_sulfate)
 * Measles + Mumps + Rubella
-  * [MMR II (Government) 0.5mL/dose](https://shin13.gitbook.io/formulary/toc/im-00-00/im-02-00/im-02-02/measles_and_mumps_and_rubella)
+  * [M-M-R II 0.5 mL/dose (Private)](https://shin13.gitbook.io/formulary/toc/im-00-00/im-02-00/im-02-02/measles_and_mumps_and_rubella)
+  * [Priorix (Government) 0.5mL/dose](https://shin13.gitbook.io/formulary/toc/im-00-00/im-02-00/im-02-02/measles_and_mumps_and_rubella)
 * Mebeverine
   * [Padalin 100mg](https://shin13.gitbook.io/formulary/toc/gi-00-00/gi-05-00/mebeverine)
 * Meclizine
@@ -1131,6 +1132,7 @@
 * Micronized purified flavonoid fraction (MPFF)
   * [Daflon 1000mg](https://shin13.gitbook.io/formulary/toc/he-00-00/he-07-00/micronized_purified_flavonoid_fraction_(mpff))
 * Midazolam
+  * [Dormicum inj 5mg/1mL](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-02-00/cn-02-07/midazolam)
   * [Midazolam-hameln inj 5mg/1mL](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-02-00/cn-02-07/midazolam)
 * Midodrine
   * [Midorine 2.5mg](https://shin13.gitbook.io/formulary/toc/cv-00-00/cv-10-00/midodrine)
