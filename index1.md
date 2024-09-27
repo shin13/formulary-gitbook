@@ -119,15 +119,17 @@
   * [AMOXICILLIN 500mg](https://shin13.gitbook.io/formulary/toc/ai-00-00/ai-01-00/ai-01-01/amoxicillin)
   * [Amoxicillin 250mg](https://shin13.gitbook.io/formulary/toc/ai-00-00/ai-01-00/ai-01-01/amoxicillin)
 * Amoxicillin + Clavulanic Acid
-  * [Curam 1000mg](https://shin13.gitbook.io/formulary/toc/ai-00-00/ai-01-00/ai-01-01/amoxicillin_and_clavulanic_acid)
+  * [Augmentin 1gm](https://shin13.gitbook.io/formulary/toc/ai-00-00/ai-01-00/ai-01-01/amoxicillin_and_clavulanic_acid)
   * [Soonmelt inj 600mg](https://shin13.gitbook.io/formulary/toc/ai-00-00/ai-01-00/ai-01-01/amoxicillin_and_clavulanic_acid)
   * [Soonmelt syrup 31.25mg/mL, 100mL](https://shin13.gitbook.io/formulary/toc/ai-00-00/ai-01-00/ai-01-01/amoxicillin_and_clavulanic_acid)
 * Ampicillin
-  * [Ampolin inj 0.5gm](https://shin13.gitbook.io/formulary/toc/ai-00-00/ai-01-00/ai-01-01/ampicillin)
+  * [Ampicillin inj 0.5gm (專案進口)](https://shin13.gitbook.io/formulary/toc/ai-00-00/ai-01-00/ai-01-01/ampicillin)
 * Ampicillin + Sulbactam
   * [SUBAcillin inj 1.5gm](https://shin13.gitbook.io/formulary/toc/ai-00-00/ai-01-00/ai-01-01/ampicillin_and_sulbactam)
 * Anastrozole
   * [Arimidex 1mg](https://shin13.gitbook.io/formulary/toc/on-00-00/on-05-00/on-05-05/anastrozole)
+* Anidulafungin
+  * [Eraxis inj 100mg](https://shin13.gitbook.io/formulary/toc/ai-00-00/ai-02-00/anidulafungin)
 * Antazoline + Tetrahydrozoline + Chlorhexidine
   * [Alminto eye drops 10mL](https://shin13.gitbook.io/formulary/toc/op-00-00/op-06-00/antazoline_and_tetrahydrozoline_and_chlorhexidine)
 * Anti-D (Rh) Immunoglobulin
@@ -390,7 +392,7 @@
 * Clobetasol propionate
   * [Clobex Shampoo 125mL, 0.05%](https://shin13.gitbook.io/formulary/toc/de-00-00/de-09-00/clobetasol_propionate)
 * Clomiphene
-  * [Clomiphene 50mg](https://shin13.gitbook.io/formulary/toc/hr-00-00/hr-02-00/clomiphene)
+  * [Clomiphene 50mg (PEILI)](https://shin13.gitbook.io/formulary/toc/hr-00-00/hr-02-00/clomiphene)
 * Clonazepam
   * [Rivotril 0.5mg](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-03-00/cn-03-01/clonazepam)
 * Clopidogrel
@@ -1108,10 +1110,10 @@
 * Methylergonovine
   * [Methylergonovine inj 0.2mg/1mL](https://shin13.gitbook.io/formulary/toc/ur-00-00/ur-02-00/methylergonovine)
 * Methylphenidate
-  * [CONCERTA 36mg](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-02-00/cn-02-08/methylphenidate)
-  * [Concerta ER 27mg](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-02-00/cn-02-08/methylphenidate)
+  * [METHYDUR 33mg sustained release](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-02-00/cn-02-08/methylphenidate)
   * [Methydur 22mg sustained release](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-02-00/cn-02-08/methylphenidate)
   * [Ritalin LA 20mg](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-02-00/cn-02-08/methylphenidate)
+  * [Toncus 36mg extended release](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-02-00/cn-02-08/methylphenidate)
   * [apo-Methylphenidate 10mg](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-02-00/cn-02-08/methylphenidate)
 * Methylprednisolone
   * [Mepron inj 40mg](https://shin13.gitbook.io/formulary/toc/hr-00-00/hr-01-00/methylprednisolone)
@@ -1133,7 +1135,6 @@
   * [Daflon 1000mg](https://shin13.gitbook.io/formulary/toc/he-00-00/he-07-00/micronized_purified_flavonoid_fraction_(mpff))
 * Midazolam
   * [Dormicum inj 5mg/1mL](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-02-00/cn-02-07/midazolam)
-  * [Midazolam-hameln inj 5mg/1mL](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-02-00/cn-02-07/midazolam)
 * Midodrine
   * [Midorine 2.5mg](https://shin13.gitbook.io/formulary/toc/cv-00-00/cv-10-00/midodrine)
 * Minocycline
@@ -1306,6 +1307,8 @@
 * Pemetrexed
   * [ALIMTA inj 500mg](https://shin13.gitbook.io/formulary/toc/on-00-00/on-02-00/on-02-03/pemetrexed)
   * [Alimta inj 100mg](https://shin13.gitbook.io/formulary/toc/on-00-00/on-02-00/on-02-03/pemetrexed)
+* Penicillamine
+  * [Trolovol 300mg (專案進口)](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-07-00/penicillamine)
 * Penicillin G Benzathine
   * [Bicillin L-A inj 2.4 MIU/4mL](https://shin13.gitbook.io/formulary/toc/ai-00-00/ai-01-00/ai-01-01/penicillin_g_benzathine)
 * Pentoxifylline
@@ -1422,6 +1425,7 @@
 * Protamine sulphate
   * [Protamine sulphate inj 50mg/5mL](https://shin13.gitbook.io/formulary/toc/ad-00-00/ad-02-00/protamine_sulphate)
 * Purified Split Inactivated Influenza Virus
+  * [4價自費流感 (VaxigripTetra)0.5mL/dose](https://shin13.gitbook.io/formulary/toc/im-00-00/im-02-00/im-02-02/purified_split_inactivated_influenza_virus)
   * [Free 4 valnet Influenza vaccine(>3y/o) 0.5mL/dose](https://shin13.gitbook.io/formulary/toc/im-00-00/im-02-00/im-02-02/purified_split_inactivated_influenza_virus)
 * Pyrazinamide
   * [Pyrazinamide 500mg](https://shin13.gitbook.io/formulary/toc/ai-00-00/ai-01-00/ai-01-12/pyrazinamide)
@@ -1454,7 +1458,7 @@
 * Ribociclib
   * [Kisqali 200mg](https://shin13.gitbook.io/formulary/toc/on-00-00/on-08-00/on-08-06/ribociclib)
 * Rifampicin
-  * [Rifampicin 300mg (立汎黴素)](https://shin13.gitbook.io/formulary/toc/ai-00-00/ai-01-00/ai-01-12/rifampicin)
+  * [Rifampicin 300mg](https://shin13.gitbook.io/formulary/toc/ai-00-00/ai-01-00/ai-01-12/rifampicin)
 * Rifapentine
   * [Priftin 150mg (Government)](https://shin13.gitbook.io/formulary/toc/ai-00-00/ai-01-00/ai-01-12/rifapentine)
 * Risankizumab
