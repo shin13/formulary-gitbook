@@ -21,13 +21,10 @@
   * [Acetazolamide 250mg](https://shin13.gitbook.io/formulary/toc/cv-00-00/cv-03-00/cv-03-05/acetazolamide)
 * Acetylcysteine
   * [Actein 100mg/2.5gm](https://shin13.gitbook.io/formulary/toc/re-00-00/re-05-00/re-05-01/acetylcysteine)
-  * [Encore inj 300mg/3mL](https://shin13.gitbook.io/formulary/toc/ad-00-00/ad-02-00/acetylcysteine)
   * [Fluimucil granules 600mg/3gm](https://shin13.gitbook.io/formulary/toc/re-00-00/re-05-00/re-05-01/acetylcysteine)
 * Acetylsalicylic Acid
   * [Aspirin protect 100mg](https://shin13.gitbook.io/formulary/toc/he-00-00/he-03-00/acetylsalicylic_acid)
   * [Bokey 100mg](https://shin13.gitbook.io/formulary/toc/he-00-00/he-03-00/acetylsalicylic_acid)
-* Acitretin
-  * [Neotigason 10mg](https://shin13.gitbook.io/formulary/toc/de-00-00/de-09-00/acitretin)
 * Acrinol
   * [Acrinol solution 500mL](https://shin13.gitbook.io/formulary/toc/de-00-00/de-01-00/acrinol)
 * Activated Charcoal
@@ -119,7 +116,7 @@
   * [AMOXICILLIN 500mg](https://shin13.gitbook.io/formulary/toc/ai-00-00/ai-01-00/ai-01-01/amoxicillin)
   * [Amoxicillin 250mg](https://shin13.gitbook.io/formulary/toc/ai-00-00/ai-01-00/ai-01-01/amoxicillin)
 * Amoxicillin + Clavulanic Acid
-  * [Augmentin 1gm](https://shin13.gitbook.io/formulary/toc/ai-00-00/ai-01-00/ai-01-01/amoxicillin_and_clavulanic_acid)
+  * [Curam 1000mg](https://shin13.gitbook.io/formulary/toc/ai-00-00/ai-01-00/ai-01-01/amoxicillin_and_clavulanic_acid)
   * [Soonmelt inj 600mg](https://shin13.gitbook.io/formulary/toc/ai-00-00/ai-01-00/ai-01-01/amoxicillin_and_clavulanic_acid)
   * [Soonmelt syrup 31.25mg/mL, 100mL](https://shin13.gitbook.io/formulary/toc/ai-00-00/ai-01-00/ai-01-01/amoxicillin_and_clavulanic_acid)
 * Ampicillin
@@ -294,8 +291,8 @@
   * [Procal 667mg](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-03-00/calcium_acetate)
 * Calcium Carbonate
   * [Calcium Carbonate 500mg](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-03-00/calcium_carbonate)
-* Calcium Gluconate
-  * [Calglon 10% inj 10mL](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-03-00/calcium_gluconate)
+* Calcium Chloride + Dextrose
+  * [Vitacal inj 5.44mEq/20mL (5.45mg/mL)](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-03-00/calcium_chloride_and_dextrose)
 * Canagliflozin
   * [Canaglu 100mg](https://shin13.gitbook.io/formulary/toc/me-00-00/me-02-00/me-02-08/canagliflozin)
 * Candesartan
@@ -569,8 +566,9 @@
   * [Ichderm cream 50mg/gm, 15gm](https://shin13.gitbook.io/formulary/toc/de-00-00/de-08-00/doxepin)
 * Doxorubicin
   * [Doxor lyo inj 10mg (凍晶)](https://shin13.gitbook.io/formulary/toc/on-00-00/on-03-00/on-03-01/doxorubicin)
-  * [Lipo-Dox inj 20mg (健保用)](https://shin13.gitbook.io/formulary/toc/on-00-00/on-03-00/on-03-01/doxorubicin)
-  * [Lipo-Dox inj 20mg (自費用)](https://shin13.gitbook.io/formulary/toc/on-00-00/on-03-00/on-03-01/doxorubicin)
+* Doxorubicin Liposome
+  * [Lipo-Dox inj 20mg (健保用)](https://shin13.gitbook.io/formulary/toc/on-00-00/on-03-00/on-03-01/doxorubicin_liposome)
+  * [Lipo-Dox inj 20mg (自費用)](https://shin13.gitbook.io/formulary/toc/on-00-00/on-03-00/on-03-01/doxorubicin_liposome)
 * Doxycycline
   * [Doxymycin 100mg enteric coated](https://shin13.gitbook.io/formulary/toc/ai-00-00/ai-01-00/ai-01-04/doxycycline)
 * Dronedarone
@@ -1252,8 +1250,6 @@
   * [Supren inj 8mg/4mL](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-03-00/cn-03-08/ondansetron)
 * Opium Tincture + Glycyrrhiza + Antimony K tartrate
   * [Brown mixture 120mL](https://shin13.gitbook.io/formulary/toc/re-00-00/re-05-00/re-05-02/opium_tincture_and_glycyrrhiza_and_antimony_k_tartrate)
-* Orlistat
-  * [Xenical 120mg (84 capsules/box)](https://shin13.gitbook.io/formulary/toc/me-00-00/me-05-00/orlistat)
 * Oseltamivir
   * [Oseltamivir Phosphate 6mg/mL, 60mL oral suspension](https://shin13.gitbook.io/formulary/toc/ai-00-00/ai-03-00/ai-03-01/oseltamivir)
   * [Tamiflu 75mg (Government)](https://shin13.gitbook.io/formulary/toc/ai-00-00/ai-03-00/ai-03-01/oseltamivir)
@@ -1426,6 +1422,9 @@
   * [Protamine sulphate inj 50mg/5mL](https://shin13.gitbook.io/formulary/toc/ad-00-00/ad-02-00/protamine_sulphate)
 * Purified Split Inactivated Influenza Virus
   * [4價自費流感 (VaxigripTetra)0.5mL/dose](https://shin13.gitbook.io/formulary/toc/im-00-00/im-02-00/im-02-02/purified_split_inactivated_influenza_virus)
+  * [Flucelvax quad (輔流威適流感疫苗) 0.5mL/dose](https://shin13.gitbook.io/formulary/toc/im-00-00/im-02-00/im-02-02/purified_split_inactivated_influenza_virus)
+  * [Free 4 valent Influenza vaccine (Adult) 0.5mL/dose](https://shin13.gitbook.io/formulary/toc/im-00-00/im-02-00/im-02-02/purified_split_inactivated_influenza_virus)
+  * [Free 4 valnet Influenza vaccine (6M~3Y) 0.5mL/dose](https://shin13.gitbook.io/formulary/toc/im-00-00/im-02-00/im-02-02/purified_split_inactivated_influenza_virus)
   * [Free 4 valnet Influenza vaccine(>3y/o) 0.5mL/dose](https://shin13.gitbook.io/formulary/toc/im-00-00/im-02-00/im-02-02/purified_split_inactivated_influenza_virus)
 * Pyrazinamide
   * [Pyrazinamide 500mg](https://shin13.gitbook.io/formulary/toc/ai-00-00/ai-01-00/ai-01-12/pyrazinamide)
@@ -1502,7 +1501,9 @@
 * SARS-CoV-2 Spike glycoprotein [mRNA]
   * [BA1雙價Moderna(Covid19) 0.5mL/dose(2.5mL/vial)](https://shin13.gitbook.io/formulary/toc/im-00-00/im-02-00/im-02-02/sars-cov-2_spike_glycoprotein_[mrna])
   * [BA4/5次世代Moderna(Covid19) 0.5mL/dose(2.5mL/vial)](https://shin13.gitbook.io/formulary/toc/im-00-00/im-02-00/im-02-02/sars-cov-2_spike_glycoprotein_[mrna])
+  * [COVID-19 JN.1 (未滿12歲) 0.25mL/dose (2.5mL/vial)](https://shin13.gitbook.io/formulary/toc/im-00-00/im-02-00/im-02-02/sars-cov-2_spike_glycoprotein_[mrna])
   * [COVID-19 Vaccine BioNTech 0.3mL/dose (0.45mL/vial)](https://shin13.gitbook.io/formulary/toc/im-00-00/im-02-00/im-02-02/sars-cov-2_spike_glycoprotein_[mrna])
+  * [COVID-19 Vaccine JN.1 0.5mL/dose](https://shin13.gitbook.io/formulary/toc/im-00-00/im-02-00/im-02-02/sars-cov-2_spike_glycoprotein_[mrna])
   * [COVID-19 Vaccine Moderna 0.5mL/dose (5mL/vial)](https://shin13.gitbook.io/formulary/toc/im-00-00/im-02-00/im-02-02/sars-cov-2_spike_glycoprotein_[mrna])
   * [COVID-19 XBB.1.5 0.5mL/dose (2.5mL/vial)](https://shin13.gitbook.io/formulary/toc/im-00-00/im-02-00/im-02-02/sars-cov-2_spike_glycoprotein_[mrna])
   * [Pfizer-BioNTech (5-11y/o) 0.2mL/dose (1.3mL/vial)](https://shin13.gitbook.io/formulary/toc/im-00-00/im-02-00/im-02-02/sars-cov-2_spike_glycoprotein_[mrna])
@@ -1623,6 +1624,8 @@
   * [SonoVue inj 60.7mg](https://shin13.gitbook.io/formulary/toc/vs-00-00/vs-01-00/vs-01-04/sulphur_hexafluoride_microbubbles)
 * Sulpiride
   * [Splotin 50mg](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-02-00/cn-02-01/sulpiride)
+* Sumatriptan
+  * [Imigran FDT 50mg](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-03-00/cn-03-07/sumatriptan)
 * Sunitinib
   * [Sutent 12.5mg](https://shin13.gitbook.io/formulary/toc/on-00-00/on-08-00/on-08-99/sunitinib)
 ## T
