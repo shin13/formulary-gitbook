@@ -21,10 +21,13 @@
   * [Acetazolamide 250mg](https://shin13.gitbook.io/formulary/toc/cv-00-00/cv-03-00/cv-03-05/acetazolamide)
 * Acetylcysteine
   * [Actein 100mg/2.5gm](https://shin13.gitbook.io/formulary/toc/re-00-00/re-05-00/re-05-01/acetylcysteine)
+  * [Encore inj 300mg/3mL](https://shin13.gitbook.io/formulary/toc/ad-00-00/ad-02-00/acetylcysteine)
   * [Fluimucil granules 600mg/3gm](https://shin13.gitbook.io/formulary/toc/re-00-00/re-05-00/re-05-01/acetylcysteine)
 * Acetylsalicylic Acid
   * [Aspirin protect 100mg](https://shin13.gitbook.io/formulary/toc/he-00-00/he-03-00/acetylsalicylic_acid)
   * [Bokey 100mg](https://shin13.gitbook.io/formulary/toc/he-00-00/he-03-00/acetylsalicylic_acid)
+* Acitretin
+  * [Neotigason 10mg](https://shin13.gitbook.io/formulary/toc/de-00-00/de-09-00/acitretin)
 * Acrinol
   * [Acrinol solution 500mL](https://shin13.gitbook.io/formulary/toc/de-00-00/de-01-00/acrinol)
 * Activated Charcoal
@@ -46,7 +49,7 @@
 * Alanine 8.2% + Glutamine 13.64%
   * [Dipeptiven inj 100mL](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-04-00/nu-04-01/alanine_8.2%_and_glutamine_13.64%)
 * Albumin
-  * [Albumin inj 20% 50mL (TBSF)](https://shin13.gitbook.io/formulary/toc/he-00-00/he-06-00/albumin)
+  * [Alburx inj 20% 50mL](https://shin13.gitbook.io/formulary/toc/he-00-00/he-06-00/albumin)
 * Alcohol
   * [99.5% Alcohol inj 5mL](https://shin13.gitbook.io/formulary/toc/on-00-00/on-99-00/on-99-99/alcohol)
 * Alendronate
@@ -262,6 +265,8 @@
 * Budesonide + Formoterol
   * [Symbicort Rapihaler 160/4.5mcg/dose](https://shin13.gitbook.io/formulary/toc/re-00-00/re-04-00/budesonide_and_formoterol)
   * [Symbicort Turbuhaler 160/4.5mcg](https://shin13.gitbook.io/formulary/toc/re-00-00/re-04-00/budesonide_and_formoterol)
+* Budesonide + Glycopyrronium + Formoterol
+  * [Breztri aerosphere 160/7.2/5mcg, 120doses](https://shin13.gitbook.io/formulary/toc/re-00-00/re-04-00/budesonide_and_glycopyrronium_and_formoterol)
 * Bupivacaine
   * [Marcaine Spinal 0.5% 4mL inj (麻醉科用)](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-04-00/cn-04-02/bupivacaine)
   * [Marcaine Spinal 0.5% Heavy inj 4mL](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-04-00/cn-04-02/bupivacaine)
@@ -280,8 +285,6 @@
   * [Dostinex 0.5mg](https://shin13.gitbook.io/formulary/toc/hr-00-00/hr-02-00/cabergoline)
 * Caffeine Citrate
   * [Peyona inj 20mg/1mL (for infusion and oral)](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-02-00/cn-02-08/caffeine_citrate)
-* Calamine + Zinc oxide
-  * [Menphencala lotion 100mL](https://shin13.gitbook.io/formulary/toc/de-00-00/de-08-00/calamine_and_zinc_oxide)
 * Calcipotriol + Betamethasone
   * [Daivobet ointment 30gm](https://shin13.gitbook.io/formulary/toc/de-00-00/de-09-00/calcipotriol_and_betamethasone)
   * [Xamiol gel 30gm](https://shin13.gitbook.io/formulary/toc/de-00-00/de-09-00/calcipotriol_and_betamethasone)
@@ -292,7 +295,7 @@
 * Calcium Carbonate
   * [Calcium Carbonate 500mg](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-03-00/calcium_carbonate)
 * Calcium Chloride + Dextrose
-  * [Vitacal inj 5.44mEq/20mL (5.45mg/mL)](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-03-00/calcium_chloride_and_dextrose)
+  * [VitaCAL inj 5.44mEq/20mL (5.44mg/mL)](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-03-00/calcium_chloride_and_dextrose)
 * Canagliflozin
   * [Canaglu 100mg](https://shin13.gitbook.io/formulary/toc/me-00-00/me-02-00/me-02-08/canagliflozin)
 * Candesartan
@@ -485,8 +488,6 @@
   * [Delamin 2mg](https://shin13.gitbook.io/formulary/toc/im-00-00/im-01-00/dexchlorpheniramine)
 * Dexlansoprazole
   * [Dexilant delay-release 60mg](https://shin13.gitbook.io/formulary/toc/gi-00-00/gi-01-00/gi-01-02/dexlansoprazole)
-* Dextran 70 + Hydromellose
-  * [Tears Naturale 15mL](https://shin13.gitbook.io/formulary/toc/op-00-00/op-07-00/dextran_70_and_hydromellose)
 * Dextromethorphan+Guaiacol Glycolate+Ipecac extract
   * [Sortuss Cough liquid 60mL](https://shin13.gitbook.io/formulary/toc/re-00-00/re-05-00/re-05-03/dextromethorphan_and_guaiacol_glycolate_and_ipecac_extract)
 * Dextromethorphan+Lysozyme+K Cresolsulfonate
@@ -509,6 +510,8 @@
   * [Stesolid rectal tubes 10mg](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-02-00/cn-02-02/diazepam)
 * Dibismuth trioxide
   * [KCB 120mg](https://shin13.gitbook.io/formulary/toc/gi-00-00/gi-01-00/gi-01-04/dibismuth_trioxide)
+* Dibucaine + Diphenhydramine + Zinc Oxide
+  * [Sinbaby Baby Lotion 130mL](https://shin13.gitbook.io/formulary/toc/de-00-00/de-08-00/dibucaine_and_diphenhydramine_and_zinc_oxide)
 * Diclofenac
   * [Cataflam 25mg](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-01-00/cn-01-02/diclofenac)
   * [Diclofenac 100mg S.R. F.C.](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-01-00/cn-01-02/diclofenac)
@@ -828,6 +831,7 @@
 ## H
 * HPV type 6/11/16/18/31/33/45/52/58 L1 protein
   * [Gardasil 9 (HPV, Government) inj 0.5mL/dose](https://shin13.gitbook.io/formulary/toc/im-00-00/im-02-00/im-02-02/hpv_type_6-11-16-18-31-33-45-52-58_l1_protein)
+  * [Gardasil 9 (HPV, Taipei) inj 0.5mL/dose](https://shin13.gitbook.io/formulary/toc/im-00-00/im-02-00/im-02-02/hpv_type_6-11-16-18-31-33-45-52-58_l1_protein)
   * [Gardasil 9 inj 0.5mL/dose](https://shin13.gitbook.io/formulary/toc/im-00-00/im-02-00/im-02-02/hpv_type_6-11-16-18-31-33-45-52-58_l1_protein)
 * Haloperidol
   * [Haldol inj 5mg/1mL](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-02-00/cn-02-01/haloperidol)
@@ -923,6 +927,8 @@
   * [Omnipaque 350mg I/mL, 100mL](https://shin13.gitbook.io/formulary/toc/vs-00-00/vs-01-00/vs-01-01/iohexol_and_tromethamine)
   * [Omnipaque 350mg I/mL, 200mL](https://shin13.gitbook.io/formulary/toc/vs-00-00/vs-01-00/vs-01-01/iohexol_and_tromethamine)
   * [Omnipaque 350mg I/mL, 50mL](https://shin13.gitbook.io/formulary/toc/vs-00-00/vs-01-00/vs-01-01/iohexol_and_tromethamine)
+* Ipilimumab
+  * [Yervoy inj 50mg/10mL](https://shin13.gitbook.io/formulary/toc/on-00-00/on-09-00/on-09-09/ipilimumab)
 * Ipratropium + Salbutamol
   * [Combivent UDV 2.5mL](https://shin13.gitbook.io/formulary/toc/re-00-00/re-04-00/ipratropium_and_salbutamol)
 * Irinotecan
@@ -1060,8 +1066,8 @@
 * Magnesium Sulfate
   * [Mg Sulfate 10% inj 200mL](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-04-00/nu-04-04/magnesium_sulfate)
 * Measles + Mumps + Rubella
+  * [M-M-R II (Government) 0.5mL/dose](https://shin13.gitbook.io/formulary/toc/im-00-00/im-02-00/im-02-02/measles_and_mumps_and_rubella)
   * [M-M-R II 0.5 mL/dose (Private)](https://shin13.gitbook.io/formulary/toc/im-00-00/im-02-00/im-02-02/measles_and_mumps_and_rubella)
-  * [Priorix (Government) 0.5mL/dose](https://shin13.gitbook.io/formulary/toc/im-00-00/im-02-00/im-02-02/measles_and_mumps_and_rubella)
 * Mebeverine
   * [Padalin 100mg](https://shin13.gitbook.io/formulary/toc/gi-00-00/gi-05-00/mebeverine)
 * Meclizine
@@ -1280,6 +1286,7 @@
   * [Invega inj 100mg (=156mg)](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-02-00/cn-02-01/paliperidone)
 * Palivizumab
   * [Synagis inj 50mg/0.5mL](https://shin13.gitbook.io/formulary/toc/im-00-00/im-03-00/palivizumab)
+  * [Synagis inj 50mg/0.5mL (sample)](https://shin13.gitbook.io/formulary/toc/im-00-00/im-03-00/palivizumab)
 * Palonosetron
   * [OKmilon inj 0.25mg/5mL](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-03-00/cn-03-08/palonosetron)
 * Pancrelipase
@@ -1341,7 +1348,7 @@
 * Pimecrolimus
   * [Elidel cream 1% 15gm](https://shin13.gitbook.io/formulary/toc/de-00-00/de-11-00/pimecrolimus)
 * Pioglitazone
-  * [Actos 30mg](https://shin13.gitbook.io/formulary/toc/me-00-00/me-02-00/me-02-05/pioglitazone)
+  * [Glitis 30mg](https://shin13.gitbook.io/formulary/toc/me-00-00/me-02-00/me-02-05/pioglitazone)
 * Pipemidic Acid
   * [Dolcol 250mg](https://shin13.gitbook.io/formulary/toc/ai-00-00/ai-01-00/ai-01-08/pipemidic_acid)
 * Piperacillin + Tazobactam
@@ -1386,7 +1393,7 @@
   * [Pampara inj 500mg/20mL](https://shin13.gitbook.io/formulary/toc/ad-00-00/ad-02-00/pralidoxime)
 * Pramipexole
   * [1mg MIRAPEX](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-03-00/cn-03-04/pramipexole)
-  * [MiraPex 0.375mg prolonged-release](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-03-00/cn-03-04/pramipexole)
+  * [Mirapex 0.375mg prolonged-release](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-03-00/cn-03-04/pramipexole)
 * Prasugrel
   * [Efient 3.75mg](https://shin13.gitbook.io/formulary/toc/he-00-00/he-03-00/prasugrel)
 * Pravastatin
@@ -1460,6 +1467,8 @@
   * [Rifampicin 300mg](https://shin13.gitbook.io/formulary/toc/ai-00-00/ai-01-00/ai-01-12/rifampicin)
 * Rifapentine
   * [Priftin 150mg (Government)](https://shin13.gitbook.io/formulary/toc/ai-00-00/ai-01-00/ai-01-12/rifapentine)
+* Rimegepant
+  * [Nurtec ODT 75 mg](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-03-00/cn-03-07/rimegepant)
 * Risankizumab
   * [Skyrizi inj 150mg/1mL](https://shin13.gitbook.io/formulary/toc/im-00-00/im-04-00/risankizumab)
 * Risperidone
@@ -1528,6 +1537,7 @@
   * [Cosentyx 150mg prefilled pen](https://shin13.gitbook.io/formulary/toc/im-00-00/im-04-00/secukinumab)
 * Semaglutide
   * [Ozempic inj 4mg/3mL](https://shin13.gitbook.io/formulary/toc/me-00-00/me-02-00/me-02-07/semaglutide)
+  * [RYBELSUS 14mg](https://shin13.gitbook.io/formulary/toc/me-00-00/me-02-00/me-02-07/semaglutide)
   * [Rybelsus 7mg](https://shin13.gitbook.io/formulary/toc/me-00-00/me-02-00/me-02-07/semaglutide)
 * Sennosides
   * [Through (Sennosides) 12mg](https://shin13.gitbook.io/formulary/toc/gi-00-00/gi-03-00/sennosides)
@@ -1560,9 +1570,10 @@
   * [Atomic enema 20mL](https://shin13.gitbook.io/formulary/toc/gi-00-00/gi-03-00/sodium_chloride)
   * [NaCl 0.45% inj 500mL](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-04-00/nu-04-04/sodium_chloride)
   * [NaCl 0.9% inj 1000mL](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-04-00/nu-04-04/sodium_chloride)
-  * [NaCl 0.9% inj 1000mL (專案大塚日本)](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-04-00/nu-04-04/sodium_chloride)
+  * [NaCl 0.9% inj 1000mL (專案大塚)](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-04-00/nu-04-04/sodium_chloride)
+  * [NaCl 0.9% inj 1000mL (專案橫山JW)](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-04-00/nu-04-04/sodium_chloride)
   * [NaCl 0.9% inj 1000mL (專案橫山韓國)](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-04-00/nu-04-04/sodium_chloride)
-  * [NaCl 0.9% inj 1000mL (專案百特新加坡)](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-04-00/nu-04-04/sodium_chloride)
+  * [NaCl 0.9% inj 1000mL (專案百特)](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-04-00/nu-04-04/sodium_chloride)
   * [NaCl 0.9% inj 100mL bag (Otsuka)](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-04-00/nu-04-04/sodium_chloride)
   * [NaCl 0.9% inj 20mL](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-04-00/nu-04-04/sodium_chloride)
   * [NaCl 0.9% inj 250mL bag (Otsuka)](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-04-00/nu-04-04/sodium_chloride)
@@ -1596,6 +1607,8 @@
   * [Vesicare 5mg](https://shin13.gitbook.io/formulary/toc/ur-00-00/ur-04-00/solifenacin)
 * Soybean and probiotics fermentation product
   * [Chemo young 4mL/bottle (14bottles/box)](https://shin13.gitbook.io/formulary/toc/on-00-00/on-06-00/soybean_and_probiotics_fermentation_product)
+* Spherical Absorptive Carbon
+  * [Kremezin 500mg tablet (4 tablets/PK)](https://shin13.gitbook.io/formulary/toc/ad-00-00/ad-01-00/spherical_absorptive_carbon)
 * Spironolactone
   * [Spironolactone 25mg](https://shin13.gitbook.io/formulary/toc/cv-00-00/cv-03-00/cv-03-03/spironolactone)
 * Sterile Water
@@ -1624,13 +1637,11 @@
   * [SonoVue inj 60.7mg](https://shin13.gitbook.io/formulary/toc/vs-00-00/vs-01-00/vs-01-04/sulphur_hexafluoride_microbubbles)
 * Sulpiride
   * [Splotin 50mg](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-02-00/cn-02-01/sulpiride)
-* Sumatriptan
-  * [Imigran FDT 50mg](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-03-00/cn-03-07/sumatriptan)
 * Sunitinib
   * [Sutent 12.5mg](https://shin13.gitbook.io/formulary/toc/on-00-00/on-08-00/on-08-99/sunitinib)
 ## T
 * Tacrolimus
-  * [Protopic ointment 0.1%,10gm](https://shin13.gitbook.io/formulary/toc/de-00-00/de-11-00/tacrolimus)
+  * [Protopic ointment 0.1% 10gm](https://shin13.gitbook.io/formulary/toc/de-00-00/de-11-00/tacrolimus)
 * Tadalafil
   * [Cialis 5mg (28 tablets/box)](https://shin13.gitbook.io/formulary/toc/ur-00-00/ur-03-00/tadalafil)
 * Tamoxifen
@@ -1659,7 +1670,7 @@
 * Terlipressin
   * [Glypressin inj 0.1mg/mL, 8.5mL](https://shin13.gitbook.io/formulary/toc/hr-00-00/hr-04-00/terlipressin)
 * Testosterone
-  * [Androgel 50mg](https://shin13.gitbook.io/formulary/toc/hr-00-00/hr-03-00/hr-03-01/testosterone)
+  * [AndroGEL 50mg](https://shin13.gitbook.io/formulary/toc/hr-00-00/hr-03-00/hr-03-01/testosterone)
   * [Natesto nasal gel 4.5%, 11gm](https://shin13.gitbook.io/formulary/toc/hr-00-00/hr-03-00/hr-03-01/testosterone)
   * [Nebido inj 1000mg/4mL](https://shin13.gitbook.io/formulary/toc/hr-00-00/hr-03-00/hr-03-01/testosterone)
   * [Sustanon inj (Testosterone250mg/1mL)](https://shin13.gitbook.io/formulary/toc/hr-00-00/hr-03-00/hr-03-01/testosterone)
