@@ -296,6 +296,8 @@
   * [Calcium Carbonate 500mg](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-03-00/calcium_carbonate)
 * Calcium Chloride + Dextrose
   * [VitaCAL inj 5.44mEq/20mL (5.44mg/mL)](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-03-00/calcium_chloride_and_dextrose)
+* Calcium Gluconate
+  * [Calglon 10% inj 10mL (9.3mg/mL)](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-03-00/calcium_gluconate)
 * Canagliflozin
   * [Canaglu 100mg](https://shin13.gitbook.io/formulary/toc/me-00-00/me-02-00/me-02-08/canagliflozin)
 * Candesartan
@@ -695,10 +697,10 @@
 * Fenoterol
   * [Strolin liquid 0.5mg/mL, 60mL](https://shin13.gitbook.io/formulary/toc/re-00-00/re-01-00/fenoterol)
 * Fentanyl
-  * [Durogesic D-trans Patch 12mcg/h](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-01-00/cn-01-01/fentanyl)
   * [FENTANYL inj 0.5mg/10mL(限麻醉科使用)](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-01-00/cn-01-01/fentanyl)
+  * [FENTANYL patch 25mcg/hr](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-01-00/cn-01-01/fentanyl)
   * [Fentanyl inj 0.1mg/2mL](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-01-00/cn-01-01/fentanyl)
-  * [Fentanyl patch 25mcg/hr](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-01-00/cn-01-01/fentanyl)
+  * [Fentanyl patch 12.5mcg/hr](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-01-00/cn-01-01/fentanyl)
 * Ferric-Hydroxide-Sucrose Complex
   * [Fe-Back inj 2%, 5mL](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-01-00/ferric-hydroxide-sucrose_complex)
 * Ferrous Gluconate + Vit B1 + Vit C
@@ -824,7 +826,6 @@
   * [ZOLADEX LA 10.8mg DEPOT (3 Months)](https://shin13.gitbook.io/formulary/toc/on-00-00/on-05-00/on-05-02/goserelin)
   * [Zoladex Depot 3.6mg](https://shin13.gitbook.io/formulary/toc/on-00-00/on-05-00/on-05-02/goserelin)
 * Granisetron
-  * [Grantron inj 3mg/3mL](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-03-00/cn-03-08/granisetron)
   * [Setron 2mg](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-03-00/cn-03-08/granisetron)
 * Guselkumab
   * [Tremfya inj 100mg/1mL](https://shin13.gitbook.io/formulary/toc/im-00-00/im-04-00/guselkumab)
@@ -1048,8 +1049,6 @@
   * [Ligilin 300mg](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-02-00/cn-02-01/lithium_carbonate)
 * Loperamide
   * [Imolex 2mg](https://shin13.gitbook.io/formulary/toc/gi-00-00/gi-02-00/loperamide)
-* Loratadine + Pseudoephedrine
-  * [Lorapseudo SR 10/240mg](https://shin13.gitbook.io/formulary/toc/im-00-00/im-01-00/loratadine_and_pseudoephedrine)
 * Lorazepam
   * [Anxicam inj 2mg/1mL](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-02-00/cn-02-02/lorazepam)
   * [Ativan 0.5mg](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-02-00/cn-02-02/lorazepam)
@@ -1572,7 +1571,6 @@
   * [NaCl 0.9% inj 1000mL](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-04-00/nu-04-04/sodium_chloride)
   * [NaCl 0.9% inj 1000mL (專案大塚)](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-04-00/nu-04-04/sodium_chloride)
   * [NaCl 0.9% inj 1000mL (專案橫山JW)](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-04-00/nu-04-04/sodium_chloride)
-  * [NaCl 0.9% inj 1000mL (專案橫山韓國)](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-04-00/nu-04-04/sodium_chloride)
   * [NaCl 0.9% inj 1000mL (專案百特)](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-04-00/nu-04-04/sodium_chloride)
   * [NaCl 0.9% inj 100mL bag (Otsuka)](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-04-00/nu-04-04/sodium_chloride)
   * [NaCl 0.9% inj 20mL](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-04-00/nu-04-04/sodium_chloride)
@@ -1581,7 +1579,6 @@
   * [NaCl 0.9% inj 500mL (信東瓶裝)](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-04-00/nu-04-04/sodium_chloride)
   * [NaCl 0.9% inj 500mL (專案大塚日本)](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-04-00/nu-04-04/sodium_chloride)
   * [NaCl 0.9% inj 500mL (專案大塚越南)](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-04-00/nu-04-04/sodium_chloride)
-  * [NaCl 0.9% inj 500mL (專案柏朗印尼)](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-04-00/nu-04-04/sodium_chloride)
   * [NaCl 0.9% inj 500mL (硬瓶)](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-04-00/nu-04-04/sodium_chloride)
   * [NaCl 0.9% inj 500mL bag (Otsuka)](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-04-00/nu-04-04/sodium_chloride)
   * [NaCl 0.9% irrigation 2000mL](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-05-00/sodium_chloride)
