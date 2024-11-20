@@ -296,8 +296,6 @@
   * [Calcium Carbonate 500mg](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-03-00/calcium_carbonate)
 * Calcium Chloride + Dextrose
   * [VitaCAL inj 5.44mEq/20mL (5.44mg/mL)](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-03-00/calcium_chloride_and_dextrose)
-* Calcium Gluconate
-  * [Calglon 10% inj 10mL (9.3mg/mL)](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-03-00/calcium_gluconate)
 * Canagliflozin
   * [Canaglu 100mg](https://shin13.gitbook.io/formulary/toc/me-00-00/me-02-00/me-02-08/canagliflozin)
 * Candesartan
@@ -503,7 +501,6 @@
   * [Dextrose 5% inj 500mL](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-04-00/nu-04-02/dextrose)
   * [Dextrose 5% inj 500mL (Otsuka)](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-04-00/nu-04-02/dextrose)
 * Dextrose + Sodium Chloride
-  * [Dextrose 2.5% in NaCl 0.45% inj 500mL](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-04-00/nu-04-05/dextrose_and_sodium_chloride)
   * [Dextrose 5% in NaCl 0.3% inj 500mL (Otsuka)](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-04-00/nu-04-05/dextrose_and_sodium_chloride)
   * [Dextrose 5% in NaCl 0.9% inj 500mL (N.K.)](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-04-00/nu-04-05/dextrose_and_sodium_chloride)
 * Diazepam
@@ -764,7 +761,6 @@
   * [Folina 15mg](https://shin13.gitbook.io/formulary/toc/ad-00-00/ad-02-00/folinate)
 * Follitropin Alpha
   * [GONAL-F inj 450 IU/ 0.75mL](https://shin13.gitbook.io/formulary/toc/hr-00-00/hr-02-00/follitropin_alpha)
-  * [Gonal-F 75 IU inj](https://shin13.gitbook.io/formulary/toc/hr-00-00/hr-02-00/follitropin_alpha)
 * Fondaparinux
   * [Arixtra 2.5mg/0.5mL pre-filled syringe](https://shin13.gitbook.io/formulary/toc/he-00-00/he-02-00/fondaparinux)
 * Fradiomycin
@@ -874,14 +870,14 @@
 * Hydroxyurea
   * [Hydrea 500mg](https://shin13.gitbook.io/formulary/toc/on-00-00/on-02-00/on-02-04/hydroxyurea)
 * Hyoscin-Butylbromide
-  * [Fucon inj 20mg/1mL](https://shin13.gitbook.io/formulary/toc/gi-00-00/gi-05-00/hyoscin-butylbromide)
+  * [Escopan inj 20mg/1mL](https://shin13.gitbook.io/formulary/toc/gi-00-00/gi-05-00/hyoscin-butylbromide)
 * Hyoscyamine
   * [Nuspas 0.125mg](https://shin13.gitbook.io/formulary/toc/gi-00-00/gi-05-00/hyoscyamine)
 ## I
 * Ibandronate
   * [Bonviva inj 3mg/3mL](https://shin13.gitbook.io/formulary/toc/me-00-00/me-06-00/ibandronate)
 * Ibuprofen
-  * [Idofen 20mg/mL, 120mL suspension](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-01-00/cn-01-02/ibuprofen)
+  * [Ibuprofen 20mg/mL, 60mL suspension](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-01-00/cn-01-02/ibuprofen)
   * [Pedea inj 10mg/2mL (專案進口)](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-01-00/cn-01-02/ibuprofen)
 * Imatinib
   * [Leevk 100mg](https://shin13.gitbook.io/formulary/toc/on-00-00/on-08-00/on-08-01/imatinib)
@@ -1049,6 +1045,8 @@
   * [Ligilin 300mg](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-02-00/cn-02-01/lithium_carbonate)
 * Loperamide
   * [Imolex 2mg](https://shin13.gitbook.io/formulary/toc/gi-00-00/gi-02-00/loperamide)
+* Loratadine + Pseudoephedrine
+  * [Lorapseudo SR 10/240mg](https://shin13.gitbook.io/formulary/toc/im-00-00/im-01-00/loratadine_and_pseudoephedrine)
 * Lorazepam
   * [Anxicam inj 2mg/1mL](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-02-00/cn-02-02/lorazepam)
   * [Ativan 0.5mg](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-02-00/cn-02-02/lorazepam)
@@ -1152,8 +1150,8 @@
 * Mitomycin C
   * [Mitonco inj 10mg](https://shin13.gitbook.io/formulary/toc/on-00-00/on-03-00/on-03-09/mitomycin_c)
 * Molnupiravir
-  * [(政府自費) Molnupiravir 200mg (40顆/瓶)](https://shin13.gitbook.io/formulary/toc/ai-00-00/ai-03-00/ai-03-09/molnupiravir)
-  * [Molnupiravir 200mg (公費)](https://shin13.gitbook.io/formulary/toc/ai-00-00/ai-03-00/ai-03-09/molnupiravir)
+  * [(政府自費) Molnupiravir 200mg (40顆/瓶) Lagevrio](https://shin13.gitbook.io/formulary/toc/ai-00-00/ai-03-00/ai-03-09/molnupiravir)
+  * [Molnupiravir 200mg (公費) Lagevrio](https://shin13.gitbook.io/formulary/toc/ai-00-00/ai-03-00/ai-03-09/molnupiravir)
 * Mometasone
   * [Elomet cream 0.1% 5gm](https://shin13.gitbook.io/formulary/toc/de-00-00/de-06-00/mometasone)
   * [Nasonex 50mcg/dose, 140 doses nasal spray](https://shin13.gitbook.io/formulary/toc/en-00-00/en-02-00/mometasone)
@@ -1182,8 +1180,6 @@
   * [Mutonpain inj 10mg/1mL](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-01-00/cn-01-01/nalbuphine)
 * Naloxone
   * [Naloxone inj 0.4mg/1mL](https://shin13.gitbook.io/formulary/toc/ad-00-00/ad-02-00/naloxone)
-* Naltrexone
-  * [Notholic 50mg](https://shin13.gitbook.io/formulary/toc/ad-00-00/ad-02-00/naltrexone)
 * Naltrexone + Bupropion
   * [Contrave 8/90mg extended-release](https://shin13.gitbook.io/formulary/toc/me-00-00/me-05-00/naltrexone_and_bupropion)
 * Naproxen
@@ -1365,6 +1361,7 @@
 * Plectranthus amboinicus + Centella asiatica
   * [Fespixon cream 1.25%, 15 gm](https://shin13.gitbook.io/formulary/toc/de-00-00/de-08-00/plectranthus_amboinicus_and_centella_asiatica)
 * Pneumococcal Vaccine Polyvalent
+  * [Pneumovax 23 (Government) 0.5mL/dose](https://shin13.gitbook.io/formulary/toc/im-00-00/im-02-00/im-02-01/pneumococcal_vaccine_polyvalent)
   * [Pneumovax 23 (Private) 0.5mL/dose](https://shin13.gitbook.io/formulary/toc/im-00-00/im-02-00/im-02-01/pneumococcal_vaccine_polyvalent)
   * [Prevenar (政府提供,13價肺炎) 0.5mL/dose](https://shin13.gitbook.io/formulary/toc/im-00-00/im-02-00/im-02-01/pneumococcal_vaccine_polyvalent)
   * [Prevenar 13 (Government) 0.5mL/dose](https://shin13.gitbook.io/formulary/toc/im-00-00/im-02-00/im-02-01/pneumococcal_vaccine_polyvalent)
@@ -1479,7 +1476,6 @@
 * Rituximab
   * [MABTHERA infusion 500mg/50mL](https://shin13.gitbook.io/formulary/toc/on-00-00/on-09-00/on-09-01/rituximab)
   * [Mabthera inj 100mg/10mL](https://shin13.gitbook.io/formulary/toc/on-00-00/on-09-00/on-09-01/rituximab)
-  * [Truxima inj 500mg/50mL](https://shin13.gitbook.io/formulary/toc/on-00-00/on-09-00/on-09-01/rituximab)
 * Rivaroxaban
   * [XARELTO 15mg](https://shin13.gitbook.io/formulary/toc/he-00-00/he-02-00/rivaroxaban)
   * [Xarelto 2.5mg](https://shin13.gitbook.io/formulary/toc/he-00-00/he-02-00/rivaroxaban)
@@ -1496,7 +1492,7 @@
 * Ropivacaine
   * [Ropica inj 200mg/20mL](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-04-00/cn-04-02/ropivacaine)
 * Rosuvastatin
-  * [20mg CRESTOR](https://shin13.gitbook.io/formulary/toc/cv-00-00/cv-12-00/rosuvastatin)
+  * [Crestor 20mg](https://shin13.gitbook.io/formulary/toc/cv-00-00/cv-12-00/rosuvastatin)
 * Rotigotine
   * [Neupro patch 6mg/24h](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-03-00/cn-03-04/rotigotine)
 ## S
@@ -1568,6 +1564,7 @@
 * Sodium Chloride
   * [Atomic enema 20mL](https://shin13.gitbook.io/formulary/toc/gi-00-00/gi-03-00/sodium_chloride)
   * [NaCl 0.45% inj 500mL](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-04-00/nu-04-04/sodium_chloride)
+  * [NaCl 0.45% inj 500mL (信東)](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-04-00/nu-04-04/sodium_chloride)
   * [NaCl 0.9% inj 1000mL](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-04-00/nu-04-04/sodium_chloride)
   * [NaCl 0.9% inj 1000mL (專案大塚)](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-04-00/nu-04-04/sodium_chloride)
   * [NaCl 0.9% inj 1000mL (專案橫山JW)](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-04-00/nu-04-04/sodium_chloride)
@@ -1779,7 +1776,7 @@
   * [Sinpharderm cream 40% 10gm (去角質)](https://shin13.gitbook.io/formulary/toc/de-00-00/de-10-00/urea)
   * [Urea cream 10%, 20gm](https://shin13.gitbook.io/formulary/toc/de-00-00/de-10-00/urea)
 * Urokinase
-  * [UROKINASE 60,000IU](https://shin13.gitbook.io/formulary/toc/he-00-00/he-04-00/urokinase)
+  * [UROKINASE 60,000IU (綠十字)](https://shin13.gitbook.io/formulary/toc/he-00-00/he-04-00/urokinase)
 * Ursodeoxycholic Acid
   * [Genurso 100mg](https://shin13.gitbook.io/formulary/toc/gi-00-00/gi-07-00/ursodeoxycholic_acid)
 * Ustekinumab

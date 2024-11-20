@@ -126,6 +126,20 @@
 | Lactation          | Unknown                                                                                                                  |
 | More Info          | [UpToDate](https://www.uptodate.com/contents/sodium-chloride-preparations-saline-and-oral-salt-tablets-drug-information) |
 
+## NaCl 0.45% inj 500mL (信東)
+
+| TAH Drug Code      | [INS45S](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=INS45S)                                                 |
+|:-------------------|:-------------------------------------------------------------------------------------------------------------------------|
+| Indications        | No Data                                                                                                                  |
+| Dosing             | No Data                                                                                                                  |
+| Hepatic Impairment | No Data                                                                                                                  |
+| Renal Impairment   | No Data                                                                                                                  |
+| Contraindications  | No Data                                                                                                                  |
+| Adverse Effects    | No Data                                                                                                                  |
+| Pregnancy          | No Data                                                                                                                  |
+| Lactation          | No Data                                                                                                                  |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/sodium-chloride-preparations-saline-and-oral-salt-tablets-drug-information) |
+
 ## NaCl 0.9% inj 500mL (硬瓶)
 
 | TAH Drug Code      | [INS5](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=INS5)                                                     |

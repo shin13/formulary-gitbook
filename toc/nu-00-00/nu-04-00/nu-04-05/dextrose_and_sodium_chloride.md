@@ -1,19 +1,5 @@
 # Dextrose + Sodium Chloride
 
-## Dextrose 2.5% in NaCl 0.45% inj 500mL
-
-| TAH Drug Code      | [IGS25](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IGS25)                                                          |
-|:-------------------|:--------------------------------------------------------------------------------------------------------------------------------|
-| Indications        | Replacement & maintenance of fluid & electrolytes.                                                                              |
-| Dosing             | Individualized dosage. Each Dextrose 2.5% and Sodium chloride 0.45% solution mL contains: Dextrose 25mg, Sodium chloride 4.5mg. |
-| Hepatic Impairment | Dose adjustment not necessary                                                                                                   |
-| Renal Impairment   | Dose adjustment not necessary                                                                                                   |
-| Contraindications  | No Data                                                                                                                         |
-| Adverse Effects    | No Data                                                                                                                         |
-| Pregnancy          | Compatible                                                                                                                      |
-| Lactation          | Compatible                                                                                                                      |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/dextrose-and-sodium-chloride-drug-information)                                     |
-
 ## Dextrose 5% in NaCl 0.3% inj 500mL (Otsuka)
 
 | TAH Drug Code      | [IGS3O](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IGS3O)                                                                                                                                   |
