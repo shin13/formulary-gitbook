@@ -28,20 +28,6 @@
 | Lactation          | Unknown                                                                                                                                                                                                                                                                                                                                                                                                                  |
 | More Info          | [UpToDate](https://www.uptodate.com/contents/instant-glucose-and-intravenous-dextrose-drug-information)                                                                                                                                                                                                                                                                                                                  |
 
-## Dextrose 5% inj 250mL (永豐)
-
-| TAH Drug Code      | [IGW250](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IGW250)                                |
-|:-------------------|:--------------------------------------------------------------------------------------------------------|
-| Indications        | Treatment of carbohydrate and fluid depletion.                                                          |
-| Dosing             | Individualized dosage. Adult 500-1000 mL each time IV drip.                                             |
-| Hepatic Impairment | Dose adjustment not necessary                                                                           |
-| Renal Impairment   | Dose adjustment not necessary                                                                           |
-| Contraindications  | Hypersensitivity to any component of the formulation.                                                   |
-| Adverse Effects    | Hyperglycemia                                                                                           |
-| Pregnancy          | Unknown                                                                                                 |
-| Lactation          | Unknown                                                                                                 |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/instant-glucose-and-intravenous-dextrose-drug-information) |
-
 ## Dextrose 5% inj 250mL (CHISHENG)
 
 | TAH Drug Code      | [IGW250C](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IGW250C)                                                                                                     |

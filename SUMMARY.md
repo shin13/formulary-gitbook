@@ -785,7 +785,7 @@
         * [Distilled Water](toc/nu-00-00/nu-04-00/nu-04-05/distilled_water.md)
         * [Electrolytes And Water](toc/nu-00-00/nu-04-00/nu-04-05/electrolytes_and_water.md)
         * [L-Carnitine](toc/nu-00-00/nu-04-00/nu-04-05/l-carnitine.md)
-        * [Nacl And Kcl And Calcium Chloride And Lactose](toc/nu-00-00/nu-04-00/nu-04-05/nacl_and_kcl_and_calcium_chloride_and_lactose.md)
+        * [Nacl And Sodium Lactate And Kcl And Calcium Chloride](toc/nu-00-00/nu-04-00/nu-04-05/nacl_and_sodium_lactate_and_kcl_and_calcium_chloride.md)
         * [Water For Injection](toc/nu-00-00/nu-04-00/nu-04-05/water_for_injection.md)
     * [Irrigation](toc/nu-00-00/nu-05-00/README.md)
       * [Distilled Water](toc/nu-00-00/nu-05-00/distilled_water.md)

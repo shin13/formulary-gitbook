@@ -497,7 +497,6 @@
   * [Dextrose (Vitagen) 50% inj 20mL](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-04-00/nu-04-02/dextrose)
   * [Dextrose 10% inj 500mL](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-04-00/nu-04-02/dextrose)
   * [Dextrose 5% inj 250mL (CHISHENG)](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-04-00/nu-04-02/dextrose)
-  * [Dextrose 5% inj 250mL (永豐)](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-04-00/nu-04-02/dextrose)
   * [Dextrose 5% inj 500mL](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-04-00/nu-04-02/dextrose)
   * [Dextrose 5% inj 500mL (Otsuka)](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-04-00/nu-04-02/dextrose)
 * Dextrose + Sodium Chloride
@@ -1174,8 +1173,8 @@
 ## N
 * NaCl + KCl + Boric Acid
   * [Patear eye lotion 10mL](https://shin13.gitbook.io/formulary/toc/op-00-00/op-07-00/nacl_and_kcl_and_boric_acid)
-* NaCl + KCl + Calcium Chloride + Lactose
-  * [Lactated Ringer's inj 500mL](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-04-00/nu-04-05/nacl_and_kcl_and_calcium_chloride_and_lactose)
+* NaCl + Sodium Lactate + KCl + Calcium Chloride
+  * [Lactated Ringer's inj 500mL](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-04-00/nu-04-05/nacl_and_sodium_lactate_and_kcl_and_calcium_chloride)
 * Nalbuphine
   * [Mutonpain inj 10mg/1mL](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-01-00/cn-01-01/nalbuphine)
 * Naloxone
@@ -1252,7 +1251,6 @@
 * Opium Tincture + Glycyrrhiza + Antimony K tartrate
   * [Brown mixture 120mL](https://shin13.gitbook.io/formulary/toc/re-00-00/re-05-00/re-05-02/opium_tincture_and_glycyrrhiza_and_antimony_k_tartrate)
 * Oseltamivir
-  * [Oseltamivir Phosphate 6mg/mL, 60mL oral suspension](https://shin13.gitbook.io/formulary/toc/ai-00-00/ai-03-00/ai-03-01/oseltamivir)
   * [Tamiflu 75mg (Government)](https://shin13.gitbook.io/formulary/toc/ai-00-00/ai-03-00/ai-03-01/oseltamivir)
   * [Tamiflu 75mg (Private)](https://shin13.gitbook.io/formulary/toc/ai-00-00/ai-03-00/ai-03-01/oseltamivir)
 * Otilonium
@@ -1564,11 +1562,8 @@
 * Sodium Chloride
   * [Atomic enema 20mL](https://shin13.gitbook.io/formulary/toc/gi-00-00/gi-03-00/sodium_chloride)
   * [NaCl 0.45% inj 500mL](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-04-00/nu-04-04/sodium_chloride)
-  * [NaCl 0.45% inj 500mL (信東)](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-04-00/nu-04-04/sodium_chloride)
-  * [NaCl 0.9% inj 1000mL](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-04-00/nu-04-04/sodium_chloride)
   * [NaCl 0.9% inj 1000mL (專案大塚)](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-04-00/nu-04-04/sodium_chloride)
   * [NaCl 0.9% inj 1000mL (專案橫山JW)](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-04-00/nu-04-04/sodium_chloride)
-  * [NaCl 0.9% inj 1000mL (專案百特)](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-04-00/nu-04-04/sodium_chloride)
   * [NaCl 0.9% inj 100mL bag (Otsuka)](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-04-00/nu-04-04/sodium_chloride)
   * [NaCl 0.9% inj 20mL](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-04-00/nu-04-04/sodium_chloride)
   * [NaCl 0.9% inj 250mL bag (Otsuka)](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-04-00/nu-04-04/sodium_chloride)
@@ -1576,9 +1571,7 @@
   * [NaCl 0.9% inj 500mL (信東瓶裝)](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-04-00/nu-04-04/sodium_chloride)
   * [NaCl 0.9% inj 500mL (專案大塚日本)](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-04-00/nu-04-04/sodium_chloride)
   * [NaCl 0.9% inj 500mL (專案大塚越南)](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-04-00/nu-04-04/sodium_chloride)
-  * [NaCl 0.9% inj 500mL (硬瓶)](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-04-00/nu-04-04/sodium_chloride)
   * [NaCl 0.9% inj 500mL bag (Otsuka)](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-04-00/nu-04-04/sodium_chloride)
-  * [NaCl 0.9% irrigation 2000mL](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-05-00/sodium_chloride)
   * [NaCl 0.9% irrigation 3000mL](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-05-00/sodium_chloride)
   * [NaCl 0.9% irrigation 3000mL (專案韋淳)](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-05-00/sodium_chloride)
   * [NaCl 0.9% irrigation 500mL (專案濟生)](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-05-00/sodium_chloride)
