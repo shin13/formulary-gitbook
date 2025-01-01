@@ -24,7 +24,7 @@ os.rename('SUMMARY.md', 'SUMMARY_old.md')
 lines = []
 
 # Read file
-with open('SUMMARY_old.md', 'r', encoding='big5hkscs') as f:
+with open('SUMMARY_old.md', 'r', encoding='utf-8') as f:
     # read an store all lines into list
     lines = f.readlines()
 
@@ -85,6 +85,20 @@ rep = dict(zip(cat_list['code'], cat_list['name']))
 rep = dict((re.escape(k), v) for k, v in rep.items())
 pattern = re.compile("|".join(rep.keys()))
 text = pattern.sub(lambda m: rep[re.escape(m.group(0))], contents)
+
+# # Remove blank lines
+# text = re.sub(r'\n\s*\n', '\n', text)
+
+# text = text.replace('[Alanine 8.2% And Glutamine 13.64%]',
+#                     '[Alanine And Glutamine]')
+# text = text.replace('alanine_8.2%_and_glutamine_13.64%.md',
+#                     'alanine_and_glutamine.md')
+# try:
+#     os.rename(r'C:\Users\152551\formulary-gitbook\toc\nu-00-00\nu-04-00\nu-04-01\alanine_8.2%_and_glutamine_13.64%.md',
+#               r'C:\Users\152551\formulary-gitbook\toc\nu-00-00\nu-04-00\nu-04-01\alanine_and_glutamine.md')
+# except:
+#     pass
+
 # Remove blank lines
 text = re.sub(r'\n\s*\n', '\n', text)
 
@@ -92,11 +106,14 @@ text = text.replace('[Alanine 8.2% And Glutamine 13.64%]',
                     '[Alanine And Glutamine]')
 text = text.replace('alanine_8.2%_and_glutamine_13.64%.md',
                     'alanine_and_glutamine.md')
+
+old_filename = os.path.join('toc', 'nu-00-00', 'nu-04-00', 'nu-04-01', 'alanine_8.2%_and_glutamine_13.64%.md')
+new_filename = os.path.join('toc', 'nu-00-00', 'nu-04-00', 'nu-04-01', 'alanine_and_glutamine.md')
 try:
-    os.rename(r'C:\Users\152551\formulary-gitbook\toc\nu-00-00\nu-04-00\nu-04-01\alanine_8.2%_and_glutamine_13.64%.md',
-              r'C:\Users\152551\formulary-gitbook\toc\nu-00-00\nu-04-00\nu-04-01\alanine_and_glutamine.md')
+    os.rename(old_filename, new_filename)
 except:
     pass
+
 with open('SUMMARY_test.md', 'w', encoding='utf-8') as f:
     f.write(text)
 
@@ -115,6 +132,10 @@ with open('SUMMARY_test.md', 'r', encoding='utf8') as oldfile, open('SUMMARY.md'
 # In[8]:
 
 
-lst = ['SUMMARY_old.md', 'toc.md', 'SUMMARY_test.md']
-for i in lst:
-    os.remove(i)
+# 刪除臨時文件
+temp_files = ['SUMMARY_old.md', 'toc.md', 'SUMMARY_test.md']
+for file in temp_files:
+    try:
+        os.remove(file)
+    except OSError as e:
+        print(f"Error: {file} : {e.strerror}")

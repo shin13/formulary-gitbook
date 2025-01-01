@@ -85,7 +85,8 @@ import sys
 import shutil
 
 # Get directory name
-mydir = 'C:\\Users\\152551\\formulary-gitbook\\toc'
+# mydir = 'C:\\Users\\152551\\formulary-gitbook\\toc'
+mydir = '/Users/shin/Projects/formulary-gitbook/toc'
 
 try:
     shutil.rmtree(mydir)
@@ -97,8 +98,8 @@ except OSError as e:
 import os
 
 try:
-    path = 'C:\\Users\\152551\\formulary-gitbook\\toc'
-    # path = '/Users/shin/formulary/toc'
+    # path = 'C:\\Users\\152551\\formulary-gitbook\\toc'
+    path = '/Users/shin/Projects/formulary-gitbook/toc'
     os.mkdir(path)
     mdpath = path + '\\' + 'README.md'
     with open(mdpath, 'w') as f:
@@ -110,9 +111,9 @@ cat2_li = df['藥理分類2'].unique().tolist()
 for cat in cat2_li:
     if cat[-3] == '-':
         try:
-            path = 'C:\\Users\\152551\\formulary-gitbook\\toc\\' + \
-                cat[:3].lower() + '00-00\\'
-            # path = '/Users/shin/formulary/toc/' + cat[:3].lower() + '00-00/'
+            # path = 'C:\\Users\\152551\\formulary-gitbook\\toc\\' + \
+            #     cat[:3].lower() + '00-00\\'
+            path = '/Users/shin/Projects/formulary-gitbook/toc/' + cat[:3].lower() + '00-00/'
             os.mkdir(path)
             mdpath = path + 'README.md'
             try:
@@ -128,9 +129,9 @@ for cat in cat2_li:
 for cat in cat2_li:
     if cat[-2:] == "00":
         try:
-            path = 'C:\\Users\\152551\\formulary-gitbook\\toc\\' + \
-                cat[:3].lower() + '00-00\\' + cat.lower() + '\\'
-            # path = '/Users/shin/formulary/toc/' + cat[:3].lower() + '00-00/' + cat.lower() + '/'
+            # path = 'C:\\Users\\152551\\formulary-gitbook\\toc\\' + \
+            #     cat[:3].lower() + '00-00\\' + cat.lower() + '\\'
+            path = '/Users/shin/Projects/formulary-gitbook/toc/' + cat[:3].lower() + '00-00/' + cat.lower() + '/'
             os.mkdir(path)
             mdpath = path + 'README.md'
             try:
@@ -142,8 +143,9 @@ for cat in cat2_li:
             pass
     elif (cat[-2:] != "00") & (len(cat) == 8):
         try:
-            path = 'C:\\Users\\152551\\formulary-gitbook\\toc\\' + \
-                cat[:3].lower() + '00-00\\' + cat[:6].lower() + '00\\'
+            # path = 'C:\\Users\\152551\\formulary-gitbook\\toc\\' + \
+            #     cat[:3].lower() + '00-00\\' + cat[:6].lower() + '00\\'
+            path = '/Users/shin/Projects/formulary-gitbook/toc/' + cat[:3].lower() + '00-00/' + cat[:6].lower() + '00/'
             os.mkdir(path)
             mdpath = path + 'README.md'
             try:
@@ -154,10 +156,10 @@ for cat in cat2_li:
         except:
             pass
         try:
-            path = 'C:\\Users\\152551\\formulary-gitbook\\toc\\' + \
-                cat[:3].lower() + '00-00\\' + cat[:6].lower() + \
-                '00\\' + cat.lower() + '\\'
-            # path = '/Users/shin/formulary/toc/' + cat[:3].lower() + '00-00/' + cat[:6].lower() + '00/'+ cat.lower() + '/'
+            # path = 'C:\\Users\\152551\\formulary-gitbook\\toc\\' + \
+            #     cat[:3].lower() + '00-00\\' + cat[:6].lower() + \
+            #     '00\\' + cat.lower() + '\\'
+            path = '/Users/shin/Projects/formulary-gitbook/toc/' + cat[:3].lower() + '00-00/' + cat[:6].lower() + '00/'+ cat.lower() + '/'
             os.mkdir(path)
             mdpath = path + 'README.md'
             try:
@@ -169,8 +171,8 @@ for cat in cat2_li:
             pass
     else:
         try:
-            path = 'C:\\Users\\152551\\formulary-gitbook\\toc\\' + cat.lower() + '\\'
-            # path = '/Users/shin/formulary/toc/' + cat.lower()
+            # path = 'C:\\Users\\152551\\formulary-gitbook\\toc\\' + cat.lower() + '\\'
+            path = '/Users/shin/Projects/formulary-gitbook/toc/' + cat.lower() + '/'
             os.mkdir(path)
             mdpath = path + 'README.md'
             try:
@@ -219,20 +221,23 @@ df['name_md'] = df['drug_name'] + '.md'
 
 def combine_str(row):
     if pd.isna(row.toc2) & pd.isna(row.toc3):
-        string = ['C:\\Users\\152551\\formulary-gitbook\\toc',
-                  row['toc1'], row['name_md']]
-#         string = ['/Users/shin/formulary/toc', row['toc1'], row['name_md']]
-        return "\\".join(string)
+        # string = ['C:\\Users\\152551\\formulary-gitbook\\toc',
+        #           row['toc1'], row['name_md']]
+        string = ['/Users/shin/Projects/formulary-gitbook/toc', row['toc1'], row['name_md']]
+        # return "\\".join(string)
+        return "/".join(string)
     elif pd.notna(row.toc3):
-        string = ['C:\\Users\\152551\\formulary-gitbook\\toc',
-                  row['toc1'], row['toc2'], row['toc3'], row['name_md']]
-#         string = ['/Users/shin/formulary/toc', row['toc1'], row['toc2'], row['toc3'], row['name_md']]
-        return "\\".join(string)
+        # string = ['C:\\Users\\152551\\formulary-gitbook\\toc',
+        #           row['toc1'], row['toc2'], row['toc3'], row['name_md']]
+        string = ['/Users/shin/Projects/formulary-gitbook/toc', row['toc1'], row['toc2'], row['toc3'], row['name_md']]
+        # return "\\".join(string)
+        return "/".join(string)
     else:
-        string = ['C:\\Users\\152551\\formulary-gitbook\\toc',
-                  row['toc1'], row['toc2'], row['name_md']]
-#         string = ['/Users/shin/formulary/toc', row['toc1'], row['toc2'], row['name_md']]
-        return "\\".join(string)
+        # string = ['C:\\Users\\152551\\formulary-gitbook\\toc',
+        #           row['toc1'], row['toc2'], row['name_md']]
+        string = ['/Users/shin/Projects/formulary-gitbook/toc', row['toc1'], row['toc2'], row['name_md']]
+        # return "\\".join(string)
+        return "/".join(string)
 
 
 df['url'] = df.apply(combine_str, axis=1)
@@ -284,10 +289,8 @@ for cat2 in cat2_li:
                 else:
                     pass
 
-                df_tb = df_name.loc[code,
-                                    'Indications':'Lactation'].reset_index()
-                col_name = '[' + code + \
-                    '](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=' + code + ')'
+                df_tb = df_name.loc[code, 'Indications':'Lactation'].reset_index()
+                col_name = '[' + code + '](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=' + code + ')'
                 df_tb.columns = ['TAH Drug Code', col_name]
 
                 # 20240618 新增UpToDate查詢連結
@@ -329,4 +332,5 @@ for cat2 in cat2_li:
 
 # 將 summary_data 匯出到 Excel 檔案中
 summary_df = pd.DataFrame(summary_data)
-summary_df.to_excel('C:\\Users\\152551\\formulary-gitbook\\check_links\\summary_data.xlsx', index=False)
+# summary_df.to_excel('C:\\Users\\152551\\formulary-gitbook\\check_links\\summary_data.xlsx', index=False)
+summary_df.to_excel('/Users/shin/Projects/formulary-gitbook/check_links/summary_data.xlsx', index=False)

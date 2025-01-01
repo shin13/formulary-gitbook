@@ -22,20 +22,21 @@ def output_markdown(dire, base_dir, output_file, append, iter_depth=0):
         file_or_path = os.path.join(dire, filename)
         if os.path.isdir(file_or_path):  # is dir
             if mdfile_in_dir(file_or_path):
+                rel_path = os.path.relpath(dire, base_dir)
                 # if there is .md files in the folder, output folder name
-                line = '* [{}]({}\\README.md)\n'.format(filename,
-                                                        os.path.join(os.path.relpath(
-                                                            dire, base_dir), filename))
+                line = '* [{}]({})\n'.format(filename, os.path.join(rel_path, filename, 'README.md').replace(os.sep, '/'))
                 output_file.write('  ' * iter_depth + line)
-                output_markdown(file_or_path, base_dir, output_file,
-                                append, iter_depth + 1)  # iteration
+                output_markdown(file_or_path, base_dir, output_file, append, iter_depth + 1)  # iteration
         else:  # is file
             if is_markdown_file(filename):
                 # re to find target markdown files, $ for matching end of filename
                 if (filename not in ['SUMMARY.md', 'SUMMARY-GitBook-auto-summary.md'] or iter_depth != 0):
                     # escape SUMMARY.md at base directory
-                    output_file.write('  ' * iter_depth + '* [{}]({})\n'.format(write_md_filename(
-                        filename, append), os.path.join(os.path.relpath(dire, base_dir), filename)))
+                    rel_path = os.path.relpath(dire, base_dir)
+                    output_file.write('  ' * iter_depth + '* [{}]({})\n'.format(
+                        write_md_filename(filename, append), 
+                        os.path.join(rel_path, filename).replace(os.sep, '/')
+                        ))
                     # iter depth for indent, relpath and join to write link.
 
 
