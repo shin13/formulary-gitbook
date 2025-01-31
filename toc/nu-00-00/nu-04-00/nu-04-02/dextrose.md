@@ -1,18 +1,18 @@
 # Dextrose
 
-## Dextrose 10% inj 500mL
+## Dextrose 10% inj 500mL (Otsuka)
 
-| TAH Drug Code      | [IGW10](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IGW10)                                  |
-|:-------------------|:--------------------------------------------------------------------------------------------------------|
-| Indications        | Treatment of carbohydrate and fluid depletion.                                                          |
-| Dosing             | Individualise dosage. Adult 20-500 mL, maximun infusion rate: 0.5g/kg/hr.                               |
-| Hepatic Impairment | Dose adjustment not necessary                                                                           |
-| Renal Impairment   | Dose adjustment not necessary                                                                           |
-| Contraindications  | Hypersensitivity to any component of the formulation.                                                   |
-| Adverse Effects    | Hyperglycemia                                                                                           |
-| Pregnancy          | Unknown                                                                                                 |
-| Lactation          | Unknown                                                                                                 |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/instant-glucose-and-intravenous-dextrose-drug-information) |
+| TAH Drug Code      | [IGW10O](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IGW10O)                                                                                                       |
+|:-------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Indications        | Supplement of water and nutrition for surgery and other diseases.                                                                                                              |
+| Dosing             | Individualized dosage. Usually, adult: 500-1000mL as an intravenous infusion, and then increase or decrease appropriately according to symptoms. Dextrose monohydrate 50 mg/mL |
+| Hepatic Impairment | Dose adjustment not necessary                                                                                                                                                  |
+| Renal Impairment   | Dose adjustment not necessary                                                                                                                                                  |
+| Contraindications  | Hypersensitivity to any component of the formulation.                                                                                                                          |
+| Adverse Effects    | Hyperglycemia, edema, electrolytes imbalance.                                                                                                                                  |
+| Pregnancy          | Compatible                                                                                                                                                                     |
+| Lactation          | Compatible                                                                                                                                                                     |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/instant-glucose-and-intravenous-dextrose-drug-information)                                                                        |
 
 ## Dextrose (Vitagen) 20% inj 20mL
 
@@ -41,20 +41,6 @@
 | Pregnancy          | Compatible                                                                                                                                                                     |
 | Lactation          | Compatible                                                                                                                                                                     |
 | More Info          | [UpToDate](https://www.uptodate.com/contents/instant-glucose-and-intravenous-dextrose-drug-information)                                                                        |
-
-## Dextrose 5% inj 500mL
-
-| TAH Drug Code      | [IGW5](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IGW5)                                    |
-|:-------------------|:--------------------------------------------------------------------------------------------------------|
-| Indications        | Treatment of carbohydrate and fluid depletion.                                                          |
-| Dosing             | Individualized dosage. Adult 500-1000 mL each time IV drip.                                             |
-| Hepatic Impairment | Dose adjustment not necessary                                                                           |
-| Renal Impairment   | Dose adjustment not necessary                                                                           |
-| Contraindications  | Hypersensitivity to any component of the formulation.                                                   |
-| Adverse Effects    | Hyperglycemia                                                                                           |
-| Pregnancy          | Unknown                                                                                                 |
-| Lactation          | Unknown                                                                                                 |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/instant-glucose-and-intravenous-dextrose-drug-information) |
 
 ## Dextrose (Vitagen) 50% inj 20mL
 
