@@ -1,7 +1,6 @@
 # Table of contents
 * [首頁](README.md)
 * [目錄](toc/README.md)
-* [Appendix](./appendix.md)
   * [Gastrointestinal & Hepatobiliary System](toc/gi-00-00/README.md)
     * [Antispasmodics](toc/gi-00-00/gi-05-00/README.md)
       * [Otilonium](toc/gi-00-00/gi-05-00/otilonium.md)
@@ -224,7 +223,7 @@
         * [Epirubicin](toc/on-00-00/on-03-00/on-03-01/epirubicin.md)
         * [Doxorubicin](toc/on-00-00/on-03-00/on-03-01/doxorubicin.md)
         * [Doxorubicin Liposome](toc/on-00-00/on-03-00/on-03-01/doxorubicin_liposome.md)
-      * [Other  Cytotoxic Antibiotics](toc/on-00-00/on-03-00/on-03-09/README.md)
+      * [Other Cytotoxic Antibiotics](toc/on-00-00/on-03-00/on-03-09/README.md)
         * [Bleomycin](toc/on-00-00/on-03-00/on-03-09/bleomycin.md)
         * [Mitomycin C](toc/on-00-00/on-03-00/on-03-09/mitomycin_c.md)
     * [Antimetabolites](toc/on-00-00/on-02-00/README.md)
