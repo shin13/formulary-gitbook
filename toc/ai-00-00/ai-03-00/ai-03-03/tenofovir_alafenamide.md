@@ -9,7 +9,7 @@
 | Hepatic Impairment | Dose adjustment required                                                             |
 | Renal Impairment   | Dose adjustment required                                                             |
 | Contraindications  | Hypersensitivity to tenofovir alafenamide or any component of the formulation.       |
-| Adverse Effects    | Headache, abdominal pain, fatigue, cough, nausea, back pain.                         |
+| Adverse Effects    | Headache， abdominal pain， fatigue， cough， nausea， back pain.                    |
 | Pregnancy          | Compatible – Maternal Benefit >> Embryo-Fetal Risk                                   |
 | Lactation          | Contraindicated                                                                      |
 | More Info          | [UpToDate](https://www.uptodate.com/contents/tenofovir-alafenamide-drug-information) |

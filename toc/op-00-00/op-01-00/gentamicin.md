@@ -9,22 +9,22 @@
 | Hepatic Impairment | Dose adjustment not necessary                                                     |
 | Renal Impairment   | Dose adjustment not necessary                                                     |
 | Contraindications  | Hypersensitivity.                                                                 |
-| Adverse Effects    | Rarely, transient stinging.                                                       |
+| Adverse Effects    | Rarely， transient stinging.                                                      |
 | Pregnancy          | Human Data Suggest Low Risk                                                       |
 | Lactation          | Compatible                                                                        |
 | More Info          | [UpToDate](https://www.uptodate.com/contents/gentamicin-drug-information)         |
 
 ## Gentamicin eye drops 0.3% 5mL
 
-| TAH Drug Code      | [EGENT](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EGENT)                 |
-|:-------------------|:---------------------------------------------------------------------------------------|
-| Indications        | Blepharitis, conjunctivitis, keratitis, iridocyclitis, meibomianitis & dacryocystitis. |
-| Dosing             | Instill 2 drops to the affected eye(s) TID-QID.                                        |
-| Hepatic Impairment | Dose adjustment not necessary                                                          |
-| Renal Impairment   | Dose adjustment not necessary                                                          |
-| Contraindications  | Hypersensitivity.                                                                      |
-| Adverse Effects    | Rarely, transient stinging.                                                            |
-| Pregnancy          | Human Data Suggest Low Risk                                                            |
-| Lactation          | Compatible                                                                             |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/gentamicin-drug-information)              |
+| TAH Drug Code      | [EGENT](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EGENT)                     |
+|:-------------------|:-------------------------------------------------------------------------------------------|
+| Indications        | Blepharitis， conjunctivitis， keratitis， iridocyclitis， meibomianitis & dacryocystitis. |
+| Dosing             | Instill 2 drops to the affected eye(s) TID-QID.                                            |
+| Hepatic Impairment | Dose adjustment not necessary                                                              |
+| Renal Impairment   | Dose adjustment not necessary                                                              |
+| Contraindications  | Hypersensitivity.                                                                          |
+| Adverse Effects    | Rarely， transient stinging.                                                               |
+| Pregnancy          | Human Data Suggest Low Risk                                                                |
+| Lactation          | Compatible                                                                                 |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/gentamicin-drug-information)                  |
 

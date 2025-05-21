@@ -1,6 +1,6 @@
 # Latanoprostene bunod
 
-## Vyzulta 0.024%, 5mL ophthalmic solution
+## Vyzulta 0.024%， 5mL ophthalmic solution
 
 | TAH Drug Code      | [EVYZ](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EVYZ)                                                                                                                                                                                            |
 |:-------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -9,7 +9,7 @@
 | Hepatic Impairment | Dose adjustment not necessary                                                                                                                                                                                                                                   |
 | Renal Impairment   | Dose adjustment not necessary                                                                                                                                                                                                                                   |
 | Contraindications  | Hypersensitivity to any component of the formulation.                                                                                                                                                                                                           |
-| Adverse Effects    | Common Ophthalmic: Conjunctival hyperemia (6%) Serious Ophthalmic: Bacterial keratitis, Cystoid macular edema, Macular retinal edema.                                                                                                                           |
+| Adverse Effects    | Common Ophthalmic: Conjunctival hyperemia (6%) Serious Ophthalmic: Bacterial keratitis， Cystoid macular edema， Macular retinal edema.                                                                                                                         |
 | Pregnancy          | Unknown                                                                                                                                                                                                                                                         |
 | Lactation          | Unknown                                                                                                                                                                                                                                                         |
 | More Info          | [UpToDate](https://www.uptodate.com/contents/latanoprostene-bunod-drug-information)                                                                                                                                                                             |

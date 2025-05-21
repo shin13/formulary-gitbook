@@ -21,6 +21,10 @@ if user_input.upper() == 'Y':
     subprocess.run(['python', 'gitbook - auto - Y
                     summary.py', ' - o',
                     'C:\\Users\\152551\\formulary-gitbook'])
+
+    # For MacOS, enter below line in terminal manually
+    # python gitbook-auto-summary.py -o \/Users\/shin\/Projects\/formulary-gitbook
+
     print('STEP 3 完成')
 
     print('STEP 3 modify-summary 開始')

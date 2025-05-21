@@ -9,7 +9,7 @@
 | Hepatic Impairment | Dose adjustment not necessary                                                                                                         |
 | Renal Impairment   | Dose adjustment not necessary                                                                                                         |
 | Contraindications  | Hypersensitivity to any ingredients of the ointment.                                                                                  |
-| Adverse Effects    | Transient blurring in vision, allergic reaction.                                                                                      |
+| Adverse Effects    | Transient blurring in vision， allergic reaction.                                                                                     |
 | Pregnancy          | Unknown                                                                                                                               |
 | Lactation          | Unknown                                                                                                                               |
 | More Info          | [UpToDate](https://www.uptodate.com/contents/petrolatum-and-lanolin-and-mineral-oil-drug-information)                                 |

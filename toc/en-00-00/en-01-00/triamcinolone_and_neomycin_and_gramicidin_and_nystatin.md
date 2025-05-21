@@ -8,8 +8,8 @@
 | Dosing             | Instill2-3 drops into affected ear(s) TID to QID                                                                      |
 | Hepatic Impairment | Dose adjustment not necessary                                                                                         |
 | Renal Impairment   | Dose adjustment not necessary                                                                                         |
-| Contraindications  | Acute herpes simplex, vaccinia, varicella; perforated eardrum.                                                        |
-| Adverse Effects    | Long term use: acne or oily skin; increased hair growth, especially on the face.                                      |
+| Contraindications  | Patients allergic to any of the components of this product. Patients with a perforated tympanic membrane.             |
+| Adverse Effects    | Long term use: acne or oily skin; increased hair growth， especially on the face.                                     |
 | Pregnancy          | Unknown                                                                                                               |
 | Lactation          | Unknown                                                                                                               |
 | More Info          | [UpToDate](https://www.uptodate.com/contents/triamcinolone-and-neomycin-and-gramicidin-and-nystatin-drug-information) |

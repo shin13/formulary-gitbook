@@ -1,10 +1,5 @@
 # 首頁
 
-{% hint style="alert" %}
-**因應永豐停產，點滴與沖洗液的最新替代品項與開方建議，請參閱 KM 藥品資訊公告區「永豐點滴與沖洗液取代品項一覽表」[（KM連結）](https://km.domain.tahsda.org.tw/KM/readdocument.aspx?documentId=176945)。**
-{% endhint %}
-
-
 {% hint style="info" %}
 **本處方集之內容僅供醫療專業人員參考，不能取代專業醫療照護，也不應作為疾病治療指引。**
 

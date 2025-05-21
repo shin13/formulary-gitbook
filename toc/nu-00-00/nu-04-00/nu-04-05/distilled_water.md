@@ -9,7 +9,7 @@
 | Hepatic Impairment | Dose adjustment not necessary                                                                                             |
 | Renal Impairment   | Dose adjustment not necessary                                                                                             |
 | Contraindications  | No known contraindications.                                                                                               |
-| Adverse Effects    | Electrolyte imbalance, edema, hypervolemia.                                                                               |
+| Adverse Effects    | Electrolyte imbalance， edema， hypervolemia.                                                                             |
 | Pregnancy          | Unknown                                                                                                                   |
 | Lactation          | Unknown                                                                                                                   |
 | More Info          | [UpToDate](https://www.uptodate.com/contents/distilled-water-drug-information)                                            |

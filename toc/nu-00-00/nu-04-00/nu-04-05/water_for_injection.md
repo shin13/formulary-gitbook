@@ -18,7 +18,7 @@
 
 | TAH Drug Code      | [IWAT500](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IWAT500)                                                |
 |:-------------------|:--------------------------------------------------------------------------------------------------------------------------|
-| Indications        | No Data                                                                                                                   |
+| Indications        | Solvent for powder injection medication.                                                                                  |
 | Dosing             | It is for use only as a sterile solvent or diluent vehicle for drugs or solutions suitable for parenteral administration. |
 | Hepatic Impairment | Dose adjustment not necessary                                                                                             |
 | Renal Impairment   | Dose adjustment not necessary                                                                                             |
