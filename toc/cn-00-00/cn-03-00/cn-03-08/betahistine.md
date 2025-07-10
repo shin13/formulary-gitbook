@@ -9,7 +9,7 @@
 | Hepatic Impairment | Dose adjustment not necessary                                                                     |
 | Renal Impairment   | Dose adjustment not necessary                                                                     |
 | Contraindications  | Hypersensitivity to any component of the formulation.                                             |
-| Adverse Effects    | Mild gastric complaints. Very rarely， rash， pruritus， urticaria.                               |
+| Adverse Effects    | Mild gastric complaints. Very rarely, rash, pruritus, urticaria.                                  |
 | Pregnancy          | Unknown                                                                                           |
 | Lactation          | Unknown                                                                                           |
 | More Info          | [UpToDate](https://www.uptodate.com/contents/betahistine-drug-information)                        |

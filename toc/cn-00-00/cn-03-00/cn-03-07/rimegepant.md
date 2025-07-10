@@ -9,7 +9,7 @@
 | Hepatic Impairment | Dose adjustment required                                                                                                                                                                             |
 | Renal Impairment   | Dose adjustment required                                                                                                                                                                             |
 | Contraindications  | Hypersensitivity to rimegepant or any component of the formulation.                                                                                                                                  |
-| Adverse Effects    | Common: Abdominal pain， Indigestion， Nausea (2-2.7%). Serious: Hypersensitivity reaction (<1%).                                                                                                    |
+| Adverse Effects    | Common: Abdominal pain, Indigestion, Nausea (2-2.7%). Serious: Hypersensitivity reaction (<1%).                                                                                                      |
 | Pregnancy          | Unknown                                                                                                                                                                                              |
 | Lactation          | Unknown                                                                                                                                                                                              |
 | More Info          | [UpToDate](https://www.uptodate.com/contents/rimegepant-drug-information)                                                                                                                            |

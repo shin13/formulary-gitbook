@@ -9,7 +9,7 @@
 | Hepatic Impairment | Dose adjustment not necessary                                                       |
 | Renal Impairment   | Dose adjustment not necessary                                                       |
 | Contraindications  | Hypersensitivity to glucosamine.                                                    |
-| Adverse Effects    | Headache， fatigue， drowsiness， flushing.                                         |
+| Adverse Effects    | Headache, fatigue, drowsiness, flushing.                                            |
 | Pregnancy          | No (Limited) Human Data – Probably Compatible                                       |
 | Lactation          | No (Limited) Human Data - Probably Compatible                                       |
 | More Info          | [UpToDate](https://www.uptodate.com/contents/glucosamine-sulphate-drug-information) |

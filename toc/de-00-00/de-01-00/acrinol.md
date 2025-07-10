@@ -9,7 +9,7 @@
 | Hepatic Impairment | Dose adjustment not necessary                                                   |
 | Renal Impairment   | Dose adjustment not necessary                                                   |
 | Contraindications  | People who have had an allergic reaction to the ingredients of this medication. |
-| Adverse Effects    | Hypersensitivity， prolonged use delays wound healing                           |
+| Adverse Effects    | Hypersensitivity, prolonged use delays wound healing                            |
 | Pregnancy          | Unknown                                                                         |
 | Lactation          | Unknown                                                                         |
 | More Info          | [UpToDate](https://www.uptodate.com/contents/acrinol-drug-information)          |

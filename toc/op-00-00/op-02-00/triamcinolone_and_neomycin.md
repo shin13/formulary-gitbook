@@ -4,7 +4,7 @@
 
 | TAH Drug Code      | [EWINA](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EWINA)                                                      |
 |:-------------------|:----------------------------------------------------------------------------------------------------------------------------|
-| Indications        | Inflammatory eye conditions: blepharitis， conjunctivitis， scleritis， iritis， and related acute or chronic disorders.    |
+| Indications        | Inflammatory eye conditions: blepharitis, conjunctivitis, scleritis, iritis, and related acute or chronic disorders.        |
 | Dosing             | Apply a 1-1.5 cm into the conjunctival sac up to three or four times daily or may be used every 2 hours if needed.          |
 | Hepatic Impairment | Dose adjustment not necessary                                                                                               |
 | Renal Impairment   | Dose adjustment not necessary                                                                                               |

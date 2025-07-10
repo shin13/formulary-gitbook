@@ -9,7 +9,7 @@
 | Hepatic Impairment | Dose adjustment not necessary                                                             |
 | Renal Impairment   | Dose adjustment not necessary                                                             |
 | Contraindications  | Hypersensitivity to cyanocobalamin or any component of the formulation.                   |
-| Adverse Effects    | Transient stinging & burning， ocular irritation， allergic reactions.                    |
+| Adverse Effects    | Transient stinging & burning, ocular irritation, allergic reactions.                      |
 | Pregnancy          | Compatible                                                                                |
 | Lactation          | Compatible                                                                                |
 | More Info          | [UpToDate](https://www.uptodate.com/contents/cyanocobalamin-vitamin-b12-drug-information) |

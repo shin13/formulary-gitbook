@@ -11,11 +11,11 @@
 | 附錄五   | [藥物血中濃度監測](https://github.com/shin13/formulary-gitbook/raw/master/.gitbook/assets/appx05.pdf)                                                                                     |
 | 附錄六   | [臺安醫院管制藥品品項表](https://github.com/shin13/formulary-gitbook/raw/master/.gitbook/assets/appx06.pdf)                                                                               |
 | 附錄七   | [小兒科藥水，體重劑量換算表](https://github.com/shin13/formulary-gitbook/raw/master/.gitbook/assets/appx07.pdf)                                                                           |
-| 附錄八   | [疫苗製劑](https://github.com/shin13/formulary-gitbook/raw/master/.gitbook/assets/appx08.pdf)                                                                                             |
+| 附錄八   | [疫苗及免疫球蛋白製劑](https://github.com/shin13/formulary-gitbook/raw/master/.gitbook/assets/appx08.pdf)                                                                                             |
 | 附錄九   | [本院註記 ”不可磨粉” 口服用藥表](https://github.com/shin13/formulary-gitbook/raw/master/.gitbook/assets/appx09.pdf)                                                                       |
 | 附錄十   | [藥品開瓶後有效期限](https://github.com/shin13/formulary-gitbook/raw/master/.gitbook/assets/appx10.pdf)                                                                                   |
 | 附錄十一 | [臺安醫院抗生素注射劑使用方法](https://github.com/shin13/formulary-gitbook/raw/master/.gitbook/assets/appx11.pdf)                                                                         |
-| 附錄十二 | [臺安輸注藥物給藥指引](https://github.com/shin13/formulary-gitbook/raw/master/.gitbook/assets/appx12.pdf)                                                                                 |
+| 附錄十二 | [臺安靜脈注射藥物給藥指引](https://github.com/shin13/formulary-gitbook/raw/master/.gitbook/assets/appx12.pdf)                                                                                 |
 | 附錄十三 | [預防跌倒_藥品清單](https://github.com/shin13/formulary-gitbook/raw/master/.gitbook/assets/appx13.pdf)                                                                                    |
 | 附錄十四 | [新生兒抗生素劑量表](https://github.com/shin13/formulary-gitbook/raw/master/.gitbook/assets/appx14.pdf)                                                                                   |
 | 附錄十五 | [兒科靜脈營養建議](https://github.com/shin13/formulary-gitbook/raw/master/.gitbook/assets/appx15.pdf)                                                                                     |

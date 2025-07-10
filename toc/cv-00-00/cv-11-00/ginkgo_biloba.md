@@ -9,7 +9,7 @@
 | Hepatic Impairment | Dose adjustment not necessary                                                                          |
 | Renal Impairment   | Dose adjustment not necessary                                                                          |
 | Contraindications  | Patients who have had an allergic reaction to this medication are prohibited from using it. Pregnancy. |
-| Adverse Effects    | GI disturbance， headache， skin rash， dizzy， palpitation.                                           |
+| Adverse Effects    | GI disturbance, headache, skin rash, dizzy, palpitation.                                               |
 | Pregnancy          | No (Limited) Human Data – Animal Data Suggest Low Risk                                                 |
 | Lactation          | No (Limited) Human Data - Potential Toxicity                                                           |
 | More Info          | [UpToDate](https://www.uptodate.com/contents/ginkgo-biloba-drug-information)                           |

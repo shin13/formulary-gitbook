@@ -8,7 +8,7 @@
 | Dosing             | Adult 0.5-1 mg at bedtime. Maximum : 2 mg/day. Elderly or debilitated patients Initially 0.5 mg at bedtime. Maximum : 1 mg/day. |
 | Hepatic Impairment | Dose adjustment not necessary                                                                                                   |
 | Renal Impairment   | Dose adjustment not necessary                                                                                                   |
-| Contraindications  | Children， acute narrow-angle glaucoma， myasthenia gravis. Hypersensitivity to Benzodiazepine.                                 |
+| Contraindications  | Children, acute narrow-angle glaucoma, myasthenia gravis. Hypersensitivity to Benzodiazepine.                                   |
 | Adverse Effects    | Drowsiness & lightheadedness the next day; confusion & ataxia; dependence.                                                      |
 | Pregnancy          | Unknown                                                                                                                         |
 | Lactation          | Unknown                                                                                                                         |

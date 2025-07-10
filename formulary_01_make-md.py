@@ -3,23 +3,23 @@ import numpy as np
 
 
 # read drug basic data
-df1 = pd.read_excel('1.藥品基本檔.xlsx')  # 請先開EXCEL把全形逗號換成半形逗號！
-df2 = pd.read_excel('2.藥物諮詢.xlsx')  # 請先開EXCEL把全形逗號換成半形逗號！
+df1 = pd.read_excel("1.藥品基本檔.xlsx")  # 請先開EXCEL把全形逗號換成半形逗號！
+df2 = pd.read_excel("2.藥物諮詢.xlsx")  # 請先開EXCEL把全形逗號換成半形逗號！
 # exclude = pd.read_excel('exclude.xlsx')
 
 # keep [Rx_o]
-df1['藥局內部溝通MEMO'] = df1['藥局內部溝通MEMO'].fillna('xx')
-df1_concate = df1[df1['藥局內部溝通MEMO'].str.contains('Rx_o')]
+df1["藥局內部溝通MEMO"] = df1["藥局內部溝通MEMO"].fillna("xx")
+df1_concate = df1[df1["藥局內部溝通MEMO"].str.contains("Rx_o")]
 
 # exclude [Rx_x]
-df1 = df1[~df1['藥局內部溝通MEMO'].str.contains('Rx_x')]
+df1 = df1[~df1["藥局內部溝通MEMO"].str.contains("Rx_x")]
 
 # drug selection
-df1 = df1[(df1['藥品狀態'] == '可用')]
+df1 = df1[(df1["藥品狀態"] == "可用")]
 
 # exclude DC comments
-exclude_list = ['廠商缺貨,可查類似藥', '停用', '廠商缺貨', '停用,可查類似藥']
-df1 = df1[~df1['DC註記'].isin(exclude_list)]
+exclude_list = ["廠商缺貨,可查類似藥", "停用", "廠商缺貨", "停用,可查類似藥"]
+df1 = df1[~df1["DC註記"].isin(exclude_list)]
 
 # # exclude drugs in exclusion list
 # # 之後用 [Rx_x] 取代
@@ -27,55 +27,83 @@ df1 = df1[~df1['DC註記'].isin(exclude_list)]
 # df1 = df1[~df1['藥品代碼'].isin(exclude_list)]
 
 # exclude empty & weird category 2
-df1 = df1.dropna(subset=['藥理分類2'])
-exclude_list2 = ['MEDD', 'ZOTH', 'PHR']
-df1 = df1[~df1['藥理分類2'].isin(exclude_list2)]
+df1 = df1.dropna(subset=["藥理分類2"])
+exclude_list2 = ["MEDD", "ZOTH", "PHR"]
+df1 = df1[~df1["藥理分類2"].isin(exclude_list2)]
 
 # concate [Rx_o] and drop duplicates
 df1 = pd.concat([df1, df1_concate], ignore_index=True, sort=False)
-df1 = df1.drop_duplicates(subset=['藥品代碼'])
+df1 = df1.drop_duplicates(subset=["藥品代碼"])
 
-df1['DC註記'] = df1['DC註記'].replace('停用', '')
-df1['DC註記'] = df1['DC註記'].replace('停用,可查類似藥', '')
+df1["DC註記"] = df1["DC註記"].replace("停用", "")
+df1["DC註記"] = df1["DC註記"].replace("停用,可查類似藥", "")
 
-df1 = df1[['藥品代碼', '商品英文名稱', '商品學名', '藥理分類1', '藥理分類2', 'DC註記']]
-df2 = df2[['藥品代碼', '適應症', '用法用量',
-           '肝功能異常(Y/N)', '腎功能異常(Y/N)', '禁忌', '副作用', '孕期用藥建議', '哺乳期用藥建議']]
-df = df1.merge(df2, on='藥品代碼', how='left')
+df1 = df1[["藥品代碼", "商品英文名稱", "商品學名", "藥理分類1", "藥理分類2", "DC註記"]]
+df2 = df2[
+    [
+        "藥品代碼",
+        "適應症",
+        "用法用量",
+        "肝功能異常(Y/N)",
+        "腎功能異常(Y/N)",
+        "禁忌",
+        "副作用",
+        "孕期用藥建議",
+        "哺乳期用藥建議",
+    ]
+]
+df = df1.merge(df2, on="藥品代碼", how="left")
 
-df = df.rename(columns={'藥品代碼': 'TAH Drug Code', '適應症': 'Indications', '用法用量': 'Dosing', '禁忌': 'Contraindications', '副作用': 'Adverse Effects',
-                        '肝功能異常(Y/N)': 'Hepatic Impairment', '腎功能異常(Y/N)': 'Renal Impairment', '孕期用藥建議': 'Pregnancy', '哺乳期用藥建議': 'Lactation'})
-df = df.replace(np.nan, 'No Data')
-df['DC註記'] = df['DC註記'].replace('No Data', '')
-df['DC註記'] = df['DC註記'].replace('臨採藥,請通知藥局外購', '臨採')
-
-
-df = df.replace('無需調整劑量', 'Dose adjustment not necessary')
-df = df.replace('需調整劑量', 'Dose adjustment required')
-df = df.replace('Uknown 沒有資料', 'Unknown')
-df = df.replace('Unknown 沒有資料', 'Unknown')
-df = df.replace('Contraindicated 哺乳期使用禁忌', 'Contraindicated')
-df = df.replace('No (Limited) Human Data - Probably Compatible 無(很少)資料 - 可使用',
-                'No (Limited) Human Data - Probably Compatible')
-df = df.replace('No (Limited) Human Data – Potential Toxicity(Mother) 無(很少)資料 – 避免使用(母體)',
-                'No (Limited) Human Data – Potential Toxicity(Mother)')
-df = df.replace('No (Limited) Human Data - Potential Toxicity 無(很少)資料 - 避免使用',
-                'No (Limited) Human Data - Potential Toxicity')
-df = df.replace('Compatible 哺乳時可使用', 'Compatible')
-df = df.replace('Hold Breast Feeding 暫停哺乳', 'Hold Breast Feeding')
-
-
-df['Pregnancy'] = df['Pregnancy'].str.title()
-
-
-df['Pregnancy'] = df['Pregnancy'].str.replace('3 Rd', '3rd')
-df['Pregnancy'] = df['Pregnancy'].str.replace('2Nd', '2nd')
-df['Pregnancy'] = df['Pregnancy'].str.replace('1St', '1st')
-df['Pregnancy'] = df['Pregnancy'].str.replace('In', 'in')
-df['Pregnancy'] = df['Pregnancy'].str.replace('And', 'and')
+df = df.rename(
+    columns={
+        "藥品代碼": "TAH Drug Code",
+        "適應症": "Indications",
+        "用法用量": "Dosing",
+        "禁忌": "Contraindications",
+        "副作用": "Adverse Effects",
+        "肝功能異常(Y/N)": "Hepatic Impairment",
+        "腎功能異常(Y/N)": "Renal Impairment",
+        "孕期用藥建議": "Pregnancy",
+        "哺乳期用藥建議": "Lactation",
+    }
+)
+df = df.replace(np.nan, "No Data")
+df["DC註記"] = df["DC註記"].replace("No Data", "")
+df["DC註記"] = df["DC註記"].replace("臨採藥,請通知藥局外購", "臨採")
 
 
-df.to_excel('formulary.xlsx', index=0)
+df = df.replace("無需調整劑量", "Dose adjustment not necessary")
+df = df.replace("需調整劑量", "Dose adjustment required")
+df = df.replace("Uknown 沒有資料", "Unknown")
+df = df.replace("Unknown 沒有資料", "Unknown")
+df = df.replace("Contraindicated 哺乳期使用禁忌", "Contraindicated")
+df = df.replace(
+    "No (Limited) Human Data - Probably Compatible 無(很少)資料 - 可使用",
+    "No (Limited) Human Data - Probably Compatible",
+)
+df = df.replace(
+    "No (Limited) Human Data – Potential Toxicity(Mother) 無(很少)資料 – 避免使用(母體)",
+    "No (Limited) Human Data – Potential Toxicity(Mother)",
+)
+df = df.replace(
+    "No (Limited) Human Data - Potential Toxicity 無(很少)資料 - 避免使用",
+    "No (Limited) Human Data - Potential Toxicity",
+)
+df = df.replace("Compatible 哺乳時可使用", "Compatible")
+df = df.replace("Hold Breast Feeding 暫停哺乳", "Hold Breast Feeding")
+
+
+df["Pregnancy"] = df["Pregnancy"].str.title()
+
+
+df["Pregnancy"] = df["Pregnancy"].str.replace("3 Rd", "3rd")
+df["Pregnancy"] = df["Pregnancy"].str.replace("2Nd", "2nd")
+df["Pregnancy"] = df["Pregnancy"].str.replace("1St", "1st")
+df["Pregnancy"] = df["Pregnancy"].str.replace("In", "in")
+df["Pregnancy"] = df["Pregnancy"].str.replace("And", "and")
+
+
+df.to_excel("formulary.xlsx", index=0)
 
 
 # remove toc folder
@@ -86,7 +114,7 @@ import shutil
 
 # Get directory name
 # mydir = 'C:\\Users\\152551\\formulary-gitbook\\toc'
-mydir = '/Users/shin/Projects/formulary-gitbook/toc'
+mydir = "/Users/shin/Projects/formulary-gitbook/toc"
 
 try:
     shutil.rmtree(mydir)
@@ -99,25 +127,29 @@ import os
 
 try:
     # path = 'C:\\Users\\152551\\formulary-gitbook\\toc'
-    path = '/Users/shin/Projects/formulary-gitbook/toc'
+    path = "/Users/shin/Projects/formulary-gitbook/toc"
     os.mkdir(path)
-    mdpath = path + '\\' + 'README.md'
-    with open(mdpath, 'w') as f:
+    mdpath = path + "\\" + "README.md"
+    with open(mdpath, "w") as f:
         pass
 except:
     pass
 
-cat2_li = df['藥理分類2'].unique().tolist()
+cat2_li = df["藥理分類2"].unique().tolist()
 for cat in cat2_li:
-    if cat[-3] == '-':
+    if cat[-3] == "-":
         try:
             # path = 'C:\\Users\\152551\\formulary-gitbook\\toc\\' + \
             #     cat[:3].lower() + '00-00\\'
-            path = '/Users/shin/Projects/formulary-gitbook/toc/' + cat[:3].lower() + '00-00/'
+            path = (
+                "/Users/shin/Projects/formulary-gitbook/toc/"
+                + cat[:3].lower()
+                + "00-00/"
+            )
             os.mkdir(path)
-            mdpath = path + 'README.md'
+            mdpath = path + "README.md"
             try:
-                with open(mdpath, 'w') as f:
+                with open(mdpath, "w") as f:
                     pass
             except:
                 pass
@@ -131,11 +163,17 @@ for cat in cat2_li:
         try:
             # path = 'C:\\Users\\152551\\formulary-gitbook\\toc\\' + \
             #     cat[:3].lower() + '00-00\\' + cat.lower() + '\\'
-            path = '/Users/shin/Projects/formulary-gitbook/toc/' + cat[:3].lower() + '00-00/' + cat.lower() + '/'
+            path = (
+                "/Users/shin/Projects/formulary-gitbook/toc/"
+                + cat[:3].lower()
+                + "00-00/"
+                + cat.lower()
+                + "/"
+            )
             os.mkdir(path)
-            mdpath = path + 'README.md'
+            mdpath = path + "README.md"
             try:
-                with open(mdpath, 'w') as f:
+                with open(mdpath, "w") as f:
                     pass
             except:
                 pass
@@ -145,11 +183,17 @@ for cat in cat2_li:
         try:
             # path = 'C:\\Users\\152551\\formulary-gitbook\\toc\\' + \
             #     cat[:3].lower() + '00-00\\' + cat[:6].lower() + '00\\'
-            path = '/Users/shin/Projects/formulary-gitbook/toc/' + cat[:3].lower() + '00-00/' + cat[:6].lower() + '00/'
+            path = (
+                "/Users/shin/Projects/formulary-gitbook/toc/"
+                + cat[:3].lower()
+                + "00-00/"
+                + cat[:6].lower()
+                + "00/"
+            )
             os.mkdir(path)
-            mdpath = path + 'README.md'
+            mdpath = path + "README.md"
             try:
-                with open(mdpath, 'w') as f:
+                with open(mdpath, "w") as f:
                     pass
             except:
                 pass
@@ -159,11 +203,19 @@ for cat in cat2_li:
             # path = 'C:\\Users\\152551\\formulary-gitbook\\toc\\' + \
             #     cat[:3].lower() + '00-00\\' + cat[:6].lower() + \
             #     '00\\' + cat.lower() + '\\'
-            path = '/Users/shin/Projects/formulary-gitbook/toc/' + cat[:3].lower() + '00-00/' + cat[:6].lower() + '00/'+ cat.lower() + '/'
+            path = (
+                "/Users/shin/Projects/formulary-gitbook/toc/"
+                + cat[:3].lower()
+                + "00-00/"
+                + cat[:6].lower()
+                + "00/"
+                + cat.lower()
+                + "/"
+            )
             os.mkdir(path)
-            mdpath = path + 'README.md'
+            mdpath = path + "README.md"
             try:
-                with open(mdpath, 'w') as f:
+                with open(mdpath, "w") as f:
                     pass
             except:
                 pass
@@ -172,11 +224,11 @@ for cat in cat2_li:
     else:
         try:
             # path = 'C:\\Users\\152551\\formulary-gitbook\\toc\\' + cat.lower() + '\\'
-            path = '/Users/shin/Projects/formulary-gitbook/toc/' + cat.lower() + '/'
+            path = "/Users/shin/Projects/formulary-gitbook/toc/" + cat.lower() + "/"
             os.mkdir(path)
-            mdpath = path + 'README.md'
+            mdpath = path + "README.md"
             try:
-                with open(mdpath, 'w') as f:
+                with open(mdpath, "w") as f:
                     pass
             except:
                 pass
@@ -188,71 +240,87 @@ for cat in cat2_li:
 toc1 = []
 toc2 = []
 toc3 = []
-for i in df['藥理分類2'].tolist():
-    if i[-2:] == '00':
-        toc1.append(i[:2].lower() + r'-00-00')
+for i in df["藥理分類2"].tolist():
+    if i[-2:] == "00":
+        toc1.append(i[:2].lower() + r"-00-00")
         toc2.append(i.lower())
         toc3.append(np.nan)
     elif (i[-2:] != "00") & (len(i) == 8):
-        toc1.append(i[:2].lower() + r'-00-00')
-        toc2.append(i[:5].lower() + r'-00')
+        toc1.append(i[:2].lower() + r"-00-00")
+        toc2.append(i[:5].lower() + r"-00")
         toc3.append(i.lower())
     else:
         toc1.append(i.lower())
         toc2.append(np.nan)
         toc3.append(np.nan)
-df['toc1'] = toc1
-df['toc2'] = toc2
-df['toc3'] = toc3
+df["toc1"] = toc1
+df["toc2"] = toc2
+df["toc3"] = toc3
 
-df['drug_name'] = df['商品學名'].str.lower()
-li = df['drug_name'].tolist()
+df["drug_name"] = df["商品學名"].str.lower()
+li = df["drug_name"].tolist()
 new_li = []
 for i in li:
-    i = i.replace(' + ', '_and_')
-    i = i.replace(' & ', '_and_')
-    i = i.replace('+', '_and_')
-    i = i.replace('/', '-')
-    i = i.replace(' ', '_')
+    i = i.replace(" + ", "_and_")
+    i = i.replace(" & ", "_and_")
+    i = i.replace("+", "_and_")
+    i = i.replace("/", "-")
+    i = i.replace(" ", "_")
     new_li.append(i)
-df['drug_name'] = new_li
-df['name_md'] = df['drug_name'] + '.md'
+df["drug_name"] = new_li
+df["name_md"] = df["drug_name"] + ".md"
 
 
 def combine_str(row):
     if pd.isna(row.toc2) & pd.isna(row.toc3):
         # string = ['C:\\Users\\152551\\formulary-gitbook\\toc',
         #           row['toc1'], row['name_md']]
-        string = ['/Users/shin/Projects/formulary-gitbook/toc', row['toc1'], row['name_md']]
+        string = [
+            "/Users/shin/Projects/formulary-gitbook/toc",
+            row["toc1"],
+            row["name_md"],
+        ]
         # return "\\".join(string)
         return "/".join(string)
     elif pd.notna(row.toc3):
         # string = ['C:\\Users\\152551\\formulary-gitbook\\toc',
         #           row['toc1'], row['toc2'], row['toc3'], row['name_md']]
-        string = ['/Users/shin/Projects/formulary-gitbook/toc', row['toc1'], row['toc2'], row['toc3'], row['name_md']]
+        string = [
+            "/Users/shin/Projects/formulary-gitbook/toc",
+            row["toc1"],
+            row["toc2"],
+            row["toc3"],
+            row["name_md"],
+        ]
         # return "\\".join(string)
         return "/".join(string)
     else:
         # string = ['C:\\Users\\152551\\formulary-gitbook\\toc',
         #           row['toc1'], row['toc2'], row['name_md']]
-        string = ['/Users/shin/Projects/formulary-gitbook/toc', row['toc1'], row['toc2'], row['name_md']]
+        string = [
+            "/Users/shin/Projects/formulary-gitbook/toc",
+            row["toc1"],
+            row["toc2"],
+            row["name_md"],
+        ]
         # return "\\".join(string)
         return "/".join(string)
 
 
-df['url'] = df.apply(combine_str, axis=1)
-df = df.sort_values(by=['藥理分類2'])
+df["url"] = df.apply(combine_str, axis=1)
+df = df.sort_values(by=["藥理分類2"])
 
-df.to_excel('formulary2.xlsx', index=0)
+df.to_excel("formulary2.xlsx", index=0)
 
 
 # write markdown files and save
-cat2_li = df['藥理分類2'].unique().tolist()
+cat2_li = df["藥理分類2"].unique().tolist()
 
 # 从 CSV 文件中读取替换规则
-replacement_df = pd.read_csv('replacements.csv')
+replacement_df = pd.read_csv("replacements.csv")
 special_replacements = dict(
-    zip(replacement_df['original'], replacement_df['replacement']))
+    zip(replacement_df["original"], replacement_df["replacement"])
+)
 
 
 # 爲存储新的数据信息
@@ -260,67 +328,76 @@ summary_data = []
 
 # go through Category 2
 for cat2 in cat2_li:
-    df_cat2 = df[df['藥理分類2'] == cat2]
+    df_cat2 = df[df["藥理分類2"] == cat2]
 
     # go through drug names under each Category 2
-    names = df_cat2['商品學名'].unique().tolist()
+    names = df_cat2["商品學名"].unique().tolist()
     for name in names:
-        df_name = df_cat2[df_cat2['商品學名'] == name]
-        df_name = df_name.sort_values(
-            by=['TAH Drug Code'], ascending=True).reset_index(drop=True)
+        df_name = df_cat2[df_cat2["商品學名"] == name]
+        df_name = df_name.sort_values(by=["TAH Drug Code"], ascending=True).reset_index(
+            drop=True
+        )
         # find drug codes with a same drug name, and go through codes with a same drug name
-        code_list = df_name['TAH Drug Code'].tolist()
-        df_name.set_index('TAH Drug Code', inplace=True)
+        code_list = df_name["TAH Drug Code"].tolist()
+        df_name.set_index("TAH Drug Code", inplace=True)
         # because drugs with a same drug name would be written in a same file, the saving path is the same
-        filepath = df_name.iloc[0]['url']
-        with open(filepath, "w", encoding='utf-8') as f:
-            title1 = '# ' + name + '\n\n'
+        filepath = df_name.iloc[0]["url"]
+        with open(filepath, "w", encoding="utf-8") as f:
+            title1 = "# " + name + "\n\n"
             f.write(title1)
 
             for code in code_list:
-                prodname = df_name.loc[code, '商品英文名稱']
-                title2 = '## ' + prodname + '\n\n'
+                prodname = df_name.loc[code, "商品英文名稱"]
+                title2 = "## " + prodname + "\n\n"
                 f.write(title2)
 
-                note = df_name.loc[code, 'DC註記']
+                note = df_name.loc[code, "DC註記"]
                 if len(note) == 2:
-                    title3 = '##### ' + note + '\n\n'
+                    title3 = "##### " + note + "\n\n"
                     f.write(title3)
                 else:
                     pass
 
-                df_tb = df_name.loc[code, 'Indications':'Lactation'].reset_index()
-                col_name = '[' + code + '](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=' + code + ')'
-                df_tb.columns = ['TAH Drug Code', col_name]
+                df_tb = df_name.loc[code, "Indications":"Lactation"].reset_index()
+                col_name = (
+                    "["
+                    + code
+                    + "](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code="
+                    + code
+                    + ")"
+                )
+                df_tb.columns = ["TAH Drug Code", col_name]
 
                 # 20240618 新增UpToDate查詢連結
 
-                search_name = name.replace(
-                    ' + ', '-and-').replace(' ', '-').lower()
+                search_name = name.replace(" + ", "-and-").replace(" ", "-").lower()
 
                 # 檢查特殊替換規則
                 if search_name in special_replacements:
                     search_name = special_replacements[search_name]
 
                 keyword = f"{search_name}-drug-information"
-                UpToDate_link = f"[UpToDate](https://www.uptodate.com/contents/{keyword})"
+                UpToDate_link = (
+                    f"[UpToDate](https://www.uptodate.com/contents/{keyword})"
+                )
 
                 # 检查是否包含 "international" 子字符串
                 if "international" in UpToDate_link:
                     UpToDate_link = f"[UpToDate](https://www.uptodate.com/contents/{keyword}-concise)"
 
                 # 将信息添加到 summary_data 列表中
-                summary_data.append({
-                    "name": name,
-                    "search_name": search_name,
-                    "UpToDate_link": UpToDate_link
-                })
+                summary_data.append(
+                    {
+                        "name": name,
+                        "search_name": search_name,
+                        "UpToDate_link": UpToDate_link,
+                    }
+                )
 
                 # 要新增的列資料，這邊直接用列名位置
-                new_row = pd.DataFrame([{
-                    df_tb.columns[0]: "More Info",
-                    df_tb.columns[1]: UpToDate_link
-                }])
+                new_row = pd.DataFrame(
+                    [{df_tb.columns[0]: "More Info", df_tb.columns[1]: UpToDate_link}]
+                )
 
                 # 使用 pd.concat 來附加新 row
                 df_tb = pd.concat([df_tb, new_row], ignore_index=True)
@@ -328,9 +405,11 @@ for cat2 in cat2_li:
                 content = df_tb.to_markdown(index=0)
                 f.write(content)
 
-                f.write('\n\n')
+                f.write("\n\n")
 
 # 將 summary_data 匯出到 Excel 檔案中
 summary_df = pd.DataFrame(summary_data)
 # summary_df.to_excel('C:\\Users\\152551\\formulary-gitbook\\check_links\\summary_data.xlsx', index=False)
-summary_df.to_excel('/Users/shin/Projects/formulary-gitbook/check_links/summary_data.xlsx', index=False)
+summary_df.to_excel(
+    "/Users/shin/Projects/formulary-gitbook/check_links/summary_data.xlsx", index=False
+)
