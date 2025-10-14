@@ -1079,7 +1079,7 @@
     * [Immunotherapeutic Agents](toc/on-00-00/on-06-00/README.md)
       * [Polysaccharides Of Astragalus Membranaceus](toc/on-00-00/on-06-00/polysaccharides_of_astragalus_membranaceus.md)
       * [Bcg Immunotherapeutic](toc/on-00-00/on-06-00/bcg_immunotherapeutic.md)
-* [附錄](appendix.md)
+* [附錄](appendix1.md)
 * [索引](index1.md)
 * [縮寫表](abbreviation.md)
 * [常用連結](links.md)
