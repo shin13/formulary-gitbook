@@ -39,10 +39,7 @@ htmlcov/
 
 # Project-specific
 logs/*
-.csv
 *.log
-*.sqlite3
-*.png
 
 # OS-specific
 .DS_Store
