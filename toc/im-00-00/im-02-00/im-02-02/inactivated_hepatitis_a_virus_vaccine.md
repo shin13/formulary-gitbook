@@ -28,3 +28,17 @@
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                              |
 | More Info          | [UpToDate](https://www.uptodate.com/contents/hepatitis-a-vaccine-hepa-drug-information)                    |
 
+## Vaqta(小兒A肝疫苗) 0.5mL/dose
+
+| TAH Drug Code      | [IVAQ](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IVAQ)                                                               |
+|:-------------------|:-----------------------------------------------------------------------------------------------------------------------------------|
+| Indications        | Vaccination against infection caused by hepatitis A virus.                                                                         |
+| Dosing             | IM, 0.5mL, 12 months-18 years primary immunization. A booster dose after 6-18 months.                                              |
+| Hepatic Impairment | Dose adjustment not necessary                                                                                                      |
+| Renal Impairment   | Dose adjustment not necessary                                                                                                      |
+| Contraindications  | Hypersensitivity to any component of the vaccine.                                                                                  |
+| Adverse Effects    | Pain, tenderness & swelling at inj site. Warmth, erythema, ecchymosis, abdominal pain, diarrhoea, vomiting, headache, pharyngitis. |
+| Pregnancy          | No (Limited) Human Data – Probably Compatible                                                                                      |
+| Lactation          | No (Limited) Human Data - Probably Compatible                                                                                      |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/hepatitis-a-vaccine-hepa-drug-information)                                            |
+

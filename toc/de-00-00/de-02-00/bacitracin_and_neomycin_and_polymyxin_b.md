@@ -1,4 +1,4 @@
-# Bacitracin + Neomycin + Ploymyxin B
+# Bacitracin + Neomycin + Polymyxin B
 
 ## Spersin ointment 10gm
 
@@ -12,5 +12,5 @@
 | Adverse Effects    | Allergic reactions like reddening & dryness of skin, skin rashes & pruritus.                           |
 | Pregnancy          | No (Limited) Human Data – Animal Data Suggest Low Risk                                                 |
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                          |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/bacitracin-and-neomycin-and-ploymyxin-b-drug-information) |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/bacitracin-and-neomycin-and-polymyxin-b-drug-information) |
 
