@@ -170,7 +170,6 @@
 * Azithromycin
   * [Aziciin 250mg](https://shin13.gitbook.io/formulary/toc/ai-00-00/ai-01-00/ai-01-06/azithromycin)
   * [Zithromax 200mg/5mL suspension, 15mL](https://shin13.gitbook.io/formulary/toc/ai-00-00/ai-01-00/ai-01-06/azithromycin)
-
 ## B
 * BCG Immunotherapeutic
   * [SII-ONCO-BCG inj 40mg/mL(專案進口)](https://shin13.gitbook.io/formulary/toc/on-00-00/on-06-00/bcg_immunotherapeutic)
