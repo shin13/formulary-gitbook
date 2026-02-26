@@ -1,6 +1,6 @@
 # Pemetrexed
 
-## Alimta inj 100mg
+## Alimta inj 100mg (小劑量)
 
 ##### 臨採
 

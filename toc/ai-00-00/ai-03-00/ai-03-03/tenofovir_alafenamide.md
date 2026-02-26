@@ -5,7 +5,7 @@
 | TAH Drug Code      | [OVEM](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OVEM)                 |
 |:-------------------|:-------------------------------------------------------------------------------------|
 | Indications        | Chronic hepatitis B virus (HBV) infection in adults with compensated liver disease.  |
-| Dosing             | Adutl: 25 mg orally once daily.                                                      |
+| Dosing             | Hepatitis B virus infection, treatment: Oral: 25 mg once daily.                      |
 | Hepatic Impairment | Dose adjustment required                                                             |
 | Renal Impairment   | Dose adjustment required                                                             |
 | Contraindications  | Hypersensitivity to tenofovir alafenamide or any component of the formulation.       |

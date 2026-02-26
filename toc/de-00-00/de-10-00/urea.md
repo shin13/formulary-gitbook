@@ -1,6 +1,6 @@
 # Urea
 
-## Sinpharderm cream 40% 10gm (去角質)
+## SINPHARDERM cream 40%, 10gm
 
 | TAH Drug Code      | [ESPD](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ESPD)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 |:-------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -14,17 +14,17 @@
 | Lactation          | No (Limited) Human Data - Probably Compatible                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 | More Info          | [UpToDate](https://www.uptodate.com/contents/urea-drug-information)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 
-## Urea cream 10%, 20gm
+## Sinpharderm cream 10%, 30gm
 
-| TAH Drug Code      | [EURE](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=EURE)   |
-|:-------------------|:-----------------------------------------------------------------------|
-| Indications        | Ichthyosis and hyperkeratotic skin disorders.                          |
-| Dosing             | Apply QD-TID.                                                          |
-| Hepatic Impairment | Dose adjustment not necessary                                          |
-| Renal Impairment   | Dose adjustment not necessary                                          |
-| Contraindications  | Hypersensitivity to any component of the formulation.                  |
-| Adverse Effects    | Occasionally local stinging, pain, redness and itch.                   |
-| Pregnancy          | No (Limited) Human Data – No Relevant Animal Data                      |
-| Lactation          | No (Limited) Human Data - Probably Compatible                          |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/urea-drug-information)    |
+| TAH Drug Code      | [ESPD10](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ESPD10)                                                                                 |
+|:-------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Indications        | Hyperkeratotic conditions.                                                                                                                               |
+| Dosing             | Topical: Apply 1 to 3 times daily.                                                                                                                       |
+| Hepatic Impairment | Dose adjustment not necessary                                                                                                                            |
+| Renal Impairment   | Dose adjustment not necessary                                                                                                                            |
+| Contraindications  | Clinically significant hypersensitivity to urea or any component of the formulation.                                                                     |
+| Adverse Effects    | Central nervous system: Transient stinging of the skin Dermatologic: Burning sensation of skin (transient), pruritus (transient) Local: Local irritation |
+| Pregnancy          | Unknown                                                                                                                                                  |
+| Lactation          | No (Limited) Human Data - Probably Compatible                                                                                                            |
+| More Info          | [UpToDate](https://www.uptodate.com/contents/urea-drug-information)                                                                                      |
 

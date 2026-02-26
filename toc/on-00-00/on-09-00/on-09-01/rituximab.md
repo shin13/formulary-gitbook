@@ -1,6 +1,6 @@
 # Rituximab
 
-## Mabthera inj 100mg/10mL
+## Mabthera inj 100mg/10mL (小劑量)
 
 ##### 臨採
 

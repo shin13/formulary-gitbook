@@ -2,8 +2,6 @@
 
 ## Daflon 1000mg
 
-##### 臨採
-
 | TAH Drug Code      | [ODAF](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ODAF)                                                                                                                                                                                                                                                   |
 |:-------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Improve symptoms related to chronic venous insufficiency. Alleviate symptoms associated with acute hemorrhoidal attacks.                                                                                                                                                                                               |

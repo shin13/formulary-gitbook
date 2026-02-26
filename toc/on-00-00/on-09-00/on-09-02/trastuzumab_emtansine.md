@@ -1,6 +1,6 @@
 # Trastuzumab Emtansine
 
-## Kadcyla inj 100mg
+## Kadcyla inj 100mg (小劑量)
 
 ##### 臨採
 

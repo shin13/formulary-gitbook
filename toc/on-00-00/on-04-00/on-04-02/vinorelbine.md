@@ -1,6 +1,6 @@
 # Vinorelbine
 
-## Navelbine 20mg
+## Navelbine 20mg (臨採小劑量)
 
 ##### 臨採
 

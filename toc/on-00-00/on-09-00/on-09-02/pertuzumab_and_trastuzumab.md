@@ -1,6 +1,6 @@
 # Pertuzumab + Trastuzumab
 
-## Phesgo inj 600/600mg/10mL
+## Phesgo inj 600/600mg/10mL (小劑量)
 
 ##### 臨採
 

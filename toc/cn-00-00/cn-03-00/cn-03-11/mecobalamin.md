@@ -14,20 +14,6 @@
 | Lactation          | Compatible                                                                                                                                                                                                                                                                                 |
 | More Info          | [UpToDate](https://www.uptodate.com/contents/cyanocobalamin-vitamin-b12-drug-information)                                                                                                                                                                                                  |
 
-## Methycobal 250mcg
-
-| TAH Drug Code      | [OMETY](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OMETY)                                                              |
-|:-------------------|:------------------------------------------------------------------------------------------------------------------------------------|
-| Indications        | Peripheral neuropathy.                                                                                                              |
-| Dosing             | Adult: 1500 mcg daily in 3 divided doses. May adjust dosage according to patient's age and synptoms.                                |
-| Hepatic Impairment | Dose adjustment not necessary                                                                                                       |
-| Renal Impairment   | Dose adjustment not necessary                                                                                                       |
-| Contraindications  | Hypersensitivity to any component of the formulation.                                                                               |
-| Adverse Effects    | Infrequently: Anorexia, nausea, diarrhea, pain & induration at IM inj site. Rarely: Skin rash, headache, sweating or hot sensation. |
-| Pregnancy          | Unknown                                                                                                                             |
-| Lactation          | Unknown                                                                                                                             |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/cyanocobalamin-vitamin-b12-drug-information)                                           |
-
 ## METHYCOBAL 500mcg
 
 | TAH Drug Code      | [OMTCB](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=OMTCB)                                                                                                                                                  |

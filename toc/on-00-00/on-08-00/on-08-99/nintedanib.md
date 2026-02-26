@@ -16,7 +16,7 @@
 | Lactation          | No (Limited) Human Data - Potential Toxicity                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | More Info          | [UpToDate](https://www.uptodate.com/contents/nintedanib-drug-information)                                                                                                                                                                                                                                                                                                                                                                                                                       |
 
-## Ofev 100mg
+## Ofev 100mg (臨採小劑量)
 
 ##### 臨採
 

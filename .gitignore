@@ -44,3 +44,6 @@ logs/*
 # OS-specific
 .DS_Store
 Thumbs.db
+
+# Files
+*.csv

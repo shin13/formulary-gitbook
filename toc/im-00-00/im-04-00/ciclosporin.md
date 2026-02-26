@@ -14,7 +14,7 @@
 | Lactation          | No (Limited) Human Data - Potential Toxicity                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | More Info          | [UpToDate](https://www.uptodate.com/contents/cyclosporine-ciclosporin-systemic-drug-information)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 
-## Sandimmun Neoral 25mg (兒童)
+## Sandimmun Neoral 25mg (小劑量)
 
 ##### 臨採
 
