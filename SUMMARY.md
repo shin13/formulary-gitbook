@@ -1,7 +1,6 @@
 # Table of contents
 * [首頁](README.md)
 * [目錄](toc/README.md)
-* [Appendix1](./appendix1.md)
   * [Gastrointestinal & Hepatobiliary System](toc/gi-00-00/README.md)
     * [Antispasmodics](toc/gi-00-00/gi-05-00/README.md)
       * [Otilonium](toc/gi-00-00/gi-05-00/otilonium.md)
@@ -1091,7 +1090,7 @@
       * [Hyaluronidase](toc/ad-00-00/ad-01-00/hyaluronidase.md)
       * [Epinephrine](toc/ad-00-00/ad-01-00/epinephrine.md)
       * [Spherical Absorptive Carbon](toc/ad-00-00/ad-01-00/spherical_absorptive_carbon.md)
-* [附錄](appendix.md)
+* [附錄](appendix1.md)
 * [索引](index1.md)
 * [縮寫表](abbreviation.md)
 * [常用連結](links.md)
