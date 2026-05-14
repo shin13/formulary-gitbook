@@ -1,6 +1,6 @@
 # Bleomycin
 
-## BLEOCIN inj 15mg
+## Bleocin inj 15mg
 
 ##### 臨採
 

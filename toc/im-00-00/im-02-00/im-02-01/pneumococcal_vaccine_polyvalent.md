@@ -14,20 +14,6 @@
 | Lactation          | Unknown                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 | More Info          | [UpToDate](https://www.uptodate.com/contents/pneumococcal-vaccine-polyvalent-drug-information)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 
-## Pneumovax 23 (Private) 0.5mL/dose
-
-| TAH Drug Code      | [IPNE](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IPNE)                                                    |
-|:-------------------|:------------------------------------------------------------------------------------------------------------------------|
-| Indications        | Immunization against pneumococcal disease caused by those pneumococcal types included in the vaccine                    |
-| Dosing             | IM or SC, 0.5mL, > or = 2 years a single dose.                                                                          |
-| Hepatic Impairment | Dose adjustment not necessary                                                                                           |
-| Renal Impairment   | Dose adjustment not necessary                                                                                           |
-| Contraindications  | Anaphylactic/anaphylactoid or severe allergic reaction to any component of the pneumococcal vaccine.                    |
-| Adverse Effects    | Local inj-site soreness, warmth, erythema & swelling. Fever, headache, malaise, rash, urticaria, arthritis, arthralgia. |
-| Pregnancy          | Compatible                                                                                                              |
-| Lactation          | No (Limited) Human Data - Probably Compatible                                                                           |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/pneumococcal-vaccine-polyvalent-drug-information)                          |
-
 ## Pneumovax 23 (Government) 0.5mL/dose
 
 | TAH Drug Code      | [IPNE0](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=IPNE0)                                                  |

@@ -1,4 +1,4 @@
-# Follitropin Alpha
+# Follitropin alpha
 
 ## GONAL-F inj 450 IU/ 0.75mL
 
