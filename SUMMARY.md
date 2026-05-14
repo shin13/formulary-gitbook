@@ -1090,7 +1090,7 @@
       * [Hyaluronidase](toc/ad-00-00/ad-01-00/hyaluronidase.md)
       * [Epinephrine](toc/ad-00-00/ad-01-00/epinephrine.md)
       * [Spherical Absorptive Carbon](toc/ad-00-00/ad-01-00/spherical_absorptive_carbon.md)
-* [附錄](appendix1.md)
+* [附錄](appendices.md)
 * [索引](index1.md)
 * [縮寫表](abbreviation.md)
 * [常用連結](links.md)
