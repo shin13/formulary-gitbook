@@ -14,20 +14,6 @@
 | Lactation          | Unknown                                                                                                                                               |
 | More Info          | [UpToDate](https://www.uptodate.com/contents/sodium-chloride-preparations-saline-and-oral-salt-tablets-drug-information)                              |
 
-## NaCl 0.9% irrigation 1000mL
-
-| TAH Drug Code      | [ENS1C](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ENS1C)                                                                                |
-|:-------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Indications        | Cleansing of skin, wound surfaces, and mucous membranes, bronchial mucosal lavage; promotes sputum expectoration and cleaning of medical instruments. |
-| Dosing             | Irrigation: Spray affected area.                                                                                                                      |
-| Hepatic Impairment | Dose adjustment not necessary                                                                                                                         |
-| Renal Impairment   | Dose adjustment not necessary                                                                                                                         |
-| Contraindications  | Hypersensitivity to sodium chloride or any component of the formulation.                                                                              |
-| Adverse Effects    | No Data                                                                                                                                               |
-| Pregnancy          | Unknown                                                                                                                                               |
-| Lactation          | Unknown                                                                                                                                               |
-| More Info          | [UpToDate](https://www.uptodate.com/contents/sodium-chloride-preparations-saline-and-oral-salt-tablets-drug-information)                              |
-
 ## NaCl 0.9% irrigation 2000mL
 
 | TAH Drug Code      | [ENS2](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ENS2)                                                         |

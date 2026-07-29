@@ -38,7 +38,7 @@
 * Adapalene
   * [Differin gel 0.1%, 15gm](https://shin13.gitbook.io/formulary/toc/de-00-00/de-07-00/adapalene)
 * Adenosine
-  * [Adenocor inj 6mg/2mL](https://shin13.gitbook.io/formulary/toc/cv-00-00/cv-01-00/cv-01-04/adenosine)
+  * [Caden inj 6mg/2mL (專案進口)](https://shin13.gitbook.io/formulary/toc/cv-00-00/cv-01-00/cv-01-04/adenosine)
 * Aflibercept
   * [EYLEA inj 8mg/0.07mL (114.3mg/mL)](https://shin13.gitbook.io/formulary/toc/op-00-00/op-08-00/aflibercept)
   * [EYLEA inj 8mg/0.07mL (114.3mg/mL)(sample)](https://shin13.gitbook.io/formulary/toc/op-00-00/op-08-00/aflibercept)
@@ -55,10 +55,8 @@
   * [Binosto effervescent 70mg](https://shin13.gitbook.io/formulary/toc/me-00-00/me-06-00/alendronate)
 * Alfentanil
   * [Alfentanil inj 1mg/2mL](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-01-00/cn-01-01/alfentanil)
-* Alginic Acid+Colloidal Al(OH)3+MgHCO3
-  * [Algitab chewable](https://shin13.gitbook.io/formulary/toc/gi-00-00/gi-01-00/gi-01-01/alginic_acid_and_colloidal_al(oh)3_and_mghco3)
-* Alirocumab
-  * [Praluent inj 75mg](https://shin13.gitbook.io/formulary/toc/cv-00-00/cv-12-00/alirocumab)
+* Alginic Acid+Colloidal Al(OH)3+MgCO3
+  * [Algitab chewable](https://shin13.gitbook.io/formulary/toc/gi-00-00/gi-01-00/gi-01-01/alginic_acid_and_colloidal_al(oh)3_and_mgco3)
 * Allopurinol
   * [Tonsaric 100mg](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-01-00/cn-01-04/allopurinol)
 * Alogliptin + Pioglitazone
@@ -110,7 +108,7 @@
 * Amlodipine + Benazepril
   * [AmTrel 5/10mg](https://shin13.gitbook.io/formulary/toc/cv-00-00/cv-09-00/amlodipine_and_benazepril)
 * Amlodipine + Olmesartan
-  * [Oxapress 5/40mg](https://shin13.gitbook.io/formulary/toc/cv-00-00/cv-09-00/amlodipine_and_olmesartan)
+  * [Sevikar 5/40mg](https://shin13.gitbook.io/formulary/toc/cv-00-00/cv-09-00/amlodipine_and_olmesartan)
 * Amlodipine + Valsartan
   * [Exforge 5/80mg](https://shin13.gitbook.io/formulary/toc/cv-00-00/cv-09-00/amlodipine_and_valsartan)
 * Amorolfine
@@ -123,8 +121,6 @@
   * [Curam 1000mg](https://shin13.gitbook.io/formulary/toc/ai-00-00/ai-01-00/ai-01-01/amoxicillin_and_clavulanic_acid)
   * [Curam susp 312.5mg/5mL 60mL](https://shin13.gitbook.io/formulary/toc/ai-00-00/ai-01-00/ai-01-01/amoxicillin_and_clavulanic_acid)
   * [Soonmelt inj 600mg (500mg/100mg)](https://shin13.gitbook.io/formulary/toc/ai-00-00/ai-01-00/ai-01-01/amoxicillin_and_clavulanic_acid)
-* Amphotericin B Liposome
-  * [Lipo-AB inj 50mg](https://shin13.gitbook.io/formulary/toc/ai-00-00/ai-02-00/amphotericin_b_liposome)
 * Ampicillin
   * [Ampolin inj 0.5gm](https://shin13.gitbook.io/formulary/toc/ai-00-00/ai-01-00/ai-01-01/ampicillin)
 * Anastrozole
@@ -222,6 +218,7 @@
   * [Dampurine 25mg](https://shin13.gitbook.io/formulary/toc/ur-00-00/ur-05-00/bethanechol_chloride)
 * Bevacizumab
   * [Alymsys inj 100mg/4mL](https://shin13.gitbook.io/formulary/toc/on-00-00/on-09-00/on-09-03/bevacizumab)
+  * [Alymsys inj 100mg/4mL (sample)](https://shin13.gitbook.io/formulary/toc/on-00-00/on-09-00/on-09-03/bevacizumab)
   * [Avastin inj 100mg/4mL](https://shin13.gitbook.io/formulary/toc/on-00-00/on-09-00/on-09-03/bevacizumab)
 * Bicalutamide
   * [Casodex 50mg](https://shin13.gitbook.io/formulary/toc/on-00-00/on-05-00/on-05-04/bicalutamide)
@@ -368,10 +365,6 @@
   * [Chlordiazepoxide 5mg](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-02-00/cn-02-02/chlordiazepoxide)
 * Chlorhexidine gluconate
   * [Parmason gargle 0.2%, 200mL](https://shin13.gitbook.io/formulary/toc/en-00-00/en-03-00/chlorhexidine_gluconate)
-* Chlorpheniramine + Guaifenesin + Methylephedrine
-  * [Secorine syrup 120mL](https://shin13.gitbook.io/formulary/toc/re-00-00/re-05-00/re-05-03/chlorpheniramine_and_guaifenesin_and_methylephedrine)
-* Chlorpromazine
-  * [Winsumin 50mg (個案臨採)](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-02-00/cn-02-01/chlorpromazine)
 * Cholestyramine
   * [Choles powder 4gm/Pack](https://shin13.gitbook.io/formulary/toc/cv-00-00/cv-12-00/cholestyramine)
 * Choriogonadotropin alfa
@@ -454,12 +447,10 @@
   * [Hexaxim inj (六合一) 0.5mL/dose](https://shin13.gitbook.io/formulary/toc/im-00-00/im-02-00/im-02-03/dtap-ipv-hib-hbv)
 * Dabigatran
   * [Pradaxa 110mg](https://shin13.gitbook.io/formulary/toc/he-00-00/he-02-00/dabigatran)
-  * [Pradaxa 150mg](https://shin13.gitbook.io/formulary/toc/he-00-00/he-02-00/dabigatran)
 * Daclatasvir
   * [Daklinza 60mg](https://shin13.gitbook.io/formulary/toc/ai-00-00/ai-03-00/ai-03-04/daclatasvir)
 * Dalteparin
   * [Fragmin 10000 IU(Anti-Xa)/4mL(洗腎室專用)](https://shin13.gitbook.io/formulary/toc/he-00-00/he-02-00/dalteparin)
-  * [Fragmin inj 5000 IU/0.2mL single dose syringe](https://shin13.gitbook.io/formulary/toc/he-00-00/he-02-00/dalteparin)
 * Dantrolene sodium hemiheptahydrate
   * [Agilus inj 120mg (專案進口)](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-03-00/cn-03-02/dantrolene_sodium_hemiheptahydrate)
 * Dapagliflozin
@@ -476,8 +467,6 @@
   * [Nubeqa F.C. 300mg](https://shin13.gitbook.io/formulary/toc/on-00-00/on-05-00/on-05-04/darolutamide)
 * Deferasirox
   * [Jadenu film-coated 360mg](https://shin13.gitbook.io/formulary/toc/ad-00-00/ad-02-00/deferasirox)
-* Deferoxamine
-  * [DesFERAL inj 500mg](https://shin13.gitbook.io/formulary/toc/ad-00-00/ad-02-00/deferoxamine)
 * Degarelix
   * [FIRMAGON inj 120mg/3mL](https://shin13.gitbook.io/formulary/toc/on-00-00/on-05-00/on-05-06/degarelix)
   * [Firmagon inj 80mg/4mL (小劑量)](https://shin13.gitbook.io/formulary/toc/on-00-00/on-05-00/on-05-06/degarelix)
@@ -526,7 +515,6 @@
 * Diclofenac
   * [Cataflam 25mg](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-01-00/cn-01-02/diclofenac)
   * [Diclofenac 100mg S.R. F.C.](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-01-00/cn-01-02/diclofenac)
-  * [VOREN inj 75mg/3mL](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-01-00/cn-01-02/diclofenac)
   * [Voren suppository 12.5mg](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-01-00/cn-01-02/diclofenac)
 * Dicyclomine
   * [Bentyl 10mg](https://shin13.gitbook.io/formulary/toc/gi-00-00/gi-05-00/dicyclomine)
@@ -623,6 +611,8 @@
   * [Clexane inj 60mg/0.6mL](https://shin13.gitbook.io/formulary/toc/he-00-00/he-02-00/enoxaparin_sodium)
 * Enoxolone
   * [Enoxolone Gingival Paste 1%, 80gm](https://shin13.gitbook.io/formulary/toc/en-00-00/en-03-00/enoxolone)
+* Ensitrelvir
+  * [Xocova 125mg (公費)](https://shin13.gitbook.io/formulary/toc/ai-00-00/ai-03-00/ai-03-09/ensitrelvir)
 * Entecavir
   * [1mg BARACLUDE](https://shin13.gitbook.io/formulary/toc/ai-00-00/ai-03-00/ai-03-03/entecavir)
   * [Baraclude 0.5mg](https://shin13.gitbook.io/formulary/toc/ai-00-00/ai-03-00/ai-03-03/entecavir)
@@ -794,10 +784,11 @@
   * [Ajovy inj 225mg/1.5mL](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-03-00/cn-03-07/fremanezumab)
 * Fulvestrant
   * [Faslodex inj 250mg/5mL](https://shin13.gitbook.io/formulary/toc/on-00-00/on-05-00/on-05-03/fulvestrant)
+  * [Fustron inj 250mg/5mL](https://shin13.gitbook.io/formulary/toc/on-00-00/on-05-00/on-05-03/fulvestrant)
 * Furosemide
   * [Fumide solution 10mg/mL, 120mL](https://shin13.gitbook.io/formulary/toc/cv-00-00/cv-03-00/cv-03-02/furosemide)
+  * [Furosemide inj 20mg/2mL](https://shin13.gitbook.io/formulary/toc/cv-00-00/cv-03-00/cv-03-02/furosemide)
   * [Lasix 40mg](https://shin13.gitbook.io/formulary/toc/cv-00-00/cv-03-00/cv-03-02/furosemide)
-  * [Lasix inj 20mg/2mL](https://shin13.gitbook.io/formulary/toc/cv-00-00/cv-03-00/cv-03-02/furosemide)
 * Fusidate
   * [Fucidin 250mg](https://shin13.gitbook.io/formulary/toc/ai-00-00/ai-01-00/ai-01-13/fusidate)
 * Fusidic Acid
@@ -807,8 +798,8 @@
   * [Neurontin 100mg](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-03-00/cn-03-01/gabapentin)
 * Gadoterate meglumine
   * [Clariscan inj 0.5 mmol/mL, 20mL/Bot](https://shin13.gitbook.io/formulary/toc/vs-00-00/vs-01-00/vs-01-03/gadoterate_meglumine)
-* Gadoxetate
-  * [Primovist inj 2.5mmol/10mL](https://shin13.gitbook.io/formulary/toc/vs-00-00/vs-01-00/vs-01-03/gadoxetate)
+* Gadoxetate disodium
+  * [Primovist inj 2.5mmol/10mL](https://shin13.gitbook.io/formulary/toc/vs-00-00/vs-01-00/vs-01-03/gadoxetate_disodium)
 * Galcanezumab
   * [Emgality inj 120 mg/1mL](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-03-00/cn-03-07/galcanezumab)
 * Ganirelix
@@ -960,8 +951,6 @@
 * Isoniazid
   * [ISONIAZID 300mg (Government)](https://shin13.gitbook.io/formulary/toc/ai-00-00/ai-01-00/ai-01-12/isoniazid)
   * [Isoniazide 100mg](https://shin13.gitbook.io/formulary/toc/ai-00-00/ai-01-00/ai-01-12/isoniazid)
-* Isoproterenol
-  * [Isoproternol inj 0.2mg/1mL](https://shin13.gitbook.io/formulary/toc/cv-00-00/cv-01-00/cv-01-03/isoproterenol)
 * Isosorbide 5-Mononitrate
   * [Coxine 20mg](https://shin13.gitbook.io/formulary/toc/cv-00-00/cv-02-00/isosorbide_5-mononitrate)
 * Isosorbide Dinitrate
@@ -1050,7 +1039,7 @@
   * [Cravit 0.5%, 5mL ophthalmic solution](https://shin13.gitbook.io/formulary/toc/op-00-00/op-01-00/levofloxacin)
   * [Cravit F.C. 500mg](https://shin13.gitbook.io/formulary/toc/ai-00-00/ai-01-00/ai-01-08/levofloxacin)
   * [Cravit IV solution 250mg/50mL](https://shin13.gitbook.io/formulary/toc/ai-00-00/ai-01-00/ai-01-08/levofloxacin)
-  * [Levofloxacin 750mg (政府提供)](https://shin13.gitbook.io/formulary/toc/ai-00-00/ai-01-00/ai-01-08/levofloxacin)
+  * [Levofloxacin 500mg (政府提供)](https://shin13.gitbook.io/formulary/toc/ai-00-00/ai-01-00/ai-01-08/levofloxacin)
 * Levonorgestrel Implants
   * [Mirena 20mcg/24hours intrauterine system](https://shin13.gitbook.io/formulary/toc/ct-00-00/ct-02-00/levonorgestrel_implants)
 * Levosimendan
@@ -1078,13 +1067,9 @@
   * [Ligilin 300mg](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-02-00/cn-02-01/lithium_carbonate)
 * Loperamide
   * [Imolex 2mg](https://shin13.gitbook.io/formulary/toc/gi-00-00/gi-02-00/loperamide)
-* Loratadine + Pseudoephedrine
-  * [Lorapseudo SR 10/240mg](https://shin13.gitbook.io/formulary/toc/im-00-00/im-01-00/loratadine_and_pseudoephedrine)
 * Lorazepam
   * [Anxicam inj 2mg/1mL](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-02-00/cn-02-02/lorazepam)
   * [Ativan 0.5mg](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-02-00/cn-02-02/lorazepam)
-* Low Molecular Dextran Dextrose
-  * [Dextran dextrose inj 500mL](https://shin13.gitbook.io/formulary/toc/he-00-00/he-06-00/low_molecular_dextran_dextrose)
 * Lurasidone
   * [Latuda 40mg](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-02-00/cn-02-01/lurasidone)
 ## M
@@ -1140,16 +1125,19 @@
   * [Mircera inj 50mcg/0.3mL](https://shin13.gitbook.io/formulary/toc/he-00-00/he-01-00/methoxy_polyethylene_glycol-_epoetin_β)
 * Methyldopa
   * [MethylDOPA 250mg](https://shin13.gitbook.io/formulary/toc/cv-00-00/cv-09-00/methyldopa)
+* Methylephedrine + Chlorpheniramine + Guaiacolate
+  * [Secorine syrup 120mL](https://shin13.gitbook.io/formulary/toc/re-00-00/re-05-00/re-05-03/methylephedrine_and_chlorpheniramine_and_guaiacolate)
 * Methylergonovine
   * [Methylergonovine inj 0.2mg/1mL](https://shin13.gitbook.io/formulary/toc/ur-00-00/ur-02-00/methylergonovine)
 * Methylphenidate
   * [CONCERTA 36mg](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-02-00/cn-02-08/methylphenidate)
   * [Concerta ER 27mg](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-02-00/cn-02-08/methylphenidate)
+  * [METHYDUR 33mg sustained release](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-02-00/cn-02-04/methylphenidate)
   * [Methydur 22mg sustained release](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-02-00/cn-02-08/methylphenidate)
   * [RITALIN LA 20mg](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-02-00/cn-02-08/methylphenidate)
   * [apo-Methylphenidate 10mg](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-02-00/cn-02-08/methylphenidate)
 * Methylprednisolone
-  * [Mepron inj 40mg](https://shin13.gitbook.io/formulary/toc/hr-00-00/hr-01-00/methylprednisolone)
+  * [Mepron inj 40mg (0.04gm)](https://shin13.gitbook.io/formulary/toc/hr-00-00/hr-01-00/methylprednisolone)
   * [Methylprednisolone 4mg](https://shin13.gitbook.io/formulary/toc/hr-00-00/hr-01-00/methylprednisolone)
 * Metoclopramide
   * [Promeran 3.84mg](https://shin13.gitbook.io/formulary/toc/gi-00-00/gi-06-00/metoclopramide)
@@ -1182,6 +1170,8 @@
   * [Cytotec 200mcg](https://shin13.gitbook.io/formulary/toc/gi-00-00/gi-01-00/gi-01-04/misoprostol)
 * Mitomycin C
   * [Mitonco inj 10mg](https://shin13.gitbook.io/formulary/toc/on-00-00/on-03-00/on-03-09/mitomycin_c)
+* Molnupiravir
+  * [Molnupiravir 200mg (公費) Lagevrio](https://shin13.gitbook.io/formulary/toc/ai-00-00/ai-03-00/ai-03-09/molnupiravir)
 * Mometasone
   * [Elomet cream 0.1% 5gm](https://shin13.gitbook.io/formulary/toc/de-00-00/de-06-00/mometasone)
   * [Momenase 50mcg/dose, 140 doses nasal spray](https://shin13.gitbook.io/formulary/toc/en-00-00/en-02-00/mometasone)
@@ -1273,7 +1263,7 @@
 * Olmesartan + Amlodipine + Hydrochlorothiazide
   * [Sevikar HCT 40/5/12.5mg](https://shin13.gitbook.io/formulary/toc/cv-00-00/cv-09-00/olmesartan_and_amlodipine_and_hydrochlorothiazide)
 * Olmesartan medoxomil
-  * [Olmesardin 40mg](https://shin13.gitbook.io/formulary/toc/cv-00-00/cv-08-00/olmesartan_medoxomil)
+  * [Olmetec 40mg](https://shin13.gitbook.io/formulary/toc/cv-00-00/cv-08-00/olmesartan_medoxomil)
 * Omalizumab
   * [Xolair inj 150mg/mL](https://shin13.gitbook.io/formulary/toc/re-00-00/re-06-00/omalizumab)
 * Omega-3- Acid Ethyl Esters 90
@@ -1290,6 +1280,8 @@
   * [Eraflu 75mg (Government)](https://shin13.gitbook.io/formulary/toc/ai-00-00/ai-03-00/ai-03-01/oseltamivir)
   * [Oseltamivir Phosphate 6mg/mL, 60mL oral suspension](https://shin13.gitbook.io/formulary/toc/ai-00-00/ai-03-00/ai-03-01/oseltamivir)
   * [Tamiflu 75mg (Private)](https://shin13.gitbook.io/formulary/toc/ai-00-00/ai-03-00/ai-03-01/oseltamivir)
+* Osimertinib
+  * [Tagrisso 80mg](https://shin13.gitbook.io/formulary/toc/on-00-00/on-08-00/on-08-02/osimertinib)
 * Otilonium
   * [Catilon 40mg](https://shin13.gitbook.io/formulary/toc/gi-00-00/gi-05-00/otilonium)
 * Oxacillin
@@ -1334,10 +1326,6 @@
   * [Patent blue V inj 50mg/2mL](https://shin13.gitbook.io/formulary/toc/vs-00-00/vs-01-00/vs-01-05/patent_blue_v)
 * Pegfilgrastim
   * [Fulphila inj 6mg/0.6mL](https://shin13.gitbook.io/formulary/toc/he-00-00/he-01-00/pegfilgrastim)
-* Peginterferon beta-1a
-  * [PLEGRIDY inj 125mcg](https://shin13.gitbook.io/formulary/toc/im-00-00/im-04-00/peginterferon_beta-1a)
-  * [Plegridy inj 63mcg](https://shin13.gitbook.io/formulary/toc/im-00-00/im-04-00/peginterferon_beta-1a)
-  * [Plegridy inj 94mcg](https://shin13.gitbook.io/formulary/toc/im-00-00/im-04-00/peginterferon_beta-1a)
 * Pembrolizumab
   * [Keytruda inj 100mg/4mL](https://shin13.gitbook.io/formulary/toc/on-00-00/on-09-00/on-09-05/pembrolizumab)
 * Pemetrexed
@@ -1368,13 +1356,12 @@
   * [Urodine 100mg](https://shin13.gitbook.io/formulary/toc/ur-00-00/ur-05-00/phenazopyridine)
 * Phenobarbital
   * [Phenobarbital 30mg](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-02-00/cn-02-07/phenobarbital)
-  * [Phenobital inj 100mg/1mL](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-02-00/cn-02-07/phenobarbital)
 * Phenprobamate
   * [Mocolax 400mg](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-03-00/cn-03-02/phenprobamate)
 * Phenytoin
   * [Dilantin 100mg](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-03-00/cn-03-01/phenytoin)
 * Phospholipid fraction of pig lung (Poractant Alfa)
-  * [Curosurf 120mg/1.5mL Suspension (專案進口)](https://shin13.gitbook.io/formulary/toc/re-00-00/re-06-00/phospholipid_fraction_of_pig_lung_(poractant_alfa))
+  * [Curosurf 120mg/1.5mL Suspension](https://shin13.gitbook.io/formulary/toc/re-00-00/re-06-00/phospholipid_fraction_of_pig_lung_(poractant_alfa))
 * Phytonadione
   * [Katimin"1" inj 10mg/1mL](https://shin13.gitbook.io/formulary/toc/he-00-00/he-05-00/phytonadione)
 * Picosulfate + MgO + Citric acid
@@ -1436,6 +1423,8 @@
   * [Mirapex 0.375mg prolonged-release](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-03-00/cn-03-04/pramipexole)
 * Prasugrel
   * [Efient 3.75mg](https://shin13.gitbook.io/formulary/toc/he-00-00/he-03-00/prasugrel)
+* Pravastatin sodium + Fenofibrate
+  * [Pravafen 40/160mg](https://shin13.gitbook.io/formulary/toc/cv-00-00/cv-12-00/pravastatin_sodium_and_fenofibrate)
 * Prednisolone
   * [Compesolon 5mg](https://shin13.gitbook.io/formulary/toc/hr-00-00/hr-01-00/prednisolone)
   * [Kidsolone solution 1mg/mL, 60mL](https://shin13.gitbook.io/formulary/toc/hr-00-00/hr-01-00/prednisolone)
@@ -1460,15 +1449,12 @@
   * [Propofol-Lipuro 1% 20mL](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-04-00/cn-04-01/propofol)
 * Propranolol
   * [Pronolol 10mg](https://shin13.gitbook.io/formulary/toc/cv-00-00/cv-04-00/cv-04-02/propranolol)
-  * [Pushingon oral solution 2mg/mL, 60mL(專案製造)](https://shin13.gitbook.io/formulary/toc/cv-00-00/cv-04-00/cv-04-02/propranolol)
 * Propylthiouracil
   * [Polupi 50mg (PTU)](https://shin13.gitbook.io/formulary/toc/me-00-00/me-04-00/propylthiouracil)
 * Protamine sulphate
   * [Protamine sulphate inj 50mg/5mL](https://shin13.gitbook.io/formulary/toc/ad-00-00/ad-02-00/protamine_sulphate)
 * Prucalopride
   * [Prucalo film-coated 2mg](https://shin13.gitbook.io/formulary/toc/gi-00-00/gi-03-00/prucalopride)
-* Purified Split Inactivated Influenza Virus
-  * [3價自費流感 Vaxigrip inj 0.5mL/dose](https://shin13.gitbook.io/formulary/toc/im-00-00/im-02-00/im-02-02/purified_split_inactivated_influenza_virus)
 * Pyrazinamide
   * [Pyrazinamide 500mg](https://shin13.gitbook.io/formulary/toc/ai-00-00/ai-01-00/ai-01-12/pyrazinamide)
 * Pyridostigmine
@@ -1499,6 +1485,8 @@
 * Remdesivir
   * [Veklury (政府自費) inj 100mg (凍晶)](https://shin13.gitbook.io/formulary/toc/ai-00-00/ai-03-00/ai-03-09/remdesivir)
   * [Veklury inj 100mg (公費/凍晶)](https://shin13.gitbook.io/formulary/toc/ai-00-00/ai-03-00/ai-03-09/remdesivir)
+* Remifentanil
+  * [Remifentanil inj 2mg](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-01-00/cn-01-01/remifentanil)
 * Ribociclib
   * [Kisqali 200mg](https://shin13.gitbook.io/formulary/toc/on-00-00/on-08-00/on-08-06/ribociclib)
 * Rifampicin
@@ -1544,7 +1532,6 @@
 * SARS-CoV-2 Spike glycoprotein [mRNA]
   * [BA1雙價Moderna(Covid19) 0.5mL/dose(2.5mL/vial)](https://shin13.gitbook.io/formulary/toc/im-00-00/im-02-00/im-02-02/sars-cov-2_spike_glycoprotein_[mrna])
   * [BA4/5次世代Moderna(Covid19) 0.5mL/dose(2.5mL/vial)](https://shin13.gitbook.io/formulary/toc/im-00-00/im-02-00/im-02-02/sars-cov-2_spike_glycoprotein_[mrna])
-  * [COVID-19 Moderna 0.25mL/dose, 2.5mL (6month-11yr)](https://shin13.gitbook.io/formulary/toc/im-00-00/im-02-00/im-02-02/sars-cov-2_spike_glycoprotein_[mrna])
   * [COVID-19 Vaccine BioNTech 0.3mL/dose (0.45mL/vial)](https://shin13.gitbook.io/formulary/toc/im-00-00/im-02-00/im-02-02/sars-cov-2_spike_glycoprotein_[mrna])
   * [COVID-19 XBB.1.5 0.5mL/dose (2.5mL/vial)](https://shin13.gitbook.io/formulary/toc/im-00-00/im-02-00/im-02-02/sars-cov-2_spike_glycoprotein_[mrna])
   * [Moderna COVID-19 Vaccine 0.5mL/dose (12yr-Adult)](https://shin13.gitbook.io/formulary/toc/im-00-00/im-02-00/im-02-02/sars-cov-2_spike_glycoprotein_[mrna])
@@ -1604,7 +1591,6 @@
 * Sodium Chloride
   * [Atomic enema 20mL](https://shin13.gitbook.io/formulary/toc/gi-00-00/gi-03-00/sodium_chloride)
   * [NaCl 0.45% inj 500mL](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-04-00/nu-04-04/sodium_chloride)
-  * [NaCl 0.45% inj 500mL (信東)](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-04-00/nu-04-04/sodium_chloride)
   * [NaCl 0.45% inj 500mL (濟生)](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-04-00/nu-04-04/sodium_chloride)
   * [NaCl 0.9% inj 1000mL](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-04-00/nu-04-04/sodium_chloride)
   * [NaCl 0.9% inj 100mL bag (Otsuka)](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-04-00/nu-04-04/sodium_chloride)
@@ -1612,7 +1598,6 @@
   * [NaCl 0.9% inj 250mL bag (Otsuka)](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-04-00/nu-04-04/sodium_chloride)
   * [NaCl 0.9% inj 500mL (硬瓶)](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-04-00/nu-04-04/sodium_chloride)
   * [NaCl 0.9% inj 500mL bag (Otsuka)](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-04-00/nu-04-04/sodium_chloride)
-  * [NaCl 0.9% irrigation 1000mL](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-05-00/sodium_chloride)
   * [NaCl 0.9% irrigation 1000mL (Y.F.)](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-05-00/sodium_chloride)
   * [NaCl 0.9% irrigation 2000mL](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-05-00/sodium_chloride)
   * [NaCl 0.9% irrigation 500mL (沖洗用)](https://shin13.gitbook.io/formulary/toc/nu-00-00/nu-05-00/sodium_chloride)
@@ -1630,8 +1615,6 @@
   * [Kuzem powder 15g/pack](https://shin13.gitbook.io/formulary/toc/ad-00-00/ad-02-00/sodium_polystyrene_sulfonate)
 * Sofosbuvir + Velpatasvir
   * [Epclusa 400/100mg](https://shin13.gitbook.io/formulary/toc/ai-00-00/ai-03-00/ai-03-04/sofosbuvir_and_velpatasvir)
-* Sofosbuvir + Velpatasvir + Voxilaprevir
-  * [Vosevi 400/100/100mg](https://shin13.gitbook.io/formulary/toc/ai-00-00/ai-03-00/ai-03-04/sofosbuvir_and_velpatasvir_and_voxilaprevir)
 * Solifenacin
   * [Vesicare 5mg](https://shin13.gitbook.io/formulary/toc/ur-00-00/ur-04-00/solifenacin)
 * Soybean and probiotics fermentation product
@@ -1740,8 +1723,6 @@
   * [MOUNJARO KwikPen 15mg/0.6mL/dose (4 doses/pen)](https://shin13.gitbook.io/formulary/toc/me-00-00/me-02-00/me-02-07/tirzepatide)
   * [Mounjaro KwikPen 10mg/0.6mL/dose (4 doses/pen)](https://shin13.gitbook.io/formulary/toc/me-00-00/me-02-00/me-02-07/tirzepatide)
 * Tocilizumab
-  * [Actemra Infusion 200mg/10mL/Vial(限Covid-19)](https://shin13.gitbook.io/formulary/toc/im-00-00/im-04-00/tocilizumab)
-  * [Actemra Infusion 80mg/4mL/Vial (限Covid-19)](https://shin13.gitbook.io/formulary/toc/im-00-00/im-04-00/tocilizumab)
   * [Actemra inj 162mg/0.9mL](https://shin13.gitbook.io/formulary/toc/im-00-00/im-04-00/tocilizumab)
 * Tofacitinib
   * [Xeljanz 5mg](https://shin13.gitbook.io/formulary/toc/im-00-00/im-04-00/tofacitinib)
@@ -1750,8 +1731,6 @@
   * [DETRUSITOL SR 4mg prolonged-release](https://shin13.gitbook.io/formulary/toc/ur-00-00/ur-04-00/tolterodine)
   * [Detrusitol 2mg](https://shin13.gitbook.io/formulary/toc/ur-00-00/ur-04-00/tolterodine)
 * Tolvaptan
-  * [Jinarc 15mg](https://shin13.gitbook.io/formulary/toc/cv-00-00/cv-03-00/cv-03-06/tolvaptan)
-  * [Jinarc 45mg](https://shin13.gitbook.io/formulary/toc/cv-00-00/cv-03-00/cv-03-06/tolvaptan)
   * [Samsca 15mg](https://shin13.gitbook.io/formulary/toc/cv-00-00/cv-03-00/cv-03-06/tolvaptan)
 * Topiramate
   * [Trokendi XR 50mg](https://shin13.gitbook.io/formulary/toc/cn-00-00/cn-03-00/cn-03-01/topiramate)
@@ -1820,7 +1799,6 @@
 * Ursodeoxycholic Acid
   * [Genurso 100mg](https://shin13.gitbook.io/formulary/toc/gi-00-00/gi-07-00/ursodeoxycholic_acid)
 * Ustekinumab
-  * [STELARA inj 90mg/1mL](https://shin13.gitbook.io/formulary/toc/de-00-00/de-09-00/ustekinumab)
   * [Stelara inj 45mg/0.5mL (小劑量)](https://shin13.gitbook.io/formulary/toc/de-00-00/de-09-00/ustekinumab)
 ## V
 * Vadadustat
