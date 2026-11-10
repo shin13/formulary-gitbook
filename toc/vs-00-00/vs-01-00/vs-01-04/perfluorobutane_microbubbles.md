@@ -2,6 +2,8 @@
 
 ## Sonazoid inj 8 microliter/mL, 2mL
 
+##### 臨採
+
 | TAH Drug Code      | [ISONA](https://www.tahsda.org.tw/drugs/hissearch.php?drug_code=ISONA)                                                                                                                                                                                                                                     |
 |:-------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Indications        | Sonazoid is an ultrasound contrast agent used in liver ultrasound to distinguish focal liver lesions.                                                                                                                                                                                                      |
