@@ -3,6 +3,7 @@
 # Make new md files, new summary, and push to GitHub
 
 import subprocess
+import os
 
 # Ask the user if they have updated changelog.md
 user_input = input('Have you updated changelog.md? (Y/N): ')
@@ -39,6 +40,12 @@ if user_input.upper() == 'Y':
     print('STEP 4 執行中...')
     subprocess.run(['python', 'formulary_04_make_index.py'])
     print('STEP 4 完成')
+
+    # remove toc\README.md at root directory
+    try:
+        os.remove('toc\\README.md')
+    except OSError as e:
+        print(f"Error: {e.strerror}")
 
     print('資料庫更新完成！')
 

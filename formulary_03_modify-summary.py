@@ -42,7 +42,7 @@ with open('toc.md', 'w', encoding='utf8') as f:
 
 start_lines = ['# Table of contents\n',
                '* [首頁](README.md)\n', '* [目錄](toc/README.md)\n']
-end_lines = ['* [附錄](appendices.md)\n', '* [索引](index1.md)\n', '* [縮寫表](abbreviation.md)\n',
+end_lines = ['* [附錄](appendix1.md)\n', '* [索引](index1.md)\n', '* [縮寫表](abbreviation.md)\n',
              '* [常用連結](links.md)\n', '* [更新歷程](changelog.md)']
 toc_lines = []
 
@@ -121,7 +121,7 @@ with open('SUMMARY_test.md', 'w', encoding='utf-8') as f:
 # In[7]:
 
 
-bad_words = ['[Readme]', '* [toc](./toc/README.md)', '* [Links](./links.md)']
+bad_words = ['[Readme]', '* [toc](./toc/README.md)', '* [Links](./links.md)', '* [Appendix1](./appendix1.md)']
 
 with open('SUMMARY_test.md', 'r', encoding='utf8') as oldfile, open('SUMMARY.md', 'w', encoding='utf8') as newfile:
     for line in oldfile:
