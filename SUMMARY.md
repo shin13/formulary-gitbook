@@ -1,7 +1,6 @@
 # Table of contents
 * [首頁](README.md)
 * [目錄](toc/README.md)
-* [Links](./links.md)
   * [Gastrointestinal & Hepatobiliary System](toc/gi-00-00/README.md)
     * [Antispasmodics](toc/gi-00-00/gi-05-00/README.md)
       * [Otilonium](toc/gi-00-00/gi-05-00/otilonium.md)
