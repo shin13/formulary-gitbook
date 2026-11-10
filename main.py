@@ -17,10 +17,13 @@ if user_input.upper() == 'Y':
 
     print('STEP 2 開始 Generate new SUMMARY.md')
     print('STEP 2 執行中...')
-    # generate new SUMMARY.md
-    subprocess.run(['python', 'gitbook - auto - Y
-                    summary.py', ' - o',
-                    'C:\\Users\\152551\\formulary-gitbook'])
+    # generate new SUMMARY.md in Windows
+    # subprocess.run(['python', 'gitbook - auto - Y
+    #                 summary.py', ' - o',
+    #                 'C:\\Users\\152551\\formulary-gitbook'])
+
+    # generate new SUMMARY.md in MacOS
+    subprocess.run(['python', 'gitbook-auto-summary.py', '-o', '/Users/shin/Projects/formulary-gitbook'])
 
     # For MacOS, enter below line in terminal manually
     # python gitbook-auto-summary.py -o \/Users\/shin\/Projects\/formulary-gitbook
